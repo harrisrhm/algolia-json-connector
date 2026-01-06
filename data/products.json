@@ -60,14 +60,16 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 49.99,
+    "price": 47.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 5309,
     "rating": 3,
-    "objectID": "4388600"
+    "objectID": "4388600",
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -132,14 +134,16 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 119.98,
+    "price": 120.62,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 8065,
     "rating": 5,
-    "objectID": "1565918"
+    "objectID": "1565918",
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -250,7 +254,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 828.51,
+    "price": 879.72,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -258,8 +262,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-01-06T04:48:01.127Z",
-    "lastChangeId": "dec523e5ace1"
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -294,14 +298,16 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 50,
+    "price": 49.76,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 8857,
     "rating": 5,
-    "objectID": "5887149"
+    "objectID": "5887149",
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -884,14 +890,16 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 9.99,
+    "price": 9.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 290,
     "rating": 1,
-    "objectID": "2515083"
+    "objectID": "2515083",
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1026,14 +1034,16 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 199.99,
+    "price": 215.41,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 4346,
     "rating": 6,
-    "objectID": "4475000"
+    "objectID": "4475000",
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1508,14 +1518,16 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 99.99,
+    "price": 101.85,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 3060,
     "rating": 4,
-    "objectID": "5791022"
+    "objectID": "5791022",
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1860,14 +1872,16 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 11.99,
+    "price": 11.61,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 5377,
     "rating": 6,
-    "objectID": "7148005"
+    "objectID": "7148005",
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2136,14 +2150,16 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 299.99,
+    "price": 271.76,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 2699,
     "rating": 6,
-    "objectID": "3839052"
+    "objectID": "3839052",
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2162,14 +2178,16 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 799.99,
+    "price": 845.45,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 4178,
     "rating": 3,
-    "objectID": "1803138"
+    "objectID": "1803138",
+    "updatedAt": "2026-01-06T23:51:40.287Z",
+    "lastChangeId": "e10d6389fb14"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",

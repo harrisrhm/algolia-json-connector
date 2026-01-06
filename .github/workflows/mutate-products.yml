@@ -1,0 +1,30 @@
+name: Mutate products before Algolia reindex
+
+on:
+  schedule:
+    # Run daily at 23:50 UTC (10 mins before your Algolia 00:00 UTC cron)
+    - cron: "50 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mutate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Mutate products + write change log
+        run: |
+          node scripts/mutate-products.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/products.json data/changes.jsonl
+          git commit -m "chore: mutate products data" || echo "No changes to commit"
+          git push
+

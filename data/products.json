@@ -160,14 +160,16 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 16.99,
+    "price": 17.62,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
     "free_shipping": false,
     "popularity": 3576,
     "rating": 2,
-    "objectID": "9435907"
+    "objectID": "9435907",
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -396,14 +398,16 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 149.99,
+    "price": 141.55,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 4270,
     "rating": 3,
-    "objectID": "9105014"
+    "objectID": "9105014",
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -420,14 +424,16 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 79.99,
+    "price": 78.77,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 4478,
     "rating": 4,
-    "objectID": "4946038"
+    "objectID": "4946038",
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "Logitech - G710+ Mechanical Gaming Keyboard - Black/White",
@@ -498,14 +504,16 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 69.99,
+    "price": 76.26,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 3398,
     "rating": 5,
-    "objectID": "1775023"
+    "objectID": "1775023",
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -570,7 +578,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 26.73,
+    "price": 25,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -578,8 +586,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-01-07T23:52:02.456Z",
-    "lastChangeId": "0ff82034bbd4"
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -1066,14 +1074,16 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 15.99,
+    "price": 15.02,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 8353,
     "rating": 3,
-    "objectID": "8780866"
+    "objectID": "8780866",
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1236,14 +1246,16 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 399.99,
+    "price": 420.56,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 9871,
     "rating": 4,
-    "objectID": "4612038"
+    "objectID": "4612038",
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1576,14 +1588,16 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 179.99,
+    "price": 183.86,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 1031,
     "rating": 1,
-    "objectID": "5420045"
+    "objectID": "5420045",
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1836,14 +1850,16 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 12.99,
+    "price": 12.88,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 8357,
     "rating": 2,
-    "objectID": "7064405"
+    "objectID": "7064405",
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2358,14 +2374,16 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 29.99,
+    "price": 27.73,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 7627,
     "rating": 5,
-    "objectID": "1206681"
+    "objectID": "1206681",
+    "updatedAt": "2026-01-08T23:52:17.678Z",
+    "lastChangeId": "b178aae08514"
   },
   {
     "name": "Skullcandy - Uproar On-Ear Wireless Headphones - Black",

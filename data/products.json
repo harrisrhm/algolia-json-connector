@@ -112,14 +112,16 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 11.99,
+    "price": 11.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 6056,
     "rating": 3,
-    "objectID": "4818584"
+    "objectID": "4818584",
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -504,7 +506,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 76.26,
+    "price": 77.4,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -512,8 +514,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-01-08T23:52:17.678Z",
-    "lastChangeId": "b178aae08514"
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -658,14 +660,16 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 349.99,
+    "price": 330.71,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 8219,
     "rating": 1,
-    "objectID": "3651143"
+    "objectID": "3651143",
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -954,14 +958,16 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 98.99,
+    "price": 98.6,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
     "free_shipping": false,
     "popularity": 8414,
     "rating": 5,
-    "objectID": "1606254"
+    "objectID": "1606254",
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "Smart Choice - Touch-Up Paint - White",
@@ -1020,7 +1026,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 74.03,
+    "price": 70.74,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1028,8 +1034,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-01-07T23:52:02.456Z",
-    "lastChangeId": "0ff82034bbd4"
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "Lenovo - IdeaPad 100s 11.6\" Laptop - Intel Atom - 2GB Memory - 32GB eMMC Flash Storage - Red",
@@ -1124,14 +1130,16 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 2999.99,
+    "price": 2879.99,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
     "free_shipping": false,
     "popularity": 1380,
     "rating": 4,
-    "objectID": "4292211"
+    "objectID": "4292211",
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1150,14 +1158,16 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 99.99,
+    "price": 93.02,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
     "free_shipping": false,
     "popularity": 1455,
     "rating": 6,
-    "objectID": "6748322"
+    "objectID": "6748322",
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1804,14 +1814,16 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 149.98,
+    "price": 158.78,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": true,
     "popularity": 8537,
     "rating": 1,
-    "objectID": "1197018"
+    "objectID": "1197018",
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -1850,7 +1862,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 12.88,
+    "price": 14.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1858,8 +1870,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-01-08T23:52:17.678Z",
-    "lastChangeId": "b178aae08514"
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -1976,14 +1988,16 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 14.99,
+    "price": 14.95,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": true,
     "popularity": 4857,
     "rating": 6,
-    "objectID": "6292548"
+    "objectID": "6292548",
+    "updatedAt": "2026-01-09T23:52:21.256Z",
+    "lastChangeId": "02fc9c72f36d"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",

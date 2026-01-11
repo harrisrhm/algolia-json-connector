@@ -136,7 +136,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 114.82,
+    "price": 124.16,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -144,8 +144,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-01-10T23:51:57.217Z",
-    "lastChangeId": "b5d866d82c86"
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -190,14 +190,16 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.99,
+    "price": 9.22,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 5090,
     "rating": 1,
-    "objectID": "7219006"
+    "objectID": "7219006",
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -210,14 +212,16 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 19.99,
+    "price": 20.81,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 5726,
     "rating": 5,
-    "objectID": "4235012"
+    "objectID": "4235012",
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -478,7 +482,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3436.75,
+    "price": 3099.32,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -486,8 +490,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-01-06T04:48:01.127Z",
-    "lastChangeId": "dec523e5ace1"
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -608,14 +612,16 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 599.98,
+    "price": 604.76,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 7725,
     "rating": 1,
-    "objectID": "1312503"
+    "objectID": "1312503",
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -938,14 +944,16 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 14.99,
+    "price": 14.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 3401,
     "rating": 5,
-    "objectID": "7801108"
+    "objectID": "7801108",
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1110,14 +1118,16 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 99.99,
+    "price": 107.51,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": true,
     "popularity": 2816,
     "rating": 3,
-    "objectID": "8614908"
+    "objectID": "8614908",
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1310,7 +1320,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 658,
+    "price": 603.08,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1318,8 +1328,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-01-10T23:51:57.217Z",
-    "lastChangeId": "b5d866d82c86"
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1776,7 +1786,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 25.74,
+    "price": 23.22,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1784,8 +1794,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-01-07T23:52:02.456Z",
-    "lastChangeId": "0ff82034bbd4"
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2376,14 +2386,16 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 2.99,
+    "price": 2.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 7417,
     "rating": 1,
-    "objectID": "8615033"
+    "objectID": "8615033",
+    "updatedAt": "2026-01-11T23:52:05.069Z",
+    "lastChangeId": "45b5f93e73ec"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

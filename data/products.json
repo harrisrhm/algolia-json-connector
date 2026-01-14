@@ -88,14 +88,16 @@
       "lvl3": "Audio > Home Audio > Speakers > Bookshelf Speakers"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 749.99,
+    "price": 753.74,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8672031_sb.jpg",
     "url": "http://www.bestbuy.com/site/pioneer-elite-5-1-4-3-way-bookshelf-speakers-pair-black-ash-vinyl/8672031.p?id=1219357510788&skuId=8672031&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": true,
     "popularity": 2065,
     "rating": 1,
-    "objectID": "8672031"
+    "objectID": "8672031",
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -162,7 +164,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 17.62,
+    "price": 18.88,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -170,8 +172,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-01-08T23:52:17.678Z",
-    "lastChangeId": "b178aae08514"
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -486,7 +488,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3099.32,
+    "price": 3206.74,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -494,8 +496,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-01-11T23:52:05.069Z",
-    "lastChangeId": "45b5f93e73ec"
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -670,7 +672,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 330.71,
+    "price": 350.84,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -678,8 +680,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-01-09T23:52:21.256Z",
-    "lastChangeId": "02fc9c72f36d"
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -1152,7 +1154,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 2879.99,
+    "price": 3078.08,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1160,8 +1162,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-01-09T23:52:21.256Z",
-    "lastChangeId": "02fc9c72f36d"
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1254,14 +1256,16 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 29.99,
+    "price": 27.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
     "free_shipping": false,
     "popularity": 8177,
     "rating": 3,
-    "objectID": "1464143"
+    "objectID": "1464143",
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1730,14 +1734,16 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 34.99,
+    "price": 38.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 2512,
     "rating": 4,
-    "objectID": "7652364"
+    "objectID": "7652364",
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "Disney - Star Wars Force Men's T-Shirt (Extra-Large) - Black",
@@ -1922,7 +1928,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.78,
+    "price": 7.23,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1930,8 +1936,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-01-13T23:52:04.131Z",
-    "lastChangeId": "784571983b30"
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2076,7 +2082,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 18.43,
+    "price": 17.84,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2084,8 +2090,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-01-12T23:51:54.319Z",
-    "lastChangeId": "1c03e08c8d3a"
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2204,14 +2210,16 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 49.99,
+    "price": 50.35,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 9521,
     "rating": 4,
-    "objectID": "4559900"
+    "objectID": "4559900",
+    "updatedAt": "2026-01-14T23:51:55.706Z",
+    "lastChangeId": "44fad41d5a2c"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",

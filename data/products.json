@@ -622,7 +622,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 604.76,
+    "price": 572.12,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -630,8 +630,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-01-11T23:52:05.069Z",
-    "lastChangeId": "45b5f93e73ec"
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -776,14 +776,16 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 19.99,
+    "price": 20.14,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 5056,
     "rating": 6,
-    "objectID": "1672647"
+    "objectID": "1672647",
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -1114,7 +1116,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 13.98,
+    "price": 15.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1122,8 +1124,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-01-13T23:52:04.131Z",
-    "lastChangeId": "784571983b30"
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1268,7 +1270,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 27.03,
+    "price": 25.14,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1276,8 +1278,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-01-14T23:51:55.706Z",
-    "lastChangeId": "44fad41d5a2c"
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1370,14 +1372,16 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 9.99,
+    "price": 10.4,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 9789,
     "rating": 3,
-    "objectID": "7441404"
+    "objectID": "7441404",
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "NVIDIA - SHIELD Wireless Controller - Black",
@@ -1622,7 +1626,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 37.27,
+    "price": 34.38,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1630,8 +1634,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-01-10T23:51:57.217Z",
-    "lastChangeId": "b5d866d82c86"
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1698,14 +1702,16 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 3.99,
+    "price": 3.6,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": true,
     "popularity": 7343,
     "rating": 2,
-    "objectID": "5917635"
+    "objectID": "5917635",
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -1724,14 +1730,16 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 51.99,
+    "price": 52.52,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 6514,
     "rating": 2,
-    "objectID": "3285793"
+    "objectID": "3285793",
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -1794,7 +1802,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 14.61,
+    "price": 13.87,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1802,8 +1810,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-01-13T23:52:04.131Z",
-    "lastChangeId": "784571983b30"
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2096,7 +2104,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 17.84,
+    "price": 19.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2104,8 +2112,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-01-14T23:51:55.706Z",
-    "lastChangeId": "44fad41d5a2c"
+    "updatedAt": "2026-01-18T23:51:51.265Z",
+    "lastChangeId": "96204c605fdb"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",

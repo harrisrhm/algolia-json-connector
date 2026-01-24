@@ -90,7 +90,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Bookshelf Speakers"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 753.74,
+    "price": 799.65,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8672031_sb.jpg",
     "url": "http://www.bestbuy.com/site/pioneer-elite-5-1-4-3-way-bookshelf-speakers-pair-black-ash-vinyl/8672031.p?id=1219357510788&skuId=8672031&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -98,8 +98,8 @@
     "popularity": 2065,
     "rating": 1,
     "objectID": "8672031",
-    "updatedAt": "2026-01-14T23:51:55.706Z",
-    "lastChangeId": "44fad41d5a2c"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -116,7 +116,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 11.41,
+    "price": 10.29,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -124,8 +124,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-01-09T23:52:21.256Z",
-    "lastChangeId": "02fc9c72f36d"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -194,7 +194,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.11,
+    "price": 8.01,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -202,8 +202,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-01-23T23:52:46.702Z",
-    "lastChangeId": "5f621a2068b2"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -314,7 +314,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 48.77,
+    "price": 51.09,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -322,8 +322,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-01-17T23:51:41.820Z",
-    "lastChangeId": "4bc0028f71ba"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -682,7 +682,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 378.07,
+    "price": 342.19,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -690,8 +690,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-01-21T23:56:54.557Z",
-    "lastChangeId": "ca00d305704b"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -858,7 +858,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 5.72,
+    "price": 6.27,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -866,8 +866,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-01-19T23:53:15.372Z",
-    "lastChangeId": "e5b0b97ee581"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -996,7 +996,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 98.6,
+    "price": 103.35,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1004,8 +1004,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-01-09T23:52:21.256Z",
-    "lastChangeId": "02fc9c72f36d"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "Smart Choice - Touch-Up Paint - White",
@@ -1254,7 +1254,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 42.4,
+    "price": 41.37,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1262,8 +1262,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-01-23T23:52:46.702Z",
-    "lastChangeId": "5f621a2068b2"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1306,7 +1306,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 420.56,
+    "price": 422.97,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1314,8 +1314,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-01-08T23:52:17.678Z",
-    "lastChangeId": "b178aae08514"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -2328,7 +2328,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 103.69,
+    "price": 96.69,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2336,8 +2336,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-01-15T23:52:17.293Z",
-    "lastChangeId": "3768e74b5c4d"
+    "updatedAt": "2026-01-24T23:51:26.906Z",
+    "lastChangeId": "513bb3055da7"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",

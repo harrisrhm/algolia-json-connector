@@ -42,7 +42,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 383.11,
+    "price": 372.93,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -50,8 +50,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-01-27T23:54:32.417Z",
-    "lastChangeId": "0a4bfa3b987e"
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -632,7 +632,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 572.12,
+    "price": 515.69,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -640,8 +640,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-01-18T23:51:51.265Z",
-    "lastChangeId": "96204c605fdb"
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -1126,7 +1126,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 16.17,
+    "price": 16.86,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1134,8 +1134,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-01-25T23:52:57.818Z",
-    "lastChangeId": "c87041df02eb"
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1258,7 +1258,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 43.65,
+    "price": 41.31,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1266,8 +1266,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-01-26T23:54:32.452Z",
-    "lastChangeId": "036eb6b90946"
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1896,7 +1896,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 177.95,
+    "price": 166.79,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1904,8 +1904,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-01-25T23:52:57.818Z",
-    "lastChangeId": "c87041df02eb"
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -2206,7 +2206,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 141.52,
+    "price": 155.49,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2214,8 +2214,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-01-16T23:51:54.044Z",
-    "lastChangeId": "9581cf3ca996"
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2232,7 +2232,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 89.18,
+    "price": 85.39,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2240,8 +2240,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-01-23T23:52:46.702Z",
-    "lastChangeId": "5f621a2068b2"
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2338,7 +2338,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 96.69,
+    "price": 93.09,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2346,8 +2346,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-01-24T23:51:26.906Z",
-    "lastChangeId": "513bb3055da7"
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",
@@ -2390,14 +2390,16 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 69.99,
+    "price": 71.33,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
     "free_shipping": false,
     "popularity": 3312,
     "rating": 4,
-    "objectID": "4357801"
+    "objectID": "4357801",
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2442,7 +2444,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 16.43,
+    "price": 16.97,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2450,8 +2452,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-01-21T23:56:54.557Z",
-    "lastChangeId": "ca00d305704b"
+    "updatedAt": "2026-01-28T23:57:47.351Z",
+    "lastChangeId": "091e98c6fa28"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",

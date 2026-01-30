@@ -196,7 +196,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.01,
+    "price": 8.63,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -204,8 +204,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-01-24T23:51:26.906Z",
-    "lastChangeId": "513bb3055da7"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -270,7 +270,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 940.6,
+    "price": 856.5,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -278,8 +278,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-01-27T23:54:32.417Z",
-    "lastChangeId": "0a4bfa3b987e"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -786,7 +786,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 20.14,
+    "price": 19.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -794,8 +794,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-01-18T23:51:51.265Z",
-    "lastChangeId": "96204c605fdb"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -946,7 +946,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 11.32,
+    "price": 10.27,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -954,8 +954,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-01-19T23:53:15.372Z",
-    "lastChangeId": "e5b0b97ee581"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -974,7 +974,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 13.16,
+    "price": 12.64,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -982,8 +982,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-01-13T23:52:04.131Z",
-    "lastChangeId": "784571983b30"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1542,7 +1542,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 333.44,
+    "price": 350.42,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1550,8 +1550,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-01-20T23:54:15.912Z",
-    "lastChangeId": "174bf2f96e93"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1798,7 +1798,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 16.36,
+    "price": 16.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1806,8 +1806,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-01-10T23:51:57.217Z",
-    "lastChangeId": "b5d866d82c86"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -1846,7 +1846,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 25.16,
+    "price": 22.82,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1854,8 +1854,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-01-22T23:53:27.933Z",
-    "lastChangeId": "355392371198"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -1948,7 +1948,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 14.05,
+    "price": 12.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1956,8 +1956,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-01-09T23:52:21.256Z",
-    "lastChangeId": "02fc9c72f36d"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2104,7 +2104,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 695.18,
+    "price": 662.11,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2112,8 +2112,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-01-26T23:54:32.452Z",
-    "lastChangeId": "036eb6b90946"
+    "updatedAt": "2026-01-30T23:57:56.584Z",
+    "lastChangeId": "30ca31f8cc43"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",

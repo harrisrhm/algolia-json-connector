@@ -368,7 +368,7 @@
       "lvl2": "Computers & Tablets > E-Readers & Accessories > E-Readers"
     },
     "type": "E reader hardware",
-    "price": 108.88,
+    "price": 119.1,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9439005_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-kindle-paperwhite-black/9439005.p?id=1219703845563&skuId=9439005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -376,8 +376,8 @@
     "popularity": 9838,
     "rating": 6,
     "objectID": "9439005",
-    "updatedAt": "2026-01-15T23:52:17.293Z",
-    "lastChangeId": "3768e74b5c4d"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -582,7 +582,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 37.41,
+    "price": 38.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -590,8 +590,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-01-26T23:54:32.452Z",
-    "lastChangeId": "036eb6b90946"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -632,7 +632,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 515.69,
+    "price": 510.24,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -640,8 +640,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-01-28T23:57:47.351Z",
-    "lastChangeId": "091e98c6fa28"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -658,7 +658,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 18.45,
+    "price": 17.84,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -666,8 +666,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-01-22T23:53:27.933Z",
-    "lastChangeId": "355392371198"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -762,7 +762,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 17.4,
+    "price": 18.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -770,8 +770,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-01-10T23:51:57.217Z",
-    "lastChangeId": "b5d866d82c86"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -1798,7 +1798,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 16.55,
+    "price": 16.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1806,8 +1806,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-01-30T23:57:56.584Z",
-    "lastChangeId": "30ca31f8cc43"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2052,7 +2052,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 325.35,
+    "price": 300.78,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2060,8 +2060,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-01-06T04:48:01.127Z",
-    "lastChangeId": "dec523e5ace1"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2210,7 +2210,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 155.49,
+    "price": 169.92,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2218,8 +2218,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-01-28T23:57:47.351Z",
-    "lastChangeId": "091e98c6fa28"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2342,7 +2342,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 93.09,
+    "price": 96.06,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2350,8 +2350,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-01-28T23:57:47.351Z",
-    "lastChangeId": "091e98c6fa28"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",
@@ -2476,7 +2476,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 2.81,
+    "price": 2.85,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2484,8 +2484,8 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-01-29T23:58:17.618Z",
-    "lastChangeId": "e03814b5fc31"
+    "updatedAt": "2026-02-03T23:58:46.493Z",
+    "lastChangeId": "bd3f8f12018f"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

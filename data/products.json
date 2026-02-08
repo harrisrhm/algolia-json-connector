@@ -142,7 +142,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 134.56,
+    "price": 124.13,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -150,8 +150,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-01-20T23:54:15.912Z",
-    "lastChangeId": "174bf2f96e93"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -246,7 +246,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 34.93,
+    "price": 37.51,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -254,8 +254,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-02-03T00:00:06.867Z",
-    "lastChangeId": "decf9977dd3f"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -394,7 +394,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 4024.28,
+    "price": 3892.2,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -402,8 +402,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-01-27T23:54:32.417Z",
-    "lastChangeId": "0a4bfa3b987e"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -582,7 +582,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 36.28,
+    "price": 38.52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -590,8 +590,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-02-04T23:59:36.605Z",
-    "lastChangeId": "d71482c5110e"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -1416,7 +1416,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 63.94,
+    "price": 57.76,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1424,8 +1424,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-02-04T23:59:36.605Z",
-    "lastChangeId": "d71482c5110e"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1516,7 +1516,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 33.49,
+    "price": 36.4,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1524,8 +1524,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-02-01T23:57:49.171Z",
-    "lastChangeId": "1992ac43243e"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -2238,7 +2238,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 82.02,
+    "price": 79.04,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2246,8 +2246,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-02-05T23:57:31.166Z",
-    "lastChangeId": "eeaf30063dfd"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2322,7 +2322,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 912.57,
+    "price": 950.39,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2330,8 +2330,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-01-22T23:53:27.933Z",
-    "lastChangeId": "355392371198"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2396,7 +2396,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 75.88,
+    "price": 69.24,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2404,8 +2404,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-02-01T23:57:49.171Z",
-    "lastChangeId": "1992ac43243e"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2450,7 +2450,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 16.97,
+    "price": 16.67,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2458,8 +2458,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-01-28T23:57:47.351Z",
-    "lastChangeId": "091e98c6fa28"
+    "updatedAt": "2026-02-08T00:02:38.741Z",
+    "lastChangeId": "2e78a228c15c"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",

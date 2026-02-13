@@ -92,7 +92,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Bookshelf Speakers"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 821.85,
+    "price": 810.93,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8672031_sb.jpg",
     "url": "http://www.bestbuy.com/site/pioneer-elite-5-1-4-3-way-bookshelf-speakers-pair-black-ash-vinyl/8672031.p?id=1219357510788&skuId=8672031&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -100,8 +100,8 @@
     "popularity": 2065,
     "rating": 1,
     "objectID": "8672031",
-    "updatedAt": "2026-02-01T23:57:49.171Z",
-    "lastChangeId": "1992ac43243e"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -394,7 +394,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 3597.75,
+    "price": 3269.12,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -402,8 +402,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-02-08T23:59:46.456Z",
-    "lastChangeId": "479965164102"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -420,7 +420,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 137.18,
+    "price": 133.04,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -428,8 +428,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-01-13T23:52:04.131Z",
-    "lastChangeId": "784571983b30"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -554,7 +554,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 15.4,
+    "price": 16.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -562,8 +562,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-01-31T23:55:34.289Z",
-    "lastChangeId": "40c1fcaacc0a"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -836,7 +836,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 65.51,
+    "price": 67.07,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -844,8 +844,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-02-10T01:03:09.387Z",
-    "lastChangeId": "e89eb769e343"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1492,7 +1492,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 101.76,
+    "price": 110.23,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1500,8 +1500,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-02-06T23:58:35.545Z",
-    "lastChangeId": "dd4b208f8286"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1672,7 +1672,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 183.86,
+    "price": 172.31,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1680,8 +1680,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-01-08T23:52:17.678Z",
-    "lastChangeId": "b178aae08514"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1750,7 +1750,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 46.97,
+    "price": 49.88,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1758,8 +1758,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-02-10T01:03:09.387Z",
-    "lastChangeId": "e89eb769e343"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2160,7 +2160,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 92.77,
+    "price": 92.41,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2168,8 +2168,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-02-06T23:58:35.545Z",
-    "lastChangeId": "dd4b208f8286"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2322,7 +2322,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 926.49,
+    "price": 1015.23,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2330,8 +2330,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-02-11T01:02:11.211Z",
-    "lastChangeId": "ca58e7c88049"
+    "updatedAt": "2026-02-13T00:01:32.117Z",
+    "lastChangeId": "bda9eb27da52"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",

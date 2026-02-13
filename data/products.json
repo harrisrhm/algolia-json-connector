@@ -294,7 +294,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 97.86,
+    "price": 104.89,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -302,8 +302,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-02-08T23:59:46.456Z",
-    "lastChangeId": "479965164102"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -686,7 +686,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 362.54,
+    "price": 364.97,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -694,8 +694,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-01-25T23:52:57.818Z",
-    "lastChangeId": "c87041df02eb"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -1258,7 +1258,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 37.46,
+    "price": 39.42,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1266,8 +1266,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-02-11T23:58:47.340Z",
-    "lastChangeId": "01a49292b6e2"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1492,7 +1492,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 110.23,
+    "price": 120.15,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1500,8 +1500,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-02-13T00:01:32.117Z",
-    "lastChangeId": "bda9eb27da52"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1672,7 +1672,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 172.31,
+    "price": 156.48,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1680,8 +1680,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-02-13T00:01:32.117Z",
-    "lastChangeId": "bda9eb27da52"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -2026,7 +2026,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 97.14,
+    "price": 104.22,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2034,8 +2034,8 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-02-11T23:58:47.340Z",
-    "lastChangeId": "01a49292b6e2"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2054,7 +2054,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 300.78,
+    "price": 274.09,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2062,8 +2062,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-02-03T23:58:46.493Z",
-    "lastChangeId": "bd3f8f12018f"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2132,7 +2132,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 22.71,
+    "price": 21.58,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2140,8 +2140,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-01-31T23:55:34.289Z",
-    "lastChangeId": "40c1fcaacc0a"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2344,7 +2344,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 104.97,
+    "price": 108.43,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2352,8 +2352,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-02-10T01:03:09.387Z",
-    "lastChangeId": "e89eb769e343"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",
@@ -2450,7 +2450,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 16.67,
+    "price": 17.34,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2458,8 +2458,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-02-08T00:02:38.741Z",
-    "lastChangeId": "2e78a228c15c"
+    "updatedAt": "2026-02-13T23:59:51.389Z",
+    "lastChangeId": "14874649e1d7"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",

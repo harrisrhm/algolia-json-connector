@@ -142,7 +142,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 135.24,
+    "price": 145.67,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -150,8 +150,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-02-18T00:01:08.894Z",
-    "lastChangeId": "c2a4716b102e"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -474,7 +474,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 164.13,
+    "price": 166.93,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -482,8 +482,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-02-15T23:59:20.678Z",
-    "lastChangeId": "60476d7628aa"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 56.35,
+    "price": 52.79,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-02-19T00:00:53.033Z",
-    "lastChangeId": "5e142d7aad3d"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -920,7 +920,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 48.23,
+    "price": 48.58,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -928,8 +928,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-01-12T23:51:54.319Z",
-    "lastChangeId": "1c03e08c8d3a"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1284,7 +1284,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 26.67,
+    "price": 25.58,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1292,8 +1292,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-01-25T23:52:57.818Z",
-    "lastChangeId": "c87041df02eb"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1848,7 +1848,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 23.37,
+    "price": 23.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1856,8 +1856,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-02-01T23:57:49.171Z",
-    "lastChangeId": "1992ac43243e"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -1950,7 +1950,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 16.12,
+    "price": 15.02,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1958,8 +1958,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-02-18T00:01:08.894Z",
-    "lastChangeId": "c2a4716b102e"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2184,7 +2184,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 240.29,
+    "price": 260.89,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2192,8 +2192,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-01-26T23:54:32.452Z",
-    "lastChangeId": "036eb6b90946"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2344,7 +2344,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 105.61,
+    "price": 112.02,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2352,8 +2352,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-02-14T23:57:07.628Z",
-    "lastChangeId": "2303aa5f07de"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",
@@ -2530,7 +2530,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 55.87,
+    "price": 57.83,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2538,8 +2538,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-02-17T00:00:20.772Z",
-    "lastChangeId": "1075040c1994"
+    "updatedAt": "2026-02-19T23:59:58.942Z",
+    "lastChangeId": "149d1f50f9ca"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

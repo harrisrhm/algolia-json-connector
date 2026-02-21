@@ -196,7 +196,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.63,
+    "price": 9.48,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -204,8 +204,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-01-30T23:57:56.584Z",
-    "lastChangeId": "30ca31f8cc43"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -500,7 +500,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3566.69,
+    "price": 3322.43,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -508,8 +508,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-02-19T00:00:53.033Z",
-    "lastChangeId": "5e142d7aad3d"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -1100,7 +1100,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 215.36,
+    "price": 233.35,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1108,8 +1108,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-02-03T00:00:06.867Z",
-    "lastChangeId": "decf9977dd3f"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1152,7 +1152,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 114.42,
+    "price": 107.92,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1160,8 +1160,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-02-17T00:00:20.772Z",
-    "lastChangeId": "1075040c1994"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1646,7 +1646,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 30.64,
+    "price": 29.77,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1654,8 +1654,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-01-27T23:54:32.417Z",
-    "lastChangeId": "0a4bfa3b987e"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1800,7 +1800,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 13.59,
+    "price": 12.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1808,8 +1808,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-02-17T00:00:20.772Z",
-    "lastChangeId": "1075040c1994"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -1950,7 +1950,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 15.02,
+    "price": 15.72,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1958,8 +1958,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-02-19T23:59:58.942Z",
-    "lastChangeId": "149d1f50f9ca"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2238,7 +2238,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 79.35,
+    "price": 72.62,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2246,8 +2246,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-02-10T01:03:09.387Z",
-    "lastChangeId": "e89eb769e343"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2266,7 +2266,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 51.77,
+    "price": 54.96,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2274,8 +2274,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-02-18T00:01:08.894Z",
-    "lastChangeId": "c2a4716b102e"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2478,7 +2478,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 2.83,
+    "price": 2.88,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2486,8 +2486,8 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-02-17T00:00:20.772Z",
-    "lastChangeId": "1075040c1994"
+    "updatedAt": "2026-02-21T23:56:12.729Z",
+    "lastChangeId": "9baaff7985a0"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

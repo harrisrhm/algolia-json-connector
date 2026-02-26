@@ -42,7 +42,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 381.19,
+    "price": 345.13,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -50,8 +50,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-02-17T00:00:20.772Z",
-    "lastChangeId": "1075040c1994"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -342,7 +342,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 369.43,
+    "price": 346.51,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -350,8 +350,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-02-11T01:02:11.211Z",
-    "lastChangeId": "ca58e7c88049"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -736,7 +736,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 28.61,
+    "price": 28.6,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -744,8 +744,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-02-14T23:57:07.628Z",
-    "lastChangeId": "2303aa5f07de"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -1024,7 +1024,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 6.73,
+    "price": 6.24,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1032,8 +1032,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-02-17T00:00:20.772Z",
-    "lastChangeId": "1075040c1994"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1072,7 +1072,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 68.61,
+    "price": 63.28,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1080,8 +1080,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-02-11T01:02:11.211Z",
-    "lastChangeId": "ca58e7c88049"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "Lenovo - IdeaPad 100s 11.6\" Laptop - Intel Atom - 2GB Memory - 32GB eMMC Flash Storage - Red",
@@ -1284,7 +1284,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 27.06,
+    "price": 26.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1292,8 +1292,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-02-25T00:02:00.327Z",
-    "lastChangeId": "7774cc5e681b"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1750,7 +1750,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 49.77,
+    "price": 47.11,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1758,8 +1758,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-02-22T23:58:45.283Z",
-    "lastChangeId": "6ae8bb966e47"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2106,7 +2106,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 597.42,
+    "price": 655.88,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2114,8 +2114,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-02-18T00:01:08.894Z",
-    "lastChangeId": "c2a4716b102e"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2212,7 +2212,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 169.92,
+    "price": 163.56,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2220,8 +2220,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-02-03T23:58:46.493Z",
-    "lastChangeId": "bd3f8f12018f"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2478,7 +2478,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 2.83,
+    "price": 2.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2486,8 +2486,8 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-02-22T23:58:45.283Z",
-    "lastChangeId": "6ae8bb966e47"
+    "updatedAt": "2026-02-26T00:01:08.053Z",
+    "lastChangeId": "b0a58b01c92d"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

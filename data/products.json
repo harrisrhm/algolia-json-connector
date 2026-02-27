@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 124.44,
+    "price": 114.35,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-02-27T00:00:36.782Z",
-    "lastChangeId": "011677e58ec1"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -64,7 +64,7 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 58.79,
+    "price": 59.21,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -72,8 +72,8 @@
     "popularity": 5309,
     "rating": 3,
     "objectID": "4388600",
-    "updatedAt": "2026-02-15T23:59:20.678Z",
-    "lastChangeId": "60476d7628aa"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -92,7 +92,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Bookshelf Speakers"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 860.69,
+    "price": 904.98,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8672031_sb.jpg",
     "url": "http://www.bestbuy.com/site/pioneer-elite-5-1-4-3-way-bookshelf-speakers-pair-black-ash-vinyl/8672031.p?id=1219357510788&skuId=8672031&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -100,8 +100,8 @@
     "popularity": 2065,
     "rating": 1,
     "objectID": "8672031",
-    "updatedAt": "2026-02-24T00:00:24.039Z",
-    "lastChangeId": "cd9745b019b2"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -142,7 +142,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 145.67,
+    "price": 158.64,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -150,8 +150,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-02-19T23:59:58.942Z",
-    "lastChangeId": "149d1f50f9ca"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -246,7 +246,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 40.81,
+    "price": 38.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -254,8 +254,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-02-11T23:58:47.340Z",
-    "lastChangeId": "01a49292b6e2"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -604,7 +604,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 25.77,
+    "price": 23.89,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -612,8 +612,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-02-19T00:00:53.033Z",
-    "lastChangeId": "5e142d7aad3d"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -736,7 +736,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 28.6,
+    "price": 29.7,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -744,8 +744,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-02-26T00:01:08.053Z",
-    "lastChangeId": "b0a58b01c92d"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -1362,7 +1362,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 585.73,
+    "price": 599.53,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1370,8 +1370,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-02-22T23:58:45.283Z",
-    "lastChangeId": "6ae8bb966e47"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1950,7 +1950,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 15.72,
+    "price": 15.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1958,8 +1958,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-02-21T23:56:12.729Z",
-    "lastChangeId": "9baaff7985a0"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2322,7 +2322,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 939.25,
+    "price": 864.89,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2330,8 +2330,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-02-27T00:00:36.782Z",
-    "lastChangeId": "011677e58ec1"
+    "updatedAt": "2026-02-27T23:56:56.291Z",
+    "lastChangeId": "0b31f83a1ce8"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",

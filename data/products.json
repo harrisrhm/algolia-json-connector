@@ -270,7 +270,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 791.95,
+    "price": 800.71,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -278,8 +278,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-03-01T23:56:28.268Z",
-    "lastChangeId": "61075c8552d7"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -604,7 +604,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 23.89,
+    "price": 25.25,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -612,8 +612,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-02-27T23:56:56.291Z",
-    "lastChangeId": "0b31f83a1ce8"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -862,7 +862,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 5,
+    "price": 5.06,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -870,8 +870,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-02-11T01:02:11.211Z",
-    "lastChangeId": "ca58e7c88049"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -974,7 +974,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 14.02,
+    "price": 15.33,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -982,8 +982,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-02-19T00:00:53.033Z",
-    "lastChangeId": "5e142d7aad3d"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1542,7 +1542,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 342.31,
+    "price": 349.43,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1550,8 +1550,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-02-25T00:02:00.327Z",
-    "lastChangeId": "7774cc5e681b"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1594,7 +1594,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 25.19,
+    "price": 24.47,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1602,8 +1602,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-02-27T00:00:36.782Z",
-    "lastChangeId": "011677e58ec1"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1618,7 +1618,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 126.17,
+    "price": 137.5,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1626,8 +1626,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-03-04T23:59:15.377Z",
-    "lastChangeId": "a6b7995f456d"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -2160,7 +2160,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 90.22,
+    "price": 97.22,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2168,8 +2168,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-03-03T23:59:10.512Z",
-    "lastChangeId": "aa59db5ee2a1"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2266,7 +2266,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 52.66,
+    "price": 51.81,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2274,8 +2274,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-02-27T00:00:36.782Z",
-    "lastChangeId": "011677e58ec1"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2504,7 +2504,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 25.66,
+    "price": 23.17,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2512,8 +2512,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-02-14T23:57:07.628Z",
-    "lastChangeId": "2303aa5f07de"
+    "updatedAt": "2026-03-06T00:59:29.785Z",
+    "lastChangeId": "45d88c56ce3b"
   },
   {
     "name": "Skullcandy - Uproar On-Ear Wireless Headphones - Black",

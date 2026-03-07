@@ -316,7 +316,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 48.68,
+    "price": 52.79,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -324,8 +324,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-03-04T23:59:15.377Z",
-    "lastChangeId": "a6b7995f456d"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -342,7 +342,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 346.51,
+    "price": 376.78,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -350,8 +350,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-02-26T00:01:08.053Z",
-    "lastChangeId": "b0a58b01c92d"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 49.19,
+    "price": 48.75,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-02-27T00:00:36.782Z",
-    "lastChangeId": "011677e58ec1"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -836,7 +836,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 77.39,
+    "price": 71.62,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -844,8 +844,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-02-28T23:54:35.502Z",
-    "lastChangeId": "a4d934443b83"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -920,7 +920,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 41.91,
+    "price": 39.49,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -928,8 +928,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-03-04T23:59:15.377Z",
-    "lastChangeId": "a6b7995f456d"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1100,7 +1100,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 233.77,
+    "price": 235.84,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1108,8 +1108,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-02-22T23:58:45.283Z",
-    "lastChangeId": "6ae8bb966e47"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1362,7 +1362,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 599.53,
+    "price": 617.75,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1370,8 +1370,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-02-27T23:56:56.291Z",
-    "lastChangeId": "0b31f83a1ce8"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1618,7 +1618,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 137.5,
+    "price": 144.91,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1626,8 +1626,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-03-06T00:59:29.785Z",
-    "lastChangeId": "45d88c56ce3b"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -2132,7 +2132,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 21.58,
+    "price": 20.84,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2140,8 +2140,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-02-13T23:59:51.389Z",
-    "lastChangeId": "14874649e1d7"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2578,7 +2578,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 112.49,
+    "price": 101.61,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2586,7 +2586,7 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-03-06T23:58:21.184Z",
-    "lastChangeId": "c2a05c9abe4e"
+    "updatedAt": "2026-03-07T23:55:23.091Z",
+    "lastChangeId": "532d5b0d47e0"
   }
 ]

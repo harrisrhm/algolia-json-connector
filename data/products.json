@@ -246,7 +246,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 38.8,
+    "price": 42.01,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -254,8 +254,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-02-27T23:56:56.291Z",
-    "lastChangeId": "0b31f83a1ce8"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -270,7 +270,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 752.57,
+    "price": 723.09,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -278,8 +278,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-03-12T23:58:19.106Z",
-    "lastChangeId": "b5d67a9425c8"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -420,7 +420,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 134.05,
+    "price": 137.11,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -428,8 +428,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-03-01T23:56:28.268Z",
-    "lastChangeId": "61075c8552d7"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -632,7 +632,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 572.5,
+    "price": 562.21,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -640,8 +640,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-03-12T23:58:19.106Z",
-    "lastChangeId": "b5d67a9425c8"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -836,7 +836,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 67.21,
+    "price": 67.38,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -844,8 +844,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-03-12T23:58:19.106Z",
-    "lastChangeId": "b5d67a9425c8"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1024,7 +1024,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 6.34,
+    "price": 6.93,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1032,8 +1032,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-03-11T23:58:37.694Z",
-    "lastChangeId": "9a8ef212792b"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1206,7 +1206,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 81.27,
+    "price": 79.39,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1214,8 +1214,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-03-01T23:56:28.268Z",
-    "lastChangeId": "61075c8552d7"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1362,7 +1362,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 560.69,
+    "price": 567.29,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1370,8 +1370,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-03-08T23:56:46.425Z",
-    "lastChangeId": "1c05b75f1442"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1822,7 +1822,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 14.15,
+    "price": 14.76,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1830,8 +1830,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-03-03T23:59:10.512Z",
-    "lastChangeId": "aa59db5ee2a1"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2184,7 +2184,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 268.77,
+    "price": 271.89,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2192,8 +2192,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-03-09T23:57:23.758Z",
-    "lastChangeId": "912500ebec15"
+    "updatedAt": "2026-03-13T23:59:57.621Z",
+    "lastChangeId": "1c3a5b00b2a5"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",

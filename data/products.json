@@ -246,7 +246,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 38.68,
+    "price": 36.62,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -254,8 +254,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-03-16T00:00:04.688Z",
-    "lastChangeId": "3a23aec39ee9"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -294,7 +294,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 109.93,
+    "price": 113.48,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -302,8 +302,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-03-18T00:02:37.970Z",
-    "lastChangeId": "9de873880397"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -368,7 +368,7 @@
       "lvl2": "Computers & Tablets > E-Readers & Accessories > E-Readers"
     },
     "type": "E reader hardware",
-    "price": 110.56,
+    "price": 119.33,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9439005_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-kindle-paperwhite-black/9439005.p?id=1219703845563&skuId=9439005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -376,8 +376,8 @@
     "popularity": 9838,
     "rating": 6,
     "objectID": "9439005",
-    "updatedAt": "2026-03-04T23:59:15.377Z",
-    "lastChangeId": "a6b7995f456d"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -554,7 +554,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 17.16,
+    "price": 15.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -562,8 +562,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-03-11T23:58:37.694Z",
-    "lastChangeId": "9a8ef212792b"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -1776,7 +1776,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 40.62,
+    "price": 38.28,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1784,8 +1784,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-02-25T00:02:00.327Z",
-    "lastChangeId": "7774cc5e681b"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "Disney - Star Wars Force Men's T-Shirt (Extra-Large) - Black",
@@ -1874,7 +1874,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 38.69,
+    "price": 42.14,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1882,8 +1882,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-03-12T23:58:19.106Z",
-    "lastChangeId": "b5d67a9425c8"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -1924,7 +1924,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 778.12,
+    "price": 818.85,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1932,8 +1932,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-03-14T23:58:56.459Z",
-    "lastChangeId": "fee357c232e1"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "Canon - 251 Ink Cartridge - Magenta",
@@ -1950,7 +1950,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 17.63,
+    "price": 18.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1958,8 +1958,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-03-16T00:00:04.688Z",
-    "lastChangeId": "3a23aec39ee9"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2106,7 +2106,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 565.85,
+    "price": 597.71,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2114,8 +2114,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-03-06T23:58:21.184Z",
-    "lastChangeId": "c2a05c9abe4e"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2504,7 +2504,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 21.83,
+    "price": 23.47,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2512,8 +2512,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-03-14T23:58:56.459Z",
-    "lastChangeId": "fee357c232e1"
+    "updatedAt": "2026-03-19T00:00:04.059Z",
+    "lastChangeId": "9981c8e9dc2c"
   },
   {
     "name": "Skullcandy - Uproar On-Ear Wireless Headphones - Black",

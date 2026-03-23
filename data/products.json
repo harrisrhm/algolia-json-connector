@@ -142,7 +142,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 156.98,
+    "price": 158.28,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -150,8 +150,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-03-10T23:57:38.494Z",
-    "lastChangeId": "11c3487887fd"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -294,7 +294,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 113.48,
+    "price": 110.91,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -302,8 +302,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-03-19T00:00:04.059Z",
-    "lastChangeId": "9981c8e9dc2c"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -862,7 +862,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 5.06,
+    "price": 5.01,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -870,8 +870,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-03-06T00:59:29.785Z",
-    "lastChangeId": "45d88c56ce3b"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -890,7 +890,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 378.2,
+    "price": 383.02,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -898,8 +898,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-03-16T23:59:01.586Z",
-    "lastChangeId": "a310ef1ea4f5"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -946,7 +946,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.56,
+    "price": 8.45,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -954,8 +954,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-03-20T23:59:18.027Z",
-    "lastChangeId": "9c8e599228d8"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1310,7 +1310,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 395.65,
+    "price": 382.69,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1318,8 +1318,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-03-03T23:59:10.512Z",
-    "lastChangeId": "aa59db5ee2a1"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -2160,7 +2160,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 97.22,
+    "price": 95.3,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2168,8 +2168,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-03-06T00:59:29.785Z",
-    "lastChangeId": "45d88c56ce3b"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2184,7 +2184,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 271.89,
+    "price": 273.48,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2192,8 +2192,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-03-13T23:59:57.621Z",
-    "lastChangeId": "1c3a5b00b2a5"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2212,7 +2212,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 163.56,
+    "price": 155.49,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2220,8 +2220,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-02-26T00:01:08.053Z",
-    "lastChangeId": "b0a58b01c92d"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2344,7 +2344,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 132.79,
+    "price": 139.81,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2352,8 +2352,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-03-20T23:59:18.027Z",
-    "lastChangeId": "9c8e599228d8"
+    "updatedAt": "2026-03-23T00:01:09.353Z",
+    "lastChangeId": "18c61b4a2daf"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",

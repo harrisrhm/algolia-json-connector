@@ -246,7 +246,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 36.62,
+    "price": 34.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -254,8 +254,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-03-19T00:00:04.059Z",
-    "lastChangeId": "9981c8e9dc2c"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -342,7 +342,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 364.73,
+    "price": 387.51,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -350,8 +350,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-03-11T23:58:37.694Z",
-    "lastChangeId": "9a8ef212792b"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -446,7 +446,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 55.23,
+    "price": 55.06,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -454,8 +454,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-03-20T23:59:18.027Z",
-    "lastChangeId": "9c8e599228d8"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "Logitech - G710+ Mechanical Gaming Keyboard - Black/White",
@@ -920,7 +920,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 39.49,
+    "price": 39.52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -928,8 +928,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-03-07T23:55:23.091Z",
-    "lastChangeId": "532d5b0d47e0"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1258,7 +1258,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 31.17,
+    "price": 32.24,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1266,8 +1266,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-03-20T23:59:18.027Z",
-    "lastChangeId": "9c8e599228d8"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1310,7 +1310,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 382.69,
+    "price": 407.04,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1318,8 +1318,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-03-23T00:01:09.353Z",
-    "lastChangeId": "18c61b4a2daf"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1698,7 +1698,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 45.97,
+    "price": 45.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1706,8 +1706,8 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-03-16T00:00:04.688Z",
-    "lastChangeId": "3a23aec39ee9"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "Dynex™ - CAT5/5e RJ-45 In-Line Coupler",
@@ -1722,7 +1722,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 3.18,
+    "price": 3.27,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1730,8 +1730,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-03-26T00:04:32.675Z",
-    "lastChangeId": "56f95a29db33"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -1800,7 +1800,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 13.51,
+    "price": 13.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1808,8 +1808,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-03-10T23:57:38.494Z",
-    "lastChangeId": "11c3487887fd"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2212,7 +2212,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 141.38,
+    "price": 155.09,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2220,8 +2220,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-03-25T00:01:53.648Z",
-    "lastChangeId": "225efb1d0c6f"
+    "updatedAt": "2026-03-29T00:01:00.142Z",
+    "lastChangeId": "59f97c76a8a9"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",

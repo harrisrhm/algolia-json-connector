@@ -218,7 +218,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 19.45,
+    "price": 18.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -226,8 +226,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-03-25T00:01:53.648Z",
-    "lastChangeId": "225efb1d0c6f"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -736,7 +736,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 31.57,
+    "price": 32.46,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -744,8 +744,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-03-21T23:57:31.021Z",
-    "lastChangeId": "ae5e703ffc5a"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -862,7 +862,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 5.01,
+    "price": 5.1,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -870,8 +870,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-03-23T00:01:09.353Z",
-    "lastChangeId": "18c61b4a2daf"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1468,7 +1468,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 481.9,
+    "price": 443,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1476,8 +1476,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-02-27T00:00:36.782Z",
-    "lastChangeId": "011677e58ec1"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1618,7 +1618,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 143.05,
+    "price": 153.06,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1626,8 +1626,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-03-28T00:00:13.142Z",
-    "lastChangeId": "de59650ea63a"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1646,7 +1646,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 30.39,
+    "price": 31.25,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1654,8 +1654,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-03-28T00:00:13.142Z",
-    "lastChangeId": "de59650ea63a"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1672,7 +1672,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 138.7,
+    "price": 145.92,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1680,8 +1680,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-03-21T23:57:31.021Z",
-    "lastChangeId": "ae5e703ffc5a"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -2238,7 +2238,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 75.39,
+    "price": 75.16,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2246,8 +2246,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-03-24T00:00:53.859Z",
-    "lastChangeId": "6fa175e532a7"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2322,7 +2322,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 892.46,
+    "price": 920.72,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2330,8 +2330,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-03-25T00:01:53.648Z",
-    "lastChangeId": "225efb1d0c6f"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2368,7 +2368,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 322.97,
+    "price": 294.59,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2376,8 +2376,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-03-26T00:04:32.675Z",
-    "lastChangeId": "56f95a29db33"
+    "updatedAt": "2026-03-30T00:03:30.103Z",
+    "lastChangeId": "fbdd96ec19a3"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",

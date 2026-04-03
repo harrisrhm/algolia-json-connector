@@ -196,7 +196,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.27,
+    "price": 9.89,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -204,8 +204,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-03-27T00:02:49.811Z",
-    "lastChangeId": "7a82d23bd4e4"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -686,7 +686,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 409.65,
+    "price": 410.57,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -694,8 +694,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-04-02T00:02:23.269Z",
-    "lastChangeId": "47fc21d72a51"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -890,7 +890,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 383.02,
+    "price": 362.68,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -898,8 +898,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-03-23T00:01:09.353Z",
-    "lastChangeId": "18c61b4a2daf"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1100,7 +1100,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 253.68,
+    "price": 258.56,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1108,8 +1108,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-03-08T23:56:46.425Z",
-    "lastChangeId": "1c05b75f1442"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1874,7 +1874,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 46.22,
+    "price": 49.53,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1882,8 +1882,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-03-28T00:00:13.142Z",
-    "lastChangeId": "de59650ea63a"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -1998,7 +1998,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 14.27,
+    "price": 15.51,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2006,8 +2006,8 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-03-16T23:59:01.586Z",
-    "lastChangeId": "a310ef1ea4f5"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2238,7 +2238,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 75.16,
+    "price": 70.56,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2246,8 +2246,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-03-30T00:03:30.103Z",
-    "lastChangeId": "fbdd96ec19a3"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2294,7 +2294,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 252.34,
+    "price": 239.16,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2302,8 +2302,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-03-26T00:04:32.675Z",
-    "lastChangeId": "56f95a29db33"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2322,7 +2322,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 920.72,
+    "price": 892.93,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2330,8 +2330,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-03-30T00:03:30.103Z",
-    "lastChangeId": "fbdd96ec19a3"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2368,7 +2368,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 294.59,
+    "price": 270.31,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2376,8 +2376,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-03-30T00:03:30.103Z",
-    "lastChangeId": "fbdd96ec19a3"
+    "updatedAt": "2026-04-03T00:04:29.695Z",
+    "lastChangeId": "cef2da318787"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",

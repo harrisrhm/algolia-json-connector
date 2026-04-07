@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 129.83,
+    "price": 141.02,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-04-06T00:03:56.969Z",
-    "lastChangeId": "468109df69d8"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -420,7 +420,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 145.96,
+    "price": 136.2,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -428,8 +428,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-04-05T00:01:43.336Z",
-    "lastChangeId": "df9697993c21"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -632,7 +632,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 562.21,
+    "price": 556.77,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -640,8 +640,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-03-13T23:59:57.621Z",
-    "lastChangeId": "1c3a5b00b2a5"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -1388,7 +1388,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 11.83,
+    "price": 11.42,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1396,8 +1396,8 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-04-04T00:02:52.597Z",
-    "lastChangeId": "515f6152ee12"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   },
   {
     "name": "NVIDIA - SHIELD Wireless Controller - Black",
@@ -1516,7 +1516,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 36.39,
+    "price": 37.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1524,8 +1524,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-04-02T00:02:23.269Z",
-    "lastChangeId": "47fc21d72a51"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1722,7 +1722,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 3.27,
+    "price": 3.04,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1730,8 +1730,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-03-29T00:01:00.142Z",
-    "lastChangeId": "59f97c76a8a9"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2294,7 +2294,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 223.4,
+    "price": 205.33,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2302,8 +2302,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-04-06T00:03:56.969Z",
-    "lastChangeId": "468109df69d8"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2368,7 +2368,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 259.5,
+    "price": 237.24,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2376,8 +2376,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-04-04T00:02:52.597Z",
-    "lastChangeId": "515f6152ee12"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2478,7 +2478,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 2.63,
+    "price": 2.38,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2486,8 +2486,8 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-04-05T00:01:43.336Z",
-    "lastChangeId": "df9697993c21"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",
@@ -2578,7 +2578,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 97.81,
+    "price": 94.88,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2586,7 +2586,7 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-03-28T00:00:13.142Z",
-    "lastChangeId": "de59650ea63a"
+    "updatedAt": "2026-04-07T01:02:07.738Z",
+    "lastChangeId": "e41330b4bb74"
   }
 ]

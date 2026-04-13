@@ -42,7 +42,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 400.36,
+    "price": 416.54,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -50,8 +50,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-03-27T00:02:49.811Z",
-    "lastChangeId": "7a82d23bd4e4"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -500,7 +500,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3628.76,
+    "price": 3267.13,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -508,8 +508,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-04-10T01:03:37.886Z",
-    "lastChangeId": "d74c17071c21"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -632,7 +632,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 556.77,
+    "price": 529.06,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -640,8 +640,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-04-07T01:02:07.738Z",
-    "lastChangeId": "e41330b4bb74"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -974,7 +974,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 16.39,
+    "price": 16.87,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -982,8 +982,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-03-11T23:58:37.694Z",
-    "lastChangeId": "9a8ef212792b"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1492,7 +1492,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 134.68,
+    "price": 124.99,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1500,8 +1500,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-04-11T00:05:09.233Z",
-    "lastChangeId": "def05f2da93a"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1568,7 +1568,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 44.97,
+    "price": 46.72,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1576,8 +1576,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-04-02T00:02:23.269Z",
-    "lastChangeId": "47fc21d72a51"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1594,7 +1594,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 22.38,
+    "price": 21.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1602,8 +1602,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-04-08T01:03:51.655Z",
-    "lastChangeId": "06992267f71d"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1618,7 +1618,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 155.21,
+    "price": 159.42,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1626,8 +1626,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-04-10T01:03:37.886Z",
-    "lastChangeId": "d74c17071c21"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -2184,7 +2184,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 339.66,
+    "price": 315.88,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2192,8 +2192,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-04-12T00:04:28.760Z",
-    "lastChangeId": "14e2f7eda418"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2368,7 +2368,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 237.24,
+    "price": 254.82,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2376,8 +2376,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-04-07T01:02:07.738Z",
-    "lastChangeId": "e41330b4bb74"
+    "updatedAt": "2026-04-13T01:09:00.363Z",
+    "lastChangeId": "04a6d95640c5"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",

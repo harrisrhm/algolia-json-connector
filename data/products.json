@@ -196,7 +196,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.31,
+    "price": 8.85,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -204,8 +204,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-04-05T00:01:43.336Z",
-    "lastChangeId": "df9697993c21"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -554,7 +554,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 16.65,
+    "price": 17.35,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -562,8 +562,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-04-22T01:05:36.849Z",
-    "lastChangeId": "b87235ed14ce"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -810,7 +810,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 816.97,
+    "price": 763.19,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -818,8 +818,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-04-05T00:01:43.336Z",
-    "lastChangeId": "df9697993c21"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1232,7 +1232,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.94,
+    "price": 9.87,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1240,8 +1240,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-04-17T01:09:39.363Z",
-    "lastChangeId": "968980a536d5"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1258,7 +1258,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 29.05,
+    "price": 30.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1266,8 +1266,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-04-17T01:09:39.363Z",
-    "lastChangeId": "968980a536d5"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1284,7 +1284,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 27.87,
+    "price": 26.7,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1292,8 +1292,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-04-18T01:02:33.450Z",
-    "lastChangeId": "9e3c3d933a2a"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1310,7 +1310,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 371,
+    "price": 393.49,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1318,8 +1318,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-04-22T01:05:36.849Z",
-    "lastChangeId": "b87235ed14ce"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1362,7 +1362,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 568.38,
+    "price": 616.5,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1370,8 +1370,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-04-20T01:10:30.516Z",
-    "lastChangeId": "0899945775bb"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1998,7 +1998,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 14.08,
+    "price": 15.22,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2006,8 +2006,8 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-04-08T01:03:51.655Z",
-    "lastChangeId": "06992267f71d"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2322,7 +2322,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 892.93,
+    "price": 940.59,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2330,8 +2330,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-04-03T00:04:29.695Z",
-    "lastChangeId": "cef2da318787"
+    "updatedAt": "2026-04-23T01:13:21.883Z",
+    "lastChangeId": "c6b4a6b3b1a5"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",

@@ -368,7 +368,7 @@
       "lvl2": "Computers & Tablets > E-Readers & Accessories > E-Readers"
     },
     "type": "E reader hardware",
-    "price": 126.68,
+    "price": 115.37,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9439005_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-kindle-paperwhite-black/9439005.p?id=1219703845563&skuId=9439005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -376,8 +376,8 @@
     "popularity": 9838,
     "rating": 6,
     "objectID": "9439005",
-    "updatedAt": "2026-04-20T01:10:30.516Z",
-    "lastChangeId": "0899945775bb"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -394,7 +394,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2720.42,
+    "price": 2548.84,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -402,8 +402,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-04-18T01:02:33.450Z",
-    "lastChangeId": "9e3c3d933a2a"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -762,7 +762,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 15.7,
+    "price": 15.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -770,8 +770,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-04-12T00:04:28.760Z",
-    "lastChangeId": "14e2f7eda418"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -1024,7 +1024,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 7.06,
+    "price": 6.57,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1032,8 +1032,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-04-14T01:09:49.173Z",
-    "lastChangeId": "4f993da24d25"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1152,7 +1152,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 121.91,
+    "price": 129.75,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1160,8 +1160,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-03-09T23:57:23.758Z",
-    "lastChangeId": "912500ebec15"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1206,7 +1206,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 69.06,
+    "price": 62.95,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1214,8 +1214,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-04-08T01:03:51.655Z",
-    "lastChangeId": "06992267f71d"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1416,7 +1416,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 63.06,
+    "price": 62.19,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1424,8 +1424,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-04-17T01:09:39.363Z",
-    "lastChangeId": "968980a536d5"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1750,7 +1750,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 46.04,
+    "price": 45,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1758,8 +1758,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-03-24T00:00:53.859Z",
-    "lastChangeId": "6fa175e532a7"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2054,7 +2054,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 312.05,
+    "price": 338.59,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2062,8 +2062,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-04-11T00:05:09.233Z",
-    "lastChangeId": "def05f2da93a"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2132,7 +2132,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 22.14,
+    "price": 21.33,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2140,8 +2140,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-04-24T01:12:35.357Z",
-    "lastChangeId": "5ba37ab9b9a4"
+    "updatedAt": "2026-04-26T01:13:50.799Z",
+    "lastChangeId": "a8d1ce308225"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",

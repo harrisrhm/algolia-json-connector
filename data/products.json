@@ -196,7 +196,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.33,
+    "price": 8.86,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -204,8 +204,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-04-24T01:12:35.357Z",
-    "lastChangeId": "5ba37ab9b9a4"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -500,7 +500,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3475.83,
+    "price": 3404.91,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -508,8 +508,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-04-15T01:08:29.254Z",
-    "lastChangeId": "384622341828"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -710,7 +710,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 25.23,
+    "price": 23.69,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -718,8 +718,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-04-17T01:09:39.363Z",
-    "lastChangeId": "968980a536d5"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -1000,7 +1000,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 95.08,
+    "price": 99.09,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1008,8 +1008,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-04-19T01:09:49.488Z",
-    "lastChangeId": "08c38b532f14"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Smart Choice - Touch-Up Paint - White",
@@ -1468,7 +1468,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 433.61,
+    "price": 457.94,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1476,8 +1476,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-04-19T01:09:49.488Z",
-    "lastChangeId": "08c38b532f14"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1618,7 +1618,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 156.98,
+    "price": 167.2,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1626,8 +1626,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-04-15T01:08:29.254Z",
-    "lastChangeId": "384622341828"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -2080,7 +2080,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 18.98,
+    "price": 18.89,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2088,8 +2088,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-03-16T00:00:04.688Z",
-    "lastChangeId": "3a23aec39ee9"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2266,7 +2266,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 61.67,
+    "price": 56.63,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2274,8 +2274,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-04-20T01:10:30.516Z",
-    "lastChangeId": "0899945775bb"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2322,7 +2322,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 940.59,
+    "price": 899.17,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2330,8 +2330,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-04-23T01:13:21.883Z",
-    "lastChangeId": "c6b4a6b3b1a5"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2450,7 +2450,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 16.69,
+    "price": 17.61,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2458,8 +2458,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-04-12T00:04:28.760Z",
-    "lastChangeId": "14e2f7eda418"
+    "updatedAt": "2026-04-27T01:14:50.499Z",
+    "lastChangeId": "4f4856a12e91"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",

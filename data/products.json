@@ -500,7 +500,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3404.91,
+    "price": 3709.72,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -508,8 +508,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -686,7 +686,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 421.49,
+    "price": 428.41,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -694,8 +694,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-04-29T01:24:41.908Z",
-    "lastChangeId": "378a2a55ba03"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -946,7 +946,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 10.02,
+    "price": 9.08,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -954,8 +954,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-04-29T01:24:41.908Z",
-    "lastChangeId": "378a2a55ba03"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1072,7 +1072,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 77.66,
+    "price": 75.3,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1080,8 +1080,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-04-14T01:09:49.173Z",
-    "lastChangeId": "4f993da24d25"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "Lenovo - IdeaPad 100s 11.6\" Laptop - Intel Atom - 2GB Memory - 32GB eMMC Flash Storage - Red",
@@ -1100,7 +1100,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 248.41,
+    "price": 228.21,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1108,8 +1108,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-04-28T01:22:34.995Z",
-    "lastChangeId": "bb07279910c9"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1126,7 +1126,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 15.82,
+    "price": 16.5,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1134,8 +1134,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-03-28T00:00:13.142Z",
-    "lastChangeId": "de59650ea63a"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1334,7 +1334,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 49.71,
+    "price": 54.08,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1342,8 +1342,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-04-21T01:09:37.267Z",
-    "lastChangeId": "e08e03ea6012"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "Bose® - CineMate® 15 Home Theater Speaker System - Black",
@@ -1362,7 +1362,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 600.08,
+    "price": 580.28,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1370,8 +1370,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-04-24T01:12:35.357Z",
-    "lastChangeId": "5ba37ab9b9a4"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -2106,7 +2106,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 490.59,
+    "price": 523.28,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2114,8 +2114,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-04-28T01:22:34.995Z",
-    "lastChangeId": "bb07279910c9"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2266,7 +2266,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 56.63,
+    "price": 53.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2274,8 +2274,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91"
+    "updatedAt": "2026-04-30T01:23:26.366Z",
+    "lastChangeId": "52fe71574498"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",

@@ -1,0 +1,25 @@
+name: Push Sales delta after connector (Collections immediate)
+
+on:
+  schedule:
+    - cron: "5 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  push_sales_delta:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Push Sales delta to Algolia (Collections immediate)
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_DATA_REGION: ${{ secrets.ALGOLIA_DATA_REGION }}
+          ALGOLIA_COLLECTIONS_TASK_ID: ${{ secrets.ALGOLIA_COLLECTIONS_TASK_ID }}
+        run: |
+          node scripts/push-sales-delta.js

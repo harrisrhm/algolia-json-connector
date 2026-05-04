@@ -94,12 +94,36 @@ for (const i of idxs) {
   changes.push({ objectID: id, before, after });
 }
 
+// --- Sales collection assignment (exactly 5 items) ---
+const SALES_COUNT = 5;
+
+// Clear previous sales flags
+for (const p of products) {
+  if (p.on_sale === true) p.on_sale = false;
+}
+
+// Pick 5 random products and mark them on sale
+const salesIdxs = pickRandomIndices(
+  Math.min(SALES_COUNT, products.length),
+  products.length - 1
+);
+
+for (const i of salesIdxs) {
+  products[i].on_sale = true;
+}
+
 // Append changelog line (JSONL)
 const logLine = {
   runId,
   timestamp: now,
   mutatedCount: changes.length,
   changes,
+  sales: {
+    count: salesIdxs.length,
+    ids: salesIdxs.map(i =>
+      products[i].objectID ?? products[i].id ?? products[i].sku ?? products[i].handle ?? `index:${i}`
+    ),
+  },
 };
 
 fs.appendFileSync(CHANGELOG_PATH, JSON.stringify(logLine) + "\n", "utf8");

@@ -4,6 +4,7 @@ const crypto = require("crypto");
 
 const PRODUCTS_PATH = "data/products.json";
 const CHANGELOG_PATH = "data/changes.jsonl";
+const SALES_STATE_PATH = "data/sales_state.json";
 
 // How many products to change each run
 const NUM_TO_MUTATE = 10;
@@ -94,23 +95,53 @@ for (const i of idxs) {
   changes.push({ objectID: id, before, after });
 }
 
-// --- Sales collection assignment (exactly 5 items) ---
+// --- Sales collection assignment (delta-aware: only changed records matter) ---
 const SALES_COUNT = 5;
 
-// Clear previous sales flags
-for (const p of products) {
-  if (p.on_sale === true) p.on_sale = false;
+function getStableId(p, fallback) {
+  return String(p.objectID ?? p.id ?? p.sku ?? p.handle ?? fallback);
 }
 
-// Pick 5 random products and mark them on sale
+// Read previous selection (if any)
+let prevSalesIds = [];
+if (fs.existsSync(SALES_STATE_PATH)) {
+  try {
+    const state = JSON.parse(fs.readFileSync(SALES_STATE_PATH, "utf8"));
+    prevSalesIds = Array.isArray(state.salesIds) ? state.salesIds.map(String) : [];
+  } catch {
+    prevSalesIds = [];
+  }
+}
+
+// Pick new 5
 const salesIdxs = pickRandomIndices(
   Math.min(SALES_COUNT, products.length),
   products.length - 1
 );
+const newSalesIds = salesIdxs.map(i => getStableId(products[i], `index:${i}`));
 
-for (const i of salesIdxs) {
-  products[i].on_sale = true;
+// Only these records need to be pushed for immediate collections sync
+const changedSalesIds = Array.from(new Set([...prevSalesIds, ...newSalesIds]));
+
+// Apply on_sale ONLY to the changed set (don’t touch other records)
+const newSet = new Set(newSalesIds);
+const changedSet = new Set(changedSalesIds);
+
+for (let i = 0; i < products.length; i++) {
+  const id = getStableId(products[i], `index:${i}`);
+  if (changedSet.has(id)) {
+    products[i].on_sale = newSet.has(id); // true for new, false for old
+    products[i].salesUpdatedAt = now;
+    products[i].salesChangeId = runId;
+  }
 }
+
+// Persist state for next run
+fs.writeFileSync(
+  SALES_STATE_PATH,
+  JSON.stringify({ salesIds: newSalesIds, changedIds: changedSalesIds, updatedAt: now, runId }, null, 2) + "\n",
+  "utf8"
+);
 
 // Append changelog line (JSONL)
 const logLine = {
@@ -119,10 +150,9 @@ const logLine = {
   mutatedCount: changes.length,
   changes,
   sales: {
-    count: salesIdxs.length,
-    ids: salesIdxs.map(i =>
-      products[i].objectID ?? products[i].id ?? products[i].sku ?? products[i].handle ?? `index:${i}`
-    ),
+    count: newSalesIds.length,
+    ids: newSalesIds,
+    changedIds: changedSalesIds,
   },
 };
 

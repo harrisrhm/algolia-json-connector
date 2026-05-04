@@ -24,7 +24,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/products.json data/changes.jsonl
+          git add data/products.json data/changes.jsonl data/sales_state.json
           git commit -m "chore: mutate products data" || echo "No changes to commit"
           git push
 

@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 146.41,
+    "price": 147.52,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,11 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-04-25T01:05:30.537Z",
-    "lastChangeId": "ab53336dcfe5"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -42,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 428.98,
+    "price": 441.77,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -50,11 +53,11 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-04-18T01:02:33.450Z",
-    "lastChangeId": "9e3c3d933a2a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T07:59:19.146Z",
-    "salesChangeId": "e2063c09ee44"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -506,7 +509,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3709.72,
+    "price": 3665.4,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -514,8 +517,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-04-30T01:23:26.366Z",
-    "lastChangeId": "52fe71574498"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -534,7 +537,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 52.53,
+    "price": 47.38,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -542,11 +545,11 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T07:59:19.146Z",
-    "salesChangeId": "e2063c09ee44"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -771,7 +774,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 15.68,
+    "price": 15.31,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -779,8 +782,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-04-26T01:13:50.799Z",
-    "lastChangeId": "a8d1ce308225"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -795,7 +798,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 19.88,
+    "price": 21.39,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -803,8 +806,11 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-04-24T01:12:35.357Z",
-    "lastChangeId": "5ba37ab9b9a4"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -819,7 +825,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 705.82,
+    "price": 746.65,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -827,8 +833,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1408,7 +1414,10 @@
     "rating": 3,
     "objectID": "7441404",
     "updatedAt": "2026-04-22T01:05:36.849Z",
-    "lastChangeId": "b87235ed14ce"
+    "lastChangeId": "b87235ed14ce",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "NVIDIA - SHIELD Wireless Controller - Black",
@@ -1638,7 +1647,10 @@
     "rating": 4,
     "objectID": "5791022",
     "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91"
+    "lastChangeId": "4f4856a12e91",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1667,9 +1679,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-04-25T01:05:30.537Z",
     "lastChangeId": "ab53336dcfe5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T07:59:19.146Z",
-    "salesChangeId": "e2063c09ee44"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1898,9 +1910,9 @@
     "objectID": "8353179",
     "updatedAt": "2026-04-03T00:04:29.695Z",
     "lastChangeId": "cef2da318787",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T07:59:19.146Z",
-    "salesChangeId": "e2063c09ee44"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2071,7 +2083,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 319.95,
+    "price": 318.53,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2079,8 +2091,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-04-28T01:22:34.995Z",
-    "lastChangeId": "bb07279910c9"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2229,7 +2241,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 168.69,
+    "price": 155.66,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,8 +2249,11 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2293,9 +2308,9 @@
     "objectID": "4559900",
     "updatedAt": "2026-04-30T01:23:26.366Z",
     "lastChangeId": "52fe71574498",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T07:59:19.146Z",
-    "salesChangeId": "e2063c09ee44"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
+    "salesChangeId": "817f80e40b1a"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2598,7 +2613,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 91.81,
+    "price": 96.63,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2606,7 +2621,7 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5"
+    "updatedAt": "2026-05-04T08:28:05.233Z",
+    "lastChangeId": "817f80e40b1a"
   }
 ]

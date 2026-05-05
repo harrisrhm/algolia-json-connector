@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-05-04T08:28:05.233Z",
     "lastChangeId": "817f80e40b1a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
-    "salesChangeId": "1af2511ea9f1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-05-04T01:20:02.507Z",
     "lastChangeId": "1b82b0d6e11a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 373.16,
+    "price": 340.7,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5",
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 40.98,
+    "price": 42.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-03-19T23:59:37.695Z",
-    "lastChangeId": "397150048029",
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-05-04T07:59:19.146Z",
     "lastChangeId": "e2063c09ee44",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 56.37,
+    "price": 52.34,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,8 +940,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8",
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1151,9 +1151,9 @@
     "objectID": "2631316",
     "updatedAt": "2026-05-05T01:19:12.211Z",
     "lastChangeId": "1af2511ea9f1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 40.87,
+    "price": 39.79,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,11 +1176,11 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-05-02T01:18:16.276Z",
     "lastChangeId": "8d90f8222217",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1804,7 +1804,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 167.2,
+    "price": 165.85,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1812,11 +1812,11 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
-    "salesChangeId": "1af2511ea9f1"
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 102.36,
+    "price": 103.84,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,8 +2268,8 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-04-18T01:02:33.450Z",
-    "lastChangeId": "9e3c3d933a2a",
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-04-20T01:10:30.516Z",
     "lastChangeId": "0899945775bb",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2477,9 +2477,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-05-04T08:28:05.233Z",
     "lastChangeId": "817f80e40b1a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 223.92,
+    "price": 245.17,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a",
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 61.62,
+    "price": 55.7,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44",
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 55.07,
+    "price": 56.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-04-12T00:04:28.760Z",
-    "lastChangeId": "14e2f7eda418",
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 421.7,
+    "price": 463.18,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44",
+    "updatedAt": "2026-05-05T01:45:19.861Z",
+    "lastChangeId": "9f1c1e7939f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-05-04T08:28:05.233Z",
     "lastChangeId": "817f80e40b1a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
+    "salesChangeId": "9f1c1e7939f2"
   }
 ]

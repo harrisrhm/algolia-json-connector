@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 147.52,
+    "price": 139.35,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-05-04T08:28:05.233Z",
-    "lastChangeId": "817f80e40b1a",
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
     "salesChangeId": "1dffbc706cfc"
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 58.8,
+    "price": 63.43,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-04-21T01:09:37.267Z",
-    "lastChangeId": "e08e03ea6012",
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 149.76,
+    "price": 150.98,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44",
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -588,7 +588,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 47.38,
+    "price": 46.44,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -596,11 +596,11 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-05-04T08:28:05.233Z",
-    "lastChangeId": "817f80e40b1a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-05-04T07:59:19.146Z",
     "lastChangeId": "e2063c09ee44",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
-    "salesChangeId": "1dffbc706cfc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-05-03T01:20:49.714Z",
     "lastChangeId": "6d449d0f48a5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
-    "salesChangeId": "1dffbc706cfc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 785,
+    "price": 723.23,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-05-05T01:41:18.809Z",
-    "lastChangeId": "582caa54af1e",
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1205,9 +1205,9 @@
     "objectID": "8860013",
     "updatedAt": "2026-04-30T01:23:26.366Z",
     "lastChangeId": "52fe71574498",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
-    "salesChangeId": "1dffbc706cfc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "Lenovo - IdeaPad 100s 11.6\" Laptop - Intel Atom - 2GB Memory - 32GB eMMC Flash Storage - Red",
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 57.31,
+    "price": 58.76,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5",
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-05-01T01:27:19.962Z",
     "lastChangeId": "c5a0ced1d2b8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
-    "salesChangeId": "1dffbc706cfc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 12.98,
+    "price": 13.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51",
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-05-04T01:20:02.507Z",
     "lastChangeId": "1b82b0d6e11a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 138.94,
+    "price": 137.7,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8",
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2129,9 +2129,9 @@
     "objectID": "1197018",
     "updatedAt": "2026-05-02T01:18:16.276Z",
     "lastChangeId": "8d90f8222217",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
-    "salesChangeId": "1dffbc706cfc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-05-05T01:19:12.211Z",
     "lastChangeId": "1af2511ea9f1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 103.84,
+    "price": 108.4,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,11 +2268,11 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-05-05T01:45:19.861Z",
-    "lastChangeId": "9f1c1e7939f2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-04-20T01:10:30.516Z",
     "lastChangeId": "0899945775bb",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
-    "salesChangeId": "9f1c1e7939f2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
+    "salesChangeId": "1e00e7c69a3a"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 245.17,
+    "price": 227.33,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-05-05T01:45:19.861Z",
-    "lastChangeId": "9f1c1e7939f2",
+    "updatedAt": "2026-05-05T23:02:11.034Z",
+    "lastChangeId": "1e00e7c69a3a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"

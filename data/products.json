@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-05-04T08:28:05.233Z",
     "lastChangeId": "817f80e40b1a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -225,7 +225,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 20.66,
+    "price": 19.24,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -233,8 +233,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-04-09T00:04:17.656Z",
-    "lastChangeId": "66cd3531538a"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -808,9 +808,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-05-04T08:28:05.233Z",
     "lastChangeId": "817f80e40b1a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -935,7 +935,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 41.37,
+    "price": 40.32,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -943,8 +943,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -961,7 +961,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 9.08,
+    "price": 8.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -989,7 +989,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 15.22,
+    "price": 15.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -997,8 +997,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-04-19T01:09:49.488Z",
-    "lastChangeId": "08c38b532f14"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1039,7 +1039,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 6.71,
+    "price": 7.09,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1047,8 +1047,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1150,7 +1150,10 @@
     "rating": 3,
     "objectID": "8780866",
     "updatedAt": "2026-04-30T01:23:26.366Z",
-    "lastChangeId": "52fe71574498"
+    "lastChangeId": "52fe71574498",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1167,7 +1170,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 128.95,
+    "price": 135.82,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1175,8 +1178,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1309,7 +1312,10 @@
     "rating": 3,
     "objectID": "1464143",
     "updatedAt": "2026-04-23T01:13:21.883Z",
-    "lastChangeId": "c6b4a6b3b1a5"
+    "lastChangeId": "c6b4a6b3b1a5",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1360,7 +1366,10 @@
     "rating": 6,
     "objectID": "8529018",
     "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5"
+    "lastChangeId": "6d449d0f48a5",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "Bose® - CineMate® 15 Home Theater Speaker System - Black",
@@ -1415,9 +1424,9 @@
     "objectID": "7441404",
     "updatedAt": "2026-04-22T01:05:36.849Z",
     "lastChangeId": "b87235ed14ce",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "NVIDIA - SHIELD Wireless Controller - Black",
@@ -1588,7 +1597,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 43.69,
+    "price": 47.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1596,8 +1605,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-04-22T01:05:36.849Z",
-    "lastChangeId": "b87235ed14ce"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1623,7 +1632,10 @@
     "rating": 3,
     "objectID": "6608007",
     "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a"
+    "lastChangeId": "1b82b0d6e11a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1648,9 +1660,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-04-27T01:14:50.499Z",
     "lastChangeId": "4f4856a12e91",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1748,7 +1760,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 3.23,
+    "price": 2.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1768,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2003,7 +2015,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.66,
+    "price": 6.24,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2011,8 +2023,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-04-24T01:12:35.357Z",
-    "lastChangeId": "5ba37ab9b9a4"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2083,7 +2095,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 318.53,
+    "price": 348.47,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2091,8 +2103,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-05-04T08:28:05.233Z",
-    "lastChangeId": "817f80e40b1a"
+    "updatedAt": "2026-05-05T01:19:12.211Z",
+    "lastChangeId": "1af2511ea9f1"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2118,7 +2130,10 @@
     "rating": 6,
     "objectID": "6292548",
     "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91"
+    "lastChangeId": "4f4856a12e91",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2251,9 +2266,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-05-04T08:28:05.233Z",
     "lastChangeId": "817f80e40b1a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
+    "salesChangeId": "1af2511ea9f1"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",

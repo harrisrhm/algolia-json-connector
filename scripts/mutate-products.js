@@ -125,12 +125,14 @@ const changedSalesIds = Array.from(new Set([...prevSalesIds, ...newSalesIds]));
 
 // Apply on_sale ONLY to the changed set (don’t touch other records)
 const newSet = new Set(newSalesIds);
-const changedSet = new Set(changedSalesIds);
 
+// Force correct state for ALL records (guarantees exactly 5 true)
 for (let i = 0; i < products.length; i++) {
   const id = getStableId(products[i], `index:${i}`);
-  if (changedSet.has(id)) {
-    products[i].on_sale = newSet.has(id); // true for new, false for old
+  const shouldBeOnSale = newSet.has(id);
+
+  if (products[i].on_sale !== shouldBeOnSale) {
+    products[i].on_sale = shouldBeOnSale;
     products[i].salesUpdatedAt = now;
     products[i].salesChangeId = runId;
   }

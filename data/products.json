@@ -70,7 +70,7 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 50.96,
+    "price": 51.4,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -78,9 +78,11 @@
     "popularity": 5309,
     "rating": 3,
     "objectID": "4388600",
-    "updatedAt": "2026-04-24T01:12:35.357Z",
-    "lastChangeId": "5ba37ab9b9a4",
-    "on_sale": true
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -108,7 +110,10 @@
     "rating": 1,
     "objectID": "8672031",
     "updatedAt": "2026-04-17T01:09:39.363Z",
-    "lastChangeId": "968980a536d5"
+    "lastChangeId": "968980a536d5",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -134,7 +139,10 @@
     "rating": 3,
     "objectID": "4818584",
     "updatedAt": "2026-04-28T01:22:34.995Z",
-    "lastChangeId": "bb07279910c9"
+    "lastChangeId": "bb07279910c9",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -158,7 +166,10 @@
     "rating": 5,
     "objectID": "1565918",
     "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a"
+    "lastChangeId": "1b82b0d6e11a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -184,7 +195,10 @@
     "rating": 2,
     "objectID": "9435907",
     "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a"
+    "lastChangeId": "1b82b0d6e11a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -212,7 +226,10 @@
     "rating": 1,
     "objectID": "7219006",
     "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91"
+    "lastChangeId": "4f4856a12e91",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -234,7 +251,10 @@
     "rating": 5,
     "objectID": "4235012",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -262,7 +282,10 @@
     "rating": 5,
     "objectID": "6405117",
     "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5"
+    "lastChangeId": "6d449d0f48a5",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -287,7 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-04-28T01:22:34.995Z",
     "lastChangeId": "bb07279910c9",
-    "on_sale": true
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -311,7 +336,10 @@
     "rating": 4,
     "objectID": "6322113",
     "updatedAt": "2026-04-28T01:22:34.995Z",
-    "lastChangeId": "bb07279910c9"
+    "lastChangeId": "bb07279910c9",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -334,7 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-04-16T01:11:45.595Z",
     "lastChangeId": "06ce024e1d97",
-    "on_sale": true
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -360,7 +390,10 @@
     "rating": 1,
     "objectID": "4274600",
     "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5"
+    "lastChangeId": "6d449d0f48a5",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -386,7 +419,10 @@
     "rating": 6,
     "objectID": "9439005",
     "updatedAt": "2026-04-26T01:13:50.799Z",
-    "lastChangeId": "a8d1ce308225"
+    "lastChangeId": "a8d1ce308225",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -412,7 +448,10 @@
     "rating": 4,
     "objectID": "8391062",
     "updatedAt": "2026-04-26T01:13:50.799Z",
-    "lastChangeId": "a8d1ce308225"
+    "lastChangeId": "a8d1ce308225",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -438,7 +477,10 @@
     "rating": 3,
     "objectID": "9105014",
     "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8"
+    "lastChangeId": "c5a0ced1d2b8",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -464,7 +506,10 @@
     "rating": 4,
     "objectID": "4946038",
     "updatedAt": "2026-04-21T01:09:37.267Z",
-    "lastChangeId": "e08e03ea6012"
+    "lastChangeId": "e08e03ea6012",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Logitech - G710+ Mechanical Gaming Keyboard - Black/White",
@@ -492,7 +537,10 @@
     "rating": 2,
     "objectID": "6819135",
     "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "lastChangeId": "e2063c09ee44",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -518,7 +566,10 @@
     "rating": 3,
     "objectID": "5184121",
     "updatedAt": "2026-05-04T08:28:05.233Z",
-    "lastChangeId": "817f80e40b1a"
+    "lastChangeId": "817f80e40b1a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -575,7 +626,10 @@
     "rating": 4,
     "objectID": "7046436",
     "updatedAt": "2026-04-23T01:13:21.883Z",
-    "lastChangeId": "c6b4a6b3b1a5"
+    "lastChangeId": "c6b4a6b3b1a5",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -603,7 +657,10 @@
     "rating": 1,
     "objectID": "8347086",
     "updatedAt": "2026-03-19T23:59:37.695Z",
-    "lastChangeId": "397150048029"
+    "lastChangeId": "397150048029",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -625,7 +682,10 @@
     "rating": 5,
     "objectID": "8851586",
     "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "lastChangeId": "e2063c09ee44",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -644,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 529.06,
+    "price": 525.79,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -652,8 +712,11 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-04-13T01:09:00.363Z",
-    "lastChangeId": "04a6d95640c5"
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -679,7 +742,10 @@
     "rating": 1,
     "objectID": "5559535",
     "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5"
+    "lastChangeId": "6d449d0f48a5",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -707,7 +773,10 @@
     "rating": 1,
     "objectID": "3651143",
     "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51"
+    "lastChangeId": "84a0ac5fdc51",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -731,7 +800,10 @@
     "rating": 6,
     "objectID": "5689209",
     "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "lastChangeId": "e2063c09ee44",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -757,7 +829,10 @@
     "rating": 1,
     "objectID": "3290125",
     "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51"
+    "lastChangeId": "84a0ac5fdc51",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -783,7 +858,10 @@
     "rating": 4,
     "objectID": "7476233",
     "updatedAt": "2026-05-04T08:28:05.233Z",
-    "lastChangeId": "817f80e40b1a"
+    "lastChangeId": "817f80e40b1a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -825,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 746.65,
+    "price": 785,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -833,8 +911,11 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-05-04T08:28:05.233Z",
-    "lastChangeId": "817f80e40b1a"
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -860,7 +941,10 @@
     "rating": 2,
     "objectID": "7880068",
     "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8"
+    "lastChangeId": "c5a0ced1d2b8",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -886,7 +970,10 @@
     "rating": 4,
     "objectID": "2760593",
     "updatedAt": "2026-04-10T01:03:37.886Z",
-    "lastChangeId": "d74c17071c21"
+    "lastChangeId": "d74c17071c21",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -914,7 +1001,10 @@
     "rating": 4,
     "objectID": "3522002",
     "updatedAt": "2026-04-11T00:05:09.233Z",
-    "lastChangeId": "def05f2da93a"
+    "lastChangeId": "def05f2da93a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -944,7 +1034,10 @@
     "rating": 4,
     "objectID": "1893015",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -970,7 +1063,10 @@
     "rating": 1,
     "objectID": "2515083",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -998,7 +1094,10 @@
     "rating": 5,
     "objectID": "7801108",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1024,7 +1123,10 @@
     "rating": 5,
     "objectID": "1606254",
     "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "lastChangeId": "e2063c09ee44",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Smart Choice - Touch-Up Paint - White",
@@ -1048,7 +1150,10 @@
     "rating": 1,
     "objectID": "2631316",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1072,7 +1177,10 @@
     "rating": 4,
     "objectID": "1857649",
     "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8"
+    "lastChangeId": "c5a0ced1d2b8",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1096,7 +1204,10 @@
     "rating": 2,
     "objectID": "8860013",
     "updatedAt": "2026-04-30T01:23:26.366Z",
-    "lastChangeId": "52fe71574498"
+    "lastChangeId": "52fe71574498",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Lenovo - IdeaPad 100s 11.6\" Laptop - Intel Atom - 2GB Memory - 32GB eMMC Flash Storage - Red",
@@ -1124,7 +1235,10 @@
     "rating": 6,
     "objectID": "4475000",
     "updatedAt": "2026-05-02T01:18:16.276Z",
-    "lastChangeId": "8d90f8222217"
+    "lastChangeId": "8d90f8222217",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1151,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-04-30T01:23:26.366Z",
     "lastChangeId": "52fe71574498",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
-    "salesChangeId": "1af2511ea9f1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1179,7 +1293,10 @@
     "rating": 3,
     "objectID": "8614908",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1205,7 +1322,10 @@
     "rating": 4,
     "objectID": "4292211",
     "updatedAt": "2026-04-24T01:12:35.357Z",
-    "lastChangeId": "5ba37ab9b9a4"
+    "lastChangeId": "5ba37ab9b9a4",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1234,7 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-05-02T01:18:16.276Z",
     "lastChangeId": "8d90f8222217",
-    "on_sale": true
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1251,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 11.15,
+    "price": 10.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1259,8 +1381,11 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51"
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1286,7 +1411,10 @@
     "rating": 6,
     "objectID": "1257958",
     "updatedAt": "2026-04-29T01:24:41.908Z",
-    "lastChangeId": "378a2a55ba03"
+    "lastChangeId": "378a2a55ba03",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1313,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-04-23T01:13:21.883Z",
     "lastChangeId": "c6b4a6b3b1a5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
-    "salesChangeId": "1af2511ea9f1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1342,7 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-05-03T01:20:49.714Z",
     "lastChangeId": "6d449d0f48a5",
-    "on_sale": true
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1367,9 +1497,9 @@
     "objectID": "8529018",
     "updatedAt": "2026-05-03T01:20:49.714Z",
     "lastChangeId": "6d449d0f48a5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
-    "salesChangeId": "1af2511ea9f1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Bose® - CineMate® 15 Home Theater Speaker System - Black",
@@ -1397,7 +1527,10 @@
     "rating": 2,
     "objectID": "8082019",
     "updatedAt": "2026-05-02T01:18:16.276Z",
-    "lastChangeId": "8d90f8222217"
+    "lastChangeId": "8d90f8222217",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1454,7 +1587,10 @@
     "rating": 2,
     "objectID": "8077023",
     "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8"
+    "lastChangeId": "c5a0ced1d2b8",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1480,7 +1616,10 @@
     "rating": 6,
     "objectID": "5344025",
     "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51"
+    "lastChangeId": "84a0ac5fdc51",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi16GB - Silver",
@@ -1497,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 457.94,
+    "price": 465.83,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1505,8 +1644,11 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91"
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1530,7 +1672,10 @@
     "rating": 4,
     "objectID": "6847298",
     "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8"
+    "lastChangeId": "c5a0ced1d2b8",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1554,7 +1699,10 @@
     "rating": 5,
     "objectID": "7841289",
     "updatedAt": "2026-04-22T01:05:36.849Z",
-    "lastChangeId": "b87235ed14ce"
+    "lastChangeId": "b87235ed14ce",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1580,7 +1728,10 @@
     "rating": 1,
     "objectID": "7965437",
     "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "lastChangeId": "e2063c09ee44",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1606,7 +1757,10 @@
     "rating": 2,
     "objectID": "3898152",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1633,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-05-04T01:20:02.507Z",
     "lastChangeId": "1b82b0d6e11a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
-    "salesChangeId": "1af2511ea9f1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1719,7 +1873,10 @@
     "rating": 1,
     "objectID": "5420045",
     "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8"
+    "lastChangeId": "c5a0ced1d2b8",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1745,7 +1902,10 @@
     "rating": 5,
     "objectID": "4494104",
     "updatedAt": "2026-04-08T01:03:51.655Z",
-    "lastChangeId": "06992267f71d"
+    "lastChangeId": "06992267f71d",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Dynex™ - CAT5/5e RJ-45 In-Line Coupler",
@@ -1769,7 +1929,10 @@
     "rating": 2,
     "objectID": "5917635",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -1797,7 +1960,10 @@
     "rating": 2,
     "objectID": "3285793",
     "updatedAt": "2026-04-26T01:13:50.799Z",
-    "lastChangeId": "a8d1ce308225"
+    "lastChangeId": "a8d1ce308225",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -1823,7 +1989,10 @@
     "rating": 4,
     "objectID": "7652364",
     "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "lastChangeId": "e2063c09ee44",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Disney - Star Wars Force Men's T-Shirt (Extra-Large) - Black",
@@ -1847,7 +2016,10 @@
     "rating": 1,
     "objectID": "4338620",
     "updatedAt": "2026-04-20T01:10:30.516Z",
-    "lastChangeId": "0899945775bb"
+    "lastChangeId": "0899945775bb",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -1860,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 13.52,
+    "price": 14.04,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1868,8 +2040,11 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -1895,7 +2070,10 @@
     "rating": 2,
     "objectID": "4494503",
     "updatedAt": "2026-04-29T01:24:41.908Z",
-    "lastChangeId": "378a2a55ba03"
+    "lastChangeId": "378a2a55ba03",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -1912,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 49.53,
+    "price": 45.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1920,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-04-03T00:04:29.695Z",
-    "lastChangeId": "cef2da318787",
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
     "salesChangeId": "817f80e40b1a"
@@ -1950,7 +2128,10 @@
     "rating": 1,
     "objectID": "1197018",
     "updatedAt": "2026-05-02T01:18:16.276Z",
-    "lastChangeId": "8d90f8222217"
+    "lastChangeId": "8d90f8222217",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -1965,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 922.29,
+    "price": 925.66,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1973,8 +2154,11 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-04-25T01:05:30.537Z",
-    "lastChangeId": "ab53336dcfe5"
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Canon - 251 Ink Cartridge - Magenta",
@@ -2000,7 +2184,10 @@
     "rating": 2,
     "objectID": "7064405",
     "updatedAt": "2026-03-19T00:00:04.059Z",
-    "lastChangeId": "9981c8e9dc2c"
+    "lastChangeId": "9981c8e9dc2c",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2024,7 +2211,10 @@
     "rating": 3,
     "objectID": "7960986",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2039,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 14.12,
+    "price": 14.72,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2047,8 +2237,11 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-05-02T01:18:16.276Z",
-    "lastChangeId": "8d90f8222217"
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2076,7 +2269,10 @@
     "rating": 5,
     "objectID": "2219025",
     "updatedAt": "2026-04-18T01:02:33.450Z",
-    "lastChangeId": "9e3c3d933a2a"
+    "lastChangeId": "9e3c3d933a2a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2104,7 +2300,10 @@
     "rating": 1,
     "objectID": "3566034",
     "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1"
+    "lastChangeId": "1af2511ea9f1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2131,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-04-27T01:14:50.499Z",
     "lastChangeId": "4f4856a12e91",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
-    "salesChangeId": "1af2511ea9f1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2159,7 +2358,10 @@
     "rating": 1,
     "objectID": "3316013",
     "updatedAt": "2026-04-30T01:23:26.366Z",
-    "lastChangeId": "52fe71574498"
+    "lastChangeId": "52fe71574498",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2185,7 +2387,10 @@
     "rating": 1,
     "objectID": "9437807",
     "updatedAt": "2026-04-26T01:13:50.799Z",
-    "lastChangeId": "a8d1ce308225"
+    "lastChangeId": "a8d1ce308225",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2213,7 +2418,10 @@
     "rating": 4,
     "objectID": "7498284",
     "updatedAt": "2026-05-02T01:18:16.276Z",
-    "lastChangeId": "8d90f8222217"
+    "lastChangeId": "8d90f8222217",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2237,7 +2445,10 @@
     "rating": 2,
     "objectID": "8773393",
     "updatedAt": "2026-04-20T01:10:30.516Z",
-    "lastChangeId": "0899945775bb"
+    "lastChangeId": "0899945775bb",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2266,9 +2477,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-05-04T08:28:05.233Z",
     "lastChangeId": "817f80e40b1a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
-    "salesChangeId": "1af2511ea9f1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2294,7 +2505,10 @@
     "rating": 5,
     "objectID": "7861118",
     "updatedAt": "2026-04-29T01:24:41.908Z",
-    "lastChangeId": "378a2a55ba03"
+    "lastChangeId": "378a2a55ba03",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2353,7 +2567,10 @@
     "rating": 6,
     "objectID": "3839052",
     "updatedAt": "2026-04-22T01:05:36.849Z",
-    "lastChangeId": "b87235ed14ce"
+    "lastChangeId": "b87235ed14ce",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2381,7 +2598,10 @@
     "rating": 3,
     "objectID": "1803138",
     "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91"
+    "lastChangeId": "4f4856a12e91",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2403,7 +2623,10 @@
     "rating": 3,
     "objectID": "3362109",
     "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51"
+    "lastChangeId": "84a0ac5fdc51",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",
@@ -2427,7 +2650,10 @@
     "rating": 6,
     "objectID": "9907207",
     "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a"
+    "lastChangeId": "1b82b0d6e11a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2455,7 +2681,10 @@
     "rating": 4,
     "objectID": "4357801",
     "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "lastChangeId": "e2063c09ee44",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2483,7 +2712,10 @@
     "rating": 5,
     "objectID": "5012138",
     "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5"
+    "lastChangeId": "6d449d0f48a5",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2509,7 +2741,10 @@
     "rating": 2,
     "objectID": "4788009",
     "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91"
+    "lastChangeId": "4f4856a12e91",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",
@@ -2528,7 +2763,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 2.57,
+    "price": 2.34,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2536,8 +2771,11 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a"
+    "updatedAt": "2026-05-05T01:41:18.809Z",
+    "lastChangeId": "582caa54af1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",
@@ -2563,7 +2801,10 @@
     "rating": 5,
     "objectID": "1206681",
     "updatedAt": "2026-04-21T01:09:37.267Z",
-    "lastChangeId": "e08e03ea6012"
+    "lastChangeId": "e08e03ea6012",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Skullcandy - Uproar On-Ear Wireless Headphones - Black",
@@ -2589,7 +2830,10 @@
     "rating": 2,
     "objectID": "4375610",
     "updatedAt": "2026-04-12T00:04:28.760Z",
-    "lastChangeId": "14e2f7eda418"
+    "lastChangeId": "14e2f7eda418",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",
@@ -2613,7 +2857,10 @@
     "rating": 4,
     "objectID": "4826001",
     "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44"
+    "lastChangeId": "e2063c09ee44",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",
@@ -2637,6 +2884,9 @@
     "rating": 6,
     "objectID": "8264051",
     "updatedAt": "2026-05-04T08:28:05.233Z",
-    "lastChangeId": "817f80e40b1a"
+    "lastChangeId": "817f80e40b1a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
+    "salesChangeId": "582caa54af1e"
   }
 ]

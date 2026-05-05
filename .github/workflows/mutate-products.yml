@@ -2,8 +2,8 @@ name: Mutate products before Algolia reindex
 
 on:
   schedule:
-    # Run daily at 23:50 UTC (10 mins before your Algolia 00:00 UTC cron)
-    - cron: "50 23 * * *"
+    # Run daily at 22:00 UTC (2 hours before 00:00 UTC cron)
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,5 +27,5 @@ jobs:
           git add data/products.json data/changes.jsonl data/sales_state.json
           git commit -m "chore: mutate products data" || echo "No changes to commit"
           git push
-          
+
 

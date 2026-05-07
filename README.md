@@ -8,8 +8,8 @@ This repo hosts sample product data used by an Algolia **JSON connector** via a 
 - `data/sales_state.json` — persisted Sales state (`salesIds`, `changedIds`) used for delta syncing
 - `scripts/mutate-products.js` — mutates a subset of products and assigns exactly 5 items as `on_sale: true`
 - `scripts/push-sales-delta.js` — pushes only the **changed** Sales records to Algolia via **Ingestion pushTask** (`watch=true`) for immediate Collections availability
-- `.github/workflows/mutate-products.yml` — runs mutation + Sales assignment daily at **23:50 UTC**, commits changes
-- `.github/workflows/push-sales-after-connector.yml` — runs daily at **00:05 UTC** to push the Sales delta via pushTask (after the connector reindex)
+- `.github/workflows/mutate-products.yml` — runs mutation + Sales assignment daily at **22:00 UTC**, commits changes
+- `.github/workflows/push-sales-after-connector.yml` — runs daily at **00:10 UTC** to push the Sales delta via pushTask (after the connector reindex)
 
 ## Features
 ### 1) Random data mutation + audit log

@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 32.03,
+    "price": 32.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-05-05T01:53:12.554Z",
-    "lastChangeId": "1dffbc706cfc",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-04-28T01:22:34.995Z",
     "lastChangeId": "bb07279910c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-04-23T01:13:21.883Z",
     "lastChangeId": "c6b4a6b3b1a5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-05-05T23:02:11.034Z",
     "lastChangeId": "1e00e7c69a3a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -961,7 +961,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 5.65,
+    "price": 5.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-04-10T01:03:37.886Z",
-    "lastChangeId": "d74c17071c21",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 40.32,
+    "price": 40.04,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 16.37,
+    "price": 15.35,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-05-06T22:57:43.625Z",
-    "lastChangeId": "6617596186b1",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 135.82,
+    "price": 144.76,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-05-02T01:18:16.276Z",
     "lastChangeId": "8d90f8222217",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 58.76,
+    "price": 57.3,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-05-05T23:02:11.034Z",
-    "lastChangeId": "1e00e7c69a3a",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1557,9 +1557,9 @@
     "objectID": "7441404",
     "updatedAt": "2026-04-22T01:05:36.849Z",
     "lastChangeId": "b87235ed14ce",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
-    "salesChangeId": "1af2511ea9f1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "NVIDIA - SHIELD Wireless Controller - Black",
@@ -1748,7 +1748,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 46.01,
+    "price": 43.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1756,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-05-05T01:53:12.554Z",
-    "lastChangeId": "1dffbc706cfc",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-05-05T01:45:19.861Z",
     "lastChangeId": "9f1c1e7939f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 925.66,
+    "price": 1015.51,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-05-05T01:41:18.809Z",
-    "lastChangeId": "582caa54af1e",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2175,7 +2175,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 18.75,
+    "price": 19.99,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2183,8 +2183,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-03-19T00:00:04.059Z",
-    "lastChangeId": "9981c8e9dc2c",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 18.89,
+    "price": 17.39,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91",
+    "updatedAt": "2026-05-07T01:43:22.040Z",
+    "lastChangeId": "0c09a5bca963",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-04-30T01:23:26.366Z",
     "lastChangeId": "52fe71574498",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-04-22T01:05:36.849Z",
     "lastChangeId": "b87235ed14ce",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-05-06T22:57:43.625Z",
     "lastChangeId": "6617596186b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2802,9 +2802,9 @@
     "objectID": "1206681",
     "updatedAt": "2026-04-21T01:09:37.267Z",
     "lastChangeId": "e08e03ea6012",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
+    "salesChangeId": "0c09a5bca963"
   },
   {
     "name": "Skullcandy - Uproar On-Ear Wireless Headphones - Black",

@@ -51,6 +51,6 @@ This requires GitHub Actions secrets:
    - Makes the Sales collection available immediately (no multi-hour wait)
 
 ## Notes
-- The Worker fetches the JSON from this private repo using a GitHub PAT.
+- The Worker fetches the JSON from this repo using a GitHub PAT.
 - The Algolia connector authenticates to the Worker using Basic Auth.
 - The Sales collection is defined dynamically with a condition like: `on_sale = true`.

@@ -29,6 +29,27 @@ function changeId() {
   return crypto.randomBytes(6).toString("hex");
 }
 
+function pruneJsonlByDays(filePath, daysToKeep) {
+  if (!fs.existsSync(filePath)) return;
+
+  const cutoff = Date.now() - daysToKeep * 24 * 60 * 60 * 1000;
+
+  const lines = fs.readFileSync(filePath, "utf8").split("\n").filter(Boolean);
+  const kept = [];
+
+  for (const line of lines) {
+    try {
+      const obj = JSON.parse(line);
+      const t = Date.parse(obj.timestamp);
+      if (!Number.isNaN(t) && t >= cutoff) kept.push(line);
+    } catch {
+      // drop malformed lines
+    }
+  }
+
+  fs.writeFileSync(filePath, kept.join("\n") + (kept.length ? "\n" : ""), "utf8");
+}
+
 // Load products
 if (!fs.existsSync(PRODUCTS_PATH)) {
   throw new Error(`Missing ${PRODUCTS_PATH}. Make sure this matches your Worker GH_PATH.`);
@@ -159,6 +180,8 @@ const logLine = {
 };
 
 fs.appendFileSync(CHANGELOG_PATH, JSON.stringify(logLine) + "\n", "utf8");
+
+pruneJsonlByDays(CHANGELOG_PATH, 4);
 
 // Write back products
 fs.writeFileSync(PRODUCTS_PATH, JSON.stringify(products, null, 2) + "\n", "utf8");

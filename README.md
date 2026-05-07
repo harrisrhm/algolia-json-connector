@@ -38,14 +38,14 @@ This requires GitHub Actions secrets:
 - `ALGOLIA_COLLECTIONS_TASK_ID` (Push Task ID from the Collections “Indexing Guidelines”)
 
 ## Data flow (daily)
-1. **23:50 UTC** — GitHub Action (`mutate-products.yml`)
+1. **22:00 UTC** — GitHub Action (`mutate-products.yml`)
    - Mutates `data/products.json`
    - Assigns 5 products to `on_sale: true`
    - Updates `data/changes.jsonl` and `data/sales_state.json`
    - Commits and pushes changes to the repo
 2. **00:00 UTC** — Algolia JSON connector reindexes
    - Fetches JSON from the Cloudflare Worker endpoint (Basic Auth)
-3. **00:05 UTC** — GitHub Action (`push-sales-after-connector.yml`)
+3. **00:10 UTC** — GitHub Action (`push-sales-after-connector.yml`)
    - Runs `scripts/push-sales-delta.js`
    - Pushes only the changed Sales records via **pushTask** (`watch=true`)
    - Makes the Sales collection available immediately (no multi-hour wait)

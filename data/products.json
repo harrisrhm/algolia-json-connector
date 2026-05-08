@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-05-05T01:41:18.809Z",
     "lastChangeId": "582caa54af1e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -196,9 +196,9 @@
     "objectID": "9435907",
     "updatedAt": "2026-05-04T01:20:02.507Z",
     "lastChangeId": "1b82b0d6e11a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
-    "salesChangeId": "fc21809dd3a2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.86,
+    "price": 9.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91",
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 525.79,
+    "price": 553.93,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-05-05T01:41:18.809Z",
-    "lastChangeId": "582caa54af1e",
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-05-07T23:04:48.000Z",
     "lastChangeId": "fc21809dd3a2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
-    "salesChangeId": "1e00e7c69a3a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 40.04,
+    "price": 36.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-05-07T01:43:22.040Z",
-    "lastChangeId": "0c09a5bca963",
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1441,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-04-23T01:13:21.883Z",
     "lastChangeId": "c6b4a6b3b1a5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
-    "salesChangeId": "fc21809dd3a2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 57.3,
+    "price": 59.99,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,11 +1495,11 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-05-07T01:43:22.040Z",
-    "lastChangeId": "0c09a5bca963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Bose® - CineMate® 15 Home Theater Speaker System - Black",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 558.45,
+    "price": 580.69,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-05-02T01:18:16.276Z",
-    "lastChangeId": "8d90f8222217",
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
     "salesChangeId": "1dffbc706cfc"
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 124.07,
+    "price": 125.92,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8",
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-05-05T01:45:19.861Z",
     "lastChangeId": "9f1c1e7939f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
-    "salesChangeId": "fc21809dd3a2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 12.66,
+    "price": 12.57,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-04-20T01:10:30.516Z",
-    "lastChangeId": "0899945775bb",
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2330,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-05-07T23:04:48.000Z",
     "lastChangeId": "fc21809dd3a2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
-    "salesChangeId": "fc21809dd3a2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 80.59,
+    "price": 81.61,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-05-02T01:18:16.276Z",
-    "lastChangeId": "8d90f8222217",
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 151.83,
+    "price": 151.06,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-05-05T01:53:12.554Z",
-    "lastChangeId": "1dffbc706cfc",
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 55.81,
+    "price": 60.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-05-05T01:53:12.554Z",
-    "lastChangeId": "1dffbc706cfc",
+    "updatedAt": "2026-05-08T23:02:06.557Z",
+    "lastChangeId": "56363d6d594b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
     "salesChangeId": "817f80e40b1a"
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-05-05T01:45:19.861Z",
     "lastChangeId": "9f1c1e7939f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
-    "salesChangeId": "fc21809dd3a2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
+    "salesChangeId": "56363d6d594b"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

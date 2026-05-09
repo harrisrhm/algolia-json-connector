@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-05-05T01:41:18.809Z",
     "lastChangeId": "582caa54af1e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
-    "salesChangeId": "56363d6d594b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 22.22,
+    "price": 20,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
     "salesChangeId": "56363d6d594b"
@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-05-05T01:53:12.554Z",
     "lastChangeId": "1dffbc706cfc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 32.12,
+    "price": 34.97,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-05-07T01:43:22.040Z",
-    "lastChangeId": "0c09a5bca963",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 63.43,
+    "price": 62.15,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-05-05T23:02:11.034Z",
-    "lastChangeId": "1e00e7c69a3a",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-05-05T23:02:11.034Z",
     "lastChangeId": "1e00e7c69a3a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 17.35,
+    "price": 16.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-04-23T01:13:21.883Z",
-    "lastChangeId": "c6b4a6b3b1a5",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
     "salesChangeId": "0c09a5bca963"
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-05-07T23:04:48.000Z",
     "lastChangeId": "fc21809dd3a2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
-    "salesChangeId": "56363d6d594b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -774,9 +774,9 @@
     "objectID": "3651143",
     "updatedAt": "2026-05-04T07:13:54.322Z",
     "lastChangeId": "84a0ac5fdc51",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.2,
+    "price": 8.42,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
-    "salesChangeId": "56363d6d594b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1497,9 +1497,9 @@
     "objectID": "8529018",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
-    "salesChangeId": "56363d6d594b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Bose® - CineMate® 15 Home Theater Speaker System - Black",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 580.69,
+    "price": 531.27,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-05-08T23:02:06.557Z",
-    "lastChangeId": "56363d6d594b",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
     "salesChangeId": "1dffbc706cfc"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
-    "salesChangeId": "56363d6d594b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 1015.51,
+    "price": 998.97,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-05-07T01:43:22.040Z",
-    "lastChangeId": "0c09a5bca963",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.24,
+    "price": 6.5,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
     "salesChangeId": "6617596186b1"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-04-20T01:10:30.516Z",
     "lastChangeId": "0899945775bb",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 60.56,
+    "price": 63.69,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-05-08T23:02:06.557Z",
-    "lastChangeId": "56363d6d594b",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
     "salesChangeId": "817f80e40b1a"
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-05-03T01:20:49.714Z",
     "lastChangeId": "6d449d0f48a5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
+    "salesChangeId": "0f690a9d65fe"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 56.9,
+    "price": 55.11,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-05-05T01:45:19.861Z",
-    "lastChangeId": "9f1c1e7939f2",
+    "updatedAt": "2026-05-09T22:55:53.087Z",
+    "lastChangeId": "0f690a9d65fe",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
     "salesChangeId": "56363d6d594b"

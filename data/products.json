@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-05-05T01:53:12.554Z",
     "lastChangeId": "1dffbc706cfc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-05-09T22:55:53.087Z",
     "lastChangeId": "0f690a9d65fe",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-05-05T23:02:11.034Z",
     "lastChangeId": "1e00e7c69a3a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 553.93,
+    "price": 530.69,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-05-08T23:02:06.557Z",
-    "lastChangeId": "56363d6d594b",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -774,9 +774,9 @@
     "objectID": "3651143",
     "updatedAt": "2026-05-04T07:13:54.322Z",
     "lastChangeId": "84a0ac5fdc51",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 23.2,
+    "price": 24.71,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 59.99,
+    "price": 59.3,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-05-08T23:02:06.557Z",
-    "lastChangeId": "56363d6d594b",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 531.27,
+    "price": 508.2,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-05-09T22:55:53.087Z",
-    "lastChangeId": "0f690a9d65fe",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
     "salesChangeId": "1dffbc706cfc"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 38.41,
+    "price": 41.23,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-04-22T01:05:36.849Z",
-    "lastChangeId": "b87235ed14ce",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 30.21,
+    "price": 29.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-05-04T07:59:19.146Z",
-    "lastChangeId": "e2063c09ee44",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2042,9 +2042,9 @@
     "objectID": "6263962",
     "updatedAt": "2026-05-05T01:41:18.809Z",
     "lastChangeId": "582caa54af1e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 45.78,
+    "price": 43.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-05-05T01:41:18.809Z",
-    "lastChangeId": "582caa54af1e",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
     "salesChangeId": "817f80e40b1a"
@@ -2129,9 +2129,9 @@
     "objectID": "1197018",
     "updatedAt": "2026-05-06T22:57:43.625Z",
     "lastChangeId": "6617596186b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
-    "salesChangeId": "1e00e7c69a3a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -2175,7 +2175,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 19.99,
+    "price": 20.27,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2183,8 +2183,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-05-07T01:43:22.040Z",
-    "lastChangeId": "0c09a5bca963",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.5,
+    "price": 6.33,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-05-09T22:55:53.087Z",
-    "lastChangeId": "0f690a9d65fe",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
     "salesChangeId": "6617596186b1"
@@ -2388,9 +2388,9 @@
     "objectID": "9437807",
     "updatedAt": "2026-05-06T22:57:43.625Z",
     "lastChangeId": "6617596186b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-04-20T01:10:30.516Z",
     "lastChangeId": "0899945775bb",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-05-03T01:20:49.714Z",
     "lastChangeId": "6d449d0f48a5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
+    "salesChangeId": "27b9508813fb"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 463.18,
+    "price": 445.74,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-05-05T01:45:19.861Z",
-    "lastChangeId": "9f1c1e7939f2",
+    "updatedAt": "2026-05-10T22:56:32.617Z",
+    "lastChangeId": "27b9508813fb",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"

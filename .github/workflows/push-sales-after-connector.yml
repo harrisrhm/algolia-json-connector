@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-              - name: Check Sales drift (pre-push)
+      - name: Check Sales drift (pre-push)
         id: drift_pre
         continue-on-error: true
         env:

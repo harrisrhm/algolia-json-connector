@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: read
+  issues: write
 
 jobs:
   push_sales_delta:
@@ -15,6 +16,77 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+              - name: Check Sales drift (pre-push)
+        id: drift_pre
+        continue-on-error: true
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_INDEX_NAME: json_connector
+        run: |
+          node scripts/check-sales-drift.js
+
+      - name: Upload drift report artifact (4-day retention)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: drift-report
+          path: data/drift_report.json
+          retention-days: 4
+
+      - name: Create or update GitHub issue if drift detected
+        if: steps.drift_pre.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            const labels = ['drift', 'sales'];
+            const title = 'Sales collection drift detected';
+
+            const runUrl = `${process.env.GITHUB_SERVER_URL}/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`;
+
+            let report = {};
+            try { report = JSON.parse(fs.readFileSync('data/drift_report.json','utf8')); } catch (e) {}
+
+            const expected = (report.expectedSalesIds || []).join(', ') || '(missing)';
+            const onSaleCount = report.onSale?.count;
+            const onSaleMissing = (report.onSale?.missingIds || []).length;
+            const onSaleExtra = (report.onSale?.extraIds || []).length;
+
+            const colCount = report.collectionsSales?.count;
+            const colMissing = (report.collectionsSales?.missingIds || []).length;
+            const colExtra = (report.collectionsSales?.extraIds || []).length;
+
+            const summary = [
+              `Drift detected in **Sales**.`,
+              ``,
+              `**Expected salesIds (from sales_state.json):** ${expected}`,
+              ``,
+              `**Index check (on_sale:true):** count=${onSaleCount}, missing=${onSaleMissing}, extra=${onSaleExtra}`,
+              `**Collection check (_collections:sales):** count=${colCount}, missing=${colMissing}, extra=${colExtra}`,
+              ``,
+              `**Run (artifact attached):** ${runUrl}`,
+            ].join('\n');
+
+            // Find existing open issue with same labels+title
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner, repo, state: 'open', labels: labels.join(','), per_page: 50
+            });
+            const existing = issues.find(i => i.title === title);
+
+            if (existing) {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number: existing.number, body: summary
+              });
+            } else {
+              await github.rest.issues.create({
+                owner, repo, title, body: summary, labels
+              });
+            }
+            
       - name: Push Sales delta to Algolia (Collections immediate)
         env:
           ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}

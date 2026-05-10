@@ -1,0 +1,15 @@
+{
+  "name": "algolia-json-connector",
+  "version": "1.0.0",
+  "description": "This repo hosts sample product data used by an Algolia **JSON connector** via a **Cloudflare Worker** proxy. It also includes automation to (1) mutate product data, (2) assign a dynamic “Sales” set, and (3) sync Algolia **Collections** immediately after the connector run using Algolia’s **Ingestion pushTask**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^5.52.1"
+  }
+}

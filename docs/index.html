@@ -40,7 +40,12 @@
     </div>
 
     <div class="card">
-      <div><b>Drift summary</b></div>
+      <div><b>Status summary</b></div>
+      <div>Phase: <span id="phase">—</span></div>
+      <div>Index synced: <span id="indexSynced">—</span></div>
+      <div>Collections synced: <span id="collectionsSynced">—</span></div>
+      <div style="height:8px"></div>
+      <div class="small">Details</div>
       <div>on_sale mismatch: <span id="onSaleMismatch">—</span></div>
       <div>collections mismatch: <span id="colMismatch">—</span></div>
     </div>
@@ -101,6 +106,9 @@
       extraOnSale: document.getElementById("extraOnSale"),
       missCol: document.getElementById("missCol"),
       extraCol: document.getElementById("extraCol"),
+      phase: document.getElementById("phase"),
+      indexSynced: document.getElementById("indexSynced"),
+      collectionsSynced: document.getElementById("collectionsSynced"),
     };
 
     function setBadge(el, value) {
@@ -140,6 +148,19 @@
         const data = await res.json();
         const drift = data.drift || {};
         const ok = !drift.onSaleMismatch && !drift.collectionsMismatch;
+
+        const indexSynced = !drift.onSaleMismatch;
+        const collectionsSynced = !drift.collectionsMismatch;
+
+        let phase = "—";
+        if (!indexSynced) phase = "WAITING_FOR_REINDEX";
+        else if (!collectionsSynced) phase = "COLLECTIONS_DRIFT";
+        else phase = "FULLY_SYNCED";
+
+        els.phase.textContent = phase;
+        els.phase.className = (phase === "FULLY_SYNCED") ? "ok" : (phase === "COLLECTIONS_DRIFT" ? "bad" : "");
+        setBadge(els.indexSynced, indexSynced);
+        setBadge(els.collectionsSynced, collectionsSynced);
 
         els.checkedAt.textContent = data.checkedAtUtc || "—";
         els.statusText.textContent = ok ? "SYNCED" : "DRIFT";

@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-04-28T01:22:34.995Z",
     "lastChangeId": "bb07279910c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
-    "salesChangeId": "0c09a5bca963"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-04-26T01:13:50.799Z",
     "lastChangeId": "a8d1ce308225",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
-    "salesChangeId": "76d4f082307b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 150.98,
+    "price": 151.28,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-05-05T23:02:11.034Z",
-    "lastChangeId": "1e00e7c69a3a",
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
     "salesChangeId": "27b9508813fb"
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 16.74,
+    "price": 18.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-05-09T22:55:53.087Z",
-    "lastChangeId": "0f690a9d65fe",
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
     "salesChangeId": "0c09a5bca963"
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 426.9,
+    "price": 411.08,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51",
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
     "salesChangeId": "27b9508813fb"
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 36.18,
+    "price": 38.16,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-05-08T23:02:06.557Z",
-    "lastChangeId": "56363d6d594b",
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 144.76,
+    "price": 135.79,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-05-07T01:43:22.040Z",
-    "lastChangeId": "0c09a5bca963",
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 2431.72,
+    "price": 2561.3,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-04-24T01:12:35.357Z",
-    "lastChangeId": "5ba37ab9b9a4",
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-05-02T01:18:16.276Z",
     "lastChangeId": "8d90f8222217",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
-    "salesChangeId": "76d4f082307b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-05-05T01:41:18.809Z",
     "lastChangeId": "582caa54af1e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1412,9 +1412,9 @@
     "objectID": "1257958",
     "updatedAt": "2026-05-11T00:32:12.557Z",
     "lastChangeId": "76d4f082307b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
-    "salesChangeId": "76d4f082307b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 26.7,
+    "price": 25.09,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-04-23T01:13:21.883Z",
-    "lastChangeId": "c6b4a6b3b1a5",
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
     "salesChangeId": "56363d6d594b"
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 13.56,
+    "price": 12.97,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-05-06T22:57:43.625Z",
     "lastChangeId": "6617596186b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
-    "salesChangeId": "76d4f082307b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-05-05T23:02:11.034Z",
     "lastChangeId": "1e00e7c69a3a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-04-26T01:13:50.799Z",
     "lastChangeId": "a8d1ce308225",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
-    "salesChangeId": "76d4f082307b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 108.83,
+    "price": 100.56,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,11 +2268,11 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-05-05T01:19:12.211Z",
     "lastChangeId": "1af2511ea9f1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
+    "salesChangeId": "a3e5ddd312ec"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 227.61,
+    "price": 248.53,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-05-06T22:57:43.625Z",
-    "lastChangeId": "6617596186b1",
+    "updatedAt": "2026-05-11T01:06:43.186Z",
+    "lastChangeId": "a3e5ddd312ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
     "salesChangeId": "fc21809dd3a2"

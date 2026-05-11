@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-05-09T22:55:53.087Z",
     "lastChangeId": "0f690a9d65fe",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
-    "salesChangeId": "27b9508813fb"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-04-26T01:13:50.799Z",
     "lastChangeId": "a8d1ce308225",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 39.69,
+    "price": 35.76,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 24.5,
+    "price": 22.15,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 14.29,
+    "price": 15.19,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-05-06T22:57:43.625Z",
-    "lastChangeId": "6617596186b1",
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 723.23,
+    "price": 726.86,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-05-05T23:02:11.034Z",
-    "lastChangeId": "1e00e7c69a3a",
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
     "salesChangeId": "fc21809dd3a2"
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 75.3,
+    "price": 81.34,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-04-30T01:23:26.366Z",
-    "lastChangeId": "52fe71574498",
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
     "salesChangeId": "1e00e7c69a3a"
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-05-02T01:18:16.276Z",
     "lastChangeId": "8d90f8222217",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
-    "salesChangeId": "fc21809dd3a2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 33.03,
+    "price": 30.46,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,11 +1410,11 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-04-29T01:24:41.908Z",
-    "lastChangeId": "378a2a55ba03",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-05-06T22:57:43.625Z",
     "lastChangeId": "6617596186b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 20.45,
+    "price": 21.28,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-05-04T01:20:02.507Z",
-    "lastChangeId": "1b82b0d6e11a",
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
     "salesChangeId": "6617596186b1"
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-04-26T01:13:50.799Z",
     "lastChangeId": "a8d1ce308225",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
-    "salesChangeId": "27b9508813fb"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 14.04,
+    "price": 13.3,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,11 +2040,11 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-05-05T01:41:18.809Z",
-    "lastChangeId": "582caa54af1e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
-    "salesChangeId": "27b9508813fb"
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2129,9 +2129,9 @@
     "objectID": "1197018",
     "updatedAt": "2026-05-06T22:57:43.625Z",
     "lastChangeId": "6617596186b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
-    "salesChangeId": "27b9508813fb"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -2388,9 +2388,9 @@
     "objectID": "9437807",
     "updatedAt": "2026-05-06T22:57:43.625Z",
     "lastChangeId": "6617596186b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
-    "salesChangeId": "27b9508813fb"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
+    "salesChangeId": "76d4f082307b"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 63.69,
+    "price": 68.88,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-05-09T22:55:53.087Z",
-    "lastChangeId": "0f690a9d65fe",
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
     "salesChangeId": "817f80e40b1a"
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 21.42,
+    "price": 22.5,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-04-21T01:09:37.267Z",
-    "lastChangeId": "e08e03ea6012",
+    "updatedAt": "2026-05-11T00:32:12.557Z",
+    "lastChangeId": "76d4f082307b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
     "salesChangeId": "0c09a5bca963"

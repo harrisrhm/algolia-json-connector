@@ -27,6 +27,11 @@ jobs:
         run: |
           node scripts/check-sales-drift.js
 
+      - name: Read drift flag
+        id: drift_flag
+        run: |
+          echo "detected=$(cat data/drift_detected.txt 2>/dev/null || echo false)" >> $GITHUB_OUTPUT
+
       - name: Upload drift report artifact (4-day retention)
         if: always()
         uses: actions/upload-artifact@v4
@@ -38,7 +43,7 @@ jobs:
 
       - name: Create or update GitHub issue if drift detected
         id: drift_issue
-        if: steps.drift_pre.outcome == 'failure'
+        if: steps.drift_flag.outputs.detected == 'true'
         uses: actions/github-script@v7
         with:
           script: |

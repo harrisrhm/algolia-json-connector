@@ -20,6 +20,7 @@ jobs:
         id: drift_pre
         continue-on-error: true
         env:
+          DRIFT_MODE: pre
           ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
           ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
           ALGOLIA_INDEX_NAME: json_connector
@@ -32,6 +33,7 @@ jobs:
         with:
           name: drift-report
           path: data/drift_report.json
+          if-no-files-found: ignore
           retention-days: 4
 
       - name: Create or update GitHub issue if drift detected
@@ -95,3 +97,13 @@ jobs:
           ALGOLIA_COLLECTIONS_TASK_ID: ${{ secrets.ALGOLIA_COLLECTIONS_TASK_ID }}
         run: |
           node scripts/push-sales-delta.js
+
+      - name: Check Sales drift (post-push)
+        id: drift_post
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_INDEX_NAME: json_connector
+          DRIFT_MODE: post
+        run: |
+          node scripts/check-sales-drift.js

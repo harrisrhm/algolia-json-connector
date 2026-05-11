@@ -140,9 +140,9 @@
     "objectID": "4818584",
     "updatedAt": "2026-04-28T01:22:34.995Z",
     "lastChangeId": "bb07279910c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-05-09T22:55:53.087Z",
     "lastChangeId": "0f690a9d65fe",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -410,7 +410,7 @@
       "lvl2": "Computers & Tablets > E-Readers & Accessories > E-Readers"
     },
     "type": "E reader hardware",
-    "price": 115.37,
+    "price": 126.84,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9439005_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-kindle-paperwhite-black/9439005.p?id=1219703845563&skuId=9439005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -418,8 +418,8 @@
     "popularity": 9838,
     "rating": 6,
     "objectID": "9439005",
-    "updatedAt": "2026-04-26T01:13:50.799Z",
-    "lastChangeId": "a8d1ce308225",
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
     "salesChangeId": "a3e5ddd312ec"
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-05-11T01:06:43.186Z",
     "lastChangeId": "a3e5ddd312ec",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3665.4,
+    "price": 3557.66,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-05-04T08:28:05.233Z",
-    "lastChangeId": "817f80e40b1a",
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 18.2,
+    "price": 18.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,11 +625,11 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-05-11T01:06:43.186Z",
-    "lastChangeId": "a3e5ddd312ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
-    "salesChangeId": "0c09a5bca963"
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 81.34,
+    "price": 88.31,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-05-11T00:32:12.557Z",
-    "lastChangeId": "76d4f082307b",
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
     "salesChangeId": "1e00e7c69a3a"
@@ -1323,9 +1323,9 @@
     "objectID": "4292211",
     "updatedAt": "2026-05-11T01:06:43.186Z",
     "lastChangeId": "a3e5ddd312ec",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 508.2,
+    "price": 505.64,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-05-10T22:56:32.617Z",
-    "lastChangeId": "27b9508813fb",
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
     "salesChangeId": "1dffbc706cfc"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 43.29,
+    "price": 46.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-05-11T08:00:42.555Z",
-    "lastChangeId": "1e5909bc1904",
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-05-05T01:45:19.861Z",
     "lastChangeId": "9f1c1e7939f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-04-29T01:24:41.908Z",
     "lastChangeId": "378a2a55ba03",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2100,9 +2100,9 @@
     "objectID": "8353179",
     "updatedAt": "2026-05-10T22:56:32.617Z",
     "lastChangeId": "27b9508813fb",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 159.61,
+    "price": 144.84,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-05-06T22:57:43.625Z",
-    "lastChangeId": "6617596186b1",
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
     "salesChangeId": "76d4f082307b"
@@ -2175,7 +2175,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 20.27,
+    "price": 19,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2183,8 +2183,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-05-10T22:56:32.617Z",
-    "lastChangeId": "27b9508813fb",
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2436,7 +2436,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 325.05,
+    "price": 315.54,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2444,8 +2444,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-04-20T01:10:30.516Z",
-    "lastChangeId": "0899945775bb",
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
     "salesChangeId": "27b9508813fb"
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 248.53,
+    "price": 236.34,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-05-11T01:06:43.186Z",
-    "lastChangeId": "a3e5ddd312ec",
+    "updatedAt": "2026-05-11T23:02:50.633Z",
+    "lastChangeId": "7ad238fd8db8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
     "salesChangeId": "fc21809dd3a2"
@@ -2742,9 +2742,9 @@
     "objectID": "4788009",
     "updatedAt": "2026-05-05T01:53:12.554Z",
     "lastChangeId": "1dffbc706cfc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
+    "salesChangeId": "7ad238fd8db8"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",

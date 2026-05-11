@@ -108,7 +108,15 @@ async function main() {
     colMissing.length > 0 ||
     malformed.length > 0;
 
-  if (hasDrift) process.exit(2);
+  const mode = process.env.DRIFT_MODE || "pre"; // "pre" or "post"
+
+// Write a simple flag for the workflow to read
+fs.writeFileSync("data/drift_detected.txt", hasDrift ? "true\n" : "false\n", "utf8");
+
+// In pre mode, never fail the job (we only record drift)
+// In post mode, fail if drift still exists
+if (mode === "post" && hasDrift) process.exit(2);
+process.exit(0);
 }
 
 main().catch((e) => {

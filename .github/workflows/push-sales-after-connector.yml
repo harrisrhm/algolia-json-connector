@@ -37,6 +37,7 @@ jobs:
           retention-days: 4
 
       - name: Create or update GitHub issue if drift detected
+        id: drift_issue
         if: steps.drift_pre.outcome == 'failure'
         uses: actions/github-script@v7
         with:
@@ -79,15 +80,21 @@ jobs:
             });
             const existing = issues.find(i => i.title === title);
 
+            let issueNumber;
+
             if (existing) {
+              issueNumber = existing.number;
               await github.rest.issues.createComment({
-                owner, repo, issue_number: existing.number, body: summary
+                owner, repo, issue_number: issueNumber, body: summary
               });
             } else {
-              await github.rest.issues.create({
+              const created = await github.rest.issues.create({
                 owner, repo, title, body: summary, labels
               });
+              issueNumber = created.data.number;
             }
+
+            core.setOutput('issue_number', String(issueNumber));
             
       - name: Push Sales delta to Algolia (Collections immediate)
         env:
@@ -107,3 +114,27 @@ jobs:
           DRIFT_MODE: post
         run: |
           node scripts/check-sales-drift.js
+
+            - name: Close drift issue if resolved
+        if: steps.drift_issue.outputs.issue_number != '' && steps.drift_post.outcome == 'success'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const issue_number = Number('${{ steps.drift_issue.outputs.issue_number }}');
+            const runUrl = `${process.env.GITHUB_SERVER_URL}/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`;
+
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number,
+              body: `✅ Drift resolved after pushTask.\n\nRun: ${runUrl}`
+            });
+
+            await github.rest.issues.update({
+              owner,
+              repo,
+              issue_number,
+              state: 'closed'
+            });

@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 150.48,
+    "price": 162.3,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
     "salesChangeId": "1dffbc706cfc"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-05-09T22:55:53.087Z",
     "lastChangeId": "0f690a9d65fe",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
-    "salesChangeId": "76d4f082307b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-04-28T01:22:34.995Z",
     "lastChangeId": "bb07279910c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-05-11T01:06:43.186Z",
     "lastChangeId": "a3e5ddd312ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
-    "salesChangeId": "27b9508813fb"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 530.69,
+    "price": 518.04,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-05-10T22:56:32.617Z",
-    "lastChangeId": "27b9508813fb",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 15.35,
+    "price": 15,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-05-07T01:43:22.040Z",
-    "lastChangeId": "0c09a5bca963",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 235.85,
+    "price": 229.81,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-05-02T01:18:16.276Z",
-    "lastChangeId": "8d90f8222217",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 16.5,
+    "price": 17.26,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-04-30T01:23:26.366Z",
-    "lastChangeId": "52fe71574498",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1323,9 +1323,9 @@
     "objectID": "4292211",
     "updatedAt": "2026-05-11T01:06:43.186Z",
     "lastChangeId": "a3e5ddd312ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-05-05T01:41:18.809Z",
     "lastChangeId": "582caa54af1e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1547,7 +1547,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 11.85,
+    "price": 11.31,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1555,8 +1555,8 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-04-22T01:05:36.849Z",
-    "lastChangeId": "b87235ed14ce",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
     "salesChangeId": "fc21809dd3a2"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 41.23,
+    "price": 43.29,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-05-10T22:56:32.617Z",
-    "lastChangeId": "27b9508813fb",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 268.48,
+    "price": 246.54,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-05-06T22:57:43.625Z",
-    "lastChangeId": "6617596186b1",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
     "salesChangeId": "a3e5ddd312ec"
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-05-05T01:45:19.861Z",
     "lastChangeId": "9f1c1e7939f2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
-    "salesChangeId": "56363d6d594b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-05-05T23:02:11.034Z",
     "lastChangeId": "1e00e7c69a3a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 45,
+    "price": 42.58,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-04-26T01:13:50.799Z",
-    "lastChangeId": "a8d1ce308225",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
     "salesChangeId": "a3e5ddd312ec"
@@ -2100,9 +2100,9 @@
     "objectID": "8353179",
     "updatedAt": "2026-05-10T22:56:32.617Z",
     "lastChangeId": "27b9508813fb",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-05-11T01:06:43.186Z",
     "lastChangeId": "a3e5ddd312ec",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-05-05T01:19:12.211Z",
     "lastChangeId": "1af2511ea9f1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
+    "salesChangeId": "1e5909bc1904"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2875,7 +2875,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 89.7,
+    "price": 91.41,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2883,8 +2883,8 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
+    "updatedAt": "2026-05-11T08:00:42.555Z",
+    "lastChangeId": "1e5909bc1904",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
     "salesChangeId": "1dffbc706cfc"

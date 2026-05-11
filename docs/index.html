@@ -1,0 +1,176 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Algolia Sales Drift Dashboard</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 20px; }
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .card { border: 1px solid #ddd; border-radius: 10px; padding: 12px; }
+    .ok { color: #0a7b2c; font-weight: 700; }
+    .bad { color: #b00020; font-weight: 700; }
+    pre { background: #f6f6f6; padding: 8px; border-radius: 8px; overflow:auto; }
+    .small { color:#666; font-size: 12px; }
+    input { width: 100%; padding: 8px; border-radius: 8px; border: 1px solid #ccc; }
+    button { padding: 8px 12px; border-radius: 8px; border: 1px solid #ccc; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h2>Algolia Sales Drift Dashboard</h2>
+
+  <div class="card">
+    <div class="small">Worker Status URL</div>
+    <input id="statusUrl" placeholder="https://<worker>.<subdomain>.workers.dev/status" />
+    <div style="height:10px"></div>
+    <div class="small">Dashboard Token (X-Dashboard-Token)</div>
+    <input id="token" placeholder="paste DASHBOARD_TOKEN" />
+    <div style="height:10px"></div>
+    <button id="save">Save</button>
+    <span class="small" style="margin-left:10px">Polling every 15s</span>
+  </div>
+
+  <div style="height:14px"></div>
+
+  <div class="row">
+    <div class="card">
+      <div>Status: <span id="statusText">—</span></div>
+      <div class="small">Last checked: <span id="checkedAt">—</span></div>
+      <div class="small">Expected: <span id="expCount">—</span> | on_sale:true: <span id="onSaleCount">—</span> | _collections:sales: <span id="colCount">—</span></div>
+    </div>
+
+    <div class="card">
+      <div><b>Drift summary</b></div>
+      <div>on_sale mismatch: <span id="onSaleMismatch">—</span></div>
+      <div>collections mismatch: <span id="colMismatch">—</span></div>
+    </div>
+  </div>
+
+  <div style="height:14px"></div>
+
+  <div class="row">
+    <div class="card">
+      <b>Expected Sales IDs</b>
+      <pre id="expected"></pre>
+    </div>
+    <div class="card">
+      <b>Index: on_sale:true</b>
+      <pre id="onSale"></pre>
+    </div>
+  </div>
+
+  <div style="height:14px"></div>
+
+  <div class="row">
+    <div class="card">
+      <b>Collection: _collections:sales</b>
+      <pre id="collections"></pre>
+    </div>
+    <div class="card">
+      <b>Differences</b>
+      <div class="small">Missing from on_sale</div>
+      <pre id="missOnSale"></pre>
+      <div class="small">Extra in on_sale</div>
+      <pre id="extraOnSale"></pre>
+      <div class="small">Missing from collections</div>
+      <pre id="missCol"></pre>
+      <div class="small">Extra in collections</div>
+      <pre id="extraCol"></pre>
+    </div>
+  </div>
+
+  <script>
+    const LS_URL = "dash_status_url";
+    const LS_TOKEN = "dash_token";
+
+    const els = {
+      statusUrl: document.getElementById("statusUrl"),
+      token: document.getElementById("token"),
+      save: document.getElementById("save"),
+      statusText: document.getElementById("statusText"),
+      checkedAt: document.getElementById("checkedAt"),
+      expCount: document.getElementById("expCount"),
+      onSaleCount: document.getElementById("onSaleCount"),
+      colCount: document.getElementById("colCount"),
+      onSaleMismatch: document.getElementById("onSaleMismatch"),
+      colMismatch: document.getElementById("colMismatch"),
+      expected: document.getElementById("expected"),
+      onSale: document.getElementById("onSale"),
+      collections: document.getElementById("collections"),
+      missOnSale: document.getElementById("missOnSale"),
+      extraOnSale: document.getElementById("extraOnSale"),
+      missCol: document.getElementById("missCol"),
+      extraCol: document.getElementById("extraCol"),
+    };
+
+    function setBadge(el, value) {
+      if (value === true) { el.textContent = "YES"; el.className = "bad"; }
+      else if (value === false) { el.textContent = "NO"; el.className = "ok"; }
+      else { el.textContent = "—"; el.className = ""; }
+    }
+    const pretty = (arr) => JSON.stringify(arr || [], null, 2);
+
+    function loadSettings() {
+      els.statusUrl.value = localStorage.getItem(LS_URL) || "";
+      els.token.value = localStorage.getItem(LS_TOKEN) || "";
+    }
+    function saveSettings() {
+      localStorage.setItem(LS_URL, els.statusUrl.value.trim());
+      localStorage.setItem(LS_TOKEN, els.token.value.trim());
+    }
+
+    async function fetchStatus() {
+      const url = localStorage.getItem(LS_URL);
+      const token = localStorage.getItem(LS_TOKEN);
+
+      if (!url || !token) {
+        els.statusText.textContent = "Configure URL + token";
+        els.statusText.className = "";
+        return;
+      }
+
+      try {
+        const res = await fetch(url, { headers: { "x-dashboard-token": token } });
+        if (!res.ok) {
+          els.statusText.textContent = `HTTP ${res.status}`;
+          els.statusText.className = "bad";
+          return;
+        }
+
+        const data = await res.json();
+        const drift = data.drift || {};
+        const ok = !drift.onSaleMismatch && !drift.collectionsMismatch;
+
+        els.checkedAt.textContent = data.checkedAtUtc || "—";
+        els.statusText.textContent = ok ? "SYNCED" : "DRIFT";
+        els.statusText.className = ok ? "ok" : "bad";
+
+        els.expCount.textContent = (data.expectedSalesIds || []).length;
+        els.onSaleCount.textContent = (data.indexOnSaleIds || []).length;
+        els.colCount.textContent = (data.collectionSalesIds || []).length;
+
+        setBadge(els.onSaleMismatch, !!drift.onSaleMismatch);
+        setBadge(els.colMismatch, !!drift.collectionsMismatch);
+
+        els.expected.textContent = pretty(data.expectedSalesIds);
+        els.onSale.textContent = pretty(data.indexOnSaleIds);
+        els.collections.textContent = pretty(data.collectionSalesIds);
+
+        els.missOnSale.textContent = pretty(drift.missingFromOnSale);
+        els.extraOnSale.textContent = pretty(drift.extraInOnSale);
+        els.missCol.textContent = pretty(drift.missingFromCollections);
+        els.extraCol.textContent = pretty(drift.extraInCollections);
+      } catch (e) {
+        els.statusText.textContent = `Error: ${e.message || e}`;
+        els.statusText.className = "bad";
+      }
+    }
+
+    els.save.addEventListener("click", () => { saveSettings(); fetchStatus(); });
+
+    loadSettings();
+    fetchStatus();
+    setInterval(fetchStatus, 15000);
+  </script>
+</body>
+</html>

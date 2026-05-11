@@ -57,7 +57,7 @@ If drift is detected:
 
 ### 5) Dashboard
 
-A simple GitHub Pages dashboard is included to visualize the end-to-end flow and Sales synchronization status.
+A simple GitHub Pages dashboard (https://harrisrhm.github.io/algolia-json-connector/) is included to visualize the end-to-end flow and Sales synchronization status.
 
 - UI: `docs/index.html` (served via GitHub Pages)
 - Backend: Cloudflare Worker `GET /status`

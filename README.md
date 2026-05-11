@@ -55,6 +55,18 @@ If drift is detected:
 - a drift report is uploaded as a GitHub Actions artifact with **4-day retention**
 - after `push-sales-delta.js` runs, a post-check confirms drift is resolved (and the issue can be auto-closed when resolved)
 
+## 4) Dashboard
+
+A simple GitHub Pages dashboard is included to visualize the end-to-end flow and Sales synchronization status.
+
+- UI: `docs/index.html` (served via GitHub Pages)
+- Backend: Cloudflare Worker `GET /status`
+- The dashboard compares:
+  - expected Sales IDs (from `data/sales_state.json`)
+  - current `on_sale:true` IDs in the index
+  - current `_collections:sales` IDs (collection assignment)
+- It highlights drift vs synced state and refreshes automatically.
+
 ## Data flow (daily)
 1. **22:00 UTC** — GitHub Action (`mutate-products.yml`)
    - Mutates `data/products.json`

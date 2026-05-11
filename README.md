@@ -37,6 +37,23 @@ This requires GitHub Actions secrets:
 - `ALGOLIA_DATA_REGION` (e.g. `us`)
 - `ALGOLIA_COLLECTIONS_TASK_ID` (Push Task ID from the Collections “Indexing Guidelines”)
 
+### 4) Sales collections drift check + alerting
+
+To confirm Sales is fully synchronized (not just `on_sale:true`), the workflow runs a drift check that compares:
+- `filters: "on_sale:true"` (data correctness)
+- `filters: "_collections:sales"` (collection availability / assignment)
+
+Expected Sales IDs come from:
+- `data/sales_state.json` (`salesIds`)
+
+Drift check script:
+- `scripts/check-sales-drift.js`
+
+If drift is detected:
+- a GitHub Issue is created/updated (labels: `drift`, `sales`)
+- a drift report is uploaded as a GitHub Actions artifact with **4-day retention**
+- after `push-sales-delta.js` runs, a post-check confirms drift is resolved (and the issue can be auto-closed when resolved)
+
 ## Data flow (daily)
 1. **22:00 UTC** — GitHub Action (`mutate-products.yml`)
    - Mutates `data/products.json`

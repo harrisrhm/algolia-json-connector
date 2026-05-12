@@ -150,20 +150,18 @@
       localStorage.setItem(LS_TOKEN, els.token.value.trim());
     }
 
-    function phaseForCollection(c) {
-        const expIds = (c.expected && c.expected.ids) ? c.expected.ids : [];
-        const actIds = (c.actual && c.actual.ids) ? c.actual.ids : [];
-        const missing = (c.drift && c.drift.missing) ? c.drift.missing : [];
-        const extra = (c.drift && c.drift.extra) ? c.drift.extra : [];
+    function phaseForCollection(c, indexSyncedGlobal) {
+  // If index isn't synced yet, everything is "waiting"
+      if (!indexSyncedGlobal) return "WAITING_FOR_REINDEX";
 
-        // If expected is non-empty, but actual is empty => usually "not synced yet" (waiting for ingestion/collections)
-        if (expIds.length > 0 && actIds.length === 0) return "COLLECTIONS_DRIFT";
+      const expIds = (c.expected && c.expected.ids) ? c.expected.ids : [];
+      const actIds = (c.actual && c.actual.ids) ? c.actual.ids : [];
+      const missing = (c.drift && c.drift.missing) ? c.drift.missing : [];
+      const extra = (c.drift && c.drift.extra) ? c.drift.extra : [];
 
-        // If counts differ or drift lists exist, still drift
-        if (missing.length > 0 || extra.length > 0) return "COLLECTIONS_DRIFT";
-
-        return "FULLY_SYNCED";
-      }
+      if (missing.length > 0 || extra.length > 0) return "COLLECTIONS_DRIFT";
+      return "FULLY_SYNCED";
+    }
 
     async function fetchStatus() {
       const url = localStorage.getItem(LS_URL);
@@ -233,7 +231,24 @@
         els.manDriftNames.className = manual.some(c => !(c.drift && c.drift.ok)) ? "bad" : "ok";
 
         els.checkedAt.textContent = data.checkedAtUtc || "—";
-        els.statusText.textContent = ok ? "SYNCED" : "DRIFT";
+
+        let statusLabel = "—";
+        let statusClass = "";
+
+        if (!indexSynced) {
+          statusLabel = "WAITING_FOR_REINDEX";
+          statusClass = "bad";
+        } else if (!collectionsSynced) {
+          statusLabel = "COLLECTIONS_LAG";
+          statusClass = "bad";
+        } else {
+          statusLabel = "SYNCED";
+          statusClass = "ok";
+        }
+
+        els.statusText.textContent = statusLabel;
+        els.statusText.className = statusClass;
+
         els.statusText.className = ok ? "ok" : "bad";
 
         els.expected.textContent = pretty(data.expectedSalesIds);
@@ -253,7 +268,7 @@
         } else {
           const rows = cols.map(c => {
             const name = c.name || "(unnamed)";
-            const phase = phaseForCollection(c);
+            const phase = phaseForCollection(c, indexSynced);
             const ok = (c.drift && c.drift.ok) === true;
 
             const expCount = c.expected?.count ?? (c.expected?.ids?.length ?? 0);

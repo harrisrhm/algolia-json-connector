@@ -2,3 +2,4 @@
 # Generated/runtime files
 node_modules/
 data/drift_report.json
+.DS_Store

@@ -104,11 +104,6 @@
       save: document.getElementById("save"),
       statusText: document.getElementById("statusText"),
       checkedAt: document.getElementById("checkedAt"),
-      expCount: document.getElementById("expCount"),
-      onSaleCount: document.getElementById("onSaleCount"),
-      colCount: document.getElementById("colCount"),
-      onSaleMismatch: document.getElementById("onSaleMismatch"),
-      colMismatch: document.getElementById("colMismatch"),
       expected: document.getElementById("expected"),
       onSale: document.getElementById("onSale"),
       collections: document.getElementById("collections"),
@@ -226,13 +221,6 @@
         els.checkedAt.textContent = data.checkedAtUtc || "—";
         els.statusText.textContent = ok ? "SYNCED" : "DRIFT";
         els.statusText.className = ok ? "ok" : "bad";
-
-        els.expCount.textContent = (data.expectedSalesIds || []).length;
-        els.onSaleCount.textContent = (data.indexOnSaleIds || []).length;
-        els.colCount.textContent = (data.collectionSalesIds || []).length;
-
-        setBadge(els.onSaleMismatch, !!drift.onSaleMismatch);
-        setBadge(els.colMismatch, !!drift.collectionsMismatch);
 
         els.expected.textContent = pretty(data.expectedSalesIds);
         els.onSale.textContent = pretty(data.indexOnSaleIds);

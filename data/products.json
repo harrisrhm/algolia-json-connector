@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-05-05T01:53:12.554Z",
     "lastChangeId": "1dffbc706cfc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -140,9 +140,9 @@
     "objectID": "4818584",
     "updatedAt": "2026-04-28T01:22:34.995Z",
     "lastChangeId": "bb07279910c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
-    "salesChangeId": "7ad238fd8db8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 20,
+    "price": 20.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-05-09T22:55:53.087Z",
-    "lastChangeId": "0f690a9d65fe",
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
     "salesChangeId": "56363d6d594b"
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3557.66,
+    "price": 3495.71,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-05-11T23:02:50.633Z",
-    "lastChangeId": "7ad238fd8db8",
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-05-11T23:02:50.633Z",
     "lastChangeId": "7ad238fd8db8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
-    "salesChangeId": "7ad238fd8db8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 33.43,
+    "price": 32.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-05-06T22:57:43.625Z",
-    "lastChangeId": "6617596186b1",
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
     "salesChangeId": "1e00e7c69a3a"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 32.79,
+    "price": 31.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-05-04T07:13:54.322Z",
-    "lastChangeId": "84a0ac5fdc51",
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -961,7 +961,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 5.07,
+    "price": 4.63,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-05-11T01:06:43.186Z",
     "lastChangeId": "a3e5ddd312ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 2561.3,
+    "price": 2427.53,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-05-11T01:06:43.186Z",
-    "lastChangeId": "a3e5ddd312ec",
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-05-11T08:00:42.555Z",
     "lastChangeId": "1e5909bc1904",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
-    "salesChangeId": "7ad238fd8db8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-05-11T00:32:12.557Z",
     "lastChangeId": "76d4f082307b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.91,
+    "price": 3.17,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-05-05T01:19:12.211Z",
-    "lastChangeId": "1af2511ea9f1",
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 42.58,
+    "price": 46.21,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,11 +1959,11 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-05-11T08:00:42.555Z",
-    "lastChangeId": "1e5909bc1904",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 13.3,
+    "price": 13.63,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-05-11T00:32:12.557Z",
-    "lastChangeId": "76d4f082307b",
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
     "salesChangeId": "76d4f082307b"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-04-29T01:24:41.908Z",
     "lastChangeId": "378a2a55ba03",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
-    "salesChangeId": "7ad238fd8db8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 144.84,
+    "price": 157.87,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-05-11T23:02:50.633Z",
-    "lastChangeId": "7ad238fd8db8",
+    "updatedAt": "2026-05-12T08:51:12.042Z",
+    "lastChangeId": "6eac113decf9",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
     "salesChangeId": "76d4f082307b"
@@ -2742,9 +2742,9 @@
     "objectID": "4788009",
     "updatedAt": "2026-05-05T01:53:12.554Z",
     "lastChangeId": "1dffbc706cfc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
-    "salesChangeId": "7ad238fd8db8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
+    "salesChangeId": "6eac113decf9"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",

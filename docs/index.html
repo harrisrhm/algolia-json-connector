@@ -27,6 +27,7 @@
     <input id="token" type="password" placeholder="paste DASHBOARD_TOKEN" />
     <div style="height:10px"></div>
     <button id="save">Save</button>
+    <button id="toggleDetails" type="button" style="margin-left:10px">Show details</button>
     <span class="small" style="margin-left:10px">Polling every 15s</span>
   </div>
 
@@ -63,6 +64,9 @@
       <div id="collectionsTable" class="small">Loading…</div>
   </div>
 
+  <div style="height:14px"></div>
+
+  <div id="details" style="display:none;">
   <div class="row">
     <div class="card">
       <b>Expected Sales IDs</b>
@@ -83,14 +87,15 @@
     </div>
     <div class="card">
       <b>Differences</b>
-      <div class="small">Missing from on_sale</div>
-      <pre id="missOnSale"></pre>
-      <div class="small">Extra in on_sale</div>
-      <pre id="extraOnSale"></pre>
-      <div class="small">Missing from collections</div>
-      <pre id="missCol"></pre>
-      <div class="small">Extra in collections</div>
-      <pre id="extraCol"></pre>
+        <div class="small">Missing from on_sale</div>
+        <pre id="missOnSale"></pre>
+        <div class="small">Extra in on_sale</div>
+        <pre id="extraOnSale"></pre>
+        <div class="small">Missing from collections</div>
+        <pre id="missCol"></pre>
+        <div class="small">Extra in collections</div>
+        <pre id="extraCol"></pre>
+      </div>
     </div>
   </div>
 
@@ -119,6 +124,15 @@
       dynDriftNames: document.getElementById("dynDriftNames"),
       manDriftNames: document.getElementById("manDriftNames"),
     };
+
+    const detailsEl = document.getElementById("details");
+    const toggleBtn = document.getElementById("toggleDetails");
+
+    toggleBtn.addEventListener("click", () => {
+      const hidden = detailsEl.style.display === "none";
+      detailsEl.style.display = hidden ? "block" : "none";
+      toggleBtn.textContent = hidden ? "Hide details" : "Show details";
+    });
 
     function setBadge(el, value) {
       if (value === true) { el.textContent = "YES"; el.className = "bad"; }

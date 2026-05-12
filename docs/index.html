@@ -45,6 +45,10 @@
       <div>Index synced: <span id="indexSynced">—</span></div>
       <div>Collections synced: <span id="collectionsSynced">—</span></div>
       <div style="height:8px"></div>
+      <div><b>Collections breakdown</b></div>
+      <div>Dynamic: <span id="dynBreakdown">—</span></div>
+      <div>Manual: <span id="manBreakdown">—</span></div>
+      <div style="height:8px"></div>
       <div class="small">Details</div>
       <div>on_sale mismatch: <span id="onSaleMismatch">—</span></div>
       <div>collections mismatch: <span id="colMismatch">—</span></div>
@@ -116,6 +120,8 @@
       phase: document.getElementById("phase"),
       indexSynced: document.getElementById("indexSynced"),
       collectionsSynced: document.getElementById("collectionsSynced"),
+      dynBreakdown: document.getElementById("dynBreakdown"),
+      manBreakdown: document.getElementById("manBreakdown"),
     };
 
     function setBadge(el, value) {
@@ -183,6 +189,24 @@
         els.phase.className = (phase === "FULLY_SYNCED") ? "ok" : (phase === "COLLECTIONS_DRIFT" ? "bad" : "");
         setBadge(els.indexSynced, indexSynced);
         setBadge(els.collectionsSynced, collectionsSynced);
+
+        const allCollections = Array.isArray(data.collections) ? data.collections : [];
+
+        const dynamic = allCollections.filter(c => (c.type || "").toLowerCase() === "dynamic");
+        const manual  = allCollections.filter(c => (c.type || "").toLowerCase() === "manual");
+
+        function formatBreakdown(list) {
+          if (!list.length) return "0";
+          const ok = list.filter(c => c.drift && c.drift.ok === true).length;
+          const bad = list.length - ok;
+          return `${ok} synced / ${bad} drift`;
+        }
+
+        els.dynBreakdown.textContent = formatBreakdown(dynamic);
+        els.manBreakdown.textContent = formatBreakdown(manual);
+
+        els.dynBreakdown.className = dynamic.some(c => !(c.drift && c.drift.ok)) ? "bad" : "ok";
+        els.manBreakdown.className = manual.some(c => !(c.drift && c.drift.ok)) ? "bad" : "ok";
 
         els.checkedAt.textContent = data.checkedAtUtc || "—";
         els.statusText.textContent = ok ? "SYNCED" : "DRIFT";

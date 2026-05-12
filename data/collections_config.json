@@ -1,0 +1,14 @@
+{
+  "collections": [
+    {
+      "name": "sales",
+      "type": "dynamic",
+      "expectedSource": "sales_state_json"
+    },
+    {
+      "name": "Gadget sales",
+      "type": "manual",
+      "expectedObjectIDs": []
+    }
+  ]
+}

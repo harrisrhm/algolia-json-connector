@@ -53,6 +53,13 @@
 
   <div style="height:14px"></div>
 
+  <div class="card">
+    <b>Collections overview</b>
+      <div class="small">Per-collection phase + drift</div>
+      <div style="height:8px"></div>
+      <div id="collectionsTable" class="small">Loading…</div>
+  </div>
+
   <div class="row">
     <div class="card">
       <b>Expected Sales IDs</b>
@@ -127,6 +134,21 @@
       localStorage.setItem(LS_TOKEN, els.token.value.trim());
     }
 
+    function phaseForCollection(c) {
+        const expIds = (c.expected && c.expected.ids) ? c.expected.ids : [];
+        const actIds = (c.actual && c.actual.ids) ? c.actual.ids : [];
+        const missing = (c.drift && c.drift.missing) ? c.drift.missing : [];
+        const extra = (c.drift && c.drift.extra) ? c.drift.extra : [];
+
+        // If expected is non-empty, but actual is empty => usually "not synced yet" (waiting for ingestion/collections)
+        if (expIds.length > 0 && actIds.length === 0) return "COLLECTIONS_DRIFT";
+
+        // If counts differ or drift lists exist, still drift
+        if (missing.length > 0 || extra.length > 0) return "COLLECTIONS_DRIFT";
+
+        return "FULLY_SYNCED";
+      }
+
     async function fetchStatus() {
       const url = localStorage.getItem(LS_URL);
       const token = localStorage.getItem(LS_TOKEN);
@@ -181,6 +203,53 @@
         els.extraOnSale.textContent = pretty(drift.extraInOnSale);
         els.missCol.textContent = pretty(drift.missingFromCollections);
         els.extraCol.textContent = pretty(drift.extraInCollections);
+
+        const tableEl = document.getElementById("collectionsTable");
+        const cols = data.collections || [];
+
+        if (!Array.isArray(cols) || cols.length === 0) {
+          tableEl.textContent = "No collections returned by /status.";
+        } else {
+          const rows = cols.map(c => {
+            const name = c.name || "(unnamed)";
+            const phase = phaseForCollection(c);
+            const ok = (c.drift && c.drift.ok) === true;
+
+            const expCount = c.expected?.count ?? (c.expected?.ids?.length ?? 0);
+            const actCount = c.actual?.count ?? (c.actual?.ids?.length ?? 0);
+            const missCount = c.drift?.missing?.length ?? 0;
+            const extraCount = c.drift?.extra?.length ?? 0;
+
+            const phaseClass = (phase === "FULLY_SYNCED") ? "ok" : "bad";
+
+            return `
+              <tr>
+                <td style="padding:6px 8px;border-top:1px solid #eee;"><b>${name}</b></td>
+                <td style="padding:6px 8px;border-top:1px solid #eee;" class="${phaseClass}">${phase}</td>
+                <td style="padding:6px 8px;border-top:1px solid #eee;">${expCount}</td>
+                <td style="padding:6px 8px;border-top:1px solid #eee;">${actCount}</td>
+                <td style="padding:6px 8px;border-top:1px solid #eee;">missing ${missCount} / extra ${extraCount}</td>
+              </tr>
+            `;
+          }).join("");
+
+          tableEl.innerHTML = `
+            <table style="width:100%; border-collapse:collapse;">
+              <thead>
+                <tr>
+                  <th style="text-align:left;padding:6px 8px;border-bottom:1px solid #ddd;">Collection</th>
+                  <th style="text-align:left;padding:6px 8px;border-bottom:1px solid #ddd;">Phase</th>
+                  <th style="text-align:left;padding:6px 8px;border-bottom:1px solid #ddd;">Expected</th>
+                  <th style="text-align:left;padding:6px 8px;border-bottom:1px solid #ddd;">Actual</th>
+                  <th style="text-align:left;padding:6px 8px;border-bottom:1px solid #ddd;">Drift</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${rows}
+              </tbody>
+            </table>
+          `;
+        }
       } catch (e) {
         els.statusText.textContent = `Error: ${e.message || e}`;
         els.statusText.className = "bad";

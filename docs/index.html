@@ -36,7 +36,6 @@
     <div class="card">
       <div>Status: <span id="statusText">—</span></div>
       <div class="small">Last checked: <span id="checkedAt">—</span></div>
-      <div class="small">Expected: <span id="expCount">—</span> | on_sale:true: <span id="onSaleCount">—</span> | _collections:sales: <span id="colCount">—</span></div>
     </div>
 
     <div class="card">
@@ -50,8 +49,8 @@
       <div>Manual: <span id="manBreakdown">—</span></div>
       <div style="height:8px"></div>
       <div class="small">Details</div>
-      <div>on_sale mismatch: <span id="onSaleMismatch">—</span></div>
-      <div>collections mismatch: <span id="colMismatch">—</span></div>
+      <div>Dynamic drifting: <span id="dynDriftNames">—</span></div>
+      <div>Manual drifting: <span id="manDriftNames">—</span></div>
     </div>
   </div>
 
@@ -122,6 +121,8 @@
       collectionsSynced: document.getElementById("collectionsSynced"),
       dynBreakdown: document.getElementById("dynBreakdown"),
       manBreakdown: document.getElementById("manBreakdown"),
+      dynDriftNames: document.getElementById("dynDriftNames"),
+      manDriftNames: document.getElementById("manDriftNames"),
     };
 
     function setBadge(el, value) {
@@ -207,6 +208,20 @@
 
         els.dynBreakdown.className = dynamic.some(c => !(c.drift && c.drift.ok)) ? "bad" : "ok";
         els.manBreakdown.className = manual.some(c => !(c.drift && c.drift.ok)) ? "bad" : "ok";
+
+        function driftNames(list) {
+          const drifting = list.filter(c => !(c.drift && c.drift.ok === true));
+          if (!drifting.length) return "0 (—)";
+          const names = drifting.map(c => c.name).slice(0, 5).join(", ");
+          const more = drifting.length > 5 ? ` +${drifting.length - 5} more` : "";
+          return `${drifting.length} (${names}${more})`;
+        }
+
+        els.dynDriftNames.textContent = driftNames(dynamic);
+        els.manDriftNames.textContent = driftNames(manual);
+
+        els.dynDriftNames.className = dynamic.some(c => !(c.drift && c.drift.ok)) ? "bad" : "ok";
+        els.manDriftNames.className = manual.some(c => !(c.drift && c.drift.ok)) ? "bad" : "ok";
 
         els.checkedAt.textContent = data.checkedAtUtc || "—";
         els.statusText.textContent = ok ? "SYNCED" : "DRIFT";

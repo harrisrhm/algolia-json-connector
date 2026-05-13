@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 704.32,
+    "price": 697.96,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-04-28T01:22:34.995Z",
-    "lastChangeId": "bb07279910c9",
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
     "on_sale": true,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 113.35,
+    "price": 105.26,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-05-11T23:02:50.633Z",
     "lastChangeId": "7ad238fd8db8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
+    "salesChangeId": "cab8ef09745e"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 22.15,
+    "price": 20.34,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-05-11T00:32:12.557Z",
-    "lastChangeId": "76d4f082307b",
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-05-11T00:32:12.557Z",
     "lastChangeId": "76d4f082307b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
-    "salesChangeId": "46b2b9602f50"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
+    "salesChangeId": "cab8ef09745e"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 15,
+    "price": 16.34,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-05-11T08:00:42.555Z",
-    "lastChangeId": "1e5909bc1904",
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 86,
+    "price": 89.67,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-05-13T06:12:05.694Z",
-    "lastChangeId": "46b2b9602f50",
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 135.79,
+    "price": 125.06,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-05-11T01:06:43.186Z",
-    "lastChangeId": "a3e5ddd312ec",
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1323,9 +1323,9 @@
     "objectID": "4292211",
     "updatedAt": "2026-05-12T23:09:21.668Z",
     "lastChangeId": "41294e2c4523",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
-    "salesChangeId": "7ad238fd8db8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
+    "salesChangeId": "cab8ef09745e"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 10.9,
+    "price": 10.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-05-05T01:41:18.809Z",
-    "lastChangeId": "582caa54af1e",
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
     "salesChangeId": "1e5909bc1904"
@@ -1441,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
-    "salesChangeId": "56363d6d594b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
+    "salesChangeId": "cab8ef09745e"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 21.28,
+    "price": 22.39,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,11 +1785,11 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-05-11T00:32:12.557Z",
-    "lastChangeId": "76d4f082307b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
-    "salesChangeId": "46b2b9602f50"
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
+    "salesChangeId": "cab8ef09745e"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 100.56,
+    "price": 94.56,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,8 +2268,8 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-05-11T01:06:43.186Z",
-    "lastChangeId": "a3e5ddd312ec",
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
     "salesChangeId": "1e5909bc1904"
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-04-29T01:24:41.908Z",
     "lastChangeId": "378a2a55ba03",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
-    "salesChangeId": "46b2b9602f50"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
+    "salesChangeId": "cab8ef09745e"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-05-12T23:09:21.668Z",
     "lastChangeId": "41294e2c4523",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
-    "salesChangeId": "46b2b9602f50"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
+    "salesChangeId": "cab8ef09745e"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2875,7 +2875,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 91.41,
+    "price": 86.06,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2883,10 +2883,10 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-05-11T08:00:42.555Z",
-    "lastChangeId": "1e5909bc1904",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
-    "salesChangeId": "1dffbc706cfc"
+    "updatedAt": "2026-05-13T23:13:03.259Z",
+    "lastChangeId": "cab8ef09745e",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
+    "salesChangeId": "cab8ef09745e"
   }
 ]

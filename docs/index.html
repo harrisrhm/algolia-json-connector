@@ -43,7 +43,9 @@
       <div><b>Status summary</b></div>
       <div>Phase: <span id="phase">—</span></div>
       <div>Index synced: <span id="indexSynced">—</span></div>
-      <div>Collections synced: <span id="collectionsSynced">—</span></div>
+      <div>All collections synced: <span id="allCollectionsSynced">—</span></div>
+      <div>Dynamic collections synced: <span id="dynamicCollectionsSynced">—</span></div>
+      <div>Manual collections synced: <span id="manualCollectionsSynced">—</span></div>
       <div style="height:8px"></div>
       <div><b>Collections breakdown</b></div>
       <div>Dynamic: <span id="dynBreakdown">—</span></div>
@@ -118,7 +120,9 @@
       extraCol: document.getElementById("extraCol"),
       phase: document.getElementById("phase"),
       indexSynced: document.getElementById("indexSynced"),
-      collectionsSynced: document.getElementById("collectionsSynced"),
+      allCollectionsSynced: document.getElementById("allCollectionsSynced"),
+      dynamicCollectionsSynced: document.getElementById("dynamicCollectionsSynced"),
+      manualCollectionsSynced: document.getElementById("manualCollectionsSynced"),
       dynBreakdown: document.getElementById("dynBreakdown"),
       manBreakdown: document.getElementById("manBreakdown"),
       dynDriftNames: document.getElementById("dynDriftNames"),
@@ -186,7 +190,7 @@
         const ok = !drift.onSaleMismatch && !drift.collectionsMismatch;
 
         const indexSynced = !drift.onSaleMismatch;
-        const collectionsSynced = !drift.collectionsMismatch;
+        const collectionsSynced = !drift.collectionsMismatch; // used for phase + status label only
 
         let phase = "—";
         if (!indexSynced) phase = "WAITING_FOR_REINDEX";
@@ -196,12 +200,20 @@
         els.phase.textContent = phase;
         els.phase.className = (phase === "FULLY_SYNCED") ? "ok" : (phase === "COLLECTIONS_DRIFT" ? "bad" : "");
         setBadge(els.indexSynced, indexSynced);
-        setBadge(els.collectionsSynced, collectionsSynced);
 
         const allCollections = Array.isArray(data.collections) ? data.collections : [];
 
         const dynamic = allCollections.filter(c => (c.type || "").toLowerCase() === "dynamic");
         const manual  = allCollections.filter(c => (c.type || "").toLowerCase() === "manual");
+
+        const allCollectionsOk = allCollections.length > 0 && allCollections.every(c => c.drift && c.drift.ok === true);
+
+        const dynamicOk = dynamic.length === 0 ? true : dynamic.every(c => c.drift && c.drift.ok === true);
+        const manualOk  = manual.length === 0 ? true : manual.every(c => c.drift && c.drift.ok === true);
+
+        setBadge(els.allCollectionsSynced, allCollectionsOk);
+        setBadge(els.dynamicCollectionsSynced, dynamicOk);
+        setBadge(els.manualCollectionsSynced, manualOk);
 
         function formatBreakdown(list) {
           if (!list.length) return "0";
@@ -248,8 +260,6 @@
 
         els.statusText.textContent = statusLabel;
         els.statusText.className = statusClass;
-
-        els.statusText.className = ok ? "ok" : "bad";
 
         els.expected.textContent = pretty(data.expectedSalesIds);
         els.onSale.textContent = pretty(data.indexOnSaleIds);

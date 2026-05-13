@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 441.76,
+    "price": 457.61,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-05-05T01:53:12.554Z",
-    "lastChangeId": "1dffbc706cfc",
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
     "salesChangeId": "41294e2c4523"
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-04-28T01:22:34.995Z",
     "lastChangeId": "bb07279910c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-05-12T08:51:12.042Z",
     "lastChangeId": "6eac113decf9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
-    "salesChangeId": "41294e2c4523"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 24.71,
+    "price": 22.38,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-05-10T22:56:32.617Z",
-    "lastChangeId": "27b9508813fb",
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-05-11T00:32:12.557Z",
     "lastChangeId": "76d4f082307b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 7.27,
+    "price": 7.16,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-05-06T22:57:43.625Z",
-    "lastChangeId": "6617596186b1",
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 88.31,
+    "price": 86,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,11 +1203,11 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-05-11T23:02:50.633Z",
-    "lastChangeId": "7ad238fd8db8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
-    "salesChangeId": "41294e2c4523"
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "Lenovo - IdeaPad 100s 11.6\" Laptop - Intel Atom - 2GB Memory - 32GB eMMC Flash Storage - Red",
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 17.26,
+    "price": 16.53,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-05-11T08:00:42.555Z",
-    "lastChangeId": "1e5909bc1904",
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 26.31,
+    "price": 26.93,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
     "salesChangeId": "56363d6d594b"
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-05-11T23:02:50.633Z",
     "lastChangeId": "7ad238fd8db8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
-    "salesChangeId": "41294e2c4523"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-05-11T00:32:12.557Z",
     "lastChangeId": "76d4f082307b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
-    "salesChangeId": "41294e2c4523"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-05-05T01:45:19.861Z",
     "lastChangeId": "9f1c1e7939f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
-    "salesChangeId": "41294e2c4523"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 3.17,
+    "price": 2.93,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-05-12T08:51:12.042Z",
-    "lastChangeId": "6eac113decf9",
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2229,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 15.3,
+    "price": 13.83,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,8 +2237,8 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-04-29T01:24:41.908Z",
     "lastChangeId": "378a2a55ba03",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-05-12T23:09:21.668Z",
     "lastChangeId": "41294e2c4523",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
-    "salesChangeId": "fc21809dd3a2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1222.01,
+    "price": 1166.79,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
     "salesChangeId": "27b9508813fb"
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 16.53,
+    "price": 15.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-05-05T01:53:12.554Z",
-    "lastChangeId": "1dffbc706cfc",
+    "updatedAt": "2026-05-13T06:12:05.694Z",
+    "lastChangeId": "46b2b9602f50",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
     "salesChangeId": "6eac113decf9"
@@ -2858,9 +2858,9 @@
     "objectID": "4826001",
     "updatedAt": "2026-05-10T22:56:32.617Z",
     "lastChangeId": "27b9508813fb",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
-    "salesChangeId": "41294e2c4523"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
+    "salesChangeId": "46b2b9602f50"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

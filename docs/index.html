@@ -82,24 +82,6 @@
 </div>
 
   <div style="height:14px"></div>
-
-  <div class="row">
-    <div class="card">
-      <b>Collection: _collections:sales</b>
-      <pre id="collections"></pre>
-    </div>
-    <div class="card">
-      <b>Differences</b>
-        <div class="small">Missing from on_sale</div>
-        <pre id="missOnSale"></pre>
-        <div class="small">Extra in on_sale</div>
-        <pre id="extraOnSale"></pre>
-        <div class="small">Missing from collections</div>
-        <pre id="missCol"></pre>
-        <div class="small">Extra in collections</div>
-        <pre id="extraCol"></pre>
-      </div>
-    </div>
   </div>
 
   <script>
@@ -114,11 +96,6 @@
       checkedAt: document.getElementById("checkedAt"),
       expected: document.getElementById("expected"),
       onSale: document.getElementById("onSale"),
-      collections: document.getElementById("collections"),
-      missOnSale: document.getElementById("missOnSale"),
-      extraOnSale: document.getElementById("extraOnSale"),
-      missCol: document.getElementById("missCol"),
-      extraCol: document.getElementById("extraCol"),
       phase: document.getElementById("phase"),
       indexSynced: document.getElementById("indexSynced"),
       allCollectionsSynced: document.getElementById("allCollectionsSynced"),

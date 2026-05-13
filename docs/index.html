@@ -45,7 +45,11 @@
       <div>Index synced: <span id="indexSynced">—</span></div>
       <div>All collections synced: <span id="allCollectionsSynced">—</span></div>
       <div>Dynamic collections synced: <span id="dynamicCollectionsSynced">—</span></div>
-      <div>Manual collections synced: <span id="manualCollectionsSynced">—</span></div>
+      <div title="Membership sync = objectIDs match _collections. Freshness sync = record fields (updatedAt) match the latest source after reindex.">
+  Manual collections synced: <span id="manualCollectionsSynced">—</span>
+  <span class="small" style="margin-left:8px;">freshness:</span>
+  <span id="manualFreshness">—</span>
+</div>
       <div style="height:8px"></div>
       <div><b>Collections breakdown</b></div>
       <div>Dynamic: <span id="dynBreakdown">—</span></div>
@@ -123,6 +127,7 @@
       allCollectionsSynced: document.getElementById("allCollectionsSynced"),
       dynamicCollectionsSynced: document.getElementById("dynamicCollectionsSynced"),
       manualCollectionsSynced: document.getElementById("manualCollectionsSynced"),
+      manualFreshness: document.getElementById("manualFreshness"),
       dynBreakdown: document.getElementById("dynBreakdown"),
       manBreakdown: document.getElementById("manBreakdown"),
       dynDriftNames: document.getElementById("dynDriftNames"),
@@ -186,6 +191,16 @@
         }
 
         const data = await res.json();
+
+        const manualFreshnessOk = data.manualFreshnessOk;
+if (els.manualFreshness) {
+  if (typeof manualFreshnessOk === "boolean") {
+    setBadge(els.manualFreshness, manualFreshnessOk);
+  } else {
+    els.manualFreshness.textContent = "—";
+    els.manualFreshness.className = "";
+  }
+}
         const drift = data.drift || {};
         const ok = !drift.onSaleMismatch && !drift.collectionsMismatch;
 

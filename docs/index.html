@@ -73,16 +73,13 @@
   <div style="height:14px"></div>
 
   <div id="details" style="display:none;">
-  <div class="row">
-    <div class="card">
-      <b>Expected Sales IDs</b>
-      <pre id="expected"></pre>
-    </div>
-    <div class="card">
-      <b>Index: on_sale:true</b>
-      <pre id="onSale"></pre>
-    </div>
+  <div class="card">
+    <b>Collection details</b>
+    <div class="small">Expand a collection to see expected/actual IDs and drift details.</div>
+    <div style="height:8px"></div>
+    <div id="collectionDetails" class="small">Loading…</div>
   </div>
+</div>
 
   <div style="height:14px"></div>
 
@@ -132,6 +129,7 @@
       manBreakdown: document.getElementById("manBreakdown"),
       dynDriftNames: document.getElementById("dynDriftNames"),
       manDriftNames: document.getElementById("manDriftNames"),
+      collectionDetails: document.getElementById("collectionDetails"),
     };
 
     const detailsEl = document.getElementById("details");
@@ -172,6 +170,151 @@
       return "FULLY_SYNCED";
     }
 
+    function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
+function formatIdList(ids, limit = 10) {
+  const arr = Array.isArray(ids) ? ids : [];
+  const shown = arr.slice(0, limit);
+  const more = arr.length > limit ? `\n... (+${arr.length - limit} more)` : "";
+  return JSON.stringify(shown, null, 2) + more;
+}
+
+function copyJsonToClipboard(obj) {
+  const text = JSON.stringify(obj, null, 2);
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    return navigator.clipboard.writeText(text);
+  }
+  // fallback
+  const ta = document.createElement("textarea");
+  ta.value = text;
+  document.body.appendChild(ta);
+  ta.select();
+  document.execCommand("copy");
+  document.body.removeChild(ta);
+  return Promise.resolve();
+}
+
+function renderCollectionDetails(data) {
+  const container = els.collectionDetails;
+  if (!container) return;
+
+  const cols = Array.isArray(data.collections) ? data.collections : [];
+  const mf = Array.isArray(data.manualFreshness) ? data.manualFreshness : [];
+  const mfMap = new Map(mf.map(x => [String(x.name), x]));
+
+  if (!cols.length) {
+    container.textContent = "No collections returned by /status.";
+    return;
+  }
+
+  const html = cols.map((c, idx) => {
+    const name = c.name || "(unnamed)";
+    const type = (c.type || "unknown").toLowerCase();
+    const expIds = c.expected?.ids || [];
+    const actIds = c.actual?.ids || [];
+    const missing = c.drift?.missing || [];
+    const extra = c.drift?.extra || [];
+    const ok = c.drift?.ok === true;
+
+    // Manual freshness (optional)
+    const mfEntry = mfMap.get(String(name));
+    const freshnessOk = mfEntry ? mfEntry.ok === true : null;
+    const freshnessText = mfEntry
+      ? (freshnessOk ? "FRESH" : `STALE (${mfEntry.staleCount})`)
+      : null;
+
+    const badgeClass = ok ? "ok" : "bad";
+    const freshnessBadge = mfEntry
+      ? `<span style="margin-left:10px" class="${freshnessOk ? "ok" : "bad"}">freshness: ${escapeHtml(freshnessText)}</span>`
+      : "";
+
+    // store full payload in a data attribute index
+    const payload = {
+      name, type,
+      expectedIds: expIds,
+      actualIds: actIds,
+      missingIds: missing,
+      extraIds: extra,
+      freshness: mfEntry || null
+    };
+
+    return `
+      <details style="margin:10px 0; padding:10px; border:1px solid #eee; border-radius:10px;">
+        <summary style="cursor:pointer;">
+          <b>${escapeHtml(name)}</b>
+          <span class="small">(${escapeHtml(type)})</span>
+          — <span class="${badgeClass}">${ok ? "SYNCED" : "DRIFT"}</span>
+          <span class="small" style="margin-left:10px">
+            expected ${expIds.length} · actual ${actIds.length} · missing ${missing.length} · extra ${extra.length}
+          </span>
+          ${freshnessBadge}
+        </summary>
+
+        <div style="height:10px"></div>
+
+        <button type="button" data-copy="${idx}">Copy JSON</button>
+
+        <div style="height:10px"></div>
+
+        <div class="small"><b>Expected IDs (first 10)</b></div>
+        <pre>${escapeHtml(formatIdList(expIds, 10))}</pre>
+
+        <div class="small"><b>Actual IDs (first 10)</b></div>
+        <pre>${escapeHtml(formatIdList(actIds, 10))}</pre>
+
+        <div class="small"><b>Missing IDs (first 10)</b></div>
+        <pre>${escapeHtml(formatIdList(missing, 10))}</pre>
+
+        <div class="small"><b>Extra IDs (first 10)</b></div>
+        <pre>${escapeHtml(formatIdList(extra, 10))}</pre>
+      </details>
+    `;
+  }).join("");
+
+  container.innerHTML = html;
+
+  // Wire up copy buttons after render
+  const payloads = cols.map((c) => {
+    const name = c.name || "(unnamed)";
+    const type = (c.type || "unknown").toLowerCase();
+    const expIds = c.expected?.ids || [];
+    const actIds = c.actual?.ids || [];
+    const missing = c.drift?.missing || [];
+    const extra = c.drift?.extra || [];
+    const mfEntry = mfMap.get(String(name)) || null;
+
+    return {
+      name, type,
+      expectedIds: expIds,
+      actualIds: actIds,
+      missingIds: missing,
+      extraIds: extra,
+      freshness: mfEntry
+    };
+  });
+
+  container.querySelectorAll("button[data-copy]").forEach((btn) => {
+    btn.addEventListener("click", async () => {
+      const i = Number(btn.getAttribute("data-copy"));
+      try {
+        await copyJsonToClipboard(payloads[i]);
+        btn.textContent = "Copied!";
+        setTimeout(() => (btn.textContent = "Copy JSON"), 1000);
+      } catch {
+        btn.textContent = "Copy failed";
+        setTimeout(() => (btn.textContent = "Copy JSON"), 1500);
+      }
+    });
+  });
+}
+
     async function fetchStatus() {
       const url = localStorage.getItem(LS_URL);
       const token = localStorage.getItem(LS_TOKEN);
@@ -191,6 +334,7 @@
         }
 
         const data = await res.json();
+        renderCollectionDetails(data);
 
         const manualFreshnessOk = data.manualFreshnessOk;
 if (els.manualFreshness) {
@@ -275,15 +419,6 @@ if (els.manualFreshness) {
 
         els.statusText.textContent = statusLabel;
         els.statusText.className = statusClass;
-
-        els.expected.textContent = pretty(data.expectedSalesIds);
-        els.onSale.textContent = pretty(data.indexOnSaleIds);
-        els.collections.textContent = pretty(data.collectionSalesIds);
-
-        els.missOnSale.textContent = pretty(drift.missingFromOnSale);
-        els.extraOnSale.textContent = pretty(drift.extraInOnSale);
-        els.missCol.textContent = pretty(drift.missingFromCollections);
-        els.extraCol.textContent = pretty(drift.extraInCollections);
 
         const tableEl = document.getElementById("collectionsTable");
         const cols = data.collections || [];

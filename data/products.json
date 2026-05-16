@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-05-15T23:03:00.958Z",
     "lastChangeId": "5fcece26f005",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-15T23:03:00.958Z",
-    "salesChangeId": "5fcece26f005"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
+    "salesChangeId": "d0338f4aa5e1"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 18.43,
+    "price": 18.52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-05-11T23:02:50.633Z",
-    "lastChangeId": "7ad238fd8db8",
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
     "salesChangeId": "6eac113decf9"
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 52.34,
+    "price": 48,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,11 +940,11 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-05-05T01:45:19.861Z",
-    "lastChangeId": "9f1c1e7939f2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
+    "salesChangeId": "d0338f4aa5e1"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -961,7 +961,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 4.83,
+    "price": 4.67,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-05-15T23:03:00.958Z",
-    "lastChangeId": "5fcece26f005",
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 389.31,
+    "price": 372.25,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-04-11T00:05:09.233Z",
-    "lastChangeId": "def05f2da93a",
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-05-13T23:13:03.259Z",
     "lastChangeId": "cab8ef09745e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-15T23:03:00.958Z",
-    "salesChangeId": "5fcece26f005"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
+    "salesChangeId": "d0338f4aa5e1"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 7.16,
+    "price": 6.64,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-05-13T06:12:05.694Z",
-    "lastChangeId": "46b2b9602f50",
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
-    "salesChangeId": "6eac113decf9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
+    "salesChangeId": "d0338f4aa5e1"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1804,7 +1804,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 179.45,
+    "price": 172.17,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1812,8 +1812,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-05-15T23:03:00.958Z",
-    "lastChangeId": "5fcece26f005",
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 137.7,
+    "price": 142.77,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-05-05T23:02:11.034Z",
-    "lastChangeId": "1e00e7c69a3a",
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
     "salesChangeId": "1e5909bc1904"
@@ -1903,9 +1903,9 @@
     "objectID": "4494104",
     "updatedAt": "2026-05-07T23:04:48.000Z",
     "lastChangeId": "fc21809dd3a2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
+    "salesChangeId": "d0338f4aa5e1"
   },
   {
     "name": "Dynex™ - CAT5/5e RJ-45 In-Line Coupler",
@@ -1990,9 +1990,9 @@
     "objectID": "7652364",
     "updatedAt": "2026-05-10T22:56:32.617Z",
     "lastChangeId": "27b9508813fb",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
+    "salesChangeId": "d0338f4aa5e1"
   },
   {
     "name": "Disney - Star Wars Force Men's T-Shirt (Extra-Large) - Black",
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 523.28,
+    "price": 566.79,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-04-30T01:23:26.366Z",
-    "lastChangeId": "52fe71574498",
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T23:04:48.000Z",
     "salesChangeId": "fc21809dd3a2"
@@ -2742,9 +2742,9 @@
     "objectID": "4788009",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-15T23:03:00.958Z",
-    "salesChangeId": "5fcece26f005"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
+    "salesChangeId": "d0338f4aa5e1"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 50.79,
+    "price": 51.69,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
     "salesChangeId": "56363d6d594b"
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 445.74,
+    "price": 454.14,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,11 +2856,11 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-05-10T22:56:32.617Z",
-    "lastChangeId": "27b9508813fb",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-15T23:03:00.958Z",
-    "salesChangeId": "5fcece26f005"
+    "updatedAt": "2026-05-16T22:55:43.679Z",
+    "lastChangeId": "d0338f4aa5e1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
+    "salesChangeId": "d0338f4aa5e1"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

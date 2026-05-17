@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 154.04,
+    "price": 157.21,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-05-15T23:03:00.958Z",
-    "lastChangeId": "5fcece26f005",
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-05-05T01:53:12.554Z",
     "lastChangeId": "1dffbc706cfc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-15T23:03:00.958Z",
-    "salesChangeId": "5fcece26f005"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2548.84,
+    "price": 2455.12,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-04-26T01:13:50.799Z",
-    "lastChangeId": "a8d1ce308225",
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 18.31,
+    "price": 18.29,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-05-14T23:04:17.718Z",
-    "lastChangeId": "69a5d9000725",
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 15.19,
+    "price": 16.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-05-11T00:32:12.557Z",
-    "lastChangeId": "76d4f082307b",
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
     "salesChangeId": "cab8ef09745e"
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 21.69,
+    "price": 21.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
     "salesChangeId": "1af2511ea9f1"
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-05-16T22:55:43.679Z",
     "lastChangeId": "d0338f4aa5e1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
-    "salesChangeId": "d0338f4aa5e1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-05-15T23:03:00.958Z",
     "lastChangeId": "5fcece26f005",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 46.91,
+    "price": 49.21,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-05-11T23:02:50.633Z",
-    "lastChangeId": "7ad238fd8db8",
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
-    "salesChangeId": "d0338f4aa5e1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 24.45,
+    "price": 26.32,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-05-14T23:04:17.718Z",
-    "lastChangeId": "69a5d9000725",
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
     "salesChangeId": "cab8ef09745e"
@@ -1903,9 +1903,9 @@
     "objectID": "4494104",
     "updatedAt": "2026-05-07T23:04:48.000Z",
     "lastChangeId": "fc21809dd3a2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
-    "salesChangeId": "d0338f4aa5e1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   },
   {
     "name": "Dynex™ - CAT5/5e RJ-45 In-Line Coupler",
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-05-12T08:51:12.042Z",
     "lastChangeId": "6eac113decf9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
-    "salesChangeId": "41294e2c4523"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 29.07,
+    "price": 26.51,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,11 +1988,11 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-05-10T22:56:32.617Z",
-    "lastChangeId": "27b9508813fb",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
-    "salesChangeId": "d0338f4aa5e1"
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   },
   {
     "name": "Disney - Star Wars Force Men's T-Shirt (Extra-Large) - Black",
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
-    "salesChangeId": "76d4f082307b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-05-10T22:56:32.617Z",
     "lastChangeId": "27b9508813fb",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 22.9,
+    "price": 21.13,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-05-06T22:57:43.625Z",
-    "lastChangeId": "6617596186b1",
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
     "salesChangeId": "76d4f082307b"
@@ -2436,7 +2436,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 315.54,
+    "price": 320.72,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2444,8 +2444,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-05-11T23:02:50.633Z",
-    "lastChangeId": "7ad238fd8db8",
+    "updatedAt": "2026-05-17T22:59:35.958Z",
+    "lastChangeId": "f958272628b0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
     "salesChangeId": "27b9508813fb"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-05-14T23:04:17.718Z",
     "lastChangeId": "69a5d9000725",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
-    "salesChangeId": "69a5d9000725"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
+    "salesChangeId": "f958272628b0"
   }
 ]

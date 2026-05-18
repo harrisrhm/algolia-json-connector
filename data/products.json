@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-05-14T23:04:17.718Z",
     "lastChangeId": "69a5d9000725",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
-    "salesChangeId": "1dffbc706cfc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 20.12,
+    "price": 18.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-05-12T08:51:12.042Z",
-    "lastChangeId": "6eac113decf9",
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
     "salesChangeId": "56363d6d594b"
@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 105.26,
+    "price": 105.25,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-05-13T23:13:03.259Z",
-    "lastChangeId": "cab8ef09745e",
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -588,7 +588,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 46.44,
+    "price": 50.16,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -596,8 +596,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-05-05T23:02:11.034Z",
-    "lastChangeId": "1e00e7c69a3a",
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
     "salesChangeId": "6617596186b1"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 16.34,
+    "price": 15.67,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-05-13T23:13:03.259Z",
-    "lastChangeId": "cab8ef09745e",
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
     "salesChangeId": "d0338f4aa5e1"
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 108.44,
+    "price": 109.83,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-05-15T23:03:00.958Z",
     "lastChangeId": "5fcece26f005",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
-    "salesChangeId": "f958272628b0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 505.64,
+    "price": 552.07,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-05-11T23:02:50.633Z",
-    "lastChangeId": "7ad238fd8db8",
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 62.78,
+    "price": 63.06,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,11 +1586,11 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-05-01T01:27:19.962Z",
-    "lastChangeId": "c5a0ced1d2b8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T23:02:11.034Z",
-    "salesChangeId": "1e00e7c69a3a"
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-05-05T01:41:18.809Z",
     "lastChangeId": "582caa54af1e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 26.32,
+    "price": 24.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
     "salesChangeId": "cab8ef09745e"
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-05-12T08:51:12.042Z",
     "lastChangeId": "6eac113decf9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
-    "salesChangeId": "f958272628b0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
-    "salesChangeId": "f958272628b0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.33,
+    "price": 6.17,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,11 +2210,11 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-05-10T22:56:32.617Z",
-    "lastChangeId": "27b9508813fb",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
-    "salesChangeId": "f958272628b0"
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2436,7 +2436,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 320.72,
+    "price": 328.83,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2444,8 +2444,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-05-18T23:12:41.815Z",
+    "lastChangeId": "15c82a72d9b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
     "salesChangeId": "27b9508813fb"
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-05-14T23:04:17.718Z",
     "lastChangeId": "69a5d9000725",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
-    "salesChangeId": "cab8ef09745e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-05-14T23:04:17.718Z",
     "lastChangeId": "69a5d9000725",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
-    "salesChangeId": "f958272628b0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
+    "salesChangeId": "15c82a72d9b1"
   }
 ]

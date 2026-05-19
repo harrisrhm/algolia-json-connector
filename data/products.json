@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 146.41,
+    "price": 138.45,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,11 +22,11 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-05-14T23:04:17.718Z",
-    "lastChangeId": "69a5d9000725",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
-    "salesChangeId": "15c82a72d9b1"
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 481.4,
+    "price": 462.34,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-05-14T23:04:17.718Z",
-    "lastChangeId": "69a5d9000725",
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
     "salesChangeId": "41294e2c4523"
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 157.21,
+    "price": 152.11,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-05-13T23:13:03.259Z",
     "lastChangeId": "cab8ef09745e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
-    "salesChangeId": "69a5d9000725"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 411.08,
+    "price": 377.57,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-05-11T01:06:43.186Z",
-    "lastChangeId": "a3e5ddd312ec",
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
     "salesChangeId": "27b9508813fb"
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-05-16T22:55:43.679Z",
     "lastChangeId": "d0338f4aa5e1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 16.53,
+    "price": 15.97,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,11 +1263,11 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-05-13T06:12:05.694Z",
-    "lastChangeId": "46b2b9602f50",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-15T23:03:00.958Z",
-    "salesChangeId": "5fcece26f005"
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 125.06,
+    "price": 136.19,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-05-13T23:13:03.259Z",
-    "lastChangeId": "cab8ef09745e",
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 10.47,
+    "price": 10.45,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-05-15T23:03:00.958Z",
-    "lastChangeId": "5fcece26f005",
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
-    "salesChangeId": "15c82a72d9b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-05-05T01:41:18.809Z",
     "lastChangeId": "582caa54af1e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
-    "salesChangeId": "15c82a72d9b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1835,7 +1835,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 29.76,
+    "price": 27.02,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1843,8 +1843,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-04-25T01:05:30.537Z",
-    "lastChangeId": "ab53336dcfe5",
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
     "salesChangeId": "817f80e40b1a"
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 13.63,
+    "price": 12.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-05-12T08:51:12.042Z",
-    "lastChangeId": "6eac113decf9",
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-15T23:03:00.958Z",
     "salesChangeId": "5fcece26f005"
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
-    "salesChangeId": "15c82a72d9b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2477,9 +2477,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
-    "salesChangeId": "9f1c1e7939f2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-05-14T23:04:17.718Z",
     "lastChangeId": "69a5d9000725",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
-    "salesChangeId": "15c82a72d9b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
-    "salesChangeId": "27b9508813fb"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
+    "salesChangeId": "97822753627a"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 22.5,
+    "price": 23.87,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-05-11T00:32:12.557Z",
-    "lastChangeId": "76d4f082307b",
+    "updatedAt": "2026-05-19T23:12:56.748Z",
+    "lastChangeId": "97822753627a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
     "salesChangeId": "0c09a5bca963"

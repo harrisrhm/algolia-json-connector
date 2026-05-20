@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-05-19T23:12:56.748Z",
     "lastChangeId": "97822753627a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
-    "salesChangeId": "97822753627a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 9.71,
+    "price": 10.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-04-28T01:22:34.995Z",
-    "lastChangeId": "bb07279910c9",
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
     "salesChangeId": "6eac113decf9"
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-05-13T23:13:03.259Z",
     "lastChangeId": "cab8ef09745e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
-    "salesChangeId": "97822753627a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 120.05,
+    "price": 117.62,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-05-15T23:03:00.958Z",
-    "lastChangeId": "5fcece26f005",
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3495.71,
+    "price": 3236.28,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-05-12T08:51:12.042Z",
-    "lastChangeId": "6eac113decf9",
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 48,
+    "price": 50.08,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,8 +940,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-05-16T22:55:43.679Z",
-    "lastChangeId": "d0338f4aa5e1",
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
     "salesChangeId": "f958272628b0"
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-05-16T22:55:43.679Z",
     "lastChangeId": "d0338f4aa5e1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
-    "salesChangeId": "97822753627a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1064,9 +1064,9 @@
     "objectID": "2515083",
     "updatedAt": "2026-05-09T22:55:53.087Z",
     "lastChangeId": "0f690a9d65fe",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 15.97,
+    "price": 16.32,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,11 +1263,11 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-05-19T23:12:56.748Z",
-    "lastChangeId": "97822753627a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
-    "salesChangeId": "97822753627a"
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 10.45,
+    "price": 9.79,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-05-19T23:12:56.748Z",
-    "lastChangeId": "97822753627a",
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -1441,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
-    "salesChangeId": "69a5d9000725"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-05-19T23:12:56.748Z",
     "lastChangeId": "97822753627a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 46.21,
+    "price": 42.39,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-05-12T08:51:12.042Z",
-    "lastChangeId": "6eac113decf9",
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 12.57,
+    "price": 11.62,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-05-08T23:02:06.557Z",
-    "lastChangeId": "56363d6d594b",
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 26.66,
+    "price": 27.32,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-04-29T01:24:41.908Z",
-    "lastChangeId": "378a2a55ba03",
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
     "salesChangeId": "6eac113decf9"
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 17.72,
+    "price": 17.45,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
+    "updatedAt": "2026-05-20T23:20:19.044Z",
+    "lastChangeId": "d9c0dd373bbf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
     "salesChangeId": "56363d6d594b"
@@ -2477,9 +2477,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
-    "salesChangeId": "97822753627a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2537,9 +2537,9 @@
     "objectID": "4559900",
     "updatedAt": "2026-05-14T23:04:17.718Z",
     "lastChangeId": "69a5d9000725",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-04T08:28:05.233Z",
-    "salesChangeId": "817f80e40b1a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
-    "salesChangeId": "97822753627a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
+    "salesChangeId": "d9c0dd373bbf"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",

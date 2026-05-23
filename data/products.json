@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 62.15,
+    "price": 59.05,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-05-09T22:55:53.087Z",
-    "lastChangeId": "0f690a9d65fe",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 18.29,
+    "price": 18.86,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 21.07,
+    "price": 22.99,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
     "salesChangeId": "1af2511ea9f1"
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-05-11T01:06:43.186Z",
     "lastChangeId": "a3e5ddd312ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
-    "salesChangeId": "41294e2c4523"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
-    "salesChangeId": "d0338f4aa5e1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 43.26,
+    "price": 45.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,8 +1176,8 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
     "salesChangeId": "1dffbc706cfc"
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 89.67,
+    "price": 89.46,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-05-13T23:13:03.259Z",
-    "lastChangeId": "cab8ef09745e",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1412,9 +1412,9 @@
     "objectID": "1257958",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 63.06,
+    "price": 61.95,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-05-18T23:12:41.815Z",
-    "lastChangeId": "15c82a72d9b1",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
     "salesChangeId": "97822753627a"
@@ -1617,9 +1617,9 @@
     "objectID": "5344025",
     "updatedAt": "2026-05-11T01:06:43.186Z",
     "lastChangeId": "a3e5ddd312ec",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
-    "salesChangeId": "f8d69a5e24f9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi16GB - Silver",
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
-    "salesChangeId": "f8d69a5e24f9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-05-20T23:20:19.044Z",
     "lastChangeId": "d9c0dd373bbf",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
-    "salesChangeId": "15c82a72d9b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 43.18,
+    "price": 39.28,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-05-10T22:56:32.617Z",
-    "lastChangeId": "27b9508813fb",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-05-16T22:55:43.679Z",
     "lastChangeId": "d0338f4aa5e1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
-    "salesChangeId": "f8d69a5e24f9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 196.87,
+    "price": 179,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-05-21T23:09:44.223Z",
-    "lastChangeId": "ac9766792620",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
     "salesChangeId": "0c09a5bca963"
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 899.17,
+    "price": 909.33,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-04-27T01:14:50.499Z",
-    "lastChangeId": "4f4856a12e91",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 258.44,
+    "price": 258.28,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-05-23T22:59:11.110Z",
+    "lastChangeId": "b88ca8a2be1f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
     "salesChangeId": "f8d69a5e24f9"
@@ -2742,9 +2742,9 @@
     "objectID": "4788009",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
-    "salesChangeId": "d0338f4aa5e1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-21T23:09:44.223Z",
-    "salesChangeId": "ac9766792620"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
-    "salesChangeId": "f8d69a5e24f9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
+    "salesChangeId": "b88ca8a2be1f"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

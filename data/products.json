@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 462.34,
+    "price": 484.39,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-05-19T23:12:56.748Z",
-    "lastChangeId": "97822753627a",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
     "salesChangeId": "41294e2c4523"
@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 105.25,
+    "price": 97.83,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-05-18T23:12:41.815Z",
-    "lastChangeId": "15c82a72d9b1",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-05-17T22:59:35.958Z",
     "lastChangeId": "f958272628b0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
-    "salesChangeId": "0e508ad0cb09"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 22.99,
+    "price": 25.09,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-05-23T22:59:11.110Z",
-    "lastChangeId": "b88ca8a2be1f",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
     "salesChangeId": "1af2511ea9f1"
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
-    "salesChangeId": "0e508ad0cb09"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1064,9 +1064,9 @@
     "objectID": "2515083",
     "updatedAt": "2026-05-09T22:55:53.087Z",
     "lastChangeId": "0f690a9d65fe",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
-    "salesChangeId": "0e508ad0cb09"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1412,9 +1412,9 @@
     "objectID": "1257958",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
-    "salesChangeId": "b88ca8a2be1f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1441,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-05-24T23:03:36.259Z",
     "lastChangeId": "0e508ad0cb09",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-21T23:09:44.223Z",
-    "salesChangeId": "ac9766792620"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 552.07,
+    "price": 564.96,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-05-18T23:12:41.815Z",
-    "lastChangeId": "15c82a72d9b1",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 49.21,
+    "price": 52.19,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
-    "salesChangeId": "b88ca8a2be1f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 39.28,
+    "price": 42.39,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-05-23T22:59:11.110Z",
-    "lastChangeId": "b88ca8a2be1f",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 171.55,
+    "price": 167.82,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-05-22T23:11:37.766Z",
-    "lastChangeId": "f8d69a5e24f9",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
     "salesChangeId": "76d4f082307b"
@@ -2388,9 +2388,9 @@
     "objectID": "9437807",
     "updatedAt": "2026-05-17T22:59:35.958Z",
     "lastChangeId": "f958272628b0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
-    "salesChangeId": "76d4f082307b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 79.36,
+    "price": 75.23,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-05-24T23:03:36.259Z",
-    "lastChangeId": "0e508ad0cb09",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
     "salesChangeId": "97822753627a"
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 151.06,
+    "price": 144.82,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-05-08T23:02:06.557Z",
-    "lastChangeId": "56363d6d594b",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 86.54,
+    "price": 87.69,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-05-14T23:04:17.718Z",
-    "lastChangeId": "69a5d9000725",
+    "updatedAt": "2026-05-25T23:14:29.769Z",
+    "lastChangeId": "9b195e170981",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
     "salesChangeId": "97822753627a"
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-05-23T22:59:11.110Z",
     "lastChangeId": "b88ca8a2be1f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
-    "salesChangeId": "0e508ad0cb09"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
-    "salesChangeId": "d9c0dd373bbf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
-    "salesChangeId": "b88ca8a2be1f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
+    "salesChangeId": "9b195e170981"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

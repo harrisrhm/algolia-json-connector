@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2455.12,
+    "price": 2294.78,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 377.57,
+    "price": 396.86,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,11 +772,11 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-05-19T23:12:56.748Z",
-    "lastChangeId": "97822753627a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
-    "salesChangeId": "27b9508813fb"
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 119.29,
+    "price": 121.3,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-05-21T23:09:44.223Z",
-    "lastChangeId": "ac9766792620",
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 89.46,
+    "price": 96.65,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-05-23T22:59:11.110Z",
-    "lastChangeId": "b88ca8a2be1f",
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 16.32,
+    "price": 16.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-05-20T23:20:19.044Z",
-    "lastChangeId": "d9c0dd373bbf",
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -1441,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-05-24T23:03:36.259Z",
     "lastChangeId": "0e508ad0cb09",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
-    "salesChangeId": "9b195e170981"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 113.52,
+    "price": 109.23,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-05-22T23:11:37.766Z",
-    "lastChangeId": "f8d69a5e24f9",
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
-    "salesChangeId": "9b195e170981"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 42.39,
+    "price": 45.23,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-05-25T23:14:29.769Z",
-    "lastChangeId": "9b195e170981",
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 17.46,
+    "price": 18.61,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,11 +2328,11 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-05-21T23:09:44.223Z",
-    "lastChangeId": "ac9766792620",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
-    "salesChangeId": "56363d6d594b"
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 566.79,
+    "price": 603.69,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-05-16T22:55:43.679Z",
-    "lastChangeId": "d0338f4aa5e1",
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
     "salesChangeId": "b88ca8a2be1f"
@@ -2388,9 +2388,9 @@
     "objectID": "9437807",
     "updatedAt": "2026-05-17T22:59:35.958Z",
     "lastChangeId": "f958272628b0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
-    "salesChangeId": "9b195e170981"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 87.69,
+    "price": 87.6,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-05-25T23:14:29.769Z",
-    "lastChangeId": "9b195e170981",
+    "updatedAt": "2026-05-26T23:16:12.753Z",
+    "lastChangeId": "eebb088aa807",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
     "salesChangeId": "97822753627a"
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-05-23T22:59:11.110Z",
     "lastChangeId": "b88ca8a2be1f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-05-23T22:59:11.110Z",
     "lastChangeId": "b88ca8a2be1f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
-    "salesChangeId": "f8d69a5e24f9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
-    "salesChangeId": "9b195e170981"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
-    "salesChangeId": "9b195e170981"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
+    "salesChangeId": "eebb088aa807"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

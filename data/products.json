@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 33.29,
+    "price": 30.29,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-05-14T23:04:17.718Z",
-    "lastChangeId": "69a5d9000725",
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 52.56,
+    "price": 54.1,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-05-15T23:03:00.958Z",
-    "lastChangeId": "5fcece26f005",
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
     "salesChangeId": "d0338f4aa5e1"
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 117.62,
+    "price": 127.8,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,11 +476,11 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-05-20T23:20:19.044Z",
-    "lastChangeId": "d9c0dd373bbf",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -774,9 +774,9 @@
     "objectID": "3651143",
     "updatedAt": "2026-05-26T23:16:12.753Z",
     "lastChangeId": "eebb088aa807",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
-    "salesChangeId": "eebb088aa807"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -830,9 +830,9 @@
     "objectID": "3290125",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 6.64,
+    "price": 7.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-05-16T22:55:43.679Z",
-    "lastChangeId": "d0338f4aa5e1",
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 67.59,
+    "price": 73.68,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-05-02T01:18:16.276Z",
-    "lastChangeId": "8d90f8222217",
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
     "salesChangeId": "a3e5ddd312ec"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 564.96,
+    "price": 618.84,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-05-25T23:14:29.769Z",
-    "lastChangeId": "9b195e170981",
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1547,7 +1547,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 11.31,
+    "price": 10.53,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1555,8 +1555,8 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-05-11T08:00:42.555Z",
-    "lastChangeId": "1e5909bc1904",
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
     "salesChangeId": "f8d69a5e24f9"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 52.19,
+    "price": 52.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-05-25T23:14:29.769Z",
-    "lastChangeId": "9b195e170981",
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
-    "salesChangeId": "f958272628b0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
-    "salesChangeId": "eebb088aa807"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-05-13T23:13:03.259Z",
     "lastChangeId": "cab8ef09745e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2330,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-05-26T23:16:12.753Z",
     "lastChangeId": "eebb088aa807",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
-    "salesChangeId": "eebb088aa807"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 75.23,
+    "price": 71.41,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-05-25T23:14:29.769Z",
-    "lastChangeId": "9b195e170981",
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
     "salesChangeId": "97822753627a"
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-05-23T22:59:11.110Z",
     "lastChangeId": "b88ca8a2be1f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
-    "salesChangeId": "eebb088aa807"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-05-23T22:59:11.110Z",
     "lastChangeId": "b88ca8a2be1f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
-    "salesChangeId": "eebb088aa807"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 13.73,
+    "price": 13.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-05-24T23:03:36.259Z",
-    "lastChangeId": "0e508ad0cb09",
+    "updatedAt": "2026-05-27T23:22:49.363Z",
+    "lastChangeId": "6f860597b902",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
     "salesChangeId": "0e508ad0cb09"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-05-24T23:03:36.259Z",
     "lastChangeId": "0e508ad0cb09",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
-    "salesChangeId": "f8d69a5e24f9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
+    "salesChangeId": "6f860597b902"
   }
 ]

@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 484.39,
+    "price": 512.54,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-05-25T23:14:29.769Z",
-    "lastChangeId": "9b195e170981",
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
     "salesChangeId": "41294e2c4523"
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.05,
+    "price": 10.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,11 +138,11 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
-    "salesChangeId": "79ad26f2b775"
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
+    "salesChangeId": "ad17f83d984d"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-05-27T23:22:49.363Z",
     "lastChangeId": "6f860597b902",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
-    "salesChangeId": "79ad26f2b775"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
+    "salesChangeId": "ad17f83d984d"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
-    "salesChangeId": "79ad26f2b775"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
+    "salesChangeId": "ad17f83d984d"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 227.38,
+    "price": 243.7,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,11 +1234,11 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-05-15T23:03:00.958Z",
-    "lastChangeId": "5fcece26f005",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
-    "salesChangeId": "79ad26f2b775"
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
+    "salesChangeId": "ad17f83d984d"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 124.7,
+    "price": 120.75,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.79,
+    "price": 9.58,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-05-20T23:20:19.044Z",
-    "lastChangeId": "d9c0dd373bbf",
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 109.23,
+    "price": 117.62,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-05-26T23:16:12.753Z",
-    "lastChangeId": "eebb088aa807",
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
-    "salesChangeId": "79ad26f2b775"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
+    "salesChangeId": "ad17f83d984d"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-28T23:23:51.769Z",
-    "salesChangeId": "b19ffa7410d9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
+    "salesChangeId": "ad17f83d984d"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1893,7 +1893,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 43.72,
+    "price": 46,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1901,11 +1901,11 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-05-07T23:04:48.000Z",
-    "lastChangeId": "fc21809dd3a2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
-    "salesChangeId": "f958272628b0"
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
+    "salesChangeId": "ad17f83d984d"
   },
   {
     "name": "Dynex™ - CAT5/5e RJ-45 In-Line Coupler",
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 16.96,
+    "price": 17.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 65.53,
+    "price": 61.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-05-14T23:04:17.718Z",
-    "lastChangeId": "69a5d9000725",
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-21T23:09:44.223Z",
     "salesChangeId": "ac9766792620"
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
-    "salesChangeId": "eebb088aa807"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
+    "salesChangeId": "ad17f83d984d"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2875,7 +2875,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 75.95,
+    "price": 68.85,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2883,8 +2883,8 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
+    "updatedAt": "2026-05-30T23:06:10.540Z",
+    "lastChangeId": "ad17f83d984d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-28T23:23:51.769Z",
     "salesChangeId": "b19ffa7410d9"

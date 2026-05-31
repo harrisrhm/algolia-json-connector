@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-05-30T23:06:10.540Z",
     "lastChangeId": "ad17f83d984d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-12T23:09:21.668Z",
-    "salesChangeId": "41294e2c4523"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -140,9 +140,9 @@
     "objectID": "4818584",
     "updatedAt": "2026-05-30T23:06:10.540Z",
     "lastChangeId": "ad17f83d984d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
-    "salesChangeId": "ad17f83d984d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 54.1,
+    "price": 56.63,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-05-27T23:22:49.363Z",
-    "lastChangeId": "6f860597b902",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
     "salesChangeId": "d0338f4aa5e1"
@@ -391,9 +391,9 @@
     "objectID": "4274600",
     "updatedAt": "2026-05-05T01:53:12.554Z",
     "lastChangeId": "1dffbc706cfc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
-    "salesChangeId": "79ad26f2b775"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 37.39,
+    "price": 39.62,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-05-24T23:03:36.259Z",
-    "lastChangeId": "0e508ad0cb09",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 30.48,
+    "price": 33.39,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-05-22T23:11:37.766Z",
-    "lastChangeId": "f8d69a5e24f9",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
     "salesChangeId": "9b195e170981"
@@ -1460,7 +1460,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 408.57,
+    "price": 448.12,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1468,8 +1468,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-05-03T01:20:49.714Z",
-    "lastChangeId": "6d449d0f48a5",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 618.84,
+    "price": 624.13,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-05-27T23:22:49.363Z",
-    "lastChangeId": "6f860597b902",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 12.56,
+    "price": 13.28,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-05-24T23:03:36.259Z",
-    "lastChangeId": "0e508ad0cb09",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
     "salesChangeId": "b88ca8a2be1f"
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
-    "salesChangeId": "ad17f83d984d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
-    "salesChangeId": "ad17f83d984d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1903,9 +1903,9 @@
     "objectID": "4494104",
     "updatedAt": "2026-05-30T23:06:10.540Z",
     "lastChangeId": "ad17f83d984d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
-    "salesChangeId": "ad17f83d984d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Dynex™ - CAT5/5e RJ-45 In-Line Coupler",
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-05-20T23:20:19.044Z",
     "lastChangeId": "d9c0dd373bbf",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
-    "salesChangeId": "f8d69a5e24f9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 998.97,
+    "price": 1063.62,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-05-09T22:55:53.087Z",
-    "lastChangeId": "0f690a9d65fe",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 623.73,
+    "price": 612.53,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
     "salesChangeId": "b88ca8a2be1f"
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 21.13,
+    "price": 19.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
     "salesChangeId": "eebb088aa807"
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 141.19,
+    "price": 150.76,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-05-28T23:23:51.769Z",
-    "lastChangeId": "b19ffa7410d9",
+    "updatedAt": "2026-05-31T23:09:35.739Z",
+    "lastChangeId": "d4b128983a12",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -2537,9 +2537,9 @@
     "objectID": "4559900",
     "updatedAt": "2026-05-30T23:06:10.540Z",
     "lastChangeId": "ad17f83d984d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-21T23:09:44.223Z",
-    "salesChangeId": "ac9766792620"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
-    "salesChangeId": "ad17f83d984d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-05-29T23:20:32.897Z",
     "lastChangeId": "79ad26f2b775",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
-    "salesChangeId": "b88ca8a2be1f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
+    "salesChangeId": "d4b128983a12"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

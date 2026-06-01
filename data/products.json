@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-05-30T23:06:10.540Z",
     "lastChangeId": "ad17f83d984d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-05-27T23:22:49.363Z",
     "lastChangeId": "6f860597b902",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
-    "salesChangeId": "ad17f83d984d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 697.96,
+    "price": 753.41,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-05-13T23:13:03.259Z",
-    "lastChangeId": "cab8ef09745e",
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-05-25T23:14:29.769Z",
     "lastChangeId": "9b195e170981",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -507,9 +507,9 @@
     "objectID": "4946038",
     "updatedAt": "2026-05-28T23:23:51.769Z",
     "lastChangeId": "b19ffa7410d9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Logitech - G710+ Mechanical Gaming Keyboard - Black/White",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 151.28,
+    "price": 141.19,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-05-11T01:06:43.186Z",
-    "lastChangeId": "a3e5ddd312ec",
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 16.59,
+    "price": 17.77,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
     "salesChangeId": "9b195e170981"
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 120.75,
+    "price": 108.89,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-05-30T23:06:10.540Z",
-    "lastChangeId": "ad17f83d984d",
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 2459.15,
+    "price": 2672.39,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
     "salesChangeId": "69a5d9000725"
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.93,
+    "price": 2.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-05-13T06:12:05.694Z",
-    "lastChangeId": "46b2b9602f50",
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
     "salesChangeId": "eebb088aa807"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-05-20T23:20:19.044Z",
     "lastChangeId": "d9c0dd373bbf",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 19.91,
+    "price": 19.21,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-05-31T23:09:35.739Z",
-    "lastChangeId": "d4b128983a12",
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
     "salesChangeId": "eebb088aa807"
@@ -2537,9 +2537,9 @@
     "objectID": "4559900",
     "updatedAt": "2026-05-30T23:06:10.540Z",
     "lastChangeId": "ad17f83d984d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-05-23T22:59:11.110Z",
     "lastChangeId": "b88ca8a2be1f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
-    "salesChangeId": "6f860597b902"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 110.08,
+    "price": 105.04,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-05-14T23:04:17.718Z",
-    "lastChangeId": "69a5d9000725",
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-05-14T23:04:17.718Z",
     "lastChangeId": "69a5d9000725",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1183.91,
+    "price": 1244.27,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-05-22T23:11:37.766Z",
-    "lastChangeId": "f8d69a5e24f9",
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 52.98,
+    "price": 57.42,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,11 +2829,11 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "updatedAt": "2026-06-01T23:39:41.034Z",
+    "lastChangeId": "416fc0dfc6a3",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
+    "salesChangeId": "416fc0dfc6a3"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

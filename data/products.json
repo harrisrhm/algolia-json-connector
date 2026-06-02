@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 160.74,
+    "price": 173.37,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-05-21T23:09:44.223Z",
-    "lastChangeId": "ac9766792620",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 19.19,
+    "price": 18.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-05-05T01:53:12.554Z",
-    "lastChangeId": "1dffbc706cfc",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
     "salesChangeId": "f958272628b0"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-05-27T23:22:49.363Z",
     "lastChangeId": "6f860597b902",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
-    "salesChangeId": "416fc0dfc6a3"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
+    "salesChangeId": "f7e39f170844"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 753.41,
+    "price": 776.07,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-06-01T23:39:41.034Z",
-    "lastChangeId": "416fc0dfc6a3",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-05-25T23:14:29.769Z",
     "lastChangeId": "9b195e170981",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
-    "salesChangeId": "416fc0dfc6a3"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
+    "salesChangeId": "f7e39f170844"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -507,9 +507,9 @@
     "objectID": "4946038",
     "updatedAt": "2026-05-28T23:23:51.769Z",
     "lastChangeId": "b19ffa7410d9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
-    "salesChangeId": "416fc0dfc6a3"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
+    "salesChangeId": "f7e39f170844"
   },
   {
     "name": "Logitech - G710+ Mechanical Gaming Keyboard - Black/White",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 141.19,
+    "price": 140.57,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-06-01T23:39:41.034Z",
-    "lastChangeId": "416fc0dfc6a3",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-05-12T08:51:12.042Z",
     "lastChangeId": "6eac113decf9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
-    "salesChangeId": "46b2b9602f50"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
+    "salesChangeId": "f7e39f170844"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 15.15,
+    "price": 13.98,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-05-20T23:20:19.044Z",
     "lastChangeId": "d9c0dd373bbf",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
-    "salesChangeId": "416fc0dfc6a3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
+    "salesChangeId": "f7e39f170844"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
-    "salesChangeId": "15c82a72d9b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
+    "salesChangeId": "f7e39f170844"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-05-12T23:09:21.668Z",
     "lastChangeId": "41294e2c4523",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
+    "salesChangeId": "f7e39f170844"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 17.55,
+    "price": 18.77,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-05-30T23:06:10.540Z",
-    "lastChangeId": "ad17f83d984d",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 612.53,
+    "price": 580.28,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-05-31T23:09:35.739Z",
-    "lastChangeId": "d4b128983a12",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
     "salesChangeId": "b88ca8a2be1f"
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 19.21,
+    "price": 18.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-06-01T23:39:41.034Z",
-    "lastChangeId": "416fc0dfc6a3",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
     "salesChangeId": "eebb088aa807"
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 150.76,
+    "price": 157.76,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-05-31T23:09:35.739Z",
-    "lastChangeId": "d4b128983a12",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 105.04,
+    "price": 97.37,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-06-01T23:39:41.034Z",
-    "lastChangeId": "416fc0dfc6a3",
+    "updatedAt": "2026-06-02T23:54:16.419Z",
+    "lastChangeId": "f7e39f170844",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-05-14T23:04:17.718Z",
     "lastChangeId": "69a5d9000725",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
-    "salesChangeId": "416fc0dfc6a3"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
+    "salesChangeId": "f7e39f170844"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",

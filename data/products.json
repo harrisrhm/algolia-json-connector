@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-06-02T23:54:16.419Z",
     "lastChangeId": "f7e39f170844",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
-    "salesChangeId": "9f1c1e7939f2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -196,9 +196,9 @@
     "objectID": "9435907",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-08T23:02:06.557Z",
-    "salesChangeId": "56363d6d594b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 59.39,
+    "price": 60.14,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-05-28T23:23:51.769Z",
-    "lastChangeId": "b19ffa7410d9",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-05-12T08:51:12.042Z",
     "lastChangeId": "6eac113decf9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
-    "salesChangeId": "f7e39f170844"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 391.9,
+    "price": 382.78,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-05-28T23:23:51.769Z",
-    "lastChangeId": "b19ffa7410d9",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-05-29T23:20:32.897Z",
     "lastChangeId": "79ad26f2b775",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
-    "salesChangeId": "9b195e170981"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.42,
+    "price": 8.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-05-09T22:55:53.087Z",
-    "lastChangeId": "0f690a9d65fe",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
     "salesChangeId": "9b195e170981"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
-    "salesChangeId": "0e508ad0cb09"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 243.7,
+    "price": 246.55,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-05-30T23:06:10.540Z",
-    "lastChangeId": "ad17f83d984d",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
     "salesChangeId": "ad17f83d984d"
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.58,
+    "price": 10.1,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-05-30T23:06:10.540Z",
-    "lastChangeId": "ad17f83d984d",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 624.13,
+    "price": 590.51,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-05-31T23:09:35.739Z",
-    "lastChangeId": "d4b128983a12",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1804,7 +1804,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 172.17,
+    "price": 159.56,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1812,8 +1812,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-05-16T22:55:43.679Z",
-    "lastChangeId": "d0338f4aa5e1",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-05-20T23:20:19.044Z",
     "lastChangeId": "d9c0dd373bbf",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
-    "salesChangeId": "f7e39f170844"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
-    "salesChangeId": "f7e39f170844"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-05-12T23:09:21.668Z",
     "lastChangeId": "41294e2c4523",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
-    "salesChangeId": "f7e39f170844"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 18.77,
+    "price": 20.14,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-06-02T23:54:16.419Z",
-    "lastChangeId": "f7e39f170844",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-05-23T22:59:11.110Z",
     "lastChangeId": "b88ca8a2be1f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
-    "salesChangeId": "416fc0dfc6a3"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
+    "salesChangeId": "9c0d8215d33f"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 57.75,
+    "price": 59.02,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-05-14T23:04:17.718Z",
-    "lastChangeId": "69a5d9000725",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 57.42,
+    "price": 61,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-06-01T23:39:41.034Z",
-    "lastChangeId": "416fc0dfc6a3",
+    "updatedAt": "2026-06-03T23:51:23.203Z",
+    "lastChangeId": "9c0d8215d33f",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
     "salesChangeId": "416fc0dfc6a3"

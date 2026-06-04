@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 512.54,
+    "price": 518.45,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-05-30T23:06:10.540Z",
-    "lastChangeId": "ad17f83d984d",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
     "salesChangeId": "416fc0dfc6a3"
@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-05-15T23:03:00.958Z",
     "lastChangeId": "5fcece26f005",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-06-02T23:54:16.419Z",
     "lastChangeId": "f7e39f170844",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
-    "salesChangeId": "9c0d8215d33f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -196,9 +196,9 @@
     "objectID": "9435907",
     "updatedAt": "2026-05-22T23:11:37.766Z",
     "lastChangeId": "f8d69a5e24f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
-    "salesChangeId": "9c0d8215d33f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 25.09,
+    "price": 26.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-05-25T23:14:29.769Z",
-    "lastChangeId": "9b195e170981",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:19:12.211Z",
     "salesChangeId": "1af2511ea9f1"
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-05-29T23:20:32.897Z",
     "lastChangeId": "79ad26f2b775",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
-    "salesChangeId": "9c0d8215d33f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 50.08,
+    "price": 50.13,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,8 +940,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-05-20T23:20:19.044Z",
-    "lastChangeId": "d9c0dd373bbf",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
     "salesChangeId": "79ad26f2b775"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
-    "salesChangeId": "9c0d8215d33f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 7.68,
+    "price": 7.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-05-28T23:23:51.769Z",
-    "lastChangeId": "b19ffa7410d9",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-06-02T23:54:16.419Z",
     "lastChangeId": "f7e39f170844",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
-    "salesChangeId": "d9c0dd373bbf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 33.39,
+    "price": 35.19,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-05-31T23:09:35.739Z",
-    "lastChangeId": "d4b128983a12",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
     "salesChangeId": "9b195e170981"
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 64.93,
+    "price": 62.34,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
     "salesChangeId": "97822753627a"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-05-07T01:43:22.040Z",
     "lastChangeId": "0c09a5bca963",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
-    "salesChangeId": "9c0d8215d33f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 45.23,
+    "price": 41.4,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-05-26T23:16:12.753Z",
-    "lastChangeId": "eebb088aa807",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.17,
+    "price": 6.04,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-05-18T23:12:41.815Z",
-    "lastChangeId": "15c82a72d9b1",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-05-13T23:13:03.259Z",
     "lastChangeId": "cab8ef09745e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-28T23:23:51.769Z",
-    "salesChangeId": "b19ffa7410d9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 580.28,
+    "price": 532.39,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-06-02T23:54:16.419Z",
-    "lastChangeId": "f7e39f170844",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
     "salesChangeId": "b88ca8a2be1f"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-10T22:56:32.617Z",
-    "salesChangeId": "27b9508813fb"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
+    "salesChangeId": "b742160170f2"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 909.33,
+    "price": 838.01,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-05-23T22:59:11.110Z",
-    "lastChangeId": "b88ca8a2be1f",
+    "updatedAt": "2026-06-04T23:15:38.930Z",
+    "lastChangeId": "b742160170f2",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"

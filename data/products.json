@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-05-28T23:23:51.769Z",
     "lastChangeId": "b19ffa7410d9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-05-15T23:03:00.958Z",
     "lastChangeId": "5fcece26f005",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
-    "salesChangeId": "b742160170f2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-05-08T23:02:06.557Z",
     "lastChangeId": "56363d6d594b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
-    "salesChangeId": "b742160170f2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-06-02T23:54:16.419Z",
     "lastChangeId": "f7e39f170844",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
-    "salesChangeId": "d9c0dd373bbf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 127.8,
+    "price": 129.49,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,11 +476,11 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-05-27T23:22:49.363Z",
-    "lastChangeId": "6f860597b902",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-28T23:23:51.769Z",
-    "salesChangeId": "b19ffa7410d9"
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 140.57,
+    "price": 132.74,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-06-02T23:54:16.419Z",
-    "lastChangeId": "f7e39f170844",
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 18.86,
+    "price": 17.86,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-05-23T22:59:11.110Z",
-    "lastChangeId": "b88ca8a2be1f",
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 20.56,
+    "price": 19.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-05-21T23:09:44.223Z",
-    "lastChangeId": "ac9766792620",
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
     "salesChangeId": "ad17f83d984d"
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 50.13,
+    "price": 50.72,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,8 +940,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-06-04T23:15:38.930Z",
-    "lastChangeId": "b742160170f2",
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
     "salesChangeId": "79ad26f2b775"
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-06-02T23:54:16.419Z",
     "lastChangeId": "f7e39f170844",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
-    "salesChangeId": "b742160170f2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 108.89,
+    "price": 104.24,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-06-01T23:39:41.034Z",
-    "lastChangeId": "416fc0dfc6a3",
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-05-24T23:03:36.259Z",
     "lastChangeId": "0e508ad0cb09",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-21T23:09:44.223Z",
-    "salesChangeId": "ac9766792620"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 42.39,
+    "price": 44.32,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-05-20T23:20:19.044Z",
-    "lastChangeId": "d9c0dd373bbf",
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.04,
+    "price": 6.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-06-04T23:15:38.930Z",
-    "lastChangeId": "b742160170f2",
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-05-13T23:13:03.259Z",
     "lastChangeId": "cab8ef09745e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
-    "salesChangeId": "b742160170f2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2291,7 +2291,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 322.2,
+    "price": 310.42,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2299,8 +2299,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-05-12T23:09:21.668Z",
-    "lastChangeId": "41294e2c4523",
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
-    "salesChangeId": "b742160170f2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 83.74,
+    "price": 83.58,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
+    "updatedAt": "2026-06-05T23:17:22.905Z",
+    "lastChangeId": "e871f616fa39",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
     "salesChangeId": "97822753627a"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-05-30T23:06:10.540Z",
     "lastChangeId": "ad17f83d984d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-28T23:23:51.769Z",
-    "salesChangeId": "b19ffa7410d9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
+    "salesChangeId": "e871f616fa39"
   }
 ]

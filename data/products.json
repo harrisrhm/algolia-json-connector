@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-05-15T23:03:00.958Z",
     "lastChangeId": "5fcece26f005",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
-    "salesChangeId": "e871f616fa39"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-06-02T23:54:16.419Z",
     "lastChangeId": "f7e39f170844",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
-    "salesChangeId": "b742160170f2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 56.63,
+    "price": 56.29,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-05-31T23:09:35.739Z",
-    "lastChangeId": "d4b128983a12",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
     "salesChangeId": "d0338f4aa5e1"
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 129.49,
+    "price": 135.48,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-06-05T23:17:22.905Z",
-    "lastChangeId": "e871f616fa39",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
     "salesChangeId": "56b7f269aaba"
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
-    "salesChangeId": "56b7f269aaba"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-05-16T22:55:43.679Z",
     "lastChangeId": "d0338f4aa5e1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
-    "salesChangeId": "56b7f269aaba"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-05-27T23:22:49.363Z",
     "lastChangeId": "6f860597b902",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T01:06:43.186Z",
-    "salesChangeId": "a3e5ddd312ec"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-05-31T23:09:35.739Z",
     "lastChangeId": "d4b128983a12",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
-    "salesChangeId": "56b7f269aaba"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 590.51,
+    "price": 622.35,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-06-03T23:51:23.203Z",
-    "lastChangeId": "9c0d8215d33f",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1748,7 +1748,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 43.65,
+    "price": 40.3,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1756,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-05-07T01:43:22.040Z",
-    "lastChangeId": "0c09a5bca963",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
     "salesChangeId": "b742160170f2"
@@ -1835,7 +1835,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 28.76,
+    "price": 30.28,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1843,8 +1843,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-06-06T23:11:01.163Z",
-    "lastChangeId": "56b7f269aaba",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
     "salesChangeId": "56b7f269aaba"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 27.32,
+    "price": 26.86,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-05-20T23:20:19.044Z",
-    "lastChangeId": "d9c0dd373bbf",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -2330,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-06-03T23:51:23.203Z",
     "lastChangeId": "9c0d8215d33f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
-    "salesChangeId": "56b7f269aaba"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 18.18,
+    "price": 19.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-06-02T23:54:16.419Z",
-    "lastChangeId": "f7e39f170844",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
     "salesChangeId": "eebb088aa807"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
-    "salesChangeId": "e871f616fa39"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-06-05T23:17:22.905Z",
     "lastChangeId": "e871f616fa39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
-    "salesChangeId": "97822753627a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-05-28T23:23:51.769Z",
     "lastChangeId": "b19ffa7410d9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
-    "salesChangeId": "56b7f269aaba"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
+    "salesChangeId": "a1dc5f8da831"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 59.02,
+    "price": 60.56,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-06-03T23:51:23.203Z",
-    "lastChangeId": "9c0d8215d33f",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1244.27,
+    "price": 1347.48,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-06-01T23:39:41.034Z",
-    "lastChangeId": "416fc0dfc6a3",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -2875,7 +2875,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 68.85,
+    "price": 73.4,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2883,8 +2883,8 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-05-30T23:06:10.540Z",
-    "lastChangeId": "ad17f83d984d",
+    "updatedAt": "2026-06-07T23:13:18.549Z",
+    "lastChangeId": "a1dc5f8da831",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
     "salesChangeId": "56b7f269aaba"

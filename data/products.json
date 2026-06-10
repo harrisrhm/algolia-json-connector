@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-05-15T23:03:00.958Z",
     "lastChangeId": "5fcece26f005",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-08T23:17:10.751Z",
-    "salesChangeId": "f5e3dba96e81"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.41,
+    "price": 9.98,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-05-08T23:02:06.557Z",
-    "lastChangeId": "56363d6d594b",
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
     "salesChangeId": "e871f616fa39"
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 18.41,
+    "price": 20.21,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-06-09T23:22:53.223Z",
-    "lastChangeId": "77a044cbfe3e",
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
     "salesChangeId": "f958272628b0"
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 60.14,
+    "price": 55.09,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-06-03T23:51:23.203Z",
-    "lastChangeId": "9c0d8215d33f",
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 382.78,
+    "price": 377.54,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-06-03T23:51:23.203Z",
-    "lastChangeId": "9c0d8215d33f",
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 604.3,
+    "price": 601.89,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,11 +911,11 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-05-29T23:20:32.897Z",
-    "lastChangeId": "79ad26f2b775",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
-    "salesChangeId": "77a044cbfe3e"
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-05-18T23:12:41.815Z",
     "lastChangeId": "15c82a72d9b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
-    "salesChangeId": "77a044cbfe3e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 240.73,
+    "price": 221.41,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-05-22T23:11:37.766Z",
-    "lastChangeId": "f8d69a5e24f9",
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
     "salesChangeId": "416fc0dfc6a3"
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 24.92,
+    "price": 26.51,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,11 +1785,11 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-05-18T23:12:41.815Z",
-    "lastChangeId": "15c82a72d9b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-13T23:13:03.259Z",
-    "salesChangeId": "cab8ef09745e"
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-05-20T23:20:19.044Z",
     "lastChangeId": "d9c0dd373bbf",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
-    "salesChangeId": "77a044cbfe3e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-06-07T23:13:18.549Z",
     "lastChangeId": "a1dc5f8da831",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
-    "salesChangeId": "9c0d8215d33f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 1045.69,
+    "price": 991.06,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-06-08T23:17:10.751Z",
-    "lastChangeId": "f5e3dba96e81",
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-06-05T23:17:22.905Z",
     "lastChangeId": "e871f616fa39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-08T23:17:10.751Z",
-    "salesChangeId": "f5e3dba96e81"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2291,7 +2291,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 310.42,
+    "price": 284.23,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2299,8 +2299,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-06-05T23:17:22.905Z",
-    "lastChangeId": "e871f616fa39",
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-05-27T23:22:49.363Z",
     "lastChangeId": "6f860597b902",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
-    "salesChangeId": "77a044cbfe3e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-05-23T22:59:11.110Z",
     "lastChangeId": "b88ca8a2be1f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
-    "salesChangeId": "77a044cbfe3e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
-    "salesChangeId": "9c0d8215d33f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
+    "salesChangeId": "e36641b0285f"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 12.97,
+    "price": 12.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-06-06T23:11:01.163Z",
-    "lastChangeId": "56b7f269aaba",
+    "updatedAt": "2026-06-10T23:40:55.607Z",
+    "lastChangeId": "e36641b0285f",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
     "salesChangeId": "0e508ad0cb09"

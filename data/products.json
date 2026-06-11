@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-05-28T23:23:51.769Z",
     "lastChangeId": "b19ffa7410d9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
-    "salesChangeId": "56b7f269aaba"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-05-15T23:03:00.958Z",
     "lastChangeId": "5fcece26f005",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
-    "salesChangeId": "e36641b0285f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 135.48,
+    "price": 138.88,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-06-07T23:13:18.549Z",
-    "lastChangeId": "a1dc5f8da831",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
     "salesChangeId": "56b7f269aaba"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 28.94,
+    "price": 29.04,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-05-22T23:11:37.766Z",
-    "lastChangeId": "f8d69a5e24f9",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-28T23:23:51.769Z",
     "salesChangeId": "b19ffa7410d9"
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 50.72,
+    "price": 52.22,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,8 +940,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-06-05T23:17:22.905Z",
-    "lastChangeId": "e871f616fa39",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
     "salesChangeId": "79ad26f2b775"
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 2442.55,
+    "price": 2445.34,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-06-06T23:11:01.163Z",
-    "lastChangeId": "56b7f269aaba",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
     "salesChangeId": "69a5d9000725"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 55.68,
+    "price": 54.94,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-05-28T23:23:51.769Z",
-    "lastChangeId": "b19ffa7410d9",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-19T23:12:56.748Z",
-    "salesChangeId": "97822753627a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
-    "salesChangeId": "e36641b0285f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1835,7 +1835,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 27.81,
+    "price": 30.22,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1843,8 +1843,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-06-08T23:17:10.751Z",
-    "lastChangeId": "f5e3dba96e81",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
     "salesChangeId": "56b7f269aaba"
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 142.77,
+    "price": 136.62,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-05-16T22:55:43.679Z",
-    "lastChangeId": "d0338f4aa5e1",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
     "salesChangeId": "1e5909bc1904"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-06-07T23:13:18.549Z",
     "lastChangeId": "a1dc5f8da831",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
-    "salesChangeId": "e36641b0285f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.55,
+    "price": 6.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-06-05T23:17:22.905Z",
-    "lastChangeId": "e871f616fa39",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
     "salesChangeId": "e36641b0285f"
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
-    "salesChangeId": "9c0d8215d33f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-06-09T23:22:53.223Z",
     "lastChangeId": "77a044cbfe3e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
-    "salesChangeId": "b88ca8a2be1f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-05-27T23:22:49.363Z",
     "lastChangeId": "6f860597b902",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
-    "salesChangeId": "e36641b0285f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
-    "salesChangeId": "e36641b0285f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 59.38,
+    "price": 54.13,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-06-08T23:17:10.751Z",
-    "lastChangeId": "f5e3dba96e81",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1303.19,
+    "price": 1305.47,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-06-08T23:17:10.751Z",
-    "lastChangeId": "f5e3dba96e81",
+    "updatedAt": "2026-06-11T23:43:51.808Z",
+    "lastChangeId": "87de3eddf878",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -2858,9 +2858,9 @@
     "objectID": "4826001",
     "updatedAt": "2026-05-16T22:55:43.679Z",
     "lastChangeId": "d0338f4aa5e1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
-    "salesChangeId": "d0338f4aa5e1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
+    "salesChangeId": "87de3eddf878"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
-    "salesChangeId": "416fc0dfc6a3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-05-28T23:23:51.769Z",
     "lastChangeId": "b19ffa7410d9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
-    "salesChangeId": "87de3eddf878"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.43,
+    "price": 11.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-05-30T23:06:10.540Z",
-    "lastChangeId": "ad17f83d984d",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -391,9 +391,9 @@
     "objectID": "4274600",
     "updatedAt": "2026-05-05T01:53:12.554Z",
     "lastChangeId": "1dffbc706cfc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3236.28,
+    "price": 3033.04,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-05-20T23:20:19.044Z",
-    "lastChangeId": "d9c0dd373bbf",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -714,9 +714,9 @@
     "objectID": "1312503",
     "updatedAt": "2026-06-09T23:22:53.223Z",
     "lastChangeId": "77a044cbfe3e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -961,7 +961,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 4.61,
+    "price": 4.6,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-06-08T23:17:10.751Z",
-    "lastChangeId": "f5e3dba96e81",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 8.38,
+    "price": 8.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-06-09T23:22:53.223Z",
-    "lastChangeId": "77a044cbfe3e",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
-    "salesChangeId": "87de3eddf878"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1835,7 +1835,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 30.22,
+    "price": 32.1,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1843,8 +1843,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-06-11T23:43:51.808Z",
-    "lastChangeId": "87de3eddf878",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
     "salesChangeId": "56b7f269aaba"
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 136.62,
+    "price": 137.06,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-06-11T23:43:51.808Z",
-    "lastChangeId": "87de3eddf878",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
     "salesChangeId": "1e5909bc1904"
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 26.51,
+    "price": 27.04,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-05-17T22:59:35.958Z",
-    "lastChangeId": "f958272628b0",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
     "salesChangeId": "f958272628b0"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-06-07T23:13:18.549Z",
     "lastChangeId": "a1dc5f8da831",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
-    "salesChangeId": "87de3eddf878"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
-    "salesChangeId": "6f860597b902"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
-    "salesChangeId": "87de3eddf878"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 18.74,
+    "price": 17.98,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-06-09T23:22:53.223Z",
-    "lastChangeId": "77a044cbfe3e",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
     "salesChangeId": "a1dc5f8da831"
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-06-09T23:22:53.223Z",
     "lastChangeId": "77a044cbfe3e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
-    "salesChangeId": "87de3eddf878"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 58.04,
+    "price": 55.66,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-06-09T23:22:53.223Z",
-    "lastChangeId": "77a044cbfe3e",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
     "salesChangeId": "416fc0dfc6a3"
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 61,
+    "price": 64.99,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-06-03T23:51:23.203Z",
-    "lastChangeId": "9c0d8215d33f",
+    "updatedAt": "2026-06-12T23:24:44.710Z",
+    "lastChangeId": "e9f04187f476",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
     "salesChangeId": "416fc0dfc6a3"
@@ -2858,9 +2858,9 @@
     "objectID": "4826001",
     "updatedAt": "2026-05-16T22:55:43.679Z",
     "lastChangeId": "d0338f4aa5e1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
-    "salesChangeId": "87de3eddf878"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
+    "salesChangeId": "e9f04187f476"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 138.45,
+    "price": 125.95,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-05-19T23:12:56.748Z",
-    "lastChangeId": "97822753627a",
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-21T23:09:44.223Z",
     "salesChangeId": "ac9766792620"
@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
+    "salesChangeId": "99ce7b4bf48e"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 776.07,
+    "price": 772.94,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,11 +308,11 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-06-02T23:54:16.419Z",
-    "lastChangeId": "f7e39f170844",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
-    "salesChangeId": "56b7f269aaba"
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
+    "salesChangeId": "99ce7b4bf48e"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-06-06T23:11:01.163Z",
     "lastChangeId": "56b7f269aaba",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
-    "salesChangeId": "7ad238fd8db8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
+    "salesChangeId": "99ce7b4bf48e"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 32.75,
+    "price": 35.35,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-05-12T08:51:12.042Z",
-    "lastChangeId": "6eac113decf9",
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -714,9 +714,9 @@
     "objectID": "1312503",
     "updatedAt": "2026-06-09T23:22:53.223Z",
     "lastChangeId": "77a044cbfe3e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
+    "salesChangeId": "99ce7b4bf48e"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 26.03,
+    "price": 27.89,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-06-04T23:15:38.930Z",
-    "lastChangeId": "b742160170f2",
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
     "salesChangeId": "a1dc5f8da831"
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 372.25,
+    "price": 401.85,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-05-16T22:55:43.679Z",
-    "lastChangeId": "d0338f4aa5e1",
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 54.94,
+    "price": 51.22,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-06-11T23:43:51.808Z",
-    "lastChangeId": "87de3eddf878",
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
+    "salesChangeId": "99ce7b4bf48e"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 118.38,
+    "price": 114.23,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-06-06T23:11:01.163Z",
-    "lastChangeId": "56b7f269aaba",
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 52.74,
+    "price": 51.25,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-05-27T23:22:49.363Z",
-    "lastChangeId": "6f860597b902",
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-06-07T23:13:18.549Z",
     "lastChangeId": "a1dc5f8da831",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
+    "salesChangeId": "99ce7b4bf48e"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
+    "salesChangeId": "99ce7b4bf48e"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-06-05T23:17:22.905Z",
     "lastChangeId": "e871f616fa39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-08T23:17:10.751Z",
-    "salesChangeId": "f5e3dba96e81"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
+    "salesChangeId": "99ce7b4bf48e"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1305.47,
+    "price": 1264.23,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-06-11T23:43:51.808Z",
-    "lastChangeId": "87de3eddf878",
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 64.99,
+    "price": 60.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-06-12T23:24:44.710Z",
-    "lastChangeId": "e9f04187f476",
+    "updatedAt": "2026-06-13T23:14:14.293Z",
+    "lastChangeId": "99ce7b4bf48e",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
     "salesChangeId": "416fc0dfc6a3"

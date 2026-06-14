@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 518.45,
+    "price": 493.88,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-06-04T23:15:38.930Z",
-    "lastChangeId": "b742160170f2",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
     "salesChangeId": "99ce7b4bf48e"
@@ -70,7 +70,7 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 50.53,
+    "price": 45.52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -78,8 +78,8 @@
     "popularity": 5309,
     "rating": 3,
     "objectID": "4388600",
-    "updatedAt": "2026-05-28T23:23:51.769Z",
-    "lastChangeId": "b19ffa7410d9",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
     "salesChangeId": "e9f04187f476"
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 11.05,
+    "price": 10.93,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-06-12T23:24:44.710Z",
-    "lastChangeId": "e9f04187f476",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 19.89,
+    "price": 21.38,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-05-22T23:11:37.766Z",
-    "lastChangeId": "f8d69a5e24f9",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
     "salesChangeId": "b742160170f2"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-05-27T23:22:49.363Z",
     "lastChangeId": "6f860597b902",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
-    "salesChangeId": "f7e39f170844"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-06-13T23:14:14.293Z",
     "lastChangeId": "99ce7b4bf48e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
-    "salesChangeId": "99ce7b4bf48e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -391,9 +391,9 @@
     "objectID": "4274600",
     "updatedAt": "2026-05-05T01:53:12.554Z",
     "lastChangeId": "1dffbc706cfc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 55.09,
+    "price": 58.25,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-06-06T23:11:01.163Z",
     "lastChangeId": "56b7f269aaba",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
-    "salesChangeId": "99ce7b4bf48e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-12T08:51:12.042Z",
-    "salesChangeId": "6eac113decf9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-06-13T23:14:14.293Z",
     "lastChangeId": "99ce7b4bf48e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
-    "salesChangeId": "a1dc5f8da831"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 401.85,
+    "price": 390.97,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-06-13T23:14:14.293Z",
-    "lastChangeId": "99ce7b4bf48e",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 121.3,
+    "price": 111.56,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-05-26T23:16:12.753Z",
-    "lastChangeId": "eebb088aa807",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 27.35,
+    "price": 26.93,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-06-09T23:22:53.223Z",
-    "lastChangeId": "77a044cbfe3e",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
     "salesChangeId": "eebb088aa807"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
-    "salesChangeId": "99ce7b4bf48e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-05-05T01:41:18.809Z",
     "lastChangeId": "582caa54af1e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
-    "salesChangeId": "79ad26f2b775"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 26.51,
+    "price": 28.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
     "salesChangeId": "87de3eddf878"
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-06-01T23:39:41.034Z",
     "lastChangeId": "416fc0dfc6a3",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
-    "salesChangeId": "eebb088aa807"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-06-05T23:17:22.905Z",
     "lastChangeId": "e871f616fa39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
-    "salesChangeId": "99ce7b4bf48e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
+    "salesChangeId": "636a68def934"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2875,7 +2875,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 73.4,
+    "price": 69.49,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2883,8 +2883,8 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-06-07T23:13:18.549Z",
-    "lastChangeId": "a1dc5f8da831",
+    "updatedAt": "2026-06-14T23:17:47.892Z",
+    "lastChangeId": "636a68def934",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
     "salesChangeId": "56b7f269aaba"

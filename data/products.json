@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-06-13T23:14:14.293Z",
     "lastChangeId": "99ce7b4bf48e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-06-14T23:17:47.892Z",
     "lastChangeId": "636a68def934",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
-    "salesChangeId": "99ce7b4bf48e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 326.68,
+    "price": 342.21,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-06-15T23:53:00.122Z",
-    "lastChangeId": "94e62a1a28d0",
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
     "salesChangeId": "636a68def934"
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2294.78,
+    "price": 2142.66,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-05-26T23:16:12.753Z",
-    "lastChangeId": "eebb088aa807",
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -567,9 +567,9 @@
     "objectID": "5184121",
     "updatedAt": "2026-06-12T23:24:44.710Z",
     "lastChangeId": "e9f04187f476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -830,9 +830,9 @@
     "objectID": "3290125",
     "updatedAt": "2026-06-11T23:43:51.808Z",
     "lastChangeId": "87de3eddf878",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-06-01T23:39:41.034Z",
     "lastChangeId": "416fc0dfc6a3",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
-    "salesChangeId": "e36641b0285f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 36.26,
+    "price": 38.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,11 +1033,11 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-05-24T23:03:36.259Z",
-    "lastChangeId": "0e508ad0cb09",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
-    "salesChangeId": "79ad26f2b775"
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 111.56,
+    "price": 117.68,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-06-14T23:17:47.892Z",
-    "lastChangeId": "636a68def934",
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 2445.34,
+    "price": 2568.42,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-06-11T23:43:51.808Z",
-    "lastChangeId": "87de3eddf878",
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
     "salesChangeId": "69a5d9000725"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 51.22,
+    "price": 47.3,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-06-13T23:14:14.293Z",
-    "lastChangeId": "99ce7b4bf48e",
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 28.8,
+    "price": 27.02,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-06-14T23:17:47.892Z",
-    "lastChangeId": "636a68def934",
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
     "salesChangeId": "87de3eddf878"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.75,
+    "price": 7.17,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-06-11T23:43:51.808Z",
-    "lastChangeId": "87de3eddf878",
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
     "salesChangeId": "e36641b0285f"
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 71.41,
+    "price": 64.35,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-05-27T23:22:49.363Z",
-    "lastChangeId": "6f860597b902",
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
     "salesChangeId": "87de3eddf878"
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-06-05T23:17:22.905Z",
     "lastChangeId": "e871f616fa39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
-    "salesChangeId": "636a68def934"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2537,9 +2537,9 @@
     "objectID": "4559900",
     "updatedAt": "2026-06-12T23:24:44.710Z",
     "lastChangeId": "e9f04187f476",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-01T23:39:41.034Z",
-    "salesChangeId": "416fc0dfc6a3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
+    "salesChangeId": "66acbca9b845"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 102.62,
+    "price": 98.31,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-06-15T23:53:00.122Z",
-    "lastChangeId": "94e62a1a28d0",
+    "updatedAt": "2026-06-16T23:40:58.689Z",
+    "lastChangeId": "66acbca9b845",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"

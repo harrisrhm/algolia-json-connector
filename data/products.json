@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-06-14T23:17:47.892Z",
     "lastChangeId": "636a68def934",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
-    "salesChangeId": "66acbca9b845"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
+    "salesChangeId": "3f39d665e172"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -70,7 +70,7 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 45.52,
+    "price": 48.47,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -78,8 +78,8 @@
     "popularity": 5309,
     "rating": 3,
     "objectID": "4388600",
-    "updatedAt": "2026-06-14T23:17:47.892Z",
-    "lastChangeId": "636a68def934",
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
     "salesChangeId": "e9f04187f476"
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 11.78,
+    "price": 11.13,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-06-15T23:53:00.122Z",
-    "lastChangeId": "94e62a1a28d0",
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 22.89,
+    "price": 23.4,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-06-15T23:53:00.122Z",
-    "lastChangeId": "94e62a1a28d0",
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
     "salesChangeId": "b742160170f2"
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
-    "salesChangeId": "66acbca9b845"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
+    "salesChangeId": "3f39d665e172"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.2,
+    "price": 8.1,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-06-03T23:51:23.203Z",
-    "lastChangeId": "9c0d8215d33f",
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
     "salesChangeId": "9b195e170981"
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 8.18,
+    "price": 7.6,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-06-12T23:24:44.710Z",
-    "lastChangeId": "e9f04187f476",
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:45:19.861Z",
     "salesChangeId": "9f1c1e7939f2"
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 48.21,
+    "price": 48.51,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,8 +1176,8 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-06-09T23:22:53.223Z",
-    "lastChangeId": "77a044cbfe3e",
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
     "salesChangeId": "1dffbc706cfc"
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 71.77,
+    "price": 68.29,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,11 +1352,11 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-06-09T23:22:53.223Z",
-    "lastChangeId": "77a044cbfe3e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-08T23:17:10.751Z",
-    "salesChangeId": "f5e3dba96e81"
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
+    "salesChangeId": "3f39d665e172"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1497,9 +1497,9 @@
     "objectID": "8529018",
     "updatedAt": "2026-06-16T23:40:58.689Z",
     "lastChangeId": "66acbca9b845",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
+    "salesChangeId": "3f39d665e172"
   },
   {
     "name": "Bose® - CineMate® 15 Home Theater Speaker System - Black",
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-06-07T23:13:18.549Z",
     "lastChangeId": "a1dc5f8da831",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
-    "salesChangeId": "99ce7b4bf48e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
+    "salesChangeId": "3f39d665e172"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 514.6,
+    "price": 507.52,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-06-15T23:53:00.122Z",
-    "lastChangeId": "94e62a1a28d0",
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
     "salesChangeId": "e9f04187f476"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-06-08T23:17:10.751Z",
     "lastChangeId": "f5e3dba96e81",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-08T23:17:10.751Z",
-    "salesChangeId": "f5e3dba96e81"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
+    "salesChangeId": "3f39d665e172"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-06-05T23:17:22.905Z",
     "lastChangeId": "e871f616fa39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
-    "salesChangeId": "66acbca9b845"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
+    "salesChangeId": "3f39d665e172"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2537,9 +2537,9 @@
     "objectID": "4559900",
     "updatedAt": "2026-06-12T23:24:44.710Z",
     "lastChangeId": "e9f04187f476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
-    "salesChangeId": "66acbca9b845"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
+    "salesChangeId": "3f39d665e172"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 179,
+    "price": 178.77,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-05-23T22:59:11.110Z",
-    "lastChangeId": "b88ca8a2be1f",
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
     "salesChangeId": "e36641b0285f"
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 98.31,
+    "price": 104.82,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-06-16T23:40:58.689Z",
-    "lastChangeId": "66acbca9b845",
+    "updatedAt": "2026-06-17T23:44:38.351Z",
+    "lastChangeId": "3f39d665e172",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"

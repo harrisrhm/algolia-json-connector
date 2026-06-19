@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-06-02T23:54:16.419Z",
     "lastChangeId": "f7e39f170844",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-08T23:17:10.751Z",
-    "salesChangeId": "f5e3dba96e81"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 789.17,
+    "price": 745.16,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-06-15T23:53:00.122Z",
-    "lastChangeId": "94e62a1a28d0",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
     "salesChangeId": "636a68def934"
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2142.66,
+    "price": 2283.95,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-06-16T23:40:58.689Z",
-    "lastChangeId": "66acbca9b845",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-06-11T23:43:51.808Z",
     "lastChangeId": "87de3eddf878",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 19.78,
+    "price": 18.82,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-06-05T23:17:22.905Z",
-    "lastChangeId": "e871f616fa39",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
     "salesChangeId": "ad17f83d984d"
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 38.12,
+    "price": 40.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-06-16T23:40:58.689Z",
-    "lastChangeId": "66acbca9b845",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
     "salesChangeId": "66911d3fea0c"
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.1,
+    "price": 8.71,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-06-17T23:44:38.351Z",
-    "lastChangeId": "3f39d665e172",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
     "salesChangeId": "9b195e170981"
@@ -1151,9 +1151,9 @@
     "objectID": "2631316",
     "updatedAt": "2026-06-17T23:44:38.351Z",
     "lastChangeId": "3f39d665e172",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 236.48,
+    "price": 248.1,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-06-06T23:11:01.163Z",
-    "lastChangeId": "56b7f269aaba",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
     "salesChangeId": "ad17f83d984d"
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-06-18T23:52:04.292Z",
     "lastChangeId": "66911d3fea0c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
-    "salesChangeId": "a1dc5f8da831"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-06-12T23:24:44.710Z",
     "lastChangeId": "e9f04187f476",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
-    "salesChangeId": "56b7f269aaba"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 46.84,
+    "price": 47.14,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 27.04,
+    "price": 25.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-06-12T23:24:44.710Z",
-    "lastChangeId": "e9f04187f476",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
     "salesChangeId": "f958272628b0"
@@ -2129,9 +2129,9 @@
     "objectID": "1197018",
     "updatedAt": "2026-06-08T23:17:10.751Z",
     "lastChangeId": "f5e3dba96e81",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T00:32:12.557Z",
-    "salesChangeId": "76d4f082307b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-05-13T23:13:03.259Z",
     "lastChangeId": "cab8ef09745e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
-    "salesChangeId": "e871f616fa39"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 150.51,
+    "price": 137.86,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-06-08T23:17:10.751Z",
-    "lastChangeId": "f5e3dba96e81",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 83.58,
+    "price": 82.17,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-06-05T23:17:22.905Z",
-    "lastChangeId": "e871f616fa39",
+    "updatedAt": "2026-06-19T23:06:28.097Z",
+    "lastChangeId": "95100ed35c94",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
     "salesChangeId": "3f39d665e172"
@@ -2624,9 +2624,9 @@
     "objectID": "3362109",
     "updatedAt": "2026-06-17T23:44:38.351Z",
     "lastChangeId": "3f39d665e172",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-05-28T23:23:51.769Z",
     "lastChangeId": "b19ffa7410d9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-06-13T23:14:14.293Z",
     "lastChangeId": "99ce7b4bf48e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
+    "salesChangeId": "95100ed35c94"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-06-02T23:54:16.419Z",
     "lastChangeId": "f7e39f170844",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
-    "salesChangeId": "95100ed35c94"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 138.88,
+    "price": 128.55,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-06-11T23:43:51.808Z",
-    "lastChangeId": "87de3eddf878",
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-06-06T23:11:01.163Z",
     "lastChangeId": "56b7f269aaba",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
-    "salesChangeId": "636a68def934"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 35.35,
+    "price": 38.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-06-13T23:14:14.293Z",
-    "lastChangeId": "99ce7b4bf48e",
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 29.04,
+    "price": 27.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-06-11T23:43:51.808Z",
-    "lastChangeId": "87de3eddf878",
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
     "salesChangeId": "66acbca9b845"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 15.72,
+    "price": 14.77,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-06-15T23:53:00.122Z",
-    "lastChangeId": "94e62a1a28d0",
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
     "salesChangeId": "e36641b0285f"
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 48.51,
+    "price": 49.1,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,11 +1176,11 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-06-17T23:44:38.351Z",
-    "lastChangeId": "3f39d665e172",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:53:12.554Z",
-    "salesChangeId": "1dffbc706cfc"
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1460,7 +1460,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 422.1,
+    "price": 401.64,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1468,11 +1468,11 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
-    "salesChangeId": "95100ed35c94"
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 47.3,
+    "price": 48.37,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-06-16T23:40:58.689Z",
-    "lastChangeId": "66acbca9b845",
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
     "salesChangeId": "66911d3fea0c"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 622.35,
+    "price": 663.27,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-06-07T23:13:18.549Z",
-    "lastChangeId": "a1dc5f8da831",
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-06-12T23:24:44.710Z",
     "lastChangeId": "e9f04187f476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
-    "salesChangeId": "95100ed35c94"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -2042,9 +2042,9 @@
     "objectID": "6263962",
     "updatedAt": "2026-05-19T23:12:56.748Z",
     "lastChangeId": "97822753627a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-15T23:03:00.958Z",
-    "salesChangeId": "5fcece26f005"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-06-18T23:52:04.292Z",
     "lastChangeId": "66911d3fea0c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 41.4,
+    "price": 38.08,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-06-04T23:15:38.930Z",
-    "lastChangeId": "b742160170f2",
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -2129,9 +2129,9 @@
     "objectID": "1197018",
     "updatedAt": "2026-06-08T23:17:10.751Z",
     "lastChangeId": "f5e3dba96e81",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
-    "salesChangeId": "95100ed35c94"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 991.06,
+    "price": 1016.99,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
+    "updatedAt": "2026-06-20T23:17:18.599Z",
+    "lastChangeId": "390a0021e3b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-05-13T23:13:03.259Z",
     "lastChangeId": "cab8ef09745e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
-    "salesChangeId": "95100ed35c94"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-06-16T23:40:58.689Z",
     "lastChangeId": "66acbca9b845",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
-    "salesChangeId": "87de3eddf878"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
+    "salesChangeId": "390a0021e3b1"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",

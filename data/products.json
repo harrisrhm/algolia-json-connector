@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 493.88,
+    "price": 515.46,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-06-14T23:17:47.892Z",
-    "lastChangeId": "636a68def934",
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
     "salesChangeId": "3f39d665e172"
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 11.13,
+    "price": 10.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-06-17T23:44:38.351Z",
-    "lastChangeId": "3f39d665e172",
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
-    "salesChangeId": "f958272628b0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -391,9 +391,9 @@
     "objectID": "4274600",
     "updatedAt": "2026-06-16T23:40:58.689Z",
     "lastChangeId": "66acbca9b845",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
-    "salesChangeId": "0d3ce58118f9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 544.96,
+    "price": 593.91,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-06-09T23:22:53.223Z",
-    "lastChangeId": "77a044cbfe3e",
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
     "salesChangeId": "99ce7b4bf48e"
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 18.82,
+    "price": 19.97,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,11 +799,11 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-06-19T23:06:28.097Z",
-    "lastChangeId": "95100ed35c94",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
-    "salesChangeId": "ad17f83d984d"
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-06-14T23:17:47.892Z",
     "lastChangeId": "636a68def934",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
-    "salesChangeId": "77a044cbfe3e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1178,9 +1178,9 @@
     "objectID": "1857649",
     "updatedAt": "2026-06-20T23:17:18.599Z",
     "lastChangeId": "390a0021e3b1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
-    "salesChangeId": "0d3ce58118f9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 37.44,
+    "price": 35.61,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-06-06T23:11:01.163Z",
-    "lastChangeId": "56b7f269aaba",
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 663.27,
+    "price": 687.97,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-06-20T23:17:18.599Z",
-    "lastChangeId": "390a0021e3b1",
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 62.34,
+    "price": 59.9,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-06-04T23:15:38.930Z",
-    "lastChangeId": "b742160170f2",
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
     "salesChangeId": "66acbca9b845"
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
-    "salesChangeId": "0d3ce58118f9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-07T23:13:18.549Z",
     "lastChangeId": "a1dc5f8da831",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
-    "salesChangeId": "0d3ce58118f9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1893,7 +1893,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 46,
+    "price": 46.29,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1901,8 +1901,8 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-05-30T23:06:10.540Z",
-    "lastChangeId": "ad17f83d984d",
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-06-21T23:23:23.439Z",
     "lastChangeId": "0d3ce58118f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
-    "salesChangeId": "0d3ce58118f9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-06-17T23:44:38.351Z",
     "lastChangeId": "3f39d665e172",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
-    "salesChangeId": "e36641b0285f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-06-04T23:15:38.930Z",
     "lastChangeId": "b742160170f2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
-    "salesChangeId": "0d3ce58118f9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
+    "salesChangeId": "500eadb52caf"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 50.1,
+    "price": 54.11,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 60.05,
+    "price": 55.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-06-13T23:14:14.293Z",
-    "lastChangeId": "99ce7b4bf48e",
+    "updatedAt": "2026-06-22T23:26:10.962Z",
+    "lastChangeId": "500eadb52caf",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"

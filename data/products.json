@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
-    "salesChangeId": "500eadb52caf"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 56.29,
+    "price": 56.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-06-07T23:13:18.549Z",
-    "lastChangeId": "a1dc5f8da831",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
     "salesChangeId": "d0338f4aa5e1"
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-06-19T23:06:28.097Z",
     "lastChangeId": "95100ed35c94",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-06-05T23:17:22.905Z",
     "lastChangeId": "e871f616fa39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-06-22T23:26:10.962Z",
     "lastChangeId": "500eadb52caf",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
-    "salesChangeId": "500eadb52caf"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 17.77,
+    "price": 17.46,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-06-01T23:39:41.034Z",
-    "lastChangeId": "416fc0dfc6a3",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
     "salesChangeId": "66acbca9b845"
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-06-14T23:17:47.892Z",
     "lastChangeId": "636a68def934",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
-    "salesChangeId": "500eadb52caf"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 7.6,
+    "price": 7.39,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-06-17T23:44:38.351Z",
-    "lastChangeId": "3f39d665e172",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"
@@ -1178,9 +1178,9 @@
     "objectID": "1857649",
     "updatedAt": "2026-06-20T23:17:18.599Z",
     "lastChangeId": "390a0021e3b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
-    "salesChangeId": "500eadb52caf"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 96.65,
+    "price": 94.98,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-05-26T23:16:12.753Z",
-    "lastChangeId": "eebb088aa807",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 68.29,
+    "price": 62.69,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-06-17T23:44:38.351Z",
-    "lastChangeId": "3f39d665e172",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
     "salesChangeId": "66911d3fea0c"
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-06-12T23:24:44.710Z",
     "lastChangeId": "e9f04187f476",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-11T08:00:42.555Z",
-    "salesChangeId": "1e5909bc1904"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 25.55,
+    "price": 25.66,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-06-19T23:06:28.097Z",
-    "lastChangeId": "95100ed35c94",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
     "salesChangeId": "f958272628b0"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 28.65,
+    "price": 30.98,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-06-08T23:17:10.751Z",
     "lastChangeId": "f5e3dba96e81",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-15T23:03:00.958Z",
-    "salesChangeId": "5fcece26f005"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 19.18,
+    "price": 17.53,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
     "salesChangeId": "a1dc5f8da831"
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 18.76,
+    "price": 18.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-06-09T23:22:53.223Z",
-    "lastChangeId": "77a044cbfe3e",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
     "salesChangeId": "eebb088aa807"
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-06-17T23:44:38.351Z",
     "lastChangeId": "3f39d665e172",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
-    "salesChangeId": "500eadb52caf"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
+    "salesChangeId": "cd4d07e13a61"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1287.27,
+    "price": 1194.89,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
+    "updatedAt": "2026-06-23T23:13:49.587Z",
+    "lastChangeId": "cd4d07e13a61",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"

@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.98,
+    "price": 9.64,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
     "salesChangeId": "e871f616fa39"
@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 97.83,
+    "price": 88.7,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-05-25T23:14:29.769Z",
-    "lastChangeId": "9b195e170981",
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2283.95,
+    "price": 2360.4,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,11 +447,11 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-06-19T23:06:28.097Z",
-    "lastChangeId": "95100ed35c94",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-06-05T23:17:22.905Z",
     "lastChangeId": "e871f616fa39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-06-06T23:11:01.163Z",
     "lastChangeId": "56b7f269aaba",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
-    "salesChangeId": "e871f616fa39"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 35.61,
+    "price": 33.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-06-22T23:26:10.962Z",
-    "lastChangeId": "500eadb52caf",
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"
@@ -1547,7 +1547,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 10.53,
+    "price": 10.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1555,8 +1555,8 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-05-27T23:22:49.363Z",
-    "lastChangeId": "6f860597b902",
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-22T23:11:37.766Z",
     "salesChangeId": "f8d69a5e24f9"
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-06-03T23:51:23.203Z",
     "lastChangeId": "9c0d8215d33f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
-    "salesChangeId": "46b2b9602f50"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 137.06,
+    "price": 124.72,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,11 +1872,11 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-06-12T23:24:44.710Z",
-    "lastChangeId": "e9f04187f476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 25.66,
+    "price": 23.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-06-23T23:13:49.587Z",
-    "lastChangeId": "cd4d07e13a61",
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
     "salesChangeId": "f958272628b0"
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 170.82,
+    "price": 182.27,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-06-08T23:17:10.751Z",
-    "lastChangeId": "f5e3dba96e81",
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-06-08T23:17:10.751Z",
     "lastChangeId": "f5e3dba96e81",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
-    "salesChangeId": "99ce7b4bf48e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-06-19T23:06:28.097Z",
     "lastChangeId": "95100ed35c94",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
-    "salesChangeId": "3f39d665e172"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 55.66,
+    "price": 54.23,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-06-12T23:24:44.710Z",
-    "lastChangeId": "e9f04187f476",
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
     "salesChangeId": "3f39d665e172"
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 178.77,
+    "price": 174.81,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-06-17T23:44:38.351Z",
-    "lastChangeId": "3f39d665e172",
+    "updatedAt": "2026-06-24T23:13:26.823Z",
+    "lastChangeId": "5fa4d9ddd8d0",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
     "salesChangeId": "cd4d07e13a61"
@@ -2624,9 +2624,9 @@
     "objectID": "3362109",
     "updatedAt": "2026-06-21T23:23:23.439Z",
     "lastChangeId": "0d3ce58118f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
-    "salesChangeId": "95100ed35c94"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
+    "salesChangeId": "5fa4d9ddd8d0"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",

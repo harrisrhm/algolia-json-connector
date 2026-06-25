@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-06-21T23:23:23.439Z",
     "lastChangeId": "0d3ce58118f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
+    "salesChangeId": "a827fb4cfbc4"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 23.4,
+    "price": 25.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-06-17T23:44:38.351Z",
-    "lastChangeId": "3f39d665e172",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
     "salesChangeId": "b742160170f2"
@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.64,
+    "price": 10.01,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-06-24T23:13:26.823Z",
-    "lastChangeId": "5fa4d9ddd8d0",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
     "salesChangeId": "e871f616fa39"
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 38.75,
+    "price": 42.27,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-06-20T23:17:18.599Z",
-    "lastChangeId": "390a0021e3b1",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 49.17,
+    "price": 45.84,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,8 +940,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
     "salesChangeId": "79ad26f2b775"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 14.77,
+    "price": 15.06,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-06-20T23:17:18.599Z",
-    "lastChangeId": "390a0021e3b1",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
     "salesChangeId": "e36641b0285f"
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-06-06T23:11:01.163Z",
     "lastChangeId": "56b7f269aaba",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
-    "salesChangeId": "5fa4d9ddd8d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
+    "salesChangeId": "a827fb4cfbc4"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-06-03T23:51:23.203Z",
     "lastChangeId": "9c0d8215d33f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
-    "salesChangeId": "5fa4d9ddd8d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
+    "salesChangeId": "a827fb4cfbc4"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-06-21T23:23:23.439Z",
     "lastChangeId": "0d3ce58118f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
-    "salesChangeId": "15c82a72d9b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
+    "salesChangeId": "a827fb4cfbc4"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 12.56,
+    "price": 11.95,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-05-19T23:12:56.748Z",
-    "lastChangeId": "97822753627a",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 30.98,
+    "price": 29.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-06-23T23:13:49.587Z",
-    "lastChangeId": "cd4d07e13a61",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 38.08,
+    "price": 40.51,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-06-20T23:17:18.599Z",
-    "lastChangeId": "390a0021e3b1",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-11T23:02:50.633Z",
     "salesChangeId": "7ad238fd8db8"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-06-08T23:17:10.751Z",
     "lastChangeId": "f5e3dba96e81",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
-    "salesChangeId": "5fa4d9ddd8d0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
+    "salesChangeId": "a827fb4cfbc4"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-06-19T23:06:28.097Z",
     "lastChangeId": "95100ed35c94",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
-    "salesChangeId": "5fa4d9ddd8d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
+    "salesChangeId": "a827fb4cfbc4"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 838.01,
+    "price": 874.47,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-06-04T23:15:38.930Z",
-    "lastChangeId": "b742160170f2",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
     "salesChangeId": "500eadb52caf"
@@ -2624,9 +2624,9 @@
     "objectID": "3362109",
     "updatedAt": "2026-06-21T23:23:23.439Z",
     "lastChangeId": "0d3ce58118f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
-    "salesChangeId": "5fa4d9ddd8d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
+    "salesChangeId": "a827fb4cfbc4"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-06-23T23:13:49.587Z",
     "lastChangeId": "cd4d07e13a61",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
+    "salesChangeId": "a827fb4cfbc4"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 55.03,
+    "price": 58.64,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-06-22T23:26:10.962Z",
-    "lastChangeId": "500eadb52caf",
+    "updatedAt": "2026-06-25T23:24:15.104Z",
+    "lastChangeId": "a827fb4cfbc4",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"

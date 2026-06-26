@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-06-21T23:23:23.439Z",
     "lastChangeId": "0d3ce58118f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
-    "salesChangeId": "a827fb4cfbc4"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-15T23:53:00.122Z",
     "lastChangeId": "94e62a1a28d0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
-    "salesChangeId": "69a5d9000725"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 19.55,
+    "price": 19.84,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,11 +625,11 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-05-21T23:09:44.223Z",
-    "lastChangeId": "ac9766792620",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
-    "salesChangeId": "5fa4d9ddd8d0"
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 601.89,
+    "price": 628.44,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,11 +911,11 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
-    "salesChangeId": "3f39d665e172"
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 40.8,
+    "price": 39.84,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-06-19T23:06:28.097Z",
-    "lastChangeId": "95100ed35c94",
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
     "salesChangeId": "66911d3fea0c"
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 236.58,
+    "price": 243.5,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-06-21T23:23:23.439Z",
-    "lastChangeId": "0d3ce58118f9",
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
     "salesChangeId": "ad17f83d984d"
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 116.68,
+    "price": 115.27,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-06-21T23:23:23.439Z",
-    "lastChangeId": "0d3ce58118f9",
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
-    "salesChangeId": "500eadb52caf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-06-21T23:23:23.439Z",
     "lastChangeId": "0d3ce58118f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
-    "salesChangeId": "a827fb4cfbc4"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 11.95,
+    "price": 11.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-06-25T23:24:15.104Z",
-    "lastChangeId": "a827fb4cfbc4",
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 29.03,
+    "price": 26.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-06-25T23:24:15.104Z",
-    "lastChangeId": "a827fb4cfbc4",
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 182.27,
+    "price": 186.15,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-06-24T23:13:26.823Z",
-    "lastChangeId": "5fa4d9ddd8d0",
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-06-08T23:17:10.751Z",
     "lastChangeId": "f5e3dba96e81",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
-    "salesChangeId": "a827fb4cfbc4"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-05-13T06:12:05.694Z",
     "lastChangeId": "46b2b9602f50",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
-    "salesChangeId": "5fa4d9ddd8d0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 244.48,
+    "price": 227.54,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-05-28T23:23:51.769Z",
-    "lastChangeId": "b19ffa7410d9",
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-06-22T23:26:10.962Z",
     "lastChangeId": "500eadb52caf",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
-    "salesChangeId": "f7e39f170844"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-06-23T23:13:49.587Z",
     "lastChangeId": "cd4d07e13a61",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
-    "salesChangeId": "a827fb4cfbc4"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
+    "salesChangeId": "605464d03130"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 440.42,
+    "price": 405.89,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
+    "updatedAt": "2026-06-26T23:14:52.867Z",
+    "lastChangeId": "605464d03130",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
     "salesChangeId": "e9f04187f476"

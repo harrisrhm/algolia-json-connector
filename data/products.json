@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.92,
+    "price": 10.23,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-06-22T23:26:10.962Z",
-    "lastChangeId": "500eadb52caf",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 173.37,
+    "price": 184.57,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-06-02T23:54:16.419Z",
-    "lastChangeId": "f7e39f170844",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 25.59,
+    "price": 24.52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-06-25T23:24:15.104Z",
-    "lastChangeId": "a827fb4cfbc4",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
     "salesChangeId": "b742160170f2"
@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-06-25T23:24:15.104Z",
     "lastChangeId": "a827fb4cfbc4",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-05T23:17:22.905Z",
-    "salesChangeId": "e871f616fa39"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 20.21,
+    "price": 21.58,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
     "salesChangeId": "cd4d07e13a61"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-15T23:53:00.122Z",
     "lastChangeId": "94e62a1a28d0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
-    "salesChangeId": "605464d03130"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 58.25,
+    "price": 61.96,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-06-14T23:17:47.892Z",
-    "lastChangeId": "636a68def934",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -598,9 +598,9 @@
     "objectID": "1775023",
     "updatedAt": "2026-06-18T23:52:04.292Z",
     "lastChangeId": "66911d3fea0c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-06T22:57:43.625Z",
-    "salesChangeId": "6617596186b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-06-26T23:14:52.867Z",
     "lastChangeId": "605464d03130",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
-    "salesChangeId": "605464d03130"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-06-23T23:13:49.587Z",
     "lastChangeId": "cd4d07e13a61",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
-    "salesChangeId": "66acbca9b845"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-06-26T23:14:52.867Z",
     "lastChangeId": "605464d03130",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
-    "salesChangeId": "605464d03130"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1064,9 +1064,9 @@
     "objectID": "2515083",
     "updatedAt": "2026-06-19T23:06:28.097Z",
     "lastChangeId": "95100ed35c94",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-25T23:14:29.769Z",
-    "salesChangeId": "9b195e170981"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 243.5,
+    "price": 247.15,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-06-26T23:14:52.867Z",
-    "lastChangeId": "605464d03130",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
     "salesChangeId": "ad17f83d984d"
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 104.24,
+    "price": 109.59,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-06-05T23:17:22.905Z",
-    "lastChangeId": "e871f616fa39",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
     "salesChangeId": "0f690a9d65fe"
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-06-23T23:13:49.587Z",
     "lastChangeId": "cd4d07e13a61",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
-    "salesChangeId": "605464d03130"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -2229,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 13.83,
+    "price": 13.23,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,8 +2237,8 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-05-13T06:12:05.694Z",
-    "lastChangeId": "46b2b9602f50",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
     "salesChangeId": "605464d03130"
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 507.52,
+    "price": 516.15,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-06-17T23:44:38.351Z",
-    "lastChangeId": "3f39d665e172",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
     "salesChangeId": "e9f04187f476"
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-06-22T23:26:10.962Z",
     "lastChangeId": "500eadb52caf",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
-    "salesChangeId": "605464d03130"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
+    "salesChangeId": "b2f2ce293a0d"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 22.51,
+    "price": 24.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-05-28T23:23:51.769Z",
-    "lastChangeId": "b19ffa7410d9",
+    "updatedAt": "2026-06-27T23:10:36.032Z",
+    "lastChangeId": "b2f2ce293a0d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
     "salesChangeId": "0c09a5bca963"

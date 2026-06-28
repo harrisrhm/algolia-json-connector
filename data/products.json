@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 24.52,
+    "price": 24.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-06-27T23:10:36.032Z",
-    "lastChangeId": "b2f2ce293a0d",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
     "salesChangeId": "b742160170f2"
@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-06-25T23:24:15.104Z",
     "lastChangeId": "a827fb4cfbc4",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
-    "salesChangeId": "b2f2ce293a0d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
+    "salesChangeId": "4ed481c96059"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 32.33,
+    "price": 32.67,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-06-21T23:23:23.439Z",
-    "lastChangeId": "0d3ce58118f9",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
     "salesChangeId": "94e62a1a28d0"
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 56.54,
+    "price": 61.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-06-23T23:13:49.587Z",
-    "lastChangeId": "cd4d07e13a61",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-16T22:55:43.679Z",
     "salesChangeId": "d0338f4aa5e1"
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 342.21,
+    "price": 345.4,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-06-16T23:40:58.689Z",
-    "lastChangeId": "66acbca9b845",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
     "salesChangeId": "500eadb52caf"
@@ -507,9 +507,9 @@
     "objectID": "4946038",
     "updatedAt": "2026-06-27T23:10:36.032Z",
     "lastChangeId": "b2f2ce293a0d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
-    "salesChangeId": "f7e39f170844"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
+    "salesChangeId": "4ed481c96059"
   },
   {
     "name": "Logitech - G710+ Mechanical Gaming Keyboard - Black/White",
@@ -598,9 +598,9 @@
     "objectID": "1775023",
     "updatedAt": "2026-06-18T23:52:04.292Z",
     "lastChangeId": "66911d3fea0c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
-    "salesChangeId": "b2f2ce293a0d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
+    "salesChangeId": "4ed481c96059"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 39.62,
+    "price": 43.11,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-05-31T23:09:35.739Z",
-    "lastChangeId": "d4b128983a12",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -714,9 +714,9 @@
     "objectID": "1312503",
     "updatedAt": "2026-06-22T23:26:10.962Z",
     "lastChangeId": "500eadb52caf",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-13T23:14:14.293Z",
-    "salesChangeId": "99ce7b4bf48e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
+    "salesChangeId": "4ed481c96059"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-06-23T23:13:49.587Z",
     "lastChangeId": "cd4d07e13a61",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
-    "salesChangeId": "b2f2ce293a0d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
+    "salesChangeId": "4ed481c96059"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -1064,9 +1064,9 @@
     "objectID": "2515083",
     "updatedAt": "2026-06-19T23:06:28.097Z",
     "lastChangeId": "95100ed35c94",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
-    "salesChangeId": "b2f2ce293a0d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
+    "salesChangeId": "4ed481c96059"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 26.93,
+    "price": 27.66,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-06-14T23:17:47.892Z",
-    "lastChangeId": "636a68def934",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
     "salesChangeId": "eebb088aa807"
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 115.27,
+    "price": 119.22,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-06-26T23:14:52.867Z",
-    "lastChangeId": "605464d03130",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 55.2,
+    "price": 53.96,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-06-15T23:53:00.122Z",
-    "lastChangeId": "94e62a1a28d0",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-07T23:13:18.549Z",
     "lastChangeId": "a1dc5f8da831",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
-    "salesChangeId": "500eadb52caf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
+    "salesChangeId": "4ed481c96059"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 137.86,
+    "price": 129.84,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-06-19T23:06:28.097Z",
-    "lastChangeId": "95100ed35c94",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-06-24T23:13:26.823Z",
     "lastChangeId": "5fa4d9ddd8d0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
+    "salesChangeId": "4ed481c96059"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 227.54,
+    "price": 240.09,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-06-26T23:14:52.867Z",
-    "lastChangeId": "605464d03130",
+    "updatedAt": "2026-06-28T23:11:40.332Z",
+    "lastChangeId": "4ed481c96059",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"

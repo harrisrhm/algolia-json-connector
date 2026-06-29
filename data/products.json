@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 61.96,
+    "price": 59.8,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,11 +505,11 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-06-27T23:10:36.032Z",
-    "lastChangeId": "b2f2ce293a0d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
-    "salesChangeId": "4ed481c96059"
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "Logitech - G710+ Mechanical Gaming Keyboard - Black/White",
@@ -714,9 +714,9 @@
     "objectID": "1312503",
     "updatedAt": "2026-06-22T23:26:10.962Z",
     "lastChangeId": "500eadb52caf",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
-    "salesChangeId": "4ed481c96059"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 19.97,
+    "price": 21.44,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,11 +799,11 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-06-22T23:26:10.962Z",
-    "lastChangeId": "500eadb52caf",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 39.84,
+    "price": 42.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-06-26T23:14:52.867Z",
-    "lastChangeId": "605464d03130",
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
     "salesChangeId": "66911d3fea0c"
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 7.39,
+    "price": 6.99,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,11 +1149,11 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-06-23T23:13:49.587Z",
-    "lastChangeId": "cd4d07e13a61",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
-    "salesChangeId": "95100ed35c94"
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1236,9 +1236,9 @@
     "objectID": "4475000",
     "updatedAt": "2026-06-27T23:10:36.032Z",
     "lastChangeId": "b2f2ce293a0d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-30T23:06:10.540Z",
-    "salesChangeId": "ad17f83d984d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-06-23T23:13:49.587Z",
     "lastChangeId": "cd4d07e13a61",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
-    "salesChangeId": "b2f2ce293a0d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 221.41,
+    "price": 200.48,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
     "salesChangeId": "b2f2ce293a0d"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-07T23:13:18.549Z",
     "lastChangeId": "a1dc5f8da831",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
-    "salesChangeId": "4ed481c96059"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1804,7 +1804,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 159.56,
+    "price": 155.01,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1812,8 +1812,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-06-03T23:51:23.203Z",
-    "lastChangeId": "9c0d8215d33f",
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
     "salesChangeId": "a827fb4cfbc4"
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-06-21T23:23:23.439Z",
     "lastChangeId": "0d3ce58118f9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
-    "salesChangeId": "500eadb52caf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2229,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 13.23,
+    "price": 12.61,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,8 +2237,8 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-06-27T23:10:36.032Z",
-    "lastChangeId": "b2f2ce293a0d",
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
     "salesChangeId": "605464d03130"
@@ -2436,7 +2436,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 322.47,
+    "price": 325.13,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2444,8 +2444,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-06-08T23:17:10.751Z",
-    "lastChangeId": "f5e3dba96e81",
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
     "salesChangeId": "66911d3fea0c"
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 54.23,
+    "price": 53.49,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-06-24T23:13:26.823Z",
-    "lastChangeId": "5fa4d9ddd8d0",
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
     "salesChangeId": "3f39d665e172"
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-06-24T23:13:26.823Z",
     "lastChangeId": "5fa4d9ddd8d0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
-    "salesChangeId": "4ed481c96059"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
-    "salesChangeId": "95100ed35c94"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
+    "salesChangeId": "ac86d0602110"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 12.9,
+    "price": 12.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
+    "updatedAt": "2026-06-29T23:06:15.659Z",
+    "lastChangeId": "ac86d0602110",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
     "salesChangeId": "0e508ad0cb09"

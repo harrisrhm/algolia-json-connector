@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 21.58,
+    "price": 20.6,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-06-27T23:10:36.032Z",
-    "lastChangeId": "b2f2ce293a0d",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
     "salesChangeId": "cd4d07e13a61"
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-06-19T23:06:28.097Z",
     "lastChangeId": "95100ed35c94",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-14T23:17:47.892Z",
-    "salesChangeId": "636a68def934"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
+    "salesChangeId": "9ae03afb0735"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 128.55,
+    "price": 137.46,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-06-20T23:17:18.599Z",
-    "lastChangeId": "390a0021e3b1",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-06-06T23:11:01.163Z",
     "lastChangeId": "56b7f269aaba",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
+    "salesChangeId": "9ae03afb0735"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 43.11,
+    "price": 38.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-06-28T23:11:40.332Z",
-    "lastChangeId": "4ed481c96059",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-06-13T23:14:14.293Z",
     "lastChangeId": "99ce7b4bf48e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
+    "salesChangeId": "9ae03afb0735"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -961,7 +961,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 4.16,
+    "price": 4.42,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-06-30T23:19:35.010Z",
-    "lastChangeId": "7c8e7094ca30",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-06-25T23:24:15.104Z",
     "lastChangeId": "a827fb4cfbc4",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
+    "salesChangeId": "9ae03afb0735"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-06-06T23:11:01.163Z",
     "lastChangeId": "56b7f269aaba",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
+    "salesChangeId": "9ae03afb0735"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 10.24,
+    "price": 10.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-06-30T23:19:35.010Z",
-    "lastChangeId": "7c8e7094ca30",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 687.97,
+    "price": 687.88,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-06-22T23:26:10.962Z",
-    "lastChangeId": "500eadb52caf",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 200.48,
+    "price": 198.19,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-06-29T23:06:15.659Z",
-    "lastChangeId": "ac86d0602110",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
     "salesChangeId": "b2f2ce293a0d"
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 11.59,
+    "price": 12.71,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-06-26T23:14:52.867Z",
-    "lastChangeId": "605464d03130",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2100,9 +2100,9 @@
     "objectID": "8353179",
     "updatedAt": "2026-06-25T23:24:15.104Z",
     "lastChangeId": "a827fb4cfbc4",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
+    "salesChangeId": "9ae03afb0735"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 186.15,
+    "price": 184.98,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-06-26T23:14:52.867Z",
-    "lastChangeId": "605464d03130",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-06-08T23:17:10.751Z",
     "lastChangeId": "f5e3dba96e81",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
-    "salesChangeId": "605464d03130"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
+    "salesChangeId": "9ae03afb0735"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 516.15,
+    "price": 504.47,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-06-27T23:10:36.032Z",
-    "lastChangeId": "b2f2ce293a0d",
+    "updatedAt": "2026-07-01T23:22:03.247Z",
+    "lastChangeId": "9ae03afb0735",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
     "salesChangeId": "e9f04187f476"
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
-    "salesChangeId": "79ad26f2b775"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
+    "salesChangeId": "9ae03afb0735"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

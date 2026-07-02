@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-06-22T23:26:10.962Z",
     "lastChangeId": "500eadb52caf",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
-    "salesChangeId": "3f39d665e172"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -196,9 +196,9 @@
     "objectID": "9435907",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-04T23:15:38.930Z",
-    "salesChangeId": "b742160170f2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-06-19T23:06:28.097Z",
     "lastChangeId": "95100ed35c94",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
-    "salesChangeId": "9ae03afb0735"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3033.04,
+    "price": 3052.44,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-06-12T23:24:44.710Z",
-    "lastChangeId": "e9f04187f476",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
     "salesChangeId": "66acbca9b845"
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-07-01T23:22:03.247Z",
     "lastChangeId": "9ae03afb0735",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
-    "salesChangeId": "582caa54af1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 42.27,
+    "price": 43.35,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-06-25T23:24:15.104Z",
-    "lastChangeId": "a827fb4cfbc4",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 17.46,
+    "price": 18.46,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-06-23T23:13:49.587Z",
-    "lastChangeId": "cd4d07e13a61",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
     "salesChangeId": "4ed481c96059"
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-06-13T23:14:14.293Z",
     "lastChangeId": "99ce7b4bf48e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
-    "salesChangeId": "9ae03afb0735"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 628.44,
+    "price": 657.54,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-06-26T23:14:52.867Z",
-    "lastChangeId": "605464d03130",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
     "salesChangeId": "b2f2ce293a0d"
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 94.98,
+    "price": 89.18,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-06-23T23:13:49.587Z",
-    "lastChangeId": "cd4d07e13a61",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1557,9 +1557,9 @@
     "objectID": "7441404",
     "updatedAt": "2026-06-24T23:13:26.823Z",
     "lastChangeId": "5fa4d9ddd8d0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "NVIDIA - SHIELD Wireless Controller - Black",
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 12.22,
+    "price": 12.88,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-06-30T23:19:35.010Z",
-    "lastChangeId": "7c8e7094ca30",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
     "salesChangeId": "e36641b0285f"
@@ -2100,9 +2100,9 @@
     "objectID": "8353179",
     "updatedAt": "2026-06-25T23:24:15.104Z",
     "lastChangeId": "a827fb4cfbc4",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
-    "salesChangeId": "9ae03afb0735"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 1016.99,
+    "price": 1032.32,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-06-20T23:17:18.599Z",
-    "lastChangeId": "390a0021e3b1",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-06-08T23:17:10.751Z",
     "lastChangeId": "f5e3dba96e81",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
-    "salesChangeId": "9ae03afb0735"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 70.19,
+    "price": 72.99,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-06-21T23:23:23.439Z",
-    "lastChangeId": "0d3ce58118f9",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2436,7 +2436,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 325.13,
+    "price": 306.91,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2444,8 +2444,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-06-29T23:06:15.659Z",
-    "lastChangeId": "ac86d0602110",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
     "salesChangeId": "66911d3fea0c"
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-06-25T23:24:15.104Z",
     "lastChangeId": "a827fb4cfbc4",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-22T23:26:10.962Z",
-    "salesChangeId": "500eadb52caf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 54.11,
+    "price": 55.51,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-06-22T23:26:10.962Z",
-    "lastChangeId": "500eadb52caf",
+    "updatedAt": "2026-07-02T23:15:52.887Z",
+    "lastChangeId": "900fb3fff5e5",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
     "salesChangeId": "b2f2ce293a0d"
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
-    "salesChangeId": "9ae03afb0735"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
+    "salesChangeId": "900fb3fff5e5"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

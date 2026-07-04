@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-06-22T23:26:10.962Z",
     "lastChangeId": "500eadb52caf",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
-    "salesChangeId": "900fb3fff5e5"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
+    "salesChangeId": "b5c57dac439a"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.23,
+    "price": 9.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-06-27T23:10:36.032Z",
-    "lastChangeId": "b2f2ce293a0d",
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 333.64,
+    "price": 357.11,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,11 +389,11 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-06-30T23:19:35.010Z",
-    "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-03T23:12:38.590Z",
-    "salesChangeId": "142bd9bc9a01"
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
+    "salesChangeId": "b5c57dac439a"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-07-01T23:22:03.247Z",
     "lastChangeId": "9ae03afb0735",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-03T23:12:38.590Z",
-    "salesChangeId": "142bd9bc9a01"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
+    "salesChangeId": "b5c57dac439a"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 63.89,
+    "price": 59.94,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-07-03T23:12:38.590Z",
-    "lastChangeId": "142bd9bc9a01",
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
     "salesChangeId": "ac86d0602110"
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 17.86,
+    "price": 16.08,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,11 +741,11 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-06-05T23:17:22.905Z",
-    "lastChangeId": "e871f616fa39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
-    "salesChangeId": "5fa4d9ddd8d0"
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
+    "salesChangeId": "b5c57dac439a"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -1151,9 +1151,9 @@
     "objectID": "2631316",
     "updatedAt": "2026-06-29T23:06:15.659Z",
     "lastChangeId": "ac86d0602110",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
+    "salesChangeId": "b5c57dac439a"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 49.1,
+    "price": 49.51,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,8 +1176,8 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-06-20T23:17:18.599Z",
-    "lastChangeId": "390a0021e3b1",
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
     "salesChangeId": "cd4d07e13a61"
@@ -1547,7 +1547,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 10.54,
+    "price": 10.21,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1555,8 +1555,8 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-06-24T23:13:26.823Z",
-    "lastChangeId": "5fa4d9ddd8d0",
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
     "salesChangeId": "900fb3fff5e5"
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-06-16T23:40:58.689Z",
     "lastChangeId": "66acbca9b845",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
-    "salesChangeId": "87de3eddf878"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
+    "salesChangeId": "b5c57dac439a"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-06-29T23:06:15.659Z",
     "lastChangeId": "ac86d0602110",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
-    "salesChangeId": "a827fb4cfbc4"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
+    "salesChangeId": "b5c57dac439a"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-06-12T23:24:44.710Z",
     "lastChangeId": "e9f04187f476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-03T23:12:38.590Z",
-    "salesChangeId": "142bd9bc9a01"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
+    "salesChangeId": "b5c57dac439a"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.78,
+    "price": 2.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
     "salesChangeId": "94e62a1a28d0"
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 44.61,
+    "price": 42.59,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-06-21T23:23:23.439Z",
-    "lastChangeId": "0d3ce58118f9",
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
     "salesChangeId": "605464d03130"
@@ -2175,7 +2175,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 24.66,
+    "price": 24.25,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2183,8 +2183,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-06-08T23:17:10.751Z",
-    "lastChangeId": "f5e3dba96e81",
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
     "salesChangeId": "900fb3fff5e5"
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 442.95,
+    "price": 417.47,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-06-30T23:19:35.010Z",
-    "lastChangeId": "7c8e7094ca30",
+    "updatedAt": "2026-07-04T23:04:13.501Z",
+    "lastChangeId": "b5c57dac439a",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
     "salesChangeId": "e9f04187f476"

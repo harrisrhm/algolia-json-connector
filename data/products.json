@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 745.16,
+    "price": 786.93,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-06-19T23:06:28.097Z",
-    "lastChangeId": "95100ed35c94",
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
     "salesChangeId": "900fb3fff5e5"
@@ -598,9 +598,9 @@
     "objectID": "1775023",
     "updatedAt": "2026-06-18T23:52:04.292Z",
     "lastChangeId": "66911d3fea0c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
-    "salesChangeId": "be29db94b46a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 593.91,
+    "price": 575.82,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-06-22T23:26:10.962Z",
-    "lastChangeId": "500eadb52caf",
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
     "salesChangeId": "ac86d0602110"
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.71,
+    "price": 9.1,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-06-19T23:06:28.097Z",
-    "lastChangeId": "95100ed35c94",
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
     "salesChangeId": "4ed481c96059"
@@ -1124,9 +1124,9 @@
     "objectID": "1606254",
     "updatedAt": "2026-06-21T23:23:23.439Z",
     "lastChangeId": "0d3ce58118f9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
-    "salesChangeId": "be29db94b46a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "Smart Choice - Touch-Up Paint - White",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 6.99,
+    "price": 6.36,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-06-29T23:06:15.659Z",
-    "lastChangeId": "ac86d0602110",
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
     "salesChangeId": "be29db94b46a"
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 246.29,
+    "price": 245.81,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-07-03T23:12:38.590Z",
-    "lastChangeId": "142bd9bc9a01",
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
     "salesChangeId": "7c8e7094ca30"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 687.88,
+    "price": 714.48,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-07-01T23:22:03.247Z",
-    "lastChangeId": "9ae03afb0735",
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
     "salesChangeId": "46b2b9602f50"
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 465.83,
+    "price": 464.62,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,11 +1644,11 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-05-05T01:41:18.809Z",
-    "lastChangeId": "582caa54af1e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1700,9 +1700,9 @@
     "objectID": "7841289",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
-    "salesChangeId": "be29db94b46a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-07-03T23:12:38.590Z",
     "lastChangeId": "142bd9bc9a01",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
-    "salesChangeId": "be29db94b46a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
-    "salesChangeId": "ac86d0602110"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1893,7 +1893,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 46.29,
+    "price": 41.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1901,8 +1901,8 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-06-22T23:26:10.962Z",
-    "lastChangeId": "500eadb52caf",
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-07-04T23:04:13.501Z",
     "lastChangeId": "b5c57dac439a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 42.59,
+    "price": 43.28,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-07-04T23:04:13.501Z",
-    "lastChangeId": "b5c57dac439a",
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
     "salesChangeId": "605464d03130"
@@ -2042,9 +2042,9 @@
     "objectID": "6263962",
     "updatedAt": "2026-07-01T23:22:03.247Z",
     "lastChangeId": "9ae03afb0735",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
-    "salesChangeId": "be29db94b46a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-07-04T23:04:13.501Z",
     "lastChangeId": "b5c57dac439a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
-    "salesChangeId": "900fb3fff5e5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-07-02T23:15:52.887Z",
     "lastChangeId": "900fb3fff5e5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
+    "salesChangeId": "81a4e14f555d"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 55.51,
+    "price": 53.05,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-07-02T23:15:52.887Z",
-    "lastChangeId": "900fb3fff5e5",
+    "updatedAt": "2026-07-06T23:14:30.785Z",
+    "lastChangeId": "81a4e14f555d",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
     "salesChangeId": "b2f2ce293a0d"

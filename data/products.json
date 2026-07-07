@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 134.32,
+    "price": 144.12,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-07-03T23:12:38.590Z",
-    "lastChangeId": "142bd9bc9a01",
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
     "salesChangeId": "66acbca9b845"
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 26.39,
+    "price": 26.63,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-07-03T23:12:38.590Z",
-    "lastChangeId": "142bd9bc9a01",
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-03T23:12:38.590Z",
     "salesChangeId": "142bd9bc9a01"
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 20.6,
+    "price": 21.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-07-01T23:22:03.247Z",
-    "lastChangeId": "9ae03afb0735",
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
     "salesChangeId": "cd4d07e13a61"
@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 88.7,
+    "price": 91.55,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-06-24T23:13:26.823Z",
-    "lastChangeId": "5fa4d9ddd8d0",
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-02T23:54:16.419Z",
     "salesChangeId": "f7e39f170844"
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 357.11,
+    "price": 351.08,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-07-04T23:04:13.501Z",
-    "lastChangeId": "b5c57dac439a",
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
     "salesChangeId": "b5c57dac439a"
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 16.08,
+    "price": 15.72,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-07-04T23:04:13.501Z",
-    "lastChangeId": "b5c57dac439a",
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
     "salesChangeId": "be29db94b46a"
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 45.84,
+    "price": 49.46,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,8 +940,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-06-25T23:24:15.104Z",
-    "lastChangeId": "a827fb4cfbc4",
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-29T23:20:32.897Z",
     "salesChangeId": "79ad26f2b775"
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-06-27T23:10:36.032Z",
     "lastChangeId": "b2f2ce293a0d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-09T22:55:53.087Z",
-    "salesChangeId": "0f690a9d65fe"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
-    "salesChangeId": "66acbca9b845"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-07-06T23:14:30.785Z",
     "lastChangeId": "81a4e14f555d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
-    "salesChangeId": "81a4e14f555d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 193.83,
+    "price": 207.24,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-07-03T23:12:38.590Z",
-    "lastChangeId": "142bd9bc9a01",
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
-    "salesChangeId": "81a4e14f555d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-07-04T23:04:13.501Z",
     "lastChangeId": "b5c57dac439a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
-    "salesChangeId": "81a4e14f555d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-07-04T23:04:13.501Z",
     "lastChangeId": "b5c57dac439a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
-    "salesChangeId": "81a4e14f555d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-07-02T23:15:52.887Z",
     "lastChangeId": "900fb3fff5e5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
-    "salesChangeId": "81a4e14f555d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-06-25T23:24:15.104Z",
     "lastChangeId": "a827fb4cfbc4",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-03T23:12:38.590Z",
-    "salesChangeId": "142bd9bc9a01"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 53.05,
+    "price": 48.5,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,11 +2680,11 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-07-06T23:14:30.785Z",
-    "lastChangeId": "81a4e14f555d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
-    "salesChangeId": "b2f2ce293a0d"
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
-    "salesChangeId": "605464d03130"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
+    "salesChangeId": "b63350857a62"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 24.59,
+    "price": 24.33,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-06-27T23:10:36.032Z",
-    "lastChangeId": "b2f2ce293a0d",
+    "updatedAt": "2026-07-07T23:08:09.736Z",
+    "lastChangeId": "b63350857a62",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-07T01:43:22.040Z",
     "salesChangeId": "0c09a5bca963"

@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 144.12,
+    "price": 147.51,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,11 +22,11 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-07-07T23:08:09.736Z",
-    "lastChangeId": "b63350857a62",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
-    "salesChangeId": "66acbca9b845"
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 515.92,
+    "price": 523.88,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-07-05T23:08:52.190Z",
-    "lastChangeId": "be29db94b46a",
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
     "salesChangeId": "b5c57dac439a"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-15T23:53:00.122Z",
-    "salesChangeId": "94e62a1a28d0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 43.35,
+    "price": 40.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-07-02T23:15:52.887Z",
-    "lastChangeId": "900fb3fff5e5",
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
     "salesChangeId": "9c0d8215d33f"
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 15.72,
+    "price": 14.72,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-07-07T23:08:09.736Z",
-    "lastChangeId": "b63350857a62",
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
     "salesChangeId": "be29db94b46a"
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-06-29T23:06:15.659Z",
     "lastChangeId": "ac86d0602110",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 245.81,
+    "price": 265.81,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,11 +1234,11 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-07-06T23:14:30.785Z",
-    "lastChangeId": "81a4e14f555d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-06-27T23:10:36.032Z",
     "lastChangeId": "b2f2ce293a0d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
-    "salesChangeId": "b63350857a62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 10.56,
+    "price": 9.53,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-07-01T23:22:03.247Z",
-    "lastChangeId": "9ae03afb0735",
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
-    "salesChangeId": "b63350857a62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 96.27,
+    "price": 98.03,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,11 +2268,11 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-07-03T23:12:38.590Z",
-    "lastChangeId": "142bd9bc9a01",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
-    "salesChangeId": "390a0021e3b1"
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 75.03,
+    "price": 81.59,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-07-05T23:08:52.190Z",
-    "lastChangeId": "be29db94b46a",
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
     "salesChangeId": "a827fb4cfbc4"
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 174.81,
+    "price": 190.95,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-06-24T23:13:26.823Z",
-    "lastChangeId": "5fa4d9ddd8d0",
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
     "salesChangeId": "ac86d0602110"
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-06-25T23:24:15.104Z",
     "lastChangeId": "a827fb4cfbc4",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
-    "salesChangeId": "b63350857a62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 219.34,
+    "price": 206.85,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-07-05T23:08:52.190Z",
-    "lastChangeId": "be29db94b46a",
+    "updatedAt": "2026-07-08T23:16:37.608Z",
+    "lastChangeId": "a0e189cd8d39",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
     "salesChangeId": "7c8e7094ca30"
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-07-07T23:08:09.736Z",
     "lastChangeId": "b63350857a62",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
-    "salesChangeId": "b63350857a62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
-    "salesChangeId": "b63350857a62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
+    "salesChangeId": "a0e189cd8d39"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",

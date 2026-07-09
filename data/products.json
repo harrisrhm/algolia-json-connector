@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 523.88,
+    "price": 568.29,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-07-08T23:16:37.608Z",
-    "lastChangeId": "a0e189cd8d39",
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
     "salesChangeId": "b5c57dac439a"
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 21.68,
+    "price": 19.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,11 +250,11 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-07-07T23:08:09.736Z",
-    "lastChangeId": "b63350857a62",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
+    "salesChangeId": "256d5e00f4fd"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
-    "salesChangeId": "a0e189cd8d39"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
+    "salesChangeId": "256d5e00f4fd"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 575.82,
+    "price": 603.97,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-07-06T23:14:30.785Z",
-    "lastChangeId": "81a4e14f555d",
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
     "salesChangeId": "ac86d0602110"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 27.55,
+    "price": 27.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-06-20T23:17:18.599Z",
-    "lastChangeId": "390a0021e3b1",
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
     "salesChangeId": "66acbca9b845"
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 390.97,
+    "price": 376.16,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-06-14T23:17:47.892Z",
-    "lastChangeId": "636a68def934",
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
     "salesChangeId": "cd4d07e13a61"
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-06-29T23:06:15.659Z",
     "lastChangeId": "ac86d0602110",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
-    "salesChangeId": "a0e189cd8d39"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
+    "salesChangeId": "256d5e00f4fd"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 107.98,
+    "price": 99.44,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-06-21T23:23:23.439Z",
-    "lastChangeId": "0d3ce58118f9",
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1236,9 +1236,9 @@
     "objectID": "4475000",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
-    "salesChangeId": "a0e189cd8d39"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
+    "salesChangeId": "256d5e00f4fd"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-07-03T23:12:38.590Z",
     "lastChangeId": "142bd9bc9a01",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
-    "salesChangeId": "390a0021e3b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
+    "salesChangeId": "256d5e00f4fd"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
-    "salesChangeId": "a0e189cd8d39"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
+    "salesChangeId": "256d5e00f4fd"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 40.51,
+    "price": 42.01,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-06-25T23:24:15.104Z",
-    "lastChangeId": "a827fb4cfbc4",
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-03T23:12:38.590Z",
     "salesChangeId": "142bd9bc9a01"
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 184.98,
+    "price": 172.45,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-07-01T23:22:03.247Z",
-    "lastChangeId": "9ae03afb0735",
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 1032.32,
+    "price": 1039.16,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-07-02T23:15:52.887Z",
-    "lastChangeId": "900fb3fff5e5",
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-05T01:41:18.809Z",
     "salesChangeId": "582caa54af1e"
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
-    "salesChangeId": "a0e189cd8d39"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
+    "salesChangeId": "256d5e00f4fd"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 72.99,
+    "price": 79.74,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-07-02T23:15:52.887Z",
-    "lastChangeId": "900fb3fff5e5",
+    "updatedAt": "2026-07-09T23:19:01.722Z",
+    "lastChangeId": "256d5e00f4fd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
-    "salesChangeId": "ac86d0602110"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
+    "salesChangeId": "256d5e00f4fd"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",

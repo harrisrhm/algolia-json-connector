@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-05-15T23:03:00.958Z",
     "lastChangeId": "5fcece26f005",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-11T23:43:51.808Z",
-    "salesChangeId": "87de3eddf878"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
-    "salesChangeId": "34a4aae5ded2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-07-10T23:05:11.229Z",
     "lastChangeId": "34a4aae5ded2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
-    "salesChangeId": "34a4aae5ded2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-07-07T23:08:09.736Z",
     "lastChangeId": "b63350857a62",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
-    "salesChangeId": "34a4aae5ded2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-07-09T23:19:01.722Z",
     "lastChangeId": "256d5e00f4fd",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 15.06,
+    "price": 14.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-06-25T23:24:15.104Z",
-    "lastChangeId": "a827fb4cfbc4",
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
     "salesChangeId": "9ae03afb0735"
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 99.44,
+    "price": 106.92,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-07-09T23:19:01.722Z",
-    "lastChangeId": "256d5e00f4fd",
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1178,9 +1178,9 @@
     "objectID": "1857649",
     "updatedAt": "2026-07-04T23:04:13.501Z",
     "lastChangeId": "b5c57dac439a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-23T23:13:49.587Z",
-    "salesChangeId": "cd4d07e13a61"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-06-27T23:10:36.032Z",
     "lastChangeId": "b2f2ce293a0d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
-    "salesChangeId": "34a4aae5ded2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.53,
+    "price": 10.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-07-08T23:16:37.608Z",
-    "lastChangeId": "a0e189cd8d39",
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-18T23:12:41.815Z",
     "salesChangeId": "15c82a72d9b1"
@@ -1700,9 +1700,9 @@
     "objectID": "7841289",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
-    "salesChangeId": "34a4aae5ded2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 124.72,
+    "price": 125.34,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-06-24T23:13:26.823Z",
-    "lastChangeId": "5fa4d9ddd8d0",
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
     "salesChangeId": "5fa4d9ddd8d0"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 29.17,
+    "price": 30.72,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-07-05T23:08:52.190Z",
-    "lastChangeId": "be29db94b46a",
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 42.01,
+    "price": 43.72,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,11 +2098,11 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-07-09T23:19:01.722Z",
-    "lastChangeId": "256d5e00f4fd",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-03T23:12:38.590Z",
-    "salesChangeId": "142bd9bc9a01"
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 129.84,
+    "price": 141.23,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-06-28T23:11:40.332Z",
-    "lastChangeId": "4ed481c96059",
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
     "salesChangeId": "d9c0dd373bbf"
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 48.85,
+    "price": 52.83,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-07-03T23:12:38.590Z",
-    "lastChangeId": "142bd9bc9a01",
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-17T23:44:38.351Z",
     "salesChangeId": "3f39d665e172"
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 105.81,
+    "price": 110.82,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-06-21T23:23:23.439Z",
-    "lastChangeId": "0d3ce58118f9",
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
     "salesChangeId": "a827fb4cfbc4"
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 12.59,
+    "price": 12.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-06-29T23:06:15.659Z",
-    "lastChangeId": "ac86d0602110",
+    "updatedAt": "2026-07-11T22:56:42.885Z",
+    "lastChangeId": "ff779c6f6966",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
     "salesChangeId": "0e508ad0cb09"
@@ -2858,9 +2858,9 @@
     "objectID": "4826001",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
+    "salesChangeId": "ff779c6f6966"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

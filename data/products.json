@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-07-09T23:19:01.722Z",
     "lastChangeId": "256d5e00f4fd",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
-    "salesChangeId": "b4c607992b31"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 26.63,
+    "price": 26.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-07-07T23:08:09.736Z",
-    "lastChangeId": "b63350857a62",
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-03T23:12:38.590Z",
     "salesChangeId": "142bd9bc9a01"
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 351.08,
+    "price": 325.3,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-07-07T23:08:09.736Z",
-    "lastChangeId": "b63350857a62",
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
     "salesChangeId": "b5c57dac439a"
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 138.25,
+    "price": 140.63,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-07-10T23:05:11.229Z",
-    "lastChangeId": "34a4aae5ded2",
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
     "salesChangeId": "ff779c6f6966"
@@ -588,7 +588,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 53.81,
+    "price": 49.72,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -596,8 +596,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-06-18T23:52:04.292Z",
-    "lastChangeId": "66911d3fea0c",
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
-    "salesChangeId": "b4c607992b31"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-07-12T22:56:40.427Z",
     "lastChangeId": "b4c607992b31",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
-    "salesChangeId": "4ed481c96059"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 27.66,
+    "price": 25.46,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-06-28T23:11:40.332Z",
-    "lastChangeId": "4ed481c96059",
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
     "salesChangeId": "eebb088aa807"
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-07-06T23:14:30.785Z",
     "lastChangeId": "81a4e14f555d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
-    "salesChangeId": "b4c607992b31"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 464.62,
+    "price": 424.22,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-07-06T23:14:30.785Z",
-    "lastChangeId": "81a4e14f555d",
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
     "salesChangeId": "b63350857a62"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
-    "salesChangeId": "b4c607992b31"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-06-29T23:06:15.659Z",
     "lastChangeId": "ac86d0602110",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
-    "salesChangeId": "be29db94b46a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -2229,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 12.61,
+    "price": 12.64,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,11 +2237,11 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-06-29T23:06:15.659Z",
-    "lastChangeId": "ac86d0602110",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
-    "salesChangeId": "605464d03130"
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2477,9 +2477,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-07-11T22:56:42.885Z",
     "lastChangeId": "ff779c6f6966",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
-    "salesChangeId": "b4c607992b31"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 81.59,
+    "price": 87.05,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-07-08T23:16:37.608Z",
-    "lastChangeId": "a0e189cd8d39",
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
     "salesChangeId": "a827fb4cfbc4"
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 110.82,
+    "price": 106.72,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-07-11T22:56:42.885Z",
-    "lastChangeId": "ff779c6f6966",
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
     "salesChangeId": "a827fb4cfbc4"
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
-    "salesChangeId": "a0e189cd8d39"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 60.82,
+    "price": 58.96,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-07-10T23:05:11.229Z",
-    "lastChangeId": "34a4aae5ded2",
+    "updatedAt": "2026-07-13T23:01:57.913Z",
+    "lastChangeId": "6f2957172536",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"
@@ -2858,9 +2858,9 @@
     "objectID": "4826001",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
-    "salesChangeId": "b4c607992b31"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
+    "salesChangeId": "6f2957172536"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

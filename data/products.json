@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 184.57,
+    "price": 174.29,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-06-27T23:10:36.032Z",
-    "lastChangeId": "b2f2ce293a0d",
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 325.3,
+    "price": 332.75,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-07-13T23:01:57.913Z",
-    "lastChangeId": "6f2957172536",
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
     "salesChangeId": "b5c57dac439a"
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 19.84,
+    "price": 21.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-06-26T23:14:52.867Z",
-    "lastChangeId": "605464d03130",
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
     "salesChangeId": "b2f2ce293a0d"
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 42.03,
+    "price": 42.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-07-12T22:56:40.427Z",
-    "lastChangeId": "b4c607992b31",
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
     "salesChangeId": "be29db94b46a"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-03T23:51:23.203Z",
-    "salesChangeId": "9c0d8215d33f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-07-12T22:56:40.427Z",
     "lastChangeId": "b4c607992b31",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
-    "salesChangeId": "6f2957172536"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-07-01T23:22:03.247Z",
     "lastChangeId": "9ae03afb0735",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-20T23:20:19.044Z",
-    "salesChangeId": "d9c0dd373bbf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 9.1,
+    "price": 9.7,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-07-06T23:14:30.785Z",
-    "lastChangeId": "81a4e14f555d",
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
     "salesChangeId": "4ed481c96059"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 14.92,
+    "price": 14.44,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-07-11T22:56:42.885Z",
-    "lastChangeId": "ff779c6f6966",
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
     "salesChangeId": "9ae03afb0735"
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 108.65,
+    "price": 108.85,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-07-12T22:56:40.427Z",
-    "lastChangeId": "b4c607992b31",
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
     "salesChangeId": "ff779c6f6966"
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 27.02,
+    "price": 28.81,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-06-16T23:40:58.689Z",
-    "lastChangeId": "66acbca9b845",
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
     "salesChangeId": "be29db94b46a"
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-06-29T23:06:15.659Z",
     "lastChangeId": "ac86d0602110",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
-    "salesChangeId": "6f2957172536"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-07-06T23:14:30.785Z",
     "lastChangeId": "81a4e14f555d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
-    "salesChangeId": "605464d03130"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 13.81,
+    "price": 13.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-07-10T23:05:11.229Z",
-    "lastChangeId": "34a4aae5ded2",
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-07-04T23:04:13.501Z",
     "lastChangeId": "b5c57dac439a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
-    "salesChangeId": "b63350857a62"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2229,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 12.64,
+    "price": 12.02,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,11 +2237,11 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-07-13T23:01:57.913Z",
-    "lastChangeId": "6f2957172536",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
-    "salesChangeId": "6f2957172536"
+    "updatedAt": "2026-07-14T23:02:20.460Z",
+    "lastChangeId": "8e14dd1ab1f6",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-07-07T23:08:09.736Z",
     "lastChangeId": "b63350857a62",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
-    "salesChangeId": "a0e189cd8d39"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
-    "salesChangeId": "6f2957172536"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2858,9 +2858,9 @@
     "objectID": "4826001",
     "updatedAt": "2026-07-05T23:08:52.190Z",
     "lastChangeId": "be29db94b46a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
-    "salesChangeId": "6f2957172536"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
+    "salesChangeId": "8e14dd1ab1f6"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

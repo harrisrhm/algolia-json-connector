@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 9.6,
+    "price": 10.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-07-10T23:05:11.229Z",
-    "lastChangeId": "34a4aae5ded2",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
-    "salesChangeId": "256d5e00f4fd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-07-06T23:14:30.785Z",
     "lastChangeId": "81a4e14f555d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
-    "salesChangeId": "900fb3fff5e5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 61.94,
+    "price": 67.6,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-06-28T23:11:40.332Z",
-    "lastChangeId": "4ed481c96059",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
     "salesChangeId": "ff779c6f6966"
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 21.43,
+    "price": 22.96,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-07-14T23:02:20.460Z",
-    "lastChangeId": "8e14dd1ab1f6",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
     "salesChangeId": "b2f2ce293a0d"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
-    "salesChangeId": "8e14dd1ab1f6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-07-01T23:22:03.247Z",
     "lastChangeId": "9ae03afb0735",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
-    "salesChangeId": "8e14dd1ab1f6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 376.16,
+    "price": 353.93,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-07-09T23:19:01.722Z",
-    "lastChangeId": "256d5e00f4fd",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
     "salesChangeId": "b4c607992b31"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-07-14T23:02:20.460Z",
     "lastChangeId": "8e14dd1ab1f6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
-    "salesChangeId": "9ae03afb0735"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 48.37,
+    "price": 44.98,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-06-20T23:17:18.599Z",
-    "lastChangeId": "390a0021e3b1",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
     "salesChangeId": "66911d3fea0c"
@@ -1547,7 +1547,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 10.21,
+    "price": 9.33,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1555,8 +1555,8 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-07-04T23:04:13.501Z",
-    "lastChangeId": "b5c57dac439a",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
     "salesChangeId": "900fb3fff5e5"
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-07-14T23:02:20.460Z",
     "lastChangeId": "8e14dd1ab1f6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
-    "salesChangeId": "be29db94b46a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.68,
+    "price": 2.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-07-04T23:04:13.501Z",
-    "lastChangeId": "b5c57dac439a",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
     "salesChangeId": "b63350857a62"
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-07-06T23:14:30.785Z",
     "lastChangeId": "81a4e14f555d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
-    "salesChangeId": "8e14dd1ab1f6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 13.41,
+    "price": 13.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-07-14T23:02:20.460Z",
-    "lastChangeId": "8e14dd1ab1f6",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-07-04T23:04:13.501Z",
     "lastChangeId": "b5c57dac439a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
-    "salesChangeId": "8e14dd1ab1f6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-07-07T23:08:09.736Z",
     "lastChangeId": "b63350857a62",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
-    "salesChangeId": "8e14dd1ab1f6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
+    "salesChangeId": "9996e55e1517"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 446.11,
+    "price": 409.75,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-07-05T23:08:52.190Z",
-    "lastChangeId": "be29db94b46a",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
     "salesChangeId": "8e14dd1ab1f6"
@@ -2875,7 +2875,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 65.02,
+    "price": 68.86,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2883,8 +2883,8 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-06-30T23:19:35.010Z",
-    "lastChangeId": "7c8e7094ca30",
+    "updatedAt": "2026-07-15T23:03:45.468Z",
+    "lastChangeId": "9996e55e1517",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
     "salesChangeId": "56b7f269aaba"

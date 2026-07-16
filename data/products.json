@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-07-10T23:05:11.229Z",
     "lastChangeId": "34a4aae5ded2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
-    "salesChangeId": "34a4aae5ded2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
-    "salesChangeId": "9996e55e1517"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 786.93,
+    "price": 712.21,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,11 +308,11 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-07-06T23:14:30.785Z",
-    "lastChangeId": "81a4e14f555d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
-    "salesChangeId": "9996e55e1517"
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 377.54,
+    "price": 372.57,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 21.44,
+    "price": 19.89,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-06-29T23:06:15.659Z",
-    "lastChangeId": "ac86d0602110",
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
     "salesChangeId": "7c8e7094ca30"
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 9.7,
+    "price": 10.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-07-14T23:02:20.460Z",
-    "lastChangeId": "8e14dd1ab1f6",
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
     "salesChangeId": "4ed481c96059"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-07-14T23:02:20.460Z",
     "lastChangeId": "8e14dd1ab1f6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
-    "salesChangeId": "9996e55e1517"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 49.51,
+    "price": 47.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,8 +1176,8 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-07-04T23:04:13.501Z",
-    "lastChangeId": "b5c57dac439a",
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
     "salesChangeId": "b4c607992b31"
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 13.08,
+    "price": 12.33,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-07-05T23:08:52.190Z",
-    "lastChangeId": "be29db94b46a",
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
     "salesChangeId": "9ae03afb0735"
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 28.64,
+    "price": 30.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-07-05T23:08:52.190Z",
-    "lastChangeId": "be29db94b46a",
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-07-13T23:01:57.913Z",
     "lastChangeId": "6f2957172536",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
-    "salesChangeId": "b63350857a62"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
-    "salesChangeId": "6f2957172536"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-07-14T23:02:20.460Z",
     "lastChangeId": "8e14dd1ab1f6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
-    "salesChangeId": "9996e55e1517"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1804,7 +1804,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 155.01,
+    "price": 169.41,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1812,8 +1812,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-06-29T23:06:15.659Z",
-    "lastChangeId": "ac86d0602110",
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
     "salesChangeId": "8e14dd1ab1f6"
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 12.88,
+    "price": 12.48,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-07-02T23:15:52.887Z",
-    "lastChangeId": "900fb3fff5e5",
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
     "salesChangeId": "e36641b0285f"
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-06-10T23:40:55.607Z",
     "lastChangeId": "e36641b0285f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
-    "salesChangeId": "9996e55e1517"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2388,9 +2388,9 @@
     "objectID": "9437807",
     "updatedAt": "2026-07-10T23:05:11.229Z",
     "lastChangeId": "34a4aae5ded2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-26T23:16:12.753Z",
-    "salesChangeId": "eebb088aa807"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 831.56,
+    "price": 787.71,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-07-12T22:56:40.427Z",
-    "lastChangeId": "b4c607992b31",
+    "updatedAt": "2026-07-16T23:03:36.700Z",
+    "lastChangeId": "de3557b72476",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
     "salesChangeId": "a0e189cd8d39"
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
-    "salesChangeId": "900fb3fff5e5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
+    "salesChangeId": "de3557b72476"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

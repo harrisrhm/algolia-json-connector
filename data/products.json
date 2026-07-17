@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-07-10T23:05:11.229Z",
     "lastChangeId": "34a4aae5ded2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
-    "salesChangeId": "de3557b72476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -70,7 +70,7 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 52.56,
+    "price": 47.31,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -78,8 +78,8 @@
     "popularity": 5309,
     "rating": 3,
     "objectID": "4388600",
-    "updatedAt": "2026-06-21T23:23:23.439Z",
-    "lastChangeId": "0d3ce58118f9",
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-26T23:14:52.867Z",
     "salesChangeId": "605464d03130"
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 712.21,
+    "price": 714.05,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-07-16T23:03:36.700Z",
-    "lastChangeId": "de3557b72476",
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
     "salesChangeId": "de3557b72476"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
-    "salesChangeId": "9996e55e1517"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -830,9 +830,9 @@
     "objectID": "3290125",
     "updatedAt": "2026-07-09T23:19:01.722Z",
     "lastChangeId": "256d5e00f4fd",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
-    "salesChangeId": "66acbca9b845"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -1460,7 +1460,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 409.96,
+    "price": 422.94,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1468,8 +1468,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-07-12T22:56:40.427Z",
-    "lastChangeId": "b4c607992b31",
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
     "salesChangeId": "34a4aae5ded2"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 44.98,
+    "price": 44.79,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,11 +1495,11 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-07-15T23:03:45.468Z",
-    "lastChangeId": "9996e55e1517",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-18T23:52:04.292Z",
-    "salesChangeId": "66911d3fea0c"
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "Bose® - CineMate® 15 Home Theater Speaker System - Black",
@@ -1547,7 +1547,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 9.33,
+    "price": 9.19,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1555,8 +1555,8 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-07-15T23:03:45.468Z",
-    "lastChangeId": "9996e55e1517",
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
     "salesChangeId": "900fb3fff5e5"
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 13.28,
+    "price": 13.23,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-05-31T23:09:35.739Z",
-    "lastChangeId": "d4b128983a12",
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
     "salesChangeId": "b88ca8a2be1f"
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-07-13T23:01:57.913Z",
     "lastChangeId": "6f2957172536",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
-    "salesChangeId": "de3557b72476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
-    "salesChangeId": "de3557b72476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 43.28,
+    "price": 47.6,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-07-06T23:14:30.785Z",
-    "lastChangeId": "81a4e14f555d",
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
     "salesChangeId": "9996e55e1517"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 29.12,
+    "price": 27.76,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-07-12T22:56:40.427Z",
-    "lastChangeId": "b4c607992b31",
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2330,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-07-10T23:05:11.229Z",
     "lastChangeId": "34a4aae5ded2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-07T23:13:18.549Z",
-    "salesChangeId": "a1dc5f8da831"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2388,9 +2388,9 @@
     "objectID": "9437807",
     "updatedAt": "2026-07-10T23:05:11.229Z",
     "lastChangeId": "34a4aae5ded2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
-    "salesChangeId": "de3557b72476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 79.74,
+    "price": 87.27,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-07-09T23:19:01.722Z",
-    "lastChangeId": "256d5e00f4fd",
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1219.18,
+    "price": 1329.88,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-07-05T23:08:52.190Z",
-    "lastChangeId": "be29db94b46a",
+    "updatedAt": "2026-07-17T22:55:23.064Z",
+    "lastChangeId": "7fd6b9ed311b",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
     "salesChangeId": "8e14dd1ab1f6"
@@ -2742,9 +2742,9 @@
     "objectID": "4788009",
     "updatedAt": "2026-07-11T22:56:42.885Z",
     "lastChangeId": "ff779c6f6966",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-24T23:03:36.259Z",
-    "salesChangeId": "0e508ad0cb09"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
-    "salesChangeId": "de3557b72476"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
+    "salesChangeId": "7fd6b9ed311b"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

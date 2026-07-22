@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
-    "salesChangeId": "07cc6408ccca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
-    "salesChangeId": "b2f2ce293a0d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-06-24T23:13:26.823Z",
     "lastChangeId": "5fa4d9ddd8d0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
-    "salesChangeId": "07cc6408ccca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-07-21T23:03:56.836Z",
     "lastChangeId": "07cc6408ccca",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
-    "salesChangeId": "9ae03afb0735"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
-    "salesChangeId": "07cc6408ccca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-07-07T23:08:09.736Z",
     "lastChangeId": "b63350857a62",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
-    "salesChangeId": "07cc6408ccca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-01T23:22:03.247Z",
-    "salesChangeId": "9ae03afb0735"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 424.22,
+    "price": 394.07,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-07-13T23:01:57.913Z",
-    "lastChangeId": "6f2957172536",
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-19T22:58:37.408Z",
     "salesChangeId": "45f34047c509"
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-07-19T22:58:37.408Z",
     "lastChangeId": "45f34047c509",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
-    "salesChangeId": "07cc6408ccca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.92,
+    "price": 3.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-07-15T23:03:45.468Z",
-    "lastChangeId": "9996e55e1517",
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
     "salesChangeId": "b63350857a62"
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 11.48,
+    "price": 12.24,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,11 +2015,11 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-07-18T22:56:47.880Z",
-    "lastChangeId": "8c1d09de9c23",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-10T23:40:55.607Z",
-    "salesChangeId": "e36641b0285f"
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 199.76,
+    "price": 212.74,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-07-21T23:03:56.836Z",
-    "lastChangeId": "07cc6408ccca",
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -2291,7 +2291,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 284.23,
+    "price": 291.55,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2299,8 +2299,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-06-10T23:40:55.607Z",
-    "lastChangeId": "e36641b0285f",
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
     "salesChangeId": "de3557b72476"
@@ -2436,7 +2436,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 306.91,
+    "price": 328.47,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2444,8 +2444,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-07-02T23:15:52.887Z",
-    "lastChangeId": "900fb3fff5e5",
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
     "salesChangeId": "b63350857a62"
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 87.05,
+    "price": 80.21,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,11 +2504,11 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-07-13T23:01:57.913Z",
-    "lastChangeId": "6f2957172536",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
-    "salesChangeId": "a827fb4cfbc4"
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
+    "salesChangeId": "fd21fd60db33"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 48.5,
+    "price": 49.87,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-07-07T23:08:09.736Z",
-    "lastChangeId": "b63350857a62",
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
     "salesChangeId": "9996e55e1517"
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 58.96,
+    "price": 61.99,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-07-13T23:01:57.913Z",
-    "lastChangeId": "6f2957172536",
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 409.75,
+    "price": 371.27,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-07-15T23:03:45.468Z",
-    "lastChangeId": "9996e55e1517",
+    "updatedAt": "2026-07-22T23:10:18.001Z",
+    "lastChangeId": "fd21fd60db33",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
     "salesChangeId": "8e14dd1ab1f6"

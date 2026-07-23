@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 185.88,
+    "price": 203.54,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-07-21T23:03:56.836Z",
-    "lastChangeId": "07cc6408ccca",
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 126.58,
+    "price": 123.02,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,11 +536,11 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-07-21T23:03:56.836Z",
-    "lastChangeId": "07cc6408ccca",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -567,9 +567,9 @@
     "objectID": "5184121",
     "updatedAt": "2026-07-02T23:15:52.887Z",
     "lastChangeId": "900fb3fff5e5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-16T23:40:58.689Z",
-    "salesChangeId": "66acbca9b845"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-07-15T23:03:45.468Z",
     "lastChangeId": "9996e55e1517",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
-    "salesChangeId": "b2f2ce293a0d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 25.89,
+    "price": 28.01,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-07-20T23:06:08.385Z",
-    "lastChangeId": "58b61a63240d",
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
     "salesChangeId": "900fb3fff5e5"
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 6.03,
+    "price": 5.71,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-07-21T23:03:56.836Z",
-    "lastChangeId": "07cc6408ccca",
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-05T23:08:52.190Z",
     "salesChangeId": "be29db94b46a"
@@ -1178,9 +1178,9 @@
     "objectID": "1857649",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
-    "salesChangeId": "b4c607992b31"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 66.21,
+    "price": 71.54,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-07-12T22:56:40.427Z",
-    "lastChangeId": "b4c607992b31",
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
     "salesChangeId": "ac86d0602110"
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 394.07,
+    "price": 428.76,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-07-22T23:10:18.001Z",
-    "lastChangeId": "fd21fd60db33",
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-19T22:58:37.408Z",
     "salesChangeId": "45f34047c509"
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-07-22T23:10:18.001Z",
     "lastChangeId": "fd21fd60db33",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2042,9 +2042,9 @@
     "objectID": "6263962",
     "updatedAt": "2026-07-19T22:58:37.408Z",
     "lastChangeId": "45f34047c509",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
-    "salesChangeId": "81a4e14f555d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 27.76,
+    "price": 27.71,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-07-17T22:55:23.064Z",
-    "lastChangeId": "7fd6b9ed311b",
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 7.56,
+    "price": 6.96,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-06-21T23:23:23.439Z",
-    "lastChangeId": "0d3ce58118f9",
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
     "salesChangeId": "7c8e7094ca30"
@@ -2229,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 12.02,
+    "price": 12.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,8 +2237,8 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-07-14T23:02:20.460Z",
-    "lastChangeId": "8e14dd1ab1f6",
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
     "salesChangeId": "8e14dd1ab1f6"
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 80.21,
+    "price": 74.46,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,11 +2504,11 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-07-22T23:10:18.001Z",
-    "lastChangeId": "fd21fd60db33",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "updatedAt": "2026-07-23T23:03:58.799Z",
+    "lastChangeId": "5dac0a79b06b",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2858,9 +2858,9 @@
     "objectID": "4826001",
     "updatedAt": "2026-07-22T23:10:18.001Z",
     "lastChangeId": "fd21fd60db33",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
-    "salesChangeId": "8e14dd1ab1f6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
+    "salesChangeId": "5dac0a79b06b"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

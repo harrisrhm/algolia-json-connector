@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 149.73,
+    "price": 151.34,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-07-10T23:05:11.229Z",
-    "lastChangeId": "34a4aae5ded2",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
     "salesChangeId": "7fd6b9ed311b"
@@ -101,7 +101,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Bookshelf Speakers"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 898.33,
+    "price": 952.65,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8672031_sb.jpg",
     "url": "http://www.bestbuy.com/site/pioneer-elite-5-1-4-3-way-bookshelf-speakers-pair-black-ash-vinyl/8672031.p?id=1219357510788&skuId=8672031&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -109,8 +109,8 @@
     "popularity": 2065,
     "rating": 1,
     "objectID": "8672031",
-    "updatedAt": "2026-07-20T23:06:08.385Z",
-    "lastChangeId": "58b61a63240d",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
     "salesChangeId": "b4c607992b31"
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 744.31,
+    "price": 715.61,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-07-20T23:06:08.385Z",
-    "lastChangeId": "58b61a63240d",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
     "salesChangeId": "de3557b72476"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-07-07T23:08:09.736Z",
     "lastChangeId": "b63350857a62",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
-    "salesChangeId": "6aa131753c62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-06-24T23:13:26.823Z",
     "lastChangeId": "5fa4d9ddd8d0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -598,9 +598,9 @@
     "objectID": "1775023",
     "updatedAt": "2026-07-13T23:01:57.913Z",
     "lastChangeId": "6f2957172536",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
-    "salesChangeId": "6aa131753c62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-07-07T23:08:09.736Z",
     "lastChangeId": "b63350857a62",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-07-12T22:56:40.427Z",
     "lastChangeId": "b4c607992b31",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
-    "salesChangeId": "256d5e00f4fd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1064,9 +1064,9 @@
     "objectID": "2515083",
     "updatedAt": "2026-07-24T23:08:56.494Z",
     "lastChangeId": "a1645944944d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
-    "salesChangeId": "6aa131753c62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 260.65,
+    "price": 285.97,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-07-21T23:03:56.836Z",
-    "lastChangeId": "07cc6408ccca",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
     "salesChangeId": "58b61a63240d"
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 30.18,
+    "price": 28.58,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-07-16T23:03:36.700Z",
-    "lastChangeId": "de3557b72476",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 25.46,
+    "price": 22.98,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-07-13T23:01:57.913Z",
-    "lastChangeId": "6f2957172536",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 13.23,
+    "price": 13.7,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-07-17T22:55:23.064Z",
-    "lastChangeId": "7fd6b9ed311b",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
     "salesChangeId": "b88ca8a2be1f"
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 3.05,
+    "price": 2.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-07-22T23:10:18.001Z",
-    "lastChangeId": "fd21fd60db33",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
     "salesChangeId": "6aa131753c62"
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 212.74,
+    "price": 197.11,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-07-22T23:10:18.001Z",
-    "lastChangeId": "fd21fd60db33",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-07-04T23:04:13.501Z",
     "lastChangeId": "b5c57dac439a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
-    "salesChangeId": "6aa131753c62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-07-22T23:10:18.001Z",
     "lastChangeId": "fd21fd60db33",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
-    "salesChangeId": "6aa131753c62"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2477,9 +2477,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-07-11T22:56:42.885Z",
     "lastChangeId": "ff779c6f6966",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
-    "salesChangeId": "6f2957172536"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
+    "salesChangeId": "831000947d9e"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 210.11,
+    "price": 206.28,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-07-24T23:08:56.494Z",
-    "lastChangeId": "a1645944944d",
+    "updatedAt": "2026-07-26T23:03:56.383Z",
+    "lastChangeId": "831000947d9e",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
     "salesChangeId": "34a4aae5ded2"

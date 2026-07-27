@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 151.34,
+    "price": 157.81,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-07-26T23:03:56.383Z",
-    "lastChangeId": "831000947d9e",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
     "salesChangeId": "7fd6b9ed311b"
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 189.27,
+    "price": 188.12,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-07-24T23:08:56.494Z",
-    "lastChangeId": "a1645944944d",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 91.55,
+    "price": 88.7,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-07-07T23:08:09.736Z",
-    "lastChangeId": "b63350857a62",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
     "salesChangeId": "831000947d9e"
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-06-24T23:13:26.823Z",
     "lastChangeId": "5fa4d9ddd8d0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
-    "salesChangeId": "831000947d9e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 45.88,
+    "price": 43.04,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-07-25T23:01:46.708Z",
-    "lastChangeId": "6aa131753c62",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-19T22:58:37.408Z",
     "salesChangeId": "45f34047c509"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
-    "salesChangeId": "831000947d9e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-07-10T23:05:11.229Z",
     "lastChangeId": "34a4aae5ded2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-27T23:10:36.032Z",
-    "salesChangeId": "b2f2ce293a0d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-07-07T23:08:09.736Z",
     "lastChangeId": "b63350857a62",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
-    "salesChangeId": "831000947d9e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-07-15T23:03:45.468Z",
     "lastChangeId": "9996e55e1517",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
-    "salesChangeId": "07cc6408ccca"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-07-12T22:56:40.427Z",
     "lastChangeId": "b4c607992b31",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
-    "salesChangeId": "831000947d9e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 10.18,
+    "price": 9.73,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-07-11T22:56:42.885Z",
-    "lastChangeId": "ff779c6f6966",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-19T22:58:37.408Z",
     "salesChangeId": "45f34047c509"
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 28.58,
+    "price": 27.15,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-07-26T23:03:56.383Z",
-    "lastChangeId": "831000947d9e",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 53.96,
+    "price": 55.26,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-06-28T23:11:40.332Z",
-    "lastChangeId": "4ed481c96059",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
     "salesChangeId": "ff779c6f6966"
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 207.24,
+    "price": 193.81,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-07-07T23:08:09.736Z",
-    "lastChangeId": "b63350857a62",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 125.34,
+    "price": 120.4,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-07-11T22:56:42.885Z",
-    "lastChangeId": "ff779c6f6966",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
     "salesChangeId": "5fa4d9ddd8d0"
@@ -1990,9 +1990,9 @@
     "objectID": "7652364",
     "updatedAt": "2026-06-24T23:13:26.823Z",
     "lastChangeId": "5fa4d9ddd8d0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-17T22:59:35.958Z",
-    "salesChangeId": "f958272628b0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "Disney - Star Wars Force Men's T-Shirt (Extra-Large) - Black",
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-07-24T23:08:56.494Z",
     "lastChangeId": "a1645944944d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-09T23:19:01.722Z",
-    "salesChangeId": "256d5e00f4fd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2477,9 +2477,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-07-11T22:56:42.885Z",
     "lastChangeId": "ff779c6f6966",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
-    "salesChangeId": "831000947d9e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
+    "salesChangeId": "222753db43b1"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 224.59,
+    "price": 233.59,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-07-21T23:03:56.836Z",
-    "lastChangeId": "07cc6408ccca",
+    "updatedAt": "2026-07-27T23:11:48.743Z",
+    "lastChangeId": "222753db43b1",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
     "salesChangeId": "7c8e7094ca30"

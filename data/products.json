@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 157.81,
+    "price": 150.47,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-07-27T23:11:48.743Z",
-    "lastChangeId": "222753db43b1",
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
     "salesChangeId": "7fd6b9ed311b"
@@ -196,9 +196,9 @@
     "objectID": "9435907",
     "updatedAt": "2026-07-18T22:56:47.880Z",
     "lastChangeId": "8c1d09de9c23",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-28T23:07:43.005Z",
-    "salesChangeId": "c73e309f569f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 18.48,
+    "price": 18.46,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-07-18T22:56:47.880Z",
-    "lastChangeId": "8c1d09de9c23",
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
-    "salesChangeId": "222753db43b1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-28T23:07:43.005Z",
-    "salesChangeId": "c73e309f569f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-06-24T23:13:26.823Z",
     "lastChangeId": "5fa4d9ddd8d0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
-    "salesChangeId": "222753db43b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 40.03,
+    "price": 42.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-07-08T23:16:37.608Z",
-    "lastChangeId": "a0e189cd8d39",
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
     "salesChangeId": "222753db43b1"
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 378.61,
+    "price": 366.54,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-07-25T23:01:46.708Z",
-    "lastChangeId": "6aa131753c62",
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-07-12T22:56:40.427Z",
     "lastChangeId": "b4c607992b31",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-28T23:07:43.005Z",
-    "salesChangeId": "c73e309f569f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 5.66,
+    "price": 5.53,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,11 +1149,11 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-07-28T23:07:43.005Z",
-    "lastChangeId": "c73e309f569f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-28T23:07:43.005Z",
-    "salesChangeId": "c73e309f569f"
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1236,9 +1236,9 @@
     "objectID": "4475000",
     "updatedAt": "2026-07-26T23:03:56.383Z",
     "lastChangeId": "831000947d9e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
-    "salesChangeId": "58b61a63240d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 2804.63,
+    "price": 3041.17,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-07-19T22:58:37.408Z",
-    "lastChangeId": "45f34047c509",
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
     "salesChangeId": "69a5d9000725"
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 22.98,
+    "price": 24.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,11 +1439,11 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-07-26T23:03:56.383Z",
-    "lastChangeId": "831000947d9e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
-    "salesChangeId": "07cc6408ccca"
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 193.81,
+    "price": 184.87,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-07-27T23:11:48.743Z",
-    "lastChangeId": "222753db43b1",
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -2291,7 +2291,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 291.55,
+    "price": 311.87,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2299,8 +2299,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-07-22T23:10:18.001Z",
-    "lastChangeId": "fd21fd60db33",
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
     "salesChangeId": "831000947d9e"
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 69.86,
+    "price": 70.18,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-07-28T23:07:43.005Z",
-    "lastChangeId": "c73e309f569f",
+    "updatedAt": "2026-07-29T23:04:07.233Z",
+    "lastChangeId": "dc0a1dd3f317",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
     "salesChangeId": "5dac0a79b06b"
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-07-24T23:08:56.494Z",
     "lastChangeId": "a1645944944d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
-    "salesChangeId": "9996e55e1517"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-05-21T23:09:44.223Z",
     "lastChangeId": "ac9766792620",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
-    "salesChangeId": "7fd6b9ed311b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
+    "salesChangeId": "dc0a1dd3f317"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

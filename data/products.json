@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-07-20T23:06:08.385Z",
     "lastChangeId": "58b61a63240d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
-    "salesChangeId": "6aa131753c62"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.54,
+    "price": 11.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-07-15T23:03:45.468Z",
-    "lastChangeId": "9996e55e1517",
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 18.46,
+    "price": 16.83,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-07-29T23:04:07.233Z",
-    "lastChangeId": "dc0a1dd3f317",
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-07-29T23:04:07.233Z",
     "lastChangeId": "dc0a1dd3f317",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
-    "salesChangeId": "222753db43b1"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-07-23T23:03:58.799Z",
     "lastChangeId": "5dac0a79b06b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 14.06,
+    "price": 14.58,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-07-25T23:01:46.708Z",
-    "lastChangeId": "6aa131753c62",
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
     "salesChangeId": "58b61a63240d"
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 5.53,
+    "price": 6,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-07-29T23:04:07.233Z",
-    "lastChangeId": "dc0a1dd3f317",
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
     "salesChangeId": "dc0a1dd3f317"
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-07-28T23:07:43.005Z",
     "lastChangeId": "c73e309f569f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 3225.68,
+    "price": 3307.44,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
     "salesChangeId": "69a5d9000725"
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.9,
+    "price": 8.42,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-19T22:58:37.408Z",
     "salesChangeId": "45f34047c509"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 761.8,
+    "price": 704.33,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,11 +1526,11 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-13T23:01:57.913Z",
-    "salesChangeId": "6f2957172536"
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1804,7 +1804,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 165.2,
+    "price": 179.42,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1812,8 +1812,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-07-18T22:56:47.880Z",
-    "lastChangeId": "8c1d09de9c23",
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
     "salesChangeId": "8e14dd1ab1f6"
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.94,
+    "price": 3.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,11 +1928,11 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-07-26T23:03:56.383Z",
-    "lastChangeId": "831000947d9e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
-    "salesChangeId": "6aa131753c62"
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2156,9 +2156,9 @@
     "objectID": "7640131",
     "updatedAt": "2026-07-24T23:08:56.494Z",
     "lastChangeId": "a1645944944d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "Canon - 251 Ink Cartridge - Magenta",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 86.03,
+    "price": 84.74,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,11 +2268,11 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-28T23:07:43.005Z",
-    "salesChangeId": "c73e309f569f"
+    "updatedAt": "2026-07-31T23:09:41.235Z",
+    "lastChangeId": "ff83d8e25399",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
+    "salesChangeId": "ff83d8e25399"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",

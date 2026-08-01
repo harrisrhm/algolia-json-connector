@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-07-20T23:06:08.385Z",
     "lastChangeId": "58b61a63240d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
-    "salesChangeId": "ff83d8e25399"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 11.56,
+    "price": 11.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-07-31T23:09:41.235Z",
-    "lastChangeId": "ff83d8e25399",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 27.13,
+    "price": 29.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-07-18T22:56:47.880Z",
-    "lastChangeId": "8c1d09de9c23",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
     "salesChangeId": "dc0a1dd3f317"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
-    "salesChangeId": "dc0a1dd3f317"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2360.4,
+    "price": 2474.9,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-06-24T23:13:26.823Z",
-    "lastChangeId": "5fa4d9ddd8d0",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3265.15,
+    "price": 3292.7,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-07-25T23:01:46.708Z",
-    "lastChangeId": "6aa131753c62",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
     "salesChangeId": "6aa131753c62"
@@ -588,7 +588,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 49.72,
+    "price": 54.13,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -596,8 +596,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-07-13T23:01:57.913Z",
-    "lastChangeId": "6f2957172536",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
     "salesChangeId": "831000947d9e"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-07-29T23:04:07.233Z",
     "lastChangeId": "dc0a1dd3f317",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
-    "salesChangeId": "ff83d8e25399"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-07-30T23:13:05.618Z",
     "lastChangeId": "8103c9a7faf0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-07-15T23:03:45.468Z",
     "lastChangeId": "9996e55e1517",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-28T23:07:43.005Z",
-    "salesChangeId": "c73e309f569f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 9.13,
+    "price": 8.34,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
     "salesChangeId": "831000947d9e"
@@ -1236,9 +1236,9 @@
     "objectID": "4475000",
     "updatedAt": "2026-07-26T23:03:56.383Z",
     "lastChangeId": "831000947d9e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 24.43,
+    "price": 22.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-07-29T23:04:07.233Z",
-    "lastChangeId": "dc0a1dd3f317",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-07-31T23:09:41.235Z",
     "lastChangeId": "ff83d8e25399",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
-    "salesChangeId": "ff83d8e25399"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-07-31T23:09:41.235Z",
     "lastChangeId": "ff83d8e25399",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
-    "salesChangeId": "ff83d8e25399"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 12.24,
+    "price": 12.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-07-22T23:10:18.001Z",
-    "lastChangeId": "fd21fd60db33",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
     "salesChangeId": "5dac0a79b06b"
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 43.72,
+    "price": 41.97,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-07-11T22:56:42.885Z",
-    "lastChangeId": "ff779c6f6966",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
     "salesChangeId": "58b61a63240d"
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-07-25T23:01:46.708Z",
     "lastChangeId": "6aa131753c62",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
-    "salesChangeId": "8e14dd1ab1f6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-07-31T23:09:41.235Z",
     "lastChangeId": "ff83d8e25399",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
-    "salesChangeId": "ff83d8e25399"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
+    "salesChangeId": "6f4bc9c37e60"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 106.72,
+    "price": 104.1,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-07-13T23:01:57.913Z",
-    "lastChangeId": "6f2957172536",
+    "updatedAt": "2026-08-01T22:59:53.232Z",
+    "lastChangeId": "6f4bc9c37e60",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
     "salesChangeId": "a827fb4cfbc4"

@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 10.01,
+    "price": 9.49,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,11 +225,11 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-06-25T23:24:15.104Z",
-    "lastChangeId": "a827fb4cfbc4",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-28T23:11:40.332Z",
-    "salesChangeId": "4ed481c96059"
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-07-28T23:07:43.005Z",
     "lastChangeId": "c73e309f569f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
-    "salesChangeId": "cfc8af5a848c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 43.04,
+    "price": 40.96,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,11 +656,11 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-07-27T23:11:48.743Z",
-    "lastChangeId": "222753db43b1",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
-    "salesChangeId": "cfc8af5a848c"
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 42.05,
+    "price": 41.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-07-29T23:04:07.233Z",
-    "lastChangeId": "dc0a1dd3f317",
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
     "salesChangeId": "6f4bc9c37e60"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 27.91,
+    "price": 25.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-07-09T23:19:01.722Z",
-    "lastChangeId": "256d5e00f4fd",
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-18T22:56:47.880Z",
     "salesChangeId": "8c1d09de9c23"
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-07-15T23:03:45.468Z",
     "lastChangeId": "9996e55e1517",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
-    "salesChangeId": "cfc8af5a848c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 42.89,
+    "price": 43.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-07-12T22:56:40.427Z",
-    "lastChangeId": "b4c607992b31",
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
     "salesChangeId": "dc0a1dd3f317"
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 112.76,
+    "price": 113.25,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-07-19T22:58:37.408Z",
-    "lastChangeId": "45f34047c509",
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-07-23T23:03:58.799Z",
     "lastChangeId": "5dac0a79b06b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
-    "salesChangeId": "ac86d0602110"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-07-31T23:09:41.235Z",
     "lastChangeId": "ff83d8e25399",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
-    "salesChangeId": "6f4bc9c37e60"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-06-28T23:11:40.332Z",
     "lastChangeId": "4ed481c96059",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
-    "salesChangeId": "cfc8af5a848c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 201.37,
+    "price": 183.17,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
-    "salesChangeId": "cfc8af5a848c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 84.74,
+    "price": 78.76,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,11 +2268,11 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-07-31T23:09:41.235Z",
-    "lastChangeId": "ff83d8e25399",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
-    "salesChangeId": "cfc8af5a848c"
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 15.62,
+    "price": 14.6,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-07-10T23:05:11.229Z",
-    "lastChangeId": "34a4aae5ded2",
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-18T22:56:47.880Z",
     "salesChangeId": "8c1d09de9c23"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-07-22T23:10:18.001Z",
     "lastChangeId": "fd21fd60db33",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-07T23:08:09.736Z",
-    "salesChangeId": "b63350857a62"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
+    "salesChangeId": "044a0d0a02c9"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1238.34,
+    "price": 1248.06,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-07-19T22:58:37.408Z",
-    "lastChangeId": "45f34047c509",
+    "updatedAt": "2026-08-03T23:10:53.358Z",
+    "lastChangeId": "044a0d0a02c9",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"

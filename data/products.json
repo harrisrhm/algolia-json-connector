@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 188.12,
+    "price": 178.97,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-07-27T23:11:48.743Z",
-    "lastChangeId": "222753db43b1",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
-    "salesChangeId": "044a0d0a02c9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 80.77,
+    "price": 76.81,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-08-02T23:00:41.318Z",
-    "lastChangeId": "cfc8af5a848c",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
     "salesChangeId": "831000947d9e"
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 60.85,
+    "price": 63.82,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
     "salesChangeId": "ff779c6f6966"
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 123.02,
+    "price": 110.72,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-07-23T23:03:58.799Z",
-    "lastChangeId": "5dac0a79b06b",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
     "salesChangeId": "6aa131753c62"
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-07-15T23:03:45.468Z",
     "lastChangeId": "9996e55e1517",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
-    "salesChangeId": "044a0d0a02c9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 113.25,
+    "price": 106.3,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-08-03T23:10:53.358Z",
-    "lastChangeId": "044a0d0a02c9",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-07-23T23:03:58.799Z",
     "lastChangeId": "5dac0a79b06b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
-    "salesChangeId": "044a0d0a02c9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-07-31T23:09:41.235Z",
     "lastChangeId": "ff83d8e25399",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
-    "salesChangeId": "044a0d0a02c9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1700,9 +1700,9 @@
     "objectID": "7841289",
     "updatedAt": "2026-07-28T23:07:43.005Z",
     "lastChangeId": "c73e309f569f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
-    "salesChangeId": "ff779c6f6966"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 120.4,
+    "price": 128.87,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-07-27T23:11:48.743Z",
-    "lastChangeId": "222753db43b1",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
     "salesChangeId": "5fa4d9ddd8d0"
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-08-02T23:00:41.318Z",
     "lastChangeId": "cfc8af5a848c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
-    "salesChangeId": "6f4bc9c37e60"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-08-01T22:59:53.232Z",
     "lastChangeId": "6f4bc9c37e60",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
-    "salesChangeId": "5dac0a79b06b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 43.25,
+    "price": 45.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-08-02T23:00:41.318Z",
-    "lastChangeId": "cfc8af5a848c",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
     "salesChangeId": "58b61a63240d"
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-07-01T23:22:03.247Z",
     "lastChangeId": "9ae03afb0735",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-12T23:24:44.710Z",
-    "salesChangeId": "e9f04187f476"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 87.27,
+    "price": 86.44,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-07-17T22:55:23.064Z",
-    "lastChangeId": "7fd6b9ed311b",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-07-22T23:10:18.001Z",
     "lastChangeId": "fd21fd60db33",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
-    "salesChangeId": "044a0d0a02c9"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-08-02T23:00:41.318Z",
     "lastChangeId": "cfc8af5a848c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-08T23:16:37.608Z",
-    "salesChangeId": "a0e189cd8d39"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
+    "salesChangeId": "b9752b095bcd"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 61.99,
+    "price": 60.69,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-07-22T23:10:18.001Z",
-    "lastChangeId": "fd21fd60db33",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 371.27,
+    "price": 341.2,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-07-22T23:10:18.001Z",
-    "lastChangeId": "fd21fd60db33",
+    "updatedAt": "2026-08-04T23:09:46.217Z",
+    "lastChangeId": "b9752b095bcd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-24T23:08:56.494Z",
     "salesChangeId": "a1645944944d"

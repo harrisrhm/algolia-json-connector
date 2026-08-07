@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 150.47,
+    "price": 162.81,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,11 +22,11 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-07-29T23:04:07.233Z",
-    "lastChangeId": "dc0a1dd3f317",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-05T23:08:31.043Z",
-    "salesChangeId": "4364a42fc7bf"
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 529.41,
+    "price": 525.62,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,11 +53,11 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-08-07T01:31:09.544Z",
-    "lastChangeId": "410f91355ac5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
-    "salesChangeId": "410f91355ac5"
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 110.72,
+    "price": 114.9,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-08-04T23:09:46.217Z",
-    "lastChangeId": "b9752b095bcd",
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
     "salesChangeId": "6aa131753c62"
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 23.78,
+    "price": 23.52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-07-28T23:07:43.005Z",
-    "lastChangeId": "c73e309f569f",
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
     "salesChangeId": "044a0d0a02c9"
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 41.97,
+    "price": 43.29,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-08-05T23:08:31.043Z",
-    "lastChangeId": "4364a42fc7bf",
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
     "salesChangeId": "044a0d0a02c9"
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
-    "salesChangeId": "ff83d8e25399"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 110.6,
+    "price": 108.41,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-08-05T23:08:31.043Z",
-    "lastChangeId": "4364a42fc7bf",
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
-    "salesChangeId": "ff83d8e25399"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 71.85,
+    "price": 72.78,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-08-07T01:31:09.544Z",
-    "lastChangeId": "410f91355ac5",
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
     "salesChangeId": "b9752b095bcd"
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-07-24T23:08:56.494Z",
     "lastChangeId": "a1645944944d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
-    "salesChangeId": "410f91355ac5"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-07-31T23:09:41.235Z",
     "lastChangeId": "ff83d8e25399",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
-    "salesChangeId": "410f91355ac5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 13.7,
+    "price": 14.08,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-07-26T23:03:56.383Z",
-    "lastChangeId": "831000947d9e",
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
     "salesChangeId": "b88ca8a2be1f"
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
-    "salesChangeId": "81a4e14f555d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 3.04,
+    "price": 2.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-08-02T23:00:41.318Z",
-    "lastChangeId": "cfc8af5a848c",
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-05T23:08:31.043Z",
     "salesChangeId": "4364a42fc7bf"
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 23.23,
+    "price": 24.83,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,11 +1988,11 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-08-05T23:08:31.043Z",
-    "lastChangeId": "4364a42fc7bf",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
-    "salesChangeId": "410f91355ac5"
+    "updatedAt": "2026-08-07T22:45:31.881Z",
+    "lastChangeId": "74f9f76acfa6",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   },
   {
     "name": "Disney - Star Wars Force Men's T-Shirt (Extra-Large) - Black",
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-08-07T01:31:09.544Z",
     "lastChangeId": "410f91355ac5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
-    "salesChangeId": "410f91355ac5"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-07-28T23:07:43.005Z",
     "lastChangeId": "c73e309f569f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-06T23:11:01.163Z",
-    "salesChangeId": "56b7f269aaba"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
+    "salesChangeId": "74f9f76acfa6"
   }
 ]

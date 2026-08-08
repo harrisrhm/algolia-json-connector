@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.49,
+    "price": 9.79,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-08-03T23:10:53.358Z",
-    "lastChangeId": "044a0d0a02c9",
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
     "salesChangeId": "b9752b095bcd"
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 16.83,
+    "price": 18.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-07-31T23:09:41.235Z",
-    "lastChangeId": "ff83d8e25399",
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-08-04T23:09:46.217Z",
     "lastChangeId": "b9752b095bcd",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
-    "salesChangeId": "831000947d9e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-08-04T23:09:46.217Z",
     "lastChangeId": "b9752b095bcd",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
-    "salesChangeId": "ff779c6f6966"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2381.01,
+    "price": 2188.72,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-08-05T23:08:31.043Z",
-    "lastChangeId": "4364a42fc7bf",
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 43.29,
+    "price": 45.62,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-08-07T22:45:31.881Z",
-    "lastChangeId": "74f9f76acfa6",
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
     "salesChangeId": "044a0d0a02c9"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
-    "salesChangeId": "6f4bc9c37e60"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-07-08T23:16:37.608Z",
     "lastChangeId": "a0e189cd8d39",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
-    "salesChangeId": "74f9f76acfa6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 657.87,
+    "price": 707.8,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,11 +911,11 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-07-10T23:05:11.229Z",
-    "lastChangeId": "34a4aae5ded2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-28T23:07:43.005Z",
-    "salesChangeId": "c73e309f569f"
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.77,
+    "price": 8.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-08-07T01:31:09.544Z",
-    "lastChangeId": "410f91355ac5",
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
     "salesChangeId": "831000947d9e"
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
-    "salesChangeId": "74f9f76acfa6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 27.15,
+    "price": 24.48,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-07-27T23:11:48.743Z",
-    "lastChangeId": "222753db43b1",
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-09T23:22:53.223Z",
     "salesChangeId": "77a044cbfe3e"
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-07-31T23:09:41.235Z",
     "lastChangeId": "ff83d8e25399",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
-    "salesChangeId": "74f9f76acfa6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-07-23T23:03:58.799Z",
     "lastChangeId": "5dac0a79b06b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-19T22:58:37.408Z",
-    "salesChangeId": "45f34047c509"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
-    "salesChangeId": "74f9f76acfa6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 45.78,
+    "price": 47.99,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-08-04T23:09:46.217Z",
-    "lastChangeId": "b9752b095bcd",
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
     "salesChangeId": "58b61a63240d"
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 70.18,
+    "price": 65.04,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-07-29T23:04:07.233Z",
-    "lastChangeId": "dc0a1dd3f317",
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
     "salesChangeId": "5dac0a79b06b"
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 206.28,
+    "price": 226.57,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-07-26T23:03:56.383Z",
-    "lastChangeId": "831000947d9e",
+    "updatedAt": "2026-08-08T22:36:46.288Z",
+    "lastChangeId": "42be0cabe4d5",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
     "salesChangeId": "34a4aae5ded2"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-07-28T23:07:43.005Z",
     "lastChangeId": "c73e309f569f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
-    "salesChangeId": "74f9f76acfa6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
+    "salesChangeId": "42be0cabe4d5"
   }
 ]

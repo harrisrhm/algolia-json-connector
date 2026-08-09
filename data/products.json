@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
-    "salesChangeId": "74f9f76acfa6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 32.67,
+    "price": 30.27,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-06-28T23:11:40.332Z",
-    "lastChangeId": "4ed481c96059",
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
     "salesChangeId": "dc0a1dd3f317"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-08-04T23:09:46.217Z",
     "lastChangeId": "b9752b095bcd",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
-    "salesChangeId": "42be0cabe4d5"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-08-04T23:09:46.217Z",
     "lastChangeId": "b9752b095bcd",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
-    "salesChangeId": "42be0cabe4d5"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 332.75,
+    "price": 348.97,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-07-14T23:02:20.460Z",
-    "lastChangeId": "8e14dd1ab1f6",
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
     "salesChangeId": "b5c57dac439a"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
-    "salesChangeId": "cfc8af5a848c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2188.72,
+    "price": 2103.85,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-08-08T22:36:46.288Z",
-    "lastChangeId": "42be0cabe4d5",
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 140.63,
+    "price": 134.08,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-07-13T23:01:57.913Z",
-    "lastChangeId": "6f2957172536",
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
     "salesChangeId": "ff779c6f6966"
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
-    "salesChangeId": "6aa131753c62"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 41.59,
+    "price": 42.21,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,11 +681,11 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-08-03T23:10:53.358Z",
-    "lastChangeId": "044a0d0a02c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
-    "salesChangeId": "42be0cabe4d5"
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-08-08T22:36:46.288Z",
     "lastChangeId": "42be0cabe4d5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
-    "salesChangeId": "42be0cabe4d5"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
-    "salesChangeId": "b9752b095bcd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 704.33,
+    "price": 672.86,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-07-31T23:09:41.235Z",
-    "lastChangeId": "ff83d8e25399",
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
     "salesChangeId": "42be0cabe4d5"
@@ -1547,7 +1547,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 8.11,
+    "price": 8.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1555,8 +1555,8 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
     "salesChangeId": "900fb3fff5e5"
@@ -1617,9 +1617,9 @@
     "objectID": "5344025",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-23T22:59:11.110Z",
-    "salesChangeId": "b88ca8a2be1f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi16GB - Silver",
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-07-23T23:03:58.799Z",
     "lastChangeId": "5dac0a79b06b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
-    "salesChangeId": "42be0cabe4d5"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
+    "salesChangeId": "9884c2c3a9bd"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 119.22,
+    "price": 109.66,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-06-28T23:11:40.332Z",
-    "lastChangeId": "4ed481c96059",
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
     "salesChangeId": "044a0d0a02c9"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 7.69,
+    "price": 7.37,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-08-07T01:31:09.544Z",
-    "lastChangeId": "410f91355ac5",
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
     "salesChangeId": "7c8e7094ca30"
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 230.69,
+    "price": 233.14,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
+    "updatedAt": "2026-08-09T22:38:43.159Z",
+    "lastChangeId": "9884c2c3a9bd",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
     "salesChangeId": "7c8e7094ca30"

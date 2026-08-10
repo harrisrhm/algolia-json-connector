@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.79,
+    "price": 9.85,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-08-08T22:36:46.288Z",
-    "lastChangeId": "42be0cabe4d5",
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
     "salesChangeId": "b9752b095bcd"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2103.85,
+    "price": 2148.32,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-08-09T22:38:43.159Z",
-    "lastChangeId": "9884c2c3a9bd",
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 57.32,
+    "price": 62.42,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-07-19T22:58:37.408Z",
-    "lastChangeId": "45f34047c509",
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
     "salesChangeId": "ac86d0602110"
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-07-24T23:08:56.494Z",
     "lastChangeId": "a1645944944d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
-    "salesChangeId": "74f9f76acfa6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1497,9 +1497,9 @@
     "objectID": "8529018",
     "updatedAt": "2026-07-19T22:58:37.408Z",
     "lastChangeId": "45f34047c509",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-18T22:56:47.880Z",
-    "salesChangeId": "8c1d09de9c23"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "Bose® - CineMate® 15 Home Theater Speaker System - Black",
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 14.08,
+    "price": 12.84,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,11 +1615,11 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-08-07T22:45:31.881Z",
-    "lastChangeId": "74f9f76acfa6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi16GB - Silver",
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 428.76,
+    "price": 390.59,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-07-23T23:03:58.799Z",
-    "lastChangeId": "5dac0a79b06b",
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 109.66,
+    "price": 103.11,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-08-09T22:38:43.159Z",
-    "lastChangeId": "9884c2c3a9bd",
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
     "salesChangeId": "044a0d0a02c9"
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
-    "salesChangeId": "044a0d0a02c9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-05T23:08:31.043Z",
-    "salesChangeId": "4364a42fc7bf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 47.99,
+    "price": 47.76,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-08-08T22:36:46.288Z",
-    "lastChangeId": "42be0cabe4d5",
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
     "salesChangeId": "58b61a63240d"
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 104.1,
+    "price": 103.81,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-08-01T22:59:53.232Z",
-    "lastChangeId": "6f4bc9c37e60",
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
     "salesChangeId": "a827fb4cfbc4"
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-08-09T22:38:43.159Z",
     "lastChangeId": "9884c2c3a9bd",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
+    "salesChangeId": "df639a4a1efa"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2763,7 +2763,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 2.13,
+    "price": 2.08,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2771,8 +2771,8 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-05-21T23:09:44.223Z",
-    "lastChangeId": "ac9766792620",
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"
@@ -2875,7 +2875,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 68.47,
+    "price": 71.39,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2883,8 +2883,8 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-07-28T23:07:43.005Z",
-    "lastChangeId": "c73e309f569f",
+    "updatedAt": "2026-08-10T22:46:41.416Z",
+    "lastChangeId": "df639a4a1efa",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
     "salesChangeId": "42be0cabe4d5"

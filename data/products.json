@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-07-26T23:03:56.383Z",
     "lastChangeId": "831000947d9e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-12T22:56:40.427Z",
-    "salesChangeId": "b4c607992b31"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-08-08T22:36:46.288Z",
     "lastChangeId": "42be0cabe4d5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
-    "salesChangeId": "044a0d0a02c9"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 42.21,
+    "price": 43.26,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-08-09T22:38:43.159Z",
-    "lastChangeId": "9884c2c3a9bd",
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 50.63,
+    "price": 52.29,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,11 +940,11 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-08-05T23:08:31.043Z",
-    "lastChangeId": "4364a42fc7bf",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
-    "salesChangeId": "222753db43b1"
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 353.93,
+    "price": 319.04,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-07-15T23:03:45.468Z",
-    "lastChangeId": "9996e55e1517",
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
     "salesChangeId": "b9752b095bcd"
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 108.41,
+    "price": 107.52,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-08-07T22:45:31.881Z",
-    "lastChangeId": "74f9f76acfa6",
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-07-24T23:08:56.494Z",
     "lastChangeId": "a1645944944d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
-    "salesChangeId": "df639a4a1efa"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1497,9 +1497,9 @@
     "objectID": "8529018",
     "updatedAt": "2026-07-19T22:58:37.408Z",
     "lastChangeId": "45f34047c509",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
-    "salesChangeId": "df639a4a1efa"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "Bose® - CineMate® 15 Home Theater Speaker System - Black",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
-    "salesChangeId": "df639a4a1efa"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1804,7 +1804,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 179.42,
+    "price": 163.91,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1812,8 +1812,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-07-31T23:09:41.235Z",
-    "lastChangeId": "ff83d8e25399",
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
     "salesChangeId": "8e14dd1ab1f6"
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
-    "salesChangeId": "df639a4a1efa"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 47.76,
+    "price": 48.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-08-10T22:46:41.416Z",
-    "lastChangeId": "df639a4a1efa",
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
     "salesChangeId": "58b61a63240d"
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 957.39,
+    "price": 950.96,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-08-07T01:31:09.544Z",
-    "lastChangeId": "410f91355ac5",
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
     "salesChangeId": "ff83d8e25399"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 7.37,
+    "price": 7.51,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-08-09T22:38:43.159Z",
-    "lastChangeId": "9884c2c3a9bd",
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
     "salesChangeId": "7c8e7094ca30"
@@ -2330,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-18T22:56:47.880Z",
-    "salesChangeId": "8c1d09de9c23"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-08-09T22:38:43.159Z",
     "lastChangeId": "9884c2c3a9bd",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
-    "salesChangeId": "df639a4a1efa"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 54.61,
+    "price": 53.76,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-07-24T23:08:56.494Z",
-    "lastChangeId": "a1645944944d",
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
-    "salesChangeId": "07cc6408ccca"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
+    "salesChangeId": "f7edd93793b7"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 58.01,
+    "price": 58.5,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-08-05T23:08:31.043Z",
-    "lastChangeId": "4364a42fc7bf",
+    "updatedAt": "2026-08-11T22:51:49.760Z",
+    "lastChangeId": "f7edd93793b7",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"

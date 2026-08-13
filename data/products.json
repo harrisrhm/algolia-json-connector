@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 481.15,
+    "price": 473.76,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-08-12T22:50:17.651Z",
-    "lastChangeId": "4bab38a0f7c8",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
     "salesChangeId": "df639a4a1efa"
@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-08-10T22:46:41.416Z",
     "lastChangeId": "df639a4a1efa",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 18.07,
+    "price": 18.45,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-08-08T22:36:46.288Z",
-    "lastChangeId": "42be0cabe4d5",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 348.97,
+    "price": 336.17,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-08-09T22:38:43.159Z",
-    "lastChangeId": "9884c2c3a9bd",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
     "salesChangeId": "b5c57dac439a"
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-08-10T22:46:41.416Z",
     "lastChangeId": "df639a4a1efa",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-08-12T22:50:17.651Z",
     "lastChangeId": "4bab38a0f7c8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
-    "salesChangeId": "42be0cabe4d5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 14.58,
+    "price": 14.27,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-07-31T23:09:41.235Z",
-    "lastChangeId": "ff83d8e25399",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
     "salesChangeId": "58b61a63240d"
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 107.52,
+    "price": 115.51,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-08-11T22:51:49.760Z",
-    "lastChangeId": "f7edd93793b7",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-06T23:14:30.785Z",
     "salesChangeId": "81a4e14f555d"
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-07-31T23:09:41.235Z",
-    "lastChangeId": "ff83d8e25399",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
     "salesChangeId": "dc0a1dd3f317"
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 264.87,
+    "price": 238.72,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-08-05T23:08:31.043Z",
-    "lastChangeId": "4364a42fc7bf",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
     "salesChangeId": "cfc8af5a848c"
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-07-31T23:09:41.235Z",
     "lastChangeId": "ff83d8e25399",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-08-10T22:46:41.416Z",
     "lastChangeId": "df639a4a1efa",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1729,9 +1729,9 @@
     "objectID": "7965437",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   },
   {
     "name": "Case Logic - 80-Disc Koskin DVD Album",
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 128.87,
+    "price": 132.27,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-08-04T23:09:46.217Z",
-    "lastChangeId": "b9752b095bcd",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
     "salesChangeId": "5fa4d9ddd8d0"
@@ -1990,9 +1990,9 @@
     "objectID": "7652364",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   },
   {
     "name": "Disney - Star Wars Force Men's T-Shirt (Extra-Large) - Black",
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-08-08T22:36:46.288Z",
     "lastChangeId": "42be0cabe4d5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
-    "salesChangeId": "34a4aae5ded2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2624,9 +2624,9 @@
     "objectID": "3362109",
     "updatedAt": "2026-08-10T22:46:41.416Z",
     "lastChangeId": "df639a4a1efa",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-25T23:24:15.104Z",
-    "salesChangeId": "a827fb4cfbc4"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",
@@ -2763,7 +2763,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 2.08,
+    "price": 1.99,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2771,8 +2771,8 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-08-10T22:46:41.416Z",
-    "lastChangeId": "df639a4a1efa",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 58.5,
+    "price": 57.42,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-08-11T22:51:49.760Z",
-    "lastChangeId": "f7edd93793b7",
+    "updatedAt": "2026-08-13T22:51:39.164Z",
+    "lastChangeId": "bdb9ea65ebf3",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
     "salesChangeId": "95100ed35c94"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-08-10T22:46:41.416Z",
     "lastChangeId": "df639a4a1efa",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
-    "salesChangeId": "42be0cabe4d5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
+    "salesChangeId": "bdb9ea65ebf3"
   }
 ]

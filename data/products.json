@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 473.76,
+    "price": 455.96,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,11 +53,11 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-08-13T22:51:39.164Z",
-    "lastChangeId": "bdb9ea65ebf3",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
-    "salesChangeId": "df639a4a1efa"
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-07-26T23:03:56.383Z",
     "lastChangeId": "831000947d9e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 29.54,
+    "price": 29.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-08-01T22:59:53.232Z",
-    "lastChangeId": "6f4bc9c37e60",
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
     "salesChangeId": "410f91355ac5"
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 63.36,
+    "price": 63.22,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-08-12T22:50:17.651Z",
-    "lastChangeId": "4bab38a0f7c8",
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2148.32,
+    "price": 2108.08,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,11 +447,11 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-08-10T22:46:41.416Z",
-    "lastChangeId": "df639a4a1efa",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
-    "salesChangeId": "40dc0c1083db"
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 124.41,
+    "price": 136.44,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-08-14T22:30:23.639Z",
-    "lastChangeId": "40dc0c1083db",
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-11T22:56:42.885Z",
     "salesChangeId": "ff779c6f6966"
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
-    "salesChangeId": "40dc0c1083db"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -588,7 +588,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 54.13,
+    "price": 55.31,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -596,8 +596,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-08-01T22:59:53.232Z",
-    "lastChangeId": "6f4bc9c37e60",
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
     "salesChangeId": "831000947d9e"
@@ -830,9 +830,9 @@
     "objectID": "3290125",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
-    "salesChangeId": "40dc0c1083db"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-08-12T22:50:17.651Z",
     "lastChangeId": "4bab38a0f7c8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
-    "salesChangeId": "8e14dd1ab1f6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -1151,9 +1151,9 @@
     "objectID": "2631316",
     "updatedAt": "2026-08-13T22:51:39.164Z",
     "lastChangeId": "bdb9ea65ebf3",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
-    "salesChangeId": "40dc0c1083db"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 72.78,
+    "price": 68.15,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-08-07T22:45:31.881Z",
-    "lastChangeId": "74f9f76acfa6",
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
     "salesChangeId": "df639a4a1efa"
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 390.59,
+    "price": 414.42,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-08-10T22:46:41.416Z",
-    "lastChangeId": "df639a4a1efa",
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-08-07T01:31:09.544Z",
     "lastChangeId": "410f91355ac5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
-    "salesChangeId": "40dc0c1083db"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 132.27,
+    "price": 133.11,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-08-13T22:51:39.164Z",
-    "lastChangeId": "bdb9ea65ebf3",
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
     "salesChangeId": "5fa4d9ddd8d0"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 26.6,
+    "price": 28.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-08-05T23:08:31.043Z",
-    "lastChangeId": "4364a42fc7bf",
+    "updatedAt": "2026-08-15T22:29:05.696Z",
+    "lastChangeId": "e320d5f3c6f8",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2129,9 +2129,9 @@
     "objectID": "1197018",
     "updatedAt": "2026-07-26T23:03:56.383Z",
     "lastChangeId": "831000947d9e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
-    "salesChangeId": "40dc0c1083db"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -2742,9 +2742,9 @@
     "objectID": "4788009",
     "updatedAt": "2026-07-18T22:56:47.880Z",
     "lastChangeId": "8c1d09de9c23",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-18T22:56:47.880Z",
-    "salesChangeId": "8c1d09de9c23"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
+    "salesChangeId": "e320d5f3c6f8"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",

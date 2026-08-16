@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
-    "salesChangeId": "e320d5f3c6f8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -70,7 +70,7 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 53.78,
+    "price": 56.77,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -78,8 +78,8 @@
     "popularity": 5309,
     "rating": 3,
     "objectID": "4388600",
-    "updatedAt": "2026-08-12T22:50:17.651Z",
-    "lastChangeId": "4bab38a0f7c8",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
     "salesChangeId": "6f4bc9c37e60"
@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-07-26T23:03:56.383Z",
     "lastChangeId": "831000947d9e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
-    "salesChangeId": "e320d5f3c6f8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-08-09T22:38:43.159Z",
     "lastChangeId": "9884c2c3a9bd",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
-    "salesChangeId": "dc0a1dd3f317"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
-    "salesChangeId": "e320d5f3c6f8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
-    "salesChangeId": "e320d5f3c6f8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3292.7,
+    "price": 3228.72,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-08-01T22:59:53.232Z",
-    "lastChangeId": "6f4bc9c37e60",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
     "salesChangeId": "6aa131753c62"
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 13.96,
+    "price": 13.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-08-12T22:50:17.651Z",
-    "lastChangeId": "4bab38a0f7c8",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
     "salesChangeId": "40dc0c1083db"
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 360.73,
+    "price": 329.98,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-08-02T23:00:41.318Z",
-    "lastChangeId": "cfc8af5a848c",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-08-12T22:50:17.651Z",
     "lastChangeId": "4bab38a0f7c8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
-    "salesChangeId": "e320d5f3c6f8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 707.8,
+    "price": 662.97,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-08-08T22:36:46.288Z",
-    "lastChangeId": "42be0cabe4d5",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -961,7 +961,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 4.68,
+    "price": 4.52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-08-02T23:00:41.318Z",
-    "lastChangeId": "cfc8af5a848c",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
     "salesChangeId": "9996e55e1517"
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
-    "salesChangeId": "42be0cabe4d5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.42,
+    "price": 7.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-07-31T23:09:41.235Z",
-    "lastChangeId": "ff83d8e25399",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 55.78,
+    "price": 59.77,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-07-28T23:07:43.005Z",
-    "lastChangeId": "c73e309f569f",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
     "salesChangeId": "410f91355ac5"
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-08-07T01:31:09.544Z",
     "lastChangeId": "410f91355ac5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
-    "salesChangeId": "e320d5f3c6f8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.83,
+    "price": 2.77,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-08-14T22:30:23.639Z",
-    "lastChangeId": "40dc0c1083db",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
     "salesChangeId": "f7edd93793b7"
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 12.84,
+    "price": 13.86,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-08-07T01:31:09.544Z",
-    "lastChangeId": "410f91355ac5",
+    "updatedAt": "2026-08-16T22:28:55.306Z",
+    "lastChangeId": "b5af78804148",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
     "salesChangeId": "74f9f76acfa6"
@@ -2742,9 +2742,9 @@
     "objectID": "4788009",
     "updatedAt": "2026-07-18T22:56:47.880Z",
     "lastChangeId": "8c1d09de9c23",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
-    "salesChangeId": "e320d5f3c6f8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-08-10T22:46:41.416Z",
     "lastChangeId": "df639a4a1efa",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
-    "salesChangeId": "40dc0c1083db"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
+    "salesChangeId": "b5af78804148"
   }
 ]

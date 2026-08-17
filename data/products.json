@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 455.96,
+    "price": 414.46,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
     "salesChangeId": "b5af78804148"
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 29.74,
+    "price": 26.87,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
     "salesChangeId": "410f91355ac5"
@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 30.27,
+    "price": 29.24,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,11 +281,11 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-08-09T22:38:43.159Z",
-    "lastChangeId": "9884c2c3a9bd",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
-    "salesChangeId": "b5af78804148"
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-08-07T22:45:31.881Z",
     "lastChangeId": "74f9f76acfa6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
-    "salesChangeId": "b5af78804148"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 319.04,
+    "price": 293.31,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-08-11T22:51:49.760Z",
-    "lastChangeId": "f7edd93793b7",
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
     "salesChangeId": "b9752b095bcd"
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
-    "salesChangeId": "b5af78804148"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 3307.44,
+    "price": 3203.85,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-07-31T23:09:41.235Z",
-    "lastChangeId": "ff83d8e25399",
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
     "salesChangeId": "69a5d9000725"
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 68.15,
+    "price": 68.82,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
     "salesChangeId": "df639a4a1efa"
@@ -1441,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-08-14T22:30:23.639Z",
     "lastChangeId": "40dc0c1083db",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 67.55,
+    "price": 62.04,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-08-02T23:00:41.318Z",
-    "lastChangeId": "cfc8af5a848c",
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
     "salesChangeId": "34a4aae5ded2"
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-08-07T01:31:09.544Z",
     "lastChangeId": "410f91355ac5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
-    "salesChangeId": "b5af78804148"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-08-16T22:28:55.306Z",
     "lastChangeId": "b5af78804148",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
-    "salesChangeId": "f7edd93793b7"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 13.86,
+    "price": 14.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-08-16T22:28:55.306Z",
-    "lastChangeId": "b5af78804148",
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
     "salesChangeId": "74f9f76acfa6"
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 197.11,
+    "price": 204.51,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-07-26T23:03:56.383Z",
-    "lastChangeId": "831000947d9e",
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
     "salesChangeId": "e320d5f3c6f8"
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-08-12T22:50:17.651Z",
     "lastChangeId": "4bab38a0f7c8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-05T23:08:31.043Z",
-    "salesChangeId": "4364a42fc7bf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-08-07T01:31:09.544Z",
     "lastChangeId": "410f91355ac5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
-    "salesChangeId": "b9752b095bcd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-08-08T22:36:46.288Z",
     "lastChangeId": "42be0cabe4d5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-23T23:03:58.799Z",
-    "salesChangeId": "5dac0a79b06b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 53.76,
+    "price": 48.65,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,8 +2680,8 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-08-11T22:51:49.760Z",
-    "lastChangeId": "f7edd93793b7",
+    "updatedAt": "2026-08-17T22:30:56.990Z",
+    "lastChangeId": "36dfa88e3739",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-08-10T22:46:41.416Z",
     "lastChangeId": "df639a4a1efa",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
-    "salesChangeId": "b5af78804148"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
+    "salesChangeId": "36dfa88e3739"
   }
 ]

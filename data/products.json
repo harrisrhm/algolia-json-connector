@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 162.81,
+    "price": 160.42,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-08-07T22:45:31.881Z",
-    "lastChangeId": "74f9f76acfa6",
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
     "salesChangeId": "74f9f76acfa6"
@@ -140,9 +140,9 @@
     "objectID": "4818584",
     "updatedAt": "2026-08-01T22:59:53.232Z",
     "lastChangeId": "6f4bc9c37e60",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 336.17,
+    "price": 361.26,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-08-13T22:51:39.164Z",
-    "lastChangeId": "bdb9ea65ebf3",
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
     "salesChangeId": "b5c57dac439a"
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 23.52,
+    "price": 25.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-08-07T22:45:31.881Z",
-    "lastChangeId": "74f9f76acfa6",
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
     "salesChangeId": "044a0d0a02c9"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 13.33,
+    "price": 12.69,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,11 +1093,11 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-08-14T22:30:23.639Z",
-    "lastChangeId": "40dc0c1083db",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
-    "salesChangeId": "58b61a63240d"
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 47.55,
+    "price": 44.31,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,8 +1176,8 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-07-16T23:03:36.700Z",
-    "lastChangeId": "de3557b72476",
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-24T23:08:56.494Z",
     "salesChangeId": "a1645944944d"
@@ -1441,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-08-14T22:30:23.639Z",
     "lastChangeId": "40dc0c1083db",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
-    "salesChangeId": "36dfa88e3739"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-08-14T22:30:23.639Z",
     "lastChangeId": "40dc0c1083db",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
-    "salesChangeId": "f7edd93793b7"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 414.42,
+    "price": 403.9,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-08-16T22:28:55.306Z",
     "lastChangeId": "b5af78804148",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
-    "salesChangeId": "36dfa88e3739"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 50.37,
+    "price": 49.58,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-08-05T23:08:31.043Z",
-    "lastChangeId": "4364a42fc7bf",
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
     "salesChangeId": "9996e55e1517"
@@ -2042,9 +2042,9 @@
     "objectID": "6263962",
     "updatedAt": "2026-07-19T22:58:37.408Z",
     "lastChangeId": "45f34047c509",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-24T23:08:56.494Z",
-    "salesChangeId": "a1645944944d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2330,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-08-12T22:50:17.651Z",
     "lastChangeId": "4bab38a0f7c8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
-    "salesChangeId": "36dfa88e3739"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 18.88,
+    "price": 19.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-07-25T23:01:46.708Z",
-    "lastChangeId": "6aa131753c62",
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
     "salesChangeId": "7fd6b9ed311b"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-08-07T01:31:09.544Z",
     "lastChangeId": "410f91355ac5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
-    "salesChangeId": "36dfa88e3739"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-08-08T22:36:46.288Z",
     "lastChangeId": "42be0cabe4d5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
-    "salesChangeId": "36dfa88e3739"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
+    "salesChangeId": "4f25f4727574"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 888.15,
+    "price": 889.33,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-08-02T23:00:41.318Z",
-    "lastChangeId": "cfc8af5a848c",
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-05T23:08:31.043Z",
     "salesChangeId": "4364a42fc7bf"
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 329.17,
+    "price": 297.91,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-08-07T01:31:09.544Z",
-    "lastChangeId": "410f91355ac5",
+    "updatedAt": "2026-08-18T22:30:56.931Z",
+    "lastChangeId": "4f25f4727574",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
     "salesChangeId": "410f91355ac5"

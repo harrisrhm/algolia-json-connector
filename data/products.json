@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 329.98,
+    "price": 315.44,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-08-16T22:28:55.306Z",
-    "lastChangeId": "b5af78804148",
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-08-18T22:30:56.931Z",
     "lastChangeId": "4f25f4727574",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
-    "salesChangeId": "4f25f4727574"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
+    "salesChangeId": "78791a0140f0"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-08-14T22:30:23.639Z",
     "lastChangeId": "40dc0c1083db",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
-    "salesChangeId": "4f25f4727574"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
+    "salesChangeId": "78791a0140f0"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 45.81,
+    "price": 46.75,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-07-19T22:58:37.408Z",
-    "lastChangeId": "45f34047c509",
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
     "salesChangeId": "f7edd93793b7"
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 103.11,
+    "price": 112.95,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-08-10T22:46:41.416Z",
-    "lastChangeId": "df639a4a1efa",
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 183.17,
+    "price": 188.92,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-08-03T23:10:53.358Z",
-    "lastChangeId": "044a0d0a02c9",
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 49.58,
+    "price": 51.55,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-08-18T22:30:56.931Z",
-    "lastChangeId": "4f25f4727574",
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
     "salesChangeId": "9996e55e1517"
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-08-17T22:30:56.990Z",
     "lastChangeId": "36dfa88e3739",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
-    "salesChangeId": "74f9f76acfa6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
+    "salesChangeId": "78791a0140f0"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2042,9 +2042,9 @@
     "objectID": "6263962",
     "updatedAt": "2026-07-19T22:58:37.408Z",
     "lastChangeId": "45f34047c509",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
-    "salesChangeId": "4f25f4727574"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
+    "salesChangeId": "78791a0140f0"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2100,9 +2100,9 @@
     "objectID": "8353179",
     "updatedAt": "2026-08-11T22:51:49.760Z",
     "lastChangeId": "f7edd93793b7",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-20T23:06:08.385Z",
-    "salesChangeId": "58b61a63240d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
+    "salesChangeId": "78791a0140f0"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 78.76,
+    "price": 80.76,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,11 +2268,11 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-08-03T23:10:53.358Z",
-    "lastChangeId": "044a0d0a02c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
-    "salesChangeId": "044a0d0a02c9"
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
+    "salesChangeId": "78791a0140f0"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2330,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-08-03T23:10:53.358Z",
     "lastChangeId": "044a0d0a02c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
-    "salesChangeId": "4f25f4727574"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
+    "salesChangeId": "78791a0140f0"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 86.44,
+    "price": 79.32,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,11 +2417,11 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-08-04T23:09:46.217Z",
-    "lastChangeId": "b9752b095bcd",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
-    "salesChangeId": "0d3ce58118f9"
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
+    "salesChangeId": "78791a0140f0"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 46.6,
+    "price": 49.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-07-25T23:01:46.708Z",
-    "lastChangeId": "6aa131753c62",
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 226.57,
+    "price": 226.31,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-08-08T22:36:46.288Z",
-    "lastChangeId": "42be0cabe4d5",
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
     "salesChangeId": "40dc0c1083db"
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 103.81,
+    "price": 109.72,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-08-10T22:46:41.416Z",
-    "lastChangeId": "df639a4a1efa",
+    "updatedAt": "2026-08-19T22:31:33.564Z",
+    "lastChangeId": "78791a0140f0",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
     "salesChangeId": "40dc0c1083db"

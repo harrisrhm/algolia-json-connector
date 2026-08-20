@@ -140,9 +140,9 @@
     "objectID": "4818584",
     "updatedAt": "2026-08-01T22:59:53.232Z",
     "lastChangeId": "6f4bc9c37e60",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
-    "salesChangeId": "4f25f4727574"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
+    "salesChangeId": "cba96b4524ec"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 29.24,
+    "price": 31.14,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-08-17T22:30:56.990Z",
-    "lastChangeId": "36dfa88e3739",
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
     "salesChangeId": "36dfa88e3739"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
-    "salesChangeId": "df639a4a1efa"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
+    "salesChangeId": "cba96b4524ec"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 315.44,
+    "price": 305.24,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-08-19T22:31:33.564Z",
-    "lastChangeId": "78791a0140f0",
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
     "salesChangeId": "6f860597b902"
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-07-30T23:13:05.618Z",
     "lastChangeId": "8103c9a7faf0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
-    "salesChangeId": "cfc8af5a848c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
+    "salesChangeId": "cba96b4524ec"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-08-16T22:28:55.306Z",
     "lastChangeId": "b5af78804148",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
-    "salesChangeId": "9996e55e1517"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
+    "salesChangeId": "cba96b4524ec"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1064,9 +1064,9 @@
     "objectID": "2515083",
     "updatedAt": "2026-08-08T22:36:46.288Z",
     "lastChangeId": "42be0cabe4d5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
-    "salesChangeId": "831000947d9e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
+    "salesChangeId": "cba96b4524ec"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 59.77,
+    "price": 55.76,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-08-16T22:28:55.306Z",
-    "lastChangeId": "b5af78804148",
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
     "salesChangeId": "410f91355ac5"
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 51.55,
+    "price": 54.61,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-08-19T22:31:33.564Z",
-    "lastChangeId": "78791a0140f0",
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
     "salesChangeId": "9996e55e1517"
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-08-17T22:30:56.990Z",
     "lastChangeId": "36dfa88e3739",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
-    "salesChangeId": "78791a0140f0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
+    "salesChangeId": "cba96b4524ec"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 48.75,
+    "price": 48.98,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,11 +2098,11 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-08-11T22:51:49.760Z",
-    "lastChangeId": "f7edd93793b7",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
-    "salesChangeId": "78791a0140f0"
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
+    "salesChangeId": "cba96b4524ec"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2175,7 +2175,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 24.25,
+    "price": 24.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2183,8 +2183,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-07-04T23:04:13.501Z",
-    "lastChangeId": "b5c57dac439a",
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
     "salesChangeId": "831000947d9e"
@@ -2291,7 +2291,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 311.87,
+    "price": 335.05,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2299,8 +2299,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-07-29T23:04:07.233Z",
-    "lastChangeId": "dc0a1dd3f317",
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
     "salesChangeId": "831000947d9e"
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 14.6,
+    "price": 14.83,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-08-03T23:10:53.358Z",
-    "lastChangeId": "044a0d0a02c9",
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
     "salesChangeId": "78791a0140f0"
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-08-19T22:31:33.564Z",
     "lastChangeId": "78791a0140f0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
-    "salesChangeId": "78791a0140f0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
+    "salesChangeId": "cba96b4524ec"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 889.33,
+    "price": 888.5,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-08-18T22:30:56.931Z",
-    "lastChangeId": "4f25f4727574",
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-05T23:08:31.043Z",
     "salesChangeId": "4364a42fc7bf"
@@ -2763,7 +2763,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 1.99,
+    "price": 2.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2771,8 +2771,8 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-08-13T22:51:39.164Z",
-    "lastChangeId": "bdb9ea65ebf3",
+    "updatedAt": "2026-08-20T22:34:18.907Z",
+    "lastChangeId": "cba96b4524ec",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
     "salesChangeId": "8103c9a7faf0"

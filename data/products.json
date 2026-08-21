@@ -70,7 +70,7 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 56.77,
+    "price": 62.11,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -78,8 +78,8 @@
     "popularity": 5309,
     "rating": 3,
     "objectID": "4388600",
-    "updatedAt": "2026-08-16T22:28:55.306Z",
-    "lastChangeId": "b5af78804148",
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
     "salesChangeId": "6f4bc9c37e60"
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 63.22,
+    "price": 69.45,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-06-30T23:19:35.010Z",
     "lastChangeId": "7c8e7094ca30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
-    "salesChangeId": "cba96b4524ec"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
+    "salesChangeId": "796eea61e3fc"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 114.9,
+    "price": 116.46,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-08-07T22:45:31.881Z",
-    "lastChangeId": "74f9f76acfa6",
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
     "salesChangeId": "36dfa88e3739"
@@ -567,9 +567,9 @@
     "objectID": "5184121",
     "updatedAt": "2026-08-16T22:28:55.306Z",
     "lastChangeId": "b5af78804148",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-25T23:01:46.708Z",
-    "salesChangeId": "6aa131753c62"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
+    "salesChangeId": "796eea61e3fc"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-07-30T23:13:05.618Z",
     "lastChangeId": "8103c9a7faf0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
-    "salesChangeId": "cba96b4524ec"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
+    "salesChangeId": "796eea61e3fc"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-08-16T22:28:55.306Z",
     "lastChangeId": "b5af78804148",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
-    "salesChangeId": "cba96b4524ec"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
+    "salesChangeId": "796eea61e3fc"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.55,
+    "price": 8.61,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-08-08T22:36:46.288Z",
-    "lastChangeId": "42be0cabe4d5",
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
     "on_sale": true,
     "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
     "salesChangeId": "cba96b4524ec"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-08-18T22:30:56.931Z",
     "lastChangeId": "4f25f4727574",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
-    "salesChangeId": "78791a0140f0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
+    "salesChangeId": "796eea61e3fc"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-08-18T22:30:56.931Z",
     "lastChangeId": "4f25f4727574",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
+    "salesChangeId": "796eea61e3fc"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 30.61,
+    "price": 30.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-07-19T22:58:37.408Z",
-    "lastChangeId": "45f34047c509",
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
     "salesChangeId": "fd21fd60db33"
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 48.98,
+    "price": 49.26,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-08-20T22:34:18.907Z",
-    "lastChangeId": "cba96b4524ec",
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
     "salesChangeId": "cba96b4524ec"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 7.51,
+    "price": 6.96,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,11 +2210,11 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-08-11T22:51:49.760Z",
-    "lastChangeId": "f7edd93793b7",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-30T23:19:35.010Z",
-    "salesChangeId": "7c8e7094ca30"
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
+    "salesChangeId": "796eea61e3fc"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-08-19T22:31:33.564Z",
     "lastChangeId": "78791a0140f0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
-    "salesChangeId": "78791a0140f0"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
+    "salesChangeId": "796eea61e3fc"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 49.65,
+    "price": 49.5,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-08-19T22:31:33.564Z",
-    "lastChangeId": "78791a0140f0",
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 888.5,
+    "price": 829.61,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-08-20T22:34:18.907Z",
-    "lastChangeId": "cba96b4524ec",
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-05T23:08:31.043Z",
     "salesChangeId": "4364a42fc7bf"
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 12.74,
+    "price": 12.26,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-07-18T22:56:47.880Z",
-    "lastChangeId": "8c1d09de9c23",
+    "updatedAt": "2026-08-21T22:31:24.795Z",
+    "lastChangeId": "796eea61e3fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
     "salesChangeId": "b5af78804148"

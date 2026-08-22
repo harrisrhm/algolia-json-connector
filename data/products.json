@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-08-17T22:30:56.990Z",
     "lastChangeId": "36dfa88e3739",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
-    "salesChangeId": "b5af78804148"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-07-26T23:03:56.383Z",
     "lastChangeId": "831000947d9e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
-    "salesChangeId": "b5af78804148"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 11.65,
+    "price": 10.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-08-01T22:59:53.232Z",
-    "lastChangeId": "6f4bc9c37e60",
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
     "salesChangeId": "cba96b4524ec"
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 165.17,
+    "price": 168.48,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-08-12T22:50:17.651Z",
-    "lastChangeId": "4bab38a0f7c8",
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-20T23:17:18.599Z",
     "salesChangeId": "390a0021e3b1"
@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 31.14,
+    "price": 31.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-08-20T22:34:18.907Z",
-    "lastChangeId": "cba96b4524ec",
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
     "salesChangeId": "36dfa88e3739"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-08-14T22:30:23.639Z",
     "lastChangeId": "40dc0c1083db",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3228.72,
+    "price": 3194.5,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,11 +565,11 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-08-16T22:28:55.306Z",
-    "lastChangeId": "b5af78804148",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
-    "salesChangeId": "796eea61e3fc"
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "Microsoft - Arc Touch Bluetooth Wireless Mouse - Gray",
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 25.2,
+    "price": 24.72,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-08-18T22:30:56.931Z",
-    "lastChangeId": "4f25f4727574",
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-03T23:10:53.358Z",
     "salesChangeId": "044a0d0a02c9"
@@ -1064,9 +1064,9 @@
     "objectID": "2515083",
     "updatedAt": "2026-08-21T22:31:24.795Z",
     "lastChangeId": "796eea61e3fc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
-    "salesChangeId": "cba96b4524ec"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-08-18T22:30:56.931Z",
     "lastChangeId": "4f25f4727574",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
-    "salesChangeId": "796eea61e3fc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
-    "salesChangeId": "36dfa88e3739"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 46.75,
+    "price": 49.18,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-08-19T22:31:33.564Z",
-    "lastChangeId": "78791a0140f0",
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
     "salesChangeId": "f7edd93793b7"
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-08-18T22:30:56.931Z",
     "lastChangeId": "4f25f4727574",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
-    "salesChangeId": "796eea61e3fc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1835,7 +1835,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 31.74,
+    "price": 33.02,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1843,8 +1843,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-08-07T01:31:09.544Z",
-    "lastChangeId": "410f91355ac5",
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
     "salesChangeId": "36dfa88e3739"
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-24T23:13:26.823Z",
-    "salesChangeId": "5fa4d9ddd8d0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 12.34,
+    "price": 11.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-07-19T22:58:37.408Z",
-    "lastChangeId": "45f34047c509",
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
     "salesChangeId": "78791a0140f0"
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-08-21T22:31:24.795Z",
     "lastChangeId": "796eea61e3fc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
-    "salesChangeId": "796eea61e3fc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
+    "salesChangeId": "f70afc45641b"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 79.32,
+    "price": 79.44,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-08-19T22:31:33.564Z",
-    "lastChangeId": "78791a0140f0",
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
     "salesChangeId": "cba96b4524ec"
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 829.61,
+    "price": 834.65,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-08-21T22:31:24.795Z",
-    "lastChangeId": "796eea61e3fc",
+    "updatedAt": "2026-08-22T22:29:07.615Z",
+    "lastChangeId": "f70afc45641b",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-05T23:08:31.043Z",
     "salesChangeId": "4364a42fc7bf"

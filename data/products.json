@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-08-17T22:30:56.990Z",
     "lastChangeId": "36dfa88e3739",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
-    "salesChangeId": "f70afc45641b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-07-26T23:03:56.383Z",
     "lastChangeId": "831000947d9e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
-    "salesChangeId": "f70afc45641b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 18.45,
+    "price": 19.08,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-08-13T22:51:39.164Z",
-    "lastChangeId": "bdb9ea65ebf3",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 31.9,
+    "price": 28.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-08-22T22:29:07.615Z",
-    "lastChangeId": "f70afc45641b",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
     "salesChangeId": "36dfa88e3739"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-08-14T22:30:23.639Z",
     "lastChangeId": "40dc0c1083db",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
-    "salesChangeId": "f70afc45641b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2108.08,
+    "price": 2130.62,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
     "salesChangeId": "b5af78804148"
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-08-21T22:31:24.795Z",
     "lastChangeId": "796eea61e3fc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
-    "salesChangeId": "36dfa88e3739"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -598,9 +598,9 @@
     "objectID": "1775023",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
-    "salesChangeId": "831000947d9e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-07-16T23:03:36.700Z",
     "lastChangeId": "de3557b72476",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
-    "salesChangeId": "f70afc45641b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1460,7 +1460,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 354.92,
+    "price": 378.17,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1468,8 +1468,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-08-14T22:30:23.639Z",
-    "lastChangeId": "40dc0c1083db",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
     "salesChangeId": "78791a0140f0"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 672.86,
+    "price": 727.49,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-08-09T22:38:43.159Z",
-    "lastChangeId": "9884c2c3a9bd",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
     "salesChangeId": "42be0cabe4d5"
@@ -1557,9 +1557,9 @@
     "objectID": "7441404",
     "updatedAt": "2026-08-09T22:38:43.159Z",
     "lastChangeId": "9884c2c3a9bd",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-02T23:15:52.887Z",
-    "salesChangeId": "900fb3fff5e5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "NVIDIA - SHIELD Wireless Controller - Black",
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 55.76,
+    "price": 56.35,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-08-20T22:34:18.907Z",
-    "lastChangeId": "cba96b4524ec",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
     "salesChangeId": "410f91355ac5"
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 30.55,
+    "price": 27.76,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-08-21T22:31:24.795Z",
-    "lastChangeId": "796eea61e3fc",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
     "salesChangeId": "fd21fd60db33"
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
-    "salesChangeId": "f70afc45641b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-08-19T22:31:33.564Z",
     "lastChangeId": "78791a0140f0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
-    "salesChangeId": "796eea61e3fc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 19.12,
+    "price": 18.49,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-08-18T22:30:56.931Z",
-    "lastChangeId": "4f25f4727574",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
     "salesChangeId": "7fd6b9ed311b"
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 247.32,
+    "price": 230.52,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-08-14T22:30:23.639Z",
-    "lastChangeId": "40dc0c1083db",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
     "salesChangeId": "f7edd93793b7"
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-08-13T22:51:39.164Z",
     "lastChangeId": "bdb9ea65ebf3",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-06-19T23:06:28.097Z",
-    "salesChangeId": "95100ed35c94"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
+    "salesChangeId": "94ab14bc968f"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 297.91,
+    "price": 312.65,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-08-18T22:30:56.931Z",
-    "lastChangeId": "4f25f4727574",
+    "updatedAt": "2026-08-23T22:28:58.127Z",
+    "lastChangeId": "94ab14bc968f",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
     "salesChangeId": "410f91355ac5"

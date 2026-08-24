@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 414.46,
+    "price": 423,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-08-17T22:30:56.990Z",
-    "lastChangeId": "36dfa88e3739",
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
     "salesChangeId": "94ab14bc968f"
@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-08-23T22:28:58.127Z",
     "lastChangeId": "94ab14bc968f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
-    "salesChangeId": "07cc6408ccca"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
+    "salesChangeId": "d7039b8cefed"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 116.46,
+    "price": 127.3,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-08-21T22:31:24.795Z",
-    "lastChangeId": "796eea61e3fc",
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
     "on_sale": true,
     "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
     "salesChangeId": "94ab14bc968f"
@@ -598,9 +598,9 @@
     "objectID": "1775023",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
-    "salesChangeId": "94ab14bc968f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
+    "salesChangeId": "d7039b8cefed"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 662.97,
+    "price": 649.1,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-08-16T22:28:55.306Z",
-    "lastChangeId": "b5af78804148",
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-08-11T22:51:49.760Z",
     "lastChangeId": "f7edd93793b7",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
+    "salesChangeId": "d7039b8cefed"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-08-16T22:28:55.306Z",
     "lastChangeId": "b5af78804148",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
-    "salesChangeId": "796eea61e3fc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
+    "salesChangeId": "d7039b8cefed"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 238.72,
+    "price": 255.84,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-08-13T22:51:39.164Z",
-    "lastChangeId": "bdb9ea65ebf3",
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
     "salesChangeId": "cfc8af5a848c"
@@ -1460,7 +1460,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 378.17,
+    "price": 347.15,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1468,8 +1468,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-08-23T22:28:58.127Z",
-    "lastChangeId": "94ab14bc968f",
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
     "salesChangeId": "78791a0140f0"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 727.49,
+    "price": 751.76,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-08-23T22:28:58.127Z",
-    "lastChangeId": "94ab14bc968f",
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
     "salesChangeId": "42be0cabe4d5"
@@ -1547,7 +1547,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 8.03,
+    "price": 8.77,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1555,11 +1555,11 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-08-09T22:38:43.159Z",
-    "lastChangeId": "9884c2c3a9bd",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
-    "salesChangeId": "94ab14bc968f"
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
+    "salesChangeId": "d7039b8cefed"
   },
   {
     "name": "NVIDIA - SHIELD Wireless Controller - Black",
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 24.83,
+    "price": 24.72,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-08-07T22:45:31.881Z",
-    "lastChangeId": "74f9f76acfa6",
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 11.43,
+    "price": 11.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-08-22T22:29:07.615Z",
-    "lastChangeId": "f70afc45641b",
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
     "salesChangeId": "78791a0140f0"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 28.43,
+    "price": 31.04,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
+    "updatedAt": "2026-08-24T22:33:54.788Z",
+    "lastChangeId": "d7039b8cefed",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-08-19T22:31:33.564Z",
     "lastChangeId": "78791a0140f0",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
-    "salesChangeId": "94ab14bc968f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
+    "salesChangeId": "d7039b8cefed"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
@@ -2624,9 +2624,9 @@
     "objectID": "3362109",
     "updatedAt": "2026-08-19T22:31:33.564Z",
     "lastChangeId": "78791a0140f0",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
-    "salesChangeId": "40dc0c1083db"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
+    "salesChangeId": "d7039b8cefed"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-08-13T22:51:39.164Z",
     "lastChangeId": "bdb9ea65ebf3",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
-    "salesChangeId": "94ab14bc968f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
+    "salesChangeId": "d7039b8cefed"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

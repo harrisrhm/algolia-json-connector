@@ -140,9 +140,9 @@
     "objectID": "4818584",
     "updatedAt": "2026-08-22T22:29:07.615Z",
     "lastChangeId": "f70afc45641b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
-    "salesChangeId": "60667100624e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-08-22T22:29:07.615Z",
     "lastChangeId": "f70afc45641b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
-    "salesChangeId": "60667100624e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-08-25T22:34:16.944Z",
     "lastChangeId": "60667100624e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
-    "salesChangeId": "36dfa88e3739"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 45.62,
+    "price": 47.32,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-08-08T22:36:46.288Z",
-    "lastChangeId": "42be0cabe4d5",
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
     "salesChangeId": "4bab38a0f7c8"
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 18.24,
+    "price": 19.3,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-07-30T23:13:05.618Z",
-    "lastChangeId": "8103c9a7faf0",
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
     "salesChangeId": "796eea61e3fc"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 25.78,
+    "price": 23.23,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-08-03T23:10:53.358Z",
-    "lastChangeId": "044a0d0a02c9",
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
     "salesChangeId": "e320d5f3c6f8"
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 649.1,
+    "price": 622.67,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-08-24T22:33:54.788Z",
-    "lastChangeId": "d7039b8cefed",
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -1064,9 +1064,9 @@
     "objectID": "2515083",
     "updatedAt": "2026-08-21T22:31:24.795Z",
     "lastChangeId": "796eea61e3fc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
-    "salesChangeId": "60667100624e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 12.84,
+    "price": 13.08,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-08-10T22:46:41.416Z",
-    "lastChangeId": "df639a4a1efa",
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
     "salesChangeId": "df639a4a1efa"
@@ -1700,9 +1700,9 @@
     "objectID": "7841289",
     "updatedAt": "2026-08-23T22:28:58.127Z",
     "lastChangeId": "94ab14bc968f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
-    "salesChangeId": "60667100624e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1748,7 +1748,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 42.56,
+    "price": 39.58,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1756,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-06-30T23:19:35.010Z",
-    "lastChangeId": "7c8e7094ca30",
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
     "salesChangeId": "f7edd93793b7"
@@ -1814,9 +1814,9 @@
     "objectID": "5791022",
     "updatedAt": "2026-08-11T22:51:49.760Z",
     "lastChangeId": "f7edd93793b7",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-14T23:02:20.460Z",
-    "salesChangeId": "8e14dd1ab1f6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "Speck - CandyShell Flip Case for Apple® iPhone® 5 and 5s - Raspberry Pink/Port Red/Peacock Blue",
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-08-22T22:29:07.615Z",
     "lastChangeId": "f70afc45641b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-17T22:30:56.990Z",
-    "salesChangeId": "36dfa88e3739"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 14.92,
+    "price": 14.3,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-08-17T22:30:56.990Z",
-    "lastChangeId": "36dfa88e3739",
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
     "salesChangeId": "cba96b4524ec"
@@ -2042,9 +2042,9 @@
     "objectID": "6263962",
     "updatedAt": "2026-08-24T22:33:54.788Z",
     "lastChangeId": "d7039b8cefed",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
-    "salesChangeId": "60667100624e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 959.25,
+    "price": 990.89,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-08-25T22:34:16.944Z",
-    "lastChangeId": "60667100624e",
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
     "salesChangeId": "ff83d8e25399"
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-08-21T22:31:24.795Z",
     "lastChangeId": "796eea61e3fc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-22T22:29:07.615Z",
-    "salesChangeId": "f70afc45641b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 110.6,
+    "price": 99.64,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-08-25T22:34:16.944Z",
-    "lastChangeId": "60667100624e",
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
     "salesChangeId": "60667100624e"
@@ -2672,7 +2672,7 @@
       "lvl3": "Video Games > Xbox One > Xbox One Accessories > Xbox One Controllers"
     },
     "type": "Xbx1 controllers",
-    "price": 48.65,
+    "price": 48.25,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4357801_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-xbox-one-limited-edition-halo-5-guardians-the-master-chief-wireless-controller-multi/4357801.p?id=1219736050741&skuId=4357801&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2680,11 +2680,11 @@
     "popularity": 3312,
     "rating": 4,
     "objectID": "4357801",
-    "updatedAt": "2026-08-17T22:30:56.990Z",
-    "lastChangeId": "36dfa88e3739",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "updatedAt": "2026-08-27T03:02:35.070Z",
+    "lastChangeId": "6bc083a3e101",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
+    "salesChangeId": "6bc083a3e101"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",

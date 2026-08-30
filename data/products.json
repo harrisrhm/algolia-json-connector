@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.78,
+    "price": 9.96,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-08-22T22:29:07.615Z",
-    "lastChangeId": "f70afc45641b",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-08-10T22:46:41.416Z",
     "lastChangeId": "df639a4a1efa",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
-    "salesChangeId": "bdb9ea65ebf3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2333.64,
+    "price": 2491.39,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-08-25T22:34:16.944Z",
-    "lastChangeId": "60667100624e",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
     "salesChangeId": "b5af78804148"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-08-28T06:03:18.289Z",
     "lastChangeId": "a77a8feee440",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -830,9 +830,9 @@
     "objectID": "3290125",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
-    "salesChangeId": "6b8686e73b8f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 19.21,
+    "price": 17.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-08-29T03:37:04.759Z",
-    "lastChangeId": "6b8686e73b8f",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
     "salesChangeId": "6b8686e73b8f"
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.61,
+    "price": 8.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-08-21T22:31:24.795Z",
-    "lastChangeId": "796eea61e3fc",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-08-18T22:30:56.931Z",
     "lastChangeId": "4f25f4727574",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
-    "salesChangeId": "6b8686e73b8f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 255.84,
+    "price": 241.22,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-08-24T22:33:54.788Z",
-    "lastChangeId": "d7039b8cefed",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
     "salesChangeId": "cfc8af5a848c"
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-08-18T22:30:56.931Z",
     "lastChangeId": "4f25f4727574",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
-    "salesChangeId": "6b8686e73b8f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 176.72,
+    "price": 177.18,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-08-28T06:03:18.289Z",
-    "lastChangeId": "a77a8feee440",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-08-23T22:28:58.127Z",
     "lastChangeId": "94ab14bc968f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-22T23:10:18.001Z",
-    "salesChangeId": "fd21fd60db33"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1804,7 +1804,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 163.91,
+    "price": 178.02,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1812,8 +1812,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-08-11T22:51:49.760Z",
-    "lastChangeId": "f7edd93793b7",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-28T06:03:18.289Z",
     "salesChangeId": "a77a8feee440"
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 59.69,
+    "price": 55.78,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-08-29T03:37:04.759Z",
-    "lastChangeId": "6b8686e73b8f",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
     "salesChangeId": "9996e55e1517"
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
-    "salesChangeId": "6b8686e73b8f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-08-20T22:34:18.907Z",
     "lastChangeId": "cba96b4524ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-26T23:03:56.383Z",
-    "salesChangeId": "831000947d9e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-28T06:03:18.289Z",
-    "salesChangeId": "a77a8feee440"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 11.59,
+    "price": 12.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-08-29T03:37:04.759Z",
-    "lastChangeId": "6b8686e73b8f",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
     "salesChangeId": "b5af78804148"
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 312.65,
+    "price": 336.13,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-08-23T22:28:58.127Z",
-    "lastChangeId": "94ab14bc968f",
+    "updatedAt": "2026-08-30T00:03:49.295Z",
+    "lastChangeId": "03c857dcf5ae",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
     "salesChangeId": "410f91355ac5"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-08-28T06:03:18.289Z",
     "lastChangeId": "a77a8feee440",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
-    "salesChangeId": "6b8686e73b8f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
+    "salesChangeId": "03c857dcf5ae"
   }
 ]

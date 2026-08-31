@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 9.96,
+    "price": 9.62,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-08-30T00:03:49.295Z",
-    "lastChangeId": "03c857dcf5ae",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-08-10T22:46:41.416Z",
     "lastChangeId": "df639a4a1efa",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
-    "salesChangeId": "03c857dcf5ae"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 19.78,
+    "price": 21.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-08-29T03:37:04.759Z",
-    "lastChangeId": "6b8686e73b8f",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
     "salesChangeId": "60667100624e"
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 69.45,
+    "price": 65.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-08-21T22:31:24.795Z",
-    "lastChangeId": "796eea61e3fc",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -588,7 +588,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 55.31,
+    "price": 50.96,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -596,8 +596,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
     "salesChangeId": "d7039b8cefed"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-08-28T06:03:18.289Z",
     "lastChangeId": "a77a8feee440",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
-    "salesChangeId": "03c857dcf5ae"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-08-30T00:03:49.295Z",
     "lastChangeId": "03c857dcf5ae",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
-    "salesChangeId": "6b8686e73b8f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 622.67,
+    "price": 607.51,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-08-27T03:02:35.070Z",
-    "lastChangeId": "6bc083a3e101",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 12.69,
+    "price": 12.88,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-08-18T22:30:56.931Z",
-    "lastChangeId": "4f25f4727574",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
     "salesChangeId": "03c857dcf5ae"
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 23.77,
+    "price": 23.01,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-08-14T22:30:23.639Z",
-    "lastChangeId": "40dc0c1083db",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
     "salesChangeId": "4f25f4727574"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-08-17T22:30:56.990Z",
     "lastChangeId": "36dfa88e3739",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-10T23:05:11.229Z",
-    "salesChangeId": "34a4aae5ded2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 177.18,
+    "price": 176.09,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-08-30T00:03:49.295Z",
-    "lastChangeId": "03c857dcf5ae",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -1748,7 +1748,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 37.03,
+    "price": 38.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1756,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-08-28T06:03:18.289Z",
-    "lastChangeId": "a77a8feee440",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
     "salesChangeId": "f7edd93793b7"
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-08-23T22:28:58.127Z",
     "lastChangeId": "94ab14bc968f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
-    "salesChangeId": "03c857dcf5ae"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
-    "salesChangeId": "94ab14bc968f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
-    "salesChangeId": "03c857dcf5ae"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 990.89,
+    "price": 915.79,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-08-27T03:02:35.070Z",
-    "lastChangeId": "6bc083a3e101",
+    "updatedAt": "2026-08-31T00:21:38.052Z",
+    "lastChangeId": "90687191238a",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
     "salesChangeId": "ff83d8e25399"
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-08-20T22:34:18.907Z",
     "lastChangeId": "cba96b4524ec",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
-    "salesChangeId": "03c857dcf5ae"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
-    "salesChangeId": "03c857dcf5ae"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-08-20T22:34:18.907Z",
     "lastChangeId": "cba96b4524ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-30T23:13:05.618Z",
-    "salesChangeId": "8103c9a7faf0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
+    "salesChangeId": "90687191238a"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

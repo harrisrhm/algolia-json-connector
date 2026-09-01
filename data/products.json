@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
-    "salesChangeId": "6b8686e73b8f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-08-30T00:03:49.295Z",
     "lastChangeId": "03c857dcf5ae",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-08-16T22:28:55.306Z",
     "lastChangeId": "b5af78804148",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
-    "salesChangeId": "60667100624e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1205,9 +1205,9 @@
     "objectID": "8860013",
     "updatedAt": "2026-07-24T23:08:56.494Z",
     "lastChangeId": "a1645944944d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-13T06:12:05.694Z",
-    "salesChangeId": "46b2b9602f50"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "Lenovo - IdeaPad 100s 11.6\" Laptop - Intel Atom - 2GB Memory - 32GB eMMC Flash Storage - Red",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 751.76,
+    "price": 787.88,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-08-24T22:33:54.788Z",
-    "lastChangeId": "d7039b8cefed",
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-08T22:36:46.288Z",
     "salesChangeId": "42be0cabe4d5"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-08-17T22:30:56.990Z",
     "lastChangeId": "36dfa88e3739",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1748,7 +1748,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 38.05,
+    "price": 41.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1756,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-08-31T00:21:38.052Z",
-    "lastChangeId": "90687191238a",
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
     "salesChangeId": "f7edd93793b7"
@@ -1835,7 +1835,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 33.02,
+    "price": 35.93,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1843,8 +1843,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-08-22T22:29:07.615Z",
-    "lastChangeId": "f70afc45641b",
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-28T06:03:18.289Z",
     "salesChangeId": "a77a8feee440"
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 55.78,
+    "price": 53.72,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-08-30T00:03:49.295Z",
-    "lastChangeId": "03c857dcf5ae",
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
     "salesChangeId": "9996e55e1517"
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 31.04,
+    "price": 28.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-08-24T22:33:54.788Z",
-    "lastChangeId": "d7039b8cefed",
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-21T23:23:23.439Z",
     "salesChangeId": "0d3ce58118f9"
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 49.26,
+    "price": 53.16,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-08-21T22:31:24.795Z",
-    "lastChangeId": "796eea61e3fc",
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
     "salesChangeId": "cba96b4524ec"
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 915.79,
+    "price": 833.38,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-08-31T00:21:38.052Z",
-    "lastChangeId": "90687191238a",
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
     "salesChangeId": "ff83d8e25399"
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-08-20T22:34:18.907Z",
     "lastChangeId": "cba96b4524ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-08-22T22:29:07.615Z",
     "lastChangeId": "f70afc45641b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
-    "salesChangeId": "cba96b4524ec"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 99.64,
+    "price": 107.47,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-08-27T03:02:35.070Z",
-    "lastChangeId": "6bc083a3e101",
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
     "salesChangeId": "60667100624e"
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 12.18,
+    "price": 12.15,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-08-30T00:03:49.295Z",
-    "lastChangeId": "03c857dcf5ae",
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
     "salesChangeId": "b5af78804148"
@@ -2763,7 +2763,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 2.07,
+    "price": 1.95,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2771,11 +2771,11 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-08-20T22:34:18.907Z",
-    "lastChangeId": "cba96b4524ec",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "updatedAt": "2026-09-01T01:10:43.715Z",
+    "lastChangeId": "0342e039aa9a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
+    "salesChangeId": "0342e039aa9a"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

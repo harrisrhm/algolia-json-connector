@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-08-31T00:21:38.052Z",
     "lastChangeId": "90687191238a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
-    "salesChangeId": "60667100624e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 709.75,
+    "price": 702.02,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-08-14T22:30:23.639Z",
-    "lastChangeId": "40dc0c1083db",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
     "salesChangeId": "de3557b72476"
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-08-30T00:03:49.295Z",
     "lastChangeId": "03c857dcf5ae",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
-    "salesChangeId": "b5af78804148"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
-    "salesChangeId": "0342e039aa9a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -774,9 +774,9 @@
     "objectID": "3651143",
     "updatedAt": "2026-08-20T22:34:18.907Z",
     "lastChangeId": "cba96b4524ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-27T23:22:49.363Z",
-    "salesChangeId": "6f860597b902"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 17.74,
+    "price": 17.22,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-08-30T00:03:49.295Z",
-    "lastChangeId": "03c857dcf5ae",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
     "salesChangeId": "0342e039aa9a"
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-08-16T22:28:55.306Z",
     "lastChangeId": "b5af78804148",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
-    "salesChangeId": "0342e039aa9a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 6,
+    "price": 5.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-08-13T22:51:39.164Z",
-    "lastChangeId": "bdb9ea65ebf3",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
     "salesChangeId": "e320d5f3c6f8"
@@ -1205,9 +1205,9 @@
     "objectID": "8860013",
     "updatedAt": "2026-07-24T23:08:56.494Z",
     "lastChangeId": "a1645944944d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
-    "salesChangeId": "0342e039aa9a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "Lenovo - IdeaPad 100s 11.6\" Laptop - Intel Atom - 2GB Memory - 32GB eMMC Flash Storage - Red",
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 12.33,
+    "price": 11.37,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-07-16T23:03:36.700Z",
-    "lastChangeId": "de3557b72476",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
     "salesChangeId": "94ab14bc968f"
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 62.04,
+    "price": 65.69,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-08-17T22:30:56.990Z",
-    "lastChangeId": "36dfa88e3739",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
     "salesChangeId": "0342e039aa9a"
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 112.95,
+    "price": 114.4,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-08-19T22:31:33.564Z",
-    "lastChangeId": "78791a0140f0",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 212.58,
+    "price": 213.89,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-08-29T03:37:04.759Z",
-    "lastChangeId": "6b8686e73b8f",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
     "salesChangeId": "e320d5f3c6f8"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.96,
+    "price": 7.46,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-08-21T22:31:24.795Z",
-    "lastChangeId": "796eea61e3fc",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-28T06:03:18.289Z",
     "salesChangeId": "a77a8feee440"
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-08-20T22:34:18.907Z",
     "lastChangeId": "cba96b4524ec",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
-    "salesChangeId": "0342e039aa9a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 18.49,
+    "price": 18.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-08-23T22:28:58.127Z",
-    "lastChangeId": "94ab14bc968f",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
     "salesChangeId": "7fd6b9ed311b"
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-08-22T22:29:07.615Z",
     "lastChangeId": "f70afc45641b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
-    "salesChangeId": "0342e039aa9a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 226.31,
+    "price": 246.8,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-08-19T22:31:33.564Z",
-    "lastChangeId": "78791a0140f0",
+    "updatedAt": "2026-09-01T23:56:54.212Z",
+    "lastChangeId": "2c97e1de6be2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
     "salesChangeId": "40dc0c1083db"
@@ -2599,9 +2599,9 @@
     "objectID": "1803138",
     "updatedAt": "2026-08-22T22:29:07.615Z",
     "lastChangeId": "f70afc45641b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-05T23:08:31.043Z",
-    "salesChangeId": "4364a42fc7bf"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "Garmin - vívofit 2 Activity Tracker - White",
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-08-29T03:37:04.759Z",
     "lastChangeId": "6b8686e73b8f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-11T22:51:49.760Z",
-    "salesChangeId": "f7edd93793b7"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
+    "salesChangeId": "2c97e1de6be2"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",

@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 160.42,
+    "price": 155.17,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-08-18T22:30:56.931Z",
-    "lastChangeId": "4f25f4727574",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
     "salesChangeId": "74f9f76acfa6"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-09-03T23:54:48.793Z",
     "lastChangeId": "d2b4eeccac6c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
-    "salesChangeId": "062560b6eb2b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
+    "salesChangeId": "ea280dfed92a"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-09-05T23:44:22.878Z",
     "lastChangeId": "062560b6eb2b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-21T22:31:24.795Z",
-    "salesChangeId": "796eea61e3fc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
+    "salesChangeId": "ea280dfed92a"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 62.42,
+    "price": 64.8,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-08-10T22:46:41.416Z",
-    "lastChangeId": "df639a4a1efa",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
     "salesChangeId": "ac86d0602110"
@@ -588,7 +588,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 47.98,
+    "price": 47,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -596,8 +596,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-09-02T23:59:28.095Z",
-    "lastChangeId": "3ae293420286",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
     "salesChangeId": "d7039b8cefed"
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
+    "salesChangeId": "ea280dfed92a"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-09-01T01:10:43.715Z",
     "lastChangeId": "0342e039aa9a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-04T23:53:56.729Z",
-    "salesChangeId": "173640cfffde"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
+    "salesChangeId": "ea280dfed92a"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-09-05T23:44:22.878Z",
     "lastChangeId": "062560b6eb2b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
-    "salesChangeId": "062560b6eb2b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
+    "salesChangeId": "ea280dfed92a"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 117.3,
+    "price": 109.25,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-09-02T23:59:28.095Z",
-    "lastChangeId": "3ae293420286",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -1893,7 +1893,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 41.04,
+    "price": 43.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1901,8 +1901,8 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-07-28T23:07:43.005Z",
-    "lastChangeId": "c73e309f569f",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.6,
+    "price": 2.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-09-04T23:53:56.729Z",
-    "lastChangeId": "173640cfffde",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
     "salesChangeId": "4f25f4727574"
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 213.89,
+    "price": 211.36,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-09-01T23:56:54.212Z",
-    "lastChangeId": "2c97e1de6be2",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
     "salesChangeId": "e320d5f3c6f8"
@@ -2291,7 +2291,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 343.42,
+    "price": 363.62,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2299,8 +2299,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-09-04T23:53:56.729Z",
-    "lastChangeId": "173640cfffde",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
     "salesChangeId": "2c97e1de6be2"
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-09-03T23:54:48.793Z",
     "lastChangeId": "d2b4eeccac6c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
-    "salesChangeId": "062560b6eb2b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
+    "salesChangeId": "ea280dfed92a"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 107.47,
+    "price": 102.9,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-09-01T01:10:43.715Z",
-    "lastChangeId": "0342e039aa9a",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
     "salesChangeId": "60667100624e"
@@ -2763,7 +2763,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 1.95,
+    "price": 1.93,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2771,8 +2771,8 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-09-01T01:10:43.715Z",
-    "lastChangeId": "0342e039aa9a",
+    "updatedAt": "2026-09-06T23:43:12.041Z",
+    "lastChangeId": "ea280dfed92a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
     "salesChangeId": "0342e039aa9a"

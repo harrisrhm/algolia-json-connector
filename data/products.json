@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.85,
+    "price": 9.25,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-08-10T22:46:41.416Z",
-    "lastChangeId": "df639a4a1efa",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
     "salesChangeId": "90687191238a"
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 641.12,
+    "price": 650.58,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-09-02T23:59:28.095Z",
-    "lastChangeId": "3ae293420286",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
     "salesChangeId": "de3557b72476"
@@ -391,9 +391,9 @@
     "objectID": "4274600",
     "updatedAt": "2026-08-25T22:34:16.944Z",
     "lastChangeId": "60667100624e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-04T23:04:13.501Z",
-    "salesChangeId": "b5c57dac439a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-09-05T23:44:22.878Z",
     "lastChangeId": "062560b6eb2b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
-    "salesChangeId": "ea280dfed92a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -588,7 +588,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 47,
+    "price": 47.15,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -596,8 +596,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-09-06T23:43:12.041Z",
-    "lastChangeId": "ea280dfed92a",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
     "salesChangeId": "d7039b8cefed"
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
-    "salesChangeId": "ea280dfed92a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-08-28T06:03:18.289Z",
     "lastChangeId": "a77a8feee440",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 17.72,
+    "price": 18.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-09-04T23:53:56.729Z",
-    "lastChangeId": "173640cfffde",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
     "salesChangeId": "d2b4eeccac6c"
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-09-01T23:56:54.212Z",
     "lastChangeId": "2c97e1de6be2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
-    "salesChangeId": "0342e039aa9a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-08-16T22:28:55.306Z",
     "lastChangeId": "b5af78804148",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
-    "salesChangeId": "2c97e1de6be2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 83.9,
+    "price": 77.52,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-07-24T23:08:56.494Z",
-    "lastChangeId": "a1645944944d",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
     "salesChangeId": "2c97e1de6be2"
@@ -1236,9 +1236,9 @@
     "objectID": "4475000",
     "updatedAt": "2026-08-30T00:03:49.295Z",
     "lastChangeId": "03c857dcf5ae",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
-    "salesChangeId": "062560b6eb2b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 11.49,
+    "price": 10.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-09-04T23:53:56.729Z",
-    "lastChangeId": "173640cfffde",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
     "salesChangeId": "94ab14bc968f"
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 3472.63,
+    "price": 3412.73,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-09-04T23:53:56.729Z",
-    "lastChangeId": "173640cfffde",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
     "salesChangeId": "69a5d9000725"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 52.17,
+    "price": 52.33,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-08-28T06:03:18.289Z",
-    "lastChangeId": "a77a8feee440",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
     "salesChangeId": "d2b4eeccac6c"
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-09-01T01:10:43.715Z",
     "lastChangeId": "0342e039aa9a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
-    "salesChangeId": "ea280dfed92a"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-09-01T01:10:43.715Z",
     "lastChangeId": "0342e039aa9a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
-    "salesChangeId": "062560b6eb2b"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 14.56,
+    "price": 13.35,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-09-02T23:59:28.095Z",
-    "lastChangeId": "3ae293420286",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
     "salesChangeId": "0342e039aa9a"
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
+    "salesChangeId": "cdfd3704f82e"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 336.13,
+    "price": 330.89,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-08-30T00:03:49.295Z",
-    "lastChangeId": "03c857dcf5ae",
+    "updatedAt": "2026-09-08T00:08:23.937Z",
+    "lastChangeId": "cdfd3704f82e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
     "salesChangeId": "410f91355ac5"

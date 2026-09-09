@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-09-08T00:08:23.937Z",
     "lastChangeId": "cdfd3704f82e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
+    "salesChangeId": "0da8bc65df93"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -391,9 +391,9 @@
     "objectID": "4274600",
     "updatedAt": "2026-08-25T22:34:16.944Z",
     "lastChangeId": "60667100624e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
-    "salesChangeId": "cdfd3704f82e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
+    "salesChangeId": "0da8bc65df93"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-08-30T00:03:49.295Z",
     "lastChangeId": "03c857dcf5ae",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
-    "salesChangeId": "d2b4eeccac6c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
+    "salesChangeId": "0da8bc65df93"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-08-28T06:03:18.289Z",
     "lastChangeId": "a77a8feee440",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
-    "salesChangeId": "cdfd3704f82e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
+    "salesChangeId": "0da8bc65df93"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 14.56,
+    "price": 15,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-09-04T23:53:56.729Z",
-    "lastChangeId": "173640cfffde",
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
     "salesChangeId": "40dc0c1083db"
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-09-01T23:56:54.212Z",
     "lastChangeId": "2c97e1de6be2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
-    "salesChangeId": "cdfd3704f82e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
+    "salesChangeId": "0da8bc65df93"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 293.31,
+    "price": 271.57,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-08-17T22:30:56.990Z",
-    "lastChangeId": "36dfa88e3739",
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
     "salesChangeId": "b9752b095bcd"
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.54,
+    "price": 8.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-08-30T00:03:49.295Z",
-    "lastChangeId": "03c857dcf5ae",
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 114.91,
+    "price": 121.06,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-08-25T22:34:16.944Z",
-    "lastChangeId": "60667100624e",
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-04T23:53:56.729Z",
     "salesChangeId": "173640cfffde"
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 3412.73,
+    "price": 3245.34,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,11 +1321,11 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-09-08T00:08:23.937Z",
-    "lastChangeId": "cdfd3704f82e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-14T23:04:17.718Z",
-    "salesChangeId": "69a5d9000725"
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
+    "salesChangeId": "0da8bc65df93"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-09-06T23:43:12.041Z",
     "lastChangeId": "ea280dfed92a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
-    "salesChangeId": "bdb9ea65ebf3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
+    "salesChangeId": "0da8bc65df93"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 27.76,
+    "price": 26.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-08-23T22:28:58.127Z",
-    "lastChangeId": "94ab14bc968f",
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
     "salesChangeId": "90687191238a"
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 133.11,
+    "price": 144.49,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
     "salesChangeId": "0342e039aa9a"
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 139.2,
+    "price": 145.14,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-08-28T06:03:18.289Z",
-    "lastChangeId": "a77a8feee440",
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
     "salesChangeId": "222753db43b1"
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 65.04,
+    "price": 65.75,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-08-08T22:36:46.288Z",
-    "lastChangeId": "42be0cabe4d5",
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
     "salesChangeId": "4f25f4727574"
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-08-27T03:02:35.070Z",
     "lastChangeId": "6bc083a3e101",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
-    "salesChangeId": "cdfd3704f82e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
+    "salesChangeId": "0da8bc65df93"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 57.42,
+    "price": 59.7,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-08-13T22:51:39.164Z",
-    "lastChangeId": "bdb9ea65ebf3",
+    "updatedAt": "2026-09-09T00:00:07.533Z",
+    "lastChangeId": "0da8bc65df93",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
     "salesChangeId": "062560b6eb2b"

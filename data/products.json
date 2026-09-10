@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-09-03T23:54:48.793Z",
     "lastChangeId": "d2b4eeccac6c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
-    "salesChangeId": "94ab14bc968f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -196,9 +196,9 @@
     "objectID": "9435907",
     "updatedAt": "2026-08-17T22:30:56.990Z",
     "lastChangeId": "36dfa88e3739",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
-    "salesChangeId": "bf9a0752ada3"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -391,9 +391,9 @@
     "objectID": "4274600",
     "updatedAt": "2026-08-25T22:34:16.944Z",
     "lastChangeId": "60667100624e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
-    "salesChangeId": "bf9a0752ada3"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-08-15T22:29:05.696Z",
     "lastChangeId": "e320d5f3c6f8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
-    "salesChangeId": "2c97e1de6be2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 64.8,
+    "price": 64.72,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,11 +505,11 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-09-06T23:43:12.041Z",
-    "lastChangeId": "ea280dfed92a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
-    "salesChangeId": "bf9a0752ada3"
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Logitech - G710+ Mechanical Gaming Keyboard - Black/White",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 127.3,
+    "price": 125.51,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-08-24T22:33:54.788Z",
-    "lastChangeId": "d7039b8cefed",
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
     "salesChangeId": "60667100624e"
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 18.41,
+    "price": 19.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-09-08T00:08:23.937Z",
-    "lastChangeId": "cdfd3704f82e",
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
     "salesChangeId": "d2b4eeccac6c"
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-08-11T22:51:49.760Z",
     "lastChangeId": "f7edd93793b7",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
-    "salesChangeId": "bf9a0752ada3"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-08-31T00:21:38.052Z",
     "lastChangeId": "90687191238a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
-    "salesChangeId": "03c857dcf5ae"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-09-03T23:54:48.793Z",
     "lastChangeId": "d2b4eeccac6c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
-    "salesChangeId": "bf9a0752ada3"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-09-02T23:59:28.095Z",
     "lastChangeId": "3ae293420286",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
-    "salesChangeId": "df639a4a1efa"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.18,
+    "price": 8.79,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-08-28T06:03:18.289Z",
-    "lastChangeId": "a77a8feee440",
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 23.01,
+    "price": 21.93,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-08-31T00:21:38.052Z",
-    "lastChangeId": "90687191238a",
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
     "salesChangeId": "4f25f4727574"
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 13.08,
+    "price": 13.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-08-27T03:02:35.070Z",
-    "lastChangeId": "6bc083a3e101",
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
     "salesChangeId": "df639a4a1efa"
@@ -1804,7 +1804,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Battery cases",
-    "price": 178.02,
+    "price": 166.04,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/5791022_rb.jpg",
     "url": "http://www.bestbuy.com/site/mophie-juice-pack-external-battery-case-for-samsung-galaxy-s6-edge-cell-phones-black/5791022.p?id=1219657146247&skuId=5791022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1812,8 +1812,8 @@
     "popularity": 3060,
     "rating": 4,
     "objectID": "5791022",
-    "updatedAt": "2026-08-30T00:03:49.295Z",
-    "lastChangeId": "03c857dcf5ae",
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-28T06:03:18.289Z",
     "salesChangeId": "a77a8feee440"
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-09-01T01:10:43.715Z",
     "lastChangeId": "0342e039aa9a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-15T23:03:45.468Z",
-    "salesChangeId": "9996e55e1517"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
+    "salesChangeId": "a65bfed6ef13"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 80.76,
+    "price": 83,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,8 +2268,8 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-08-19T22:31:33.564Z",
-    "lastChangeId": "78791a0140f0",
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
     "salesChangeId": "d7039b8cefed"
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 834.65,
+    "price": 877.91,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-08-22T22:29:07.615Z",
-    "lastChangeId": "f70afc45641b",
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-02T23:59:28.095Z",
     "salesChangeId": "3ae293420286"
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1371.68,
+    "price": 1503.88,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-09-10T00:01:45.489Z",
-    "lastChangeId": "bf9a0752ada3",
+    "updatedAt": "2026-09-10T23:56:48.152Z",
+    "lastChangeId": "a65bfed6ef13",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
     "salesChangeId": "4bab38a0f7c8"

@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 29.14,
+    "price": 31.81,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-09-02T23:59:28.095Z",
-    "lastChangeId": "3ae293420286",
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-28T06:03:18.289Z",
     "salesChangeId": "a77a8feee440"
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-09-08T00:08:23.937Z",
     "lastChangeId": "cdfd3704f82e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-16T23:03:36.700Z",
-    "salesChangeId": "de3557b72476"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 47.32,
+    "price": 49.14,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-08-27T03:02:35.070Z",
-    "lastChangeId": "6bc083a3e101",
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
     "salesChangeId": "cdfd3704f82e"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-08-28T06:03:18.289Z",
     "lastChangeId": "a77a8feee440",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
-    "salesChangeId": "2458d9c9e48c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 34.1,
+    "price": 33.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-09-05T23:44:22.878Z",
-    "lastChangeId": "062560b6eb2b",
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
     "salesChangeId": "ff83d8e25399"
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 43.74,
+    "price": 46.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-09-02T23:59:28.095Z",
-    "lastChangeId": "3ae293420286",
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
     "salesChangeId": "dc0a1dd3f317"
@@ -1151,9 +1151,9 @@
     "objectID": "2631316",
     "updatedAt": "2026-09-03T23:54:48.793Z",
     "lastChangeId": "d2b4eeccac6c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
-    "salesChangeId": "2458d9c9e48c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 22.53,
+    "price": 22.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-09-10T00:01:45.489Z",
-    "lastChangeId": "bf9a0752ada3",
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
     "salesChangeId": "062560b6eb2b"
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-08-25T22:34:16.944Z",
     "lastChangeId": "60667100624e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
-    "salesChangeId": "78791a0140f0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 787.88,
+    "price": 719.76,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,11 +1526,11 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-09-01T01:10:43.715Z",
-    "lastChangeId": "0342e039aa9a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
-    "salesChangeId": "cdfd3704f82e"
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-09-12T00:03:47.113Z",
     "lastChangeId": "2458d9c9e48c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
-    "salesChangeId": "2458d9c9e48c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.56,
+    "price": 2.73,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-09-06T23:43:12.041Z",
-    "lastChangeId": "ea280dfed92a",
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
     "salesChangeId": "4f25f4727574"
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-09-08T00:08:23.937Z",
     "lastChangeId": "cdfd3704f82e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
-    "salesChangeId": "0342e039aa9a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2229,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 12.23,
+    "price": 11.71,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,8 +2237,8 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-09-10T00:01:45.489Z",
-    "lastChangeId": "bf9a0752ada3",
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
     "salesChangeId": "cfc8af5a848c"
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 102.9,
+    "price": 103.25,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-09-06T23:43:12.041Z",
-    "lastChangeId": "ea280dfed92a",
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
     "salesChangeId": "60667100624e"
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-09-10T23:56:48.152Z",
     "lastChangeId": "a65bfed6ef13",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-12T22:50:17.651Z",
-    "salesChangeId": "4bab38a0f7c8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-09-09T00:00:07.533Z",
     "lastChangeId": "0da8bc65df93",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
-    "salesChangeId": "2458d9c9e48c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",
@@ -2875,7 +2875,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 73.1,
+    "price": 76.66,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2883,10 +2883,10 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-08-28T06:03:18.289Z",
-    "lastChangeId": "a77a8feee440",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
-    "salesChangeId": "2458d9c9e48c"
+    "updatedAt": "2026-09-12T23:54:21.811Z",
+    "lastChangeId": "31512640d2c2",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
+    "salesChangeId": "31512640d2c2"
   }
 ]

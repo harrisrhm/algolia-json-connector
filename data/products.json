@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 155.17,
+    "price": 160.93,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-09-06T23:43:12.041Z",
-    "lastChangeId": "ea280dfed92a",
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
     "salesChangeId": "74f9f76acfa6"
@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-09-03T23:54:48.793Z",
     "lastChangeId": "d2b4eeccac6c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
-    "salesChangeId": "a65bfed6ef13"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.25,
+    "price": 9.73,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-09-08T00:08:23.937Z",
-    "lastChangeId": "cdfd3704f82e",
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
     "salesChangeId": "bf9a0752ada3"
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 136.44,
+    "price": 146.78,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,11 +476,11 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-08-15T22:29:05.696Z",
-    "lastChangeId": "e320d5f3c6f8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
-    "salesChangeId": "a65bfed6ef13"
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 64.72,
+    "price": 64.44,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-09-10T23:56:48.152Z",
-    "lastChangeId": "a65bfed6ef13",
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
     "salesChangeId": "a65bfed6ef13"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-08-28T06:03:18.289Z",
     "lastChangeId": "a77a8feee440",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
-    "salesChangeId": "0da8bc65df93"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -961,7 +961,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 4.07,
+    "price": 3.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-09-10T00:01:45.489Z",
-    "lastChangeId": "bf9a0752ada3",
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
     "salesChangeId": "bf9a0752ada3"
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 271.57,
+    "price": 248.26,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-09-09T00:00:07.533Z",
-    "lastChangeId": "0da8bc65df93",
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
     "salesChangeId": "b9752b095bcd"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-08-31T00:21:38.052Z",
     "lastChangeId": "90687191238a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
-    "salesChangeId": "a65bfed6ef13"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1151,9 +1151,9 @@
     "objectID": "2631316",
     "updatedAt": "2026-09-03T23:54:48.793Z",
     "lastChangeId": "d2b4eeccac6c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-04T23:53:56.729Z",
-    "salesChangeId": "173640cfffde"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 3399.8,
+    "price": 3583.15,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-09-10T00:01:45.489Z",
-    "lastChangeId": "bf9a0752ada3",
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
     "salesChangeId": "bf9a0752ada3"
@@ -1354,9 +1354,9 @@
     "objectID": "6748322",
     "updatedAt": "2026-09-02T23:59:28.095Z",
     "lastChangeId": "3ae293420286",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
-    "salesChangeId": "a65bfed6ef13"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   },
   {
     "name": "Nanette Lepore - Case for Samsung Galaxy S 5 Cell Phones - Red",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.79,
+    "price": 8.82,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-09-10T23:56:48.152Z",
-    "lastChangeId": "a65bfed6ef13",
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 26.94,
+    "price": 25.47,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,11 +1785,11 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-09-09T00:00:07.533Z",
-    "lastChangeId": "0da8bc65df93",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-31T00:21:38.052Z",
-    "salesChangeId": "90687191238a"
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-09-01T01:10:43.715Z",
     "lastChangeId": "0342e039aa9a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
-    "salesChangeId": "a65bfed6ef13"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 23.34,
+    "price": 24.87,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-08-02T23:00:41.318Z",
-    "lastChangeId": "cfc8af5a848c",
+    "updatedAt": "2026-09-12T00:03:47.113Z",
+    "lastChangeId": "2458d9c9e48c",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
     "salesChangeId": "6b8686e73b8f"
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-09-09T00:00:07.533Z",
     "lastChangeId": "0da8bc65df93",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
-    "salesChangeId": "062560b6eb2b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-08-28T06:03:18.289Z",
     "lastChangeId": "a77a8feee440",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
-    "salesChangeId": "03c857dcf5ae"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
+    "salesChangeId": "2458d9c9e48c"
   }
 ]

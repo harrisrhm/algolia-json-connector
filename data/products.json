@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 160.93,
+    "price": 165.27,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-09-12T00:03:47.113Z",
-    "lastChangeId": "2458d9c9e48c",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
     "salesChangeId": "74f9f76acfa6"
@@ -70,7 +70,7 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 58.28,
+    "price": 62.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -78,8 +78,8 @@
     "popularity": 5309,
     "rating": 3,
     "objectID": "4388600",
-    "updatedAt": "2026-09-03T23:54:48.793Z",
-    "lastChangeId": "d2b4eeccac6c",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
     "salesChangeId": "6f4bc9c37e60"
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 9.62,
+    "price": 9.73,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-08-31T00:21:38.052Z",
-    "lastChangeId": "90687191238a",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-08-22T22:29:07.615Z",
     "lastChangeId": "f70afc45641b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
-    "salesChangeId": "6bc083a3e101"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-09-08T00:08:23.937Z",
     "lastChangeId": "cdfd3704f82e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
-    "salesChangeId": "31512640d2c2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 146.78,
+    "price": 154.3,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-09-12T00:03:47.113Z",
-    "lastChangeId": "2458d9c9e48c",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
     "salesChangeId": "2458d9c9e48c"
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-09-12T23:54:21.811Z",
     "lastChangeId": "31512640d2c2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
-    "salesChangeId": "cdfd3704f82e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -1114,7 +1114,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Toner"
     },
     "type": "So ink-toner",
-    "price": 116.47,
+    "price": 108.04,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1606254_sb.jpg",
     "url": "http://www.bestbuy.com/site/brother-tn225y-high-yield-toner-cartridge-yellow/1606254.p?id=1219056748350&skuId=1606254",
@@ -1122,8 +1122,8 @@
     "popularity": 8414,
     "rating": 5,
     "objectID": "1606254",
-    "updatedAt": "2026-09-10T00:01:45.489Z",
-    "lastChangeId": "bf9a0752ada3",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-04T23:53:56.729Z",
     "salesChangeId": "173640cfffde"
@@ -1151,9 +1151,9 @@
     "objectID": "2631316",
     "updatedAt": "2026-09-03T23:54:48.793Z",
     "lastChangeId": "d2b4eeccac6c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
-    "salesChangeId": "31512640d2c2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-09-12T00:03:47.113Z",
     "lastChangeId": "2458d9c9e48c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
-    "salesChangeId": "bdb9ea65ebf3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-08-25T22:34:16.944Z",
     "lastChangeId": "60667100624e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
-    "salesChangeId": "31512640d2c2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1528,9 +1528,9 @@
     "objectID": "8082019",
     "updatedAt": "2026-09-12T23:54:21.811Z",
     "lastChangeId": "31512640d2c2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
-    "salesChangeId": "31512640d2c2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "Antec - TriCool 80mm LED CPU Cooling Fan - Clear",
@@ -1617,9 +1617,9 @@
     "objectID": "5344025",
     "updatedAt": "2026-09-10T23:56:48.152Z",
     "lastChangeId": "a65bfed6ef13",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-10T22:46:41.416Z",
-    "salesChangeId": "df639a4a1efa"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi16GB - Silver",
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 25.82,
+    "price": 26.98,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-09-05T23:44:22.878Z",
-    "lastChangeId": "062560b6eb2b",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -2017,9 +2017,9 @@
     "objectID": "4338620",
     "updatedAt": "2026-09-08T00:08:23.937Z",
     "lastChangeId": "cdfd3704f82e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
-    "salesChangeId": "31512640d2c2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 11.12,
+    "price": 11.63,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-08-24T22:33:54.788Z",
-    "lastChangeId": "d7039b8cefed",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 53.16,
+    "price": 56.28,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-09-01T01:10:43.715Z",
-    "lastChangeId": "0342e039aa9a",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
     "salesChangeId": "cba96b4524ec"
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 13.71,
+    "price": 14.31,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-08-25T22:34:16.944Z",
-    "lastChangeId": "60667100624e",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
     "salesChangeId": "78791a0140f0"
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-09-10T23:56:48.152Z",
     "lastChangeId": "a65bfed6ef13",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
-    "salesChangeId": "31512640d2c2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
+    "salesChangeId": "90660d0e546e"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 24.87,
+    "price": 24.1,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-09-12T00:03:47.113Z",
-    "lastChangeId": "2458d9c9e48c",
+    "updatedAt": "2026-09-14T00:02:19.286Z",
+    "lastChangeId": "90660d0e546e",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
     "salesChangeId": "6b8686e73b8f"

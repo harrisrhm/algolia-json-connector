@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 165.27,
+    "price": 158.48,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-09-14T00:02:19.286Z",
-    "lastChangeId": "90660d0e546e",
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-07T22:45:31.881Z",
     "salesChangeId": "74f9f76acfa6"
@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-08-22T22:29:07.615Z",
     "lastChangeId": "f70afc45641b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
-    "salesChangeId": "90660d0e546e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -196,9 +196,9 @@
     "objectID": "9435907",
     "updatedAt": "2026-08-17T22:30:56.990Z",
     "lastChangeId": "36dfa88e3739",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
-    "salesChangeId": "a65bfed6ef13"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -300,7 +300,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "Vzw iphone handset",
-    "price": 650.58,
+    "price": 694.34,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7642139_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-verizon-wireless/7642139.p?id=1219289510856&skuId=7642139&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -308,8 +308,8 @@
     "popularity": 9599,
     "rating": 5,
     "objectID": "7642139",
-    "updatedAt": "2026-09-08T00:08:23.937Z",
-    "lastChangeId": "cdfd3704f82e",
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
     "salesChangeId": "90660d0e546e"
@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-08-31T00:21:38.052Z",
     "lastChangeId": "90687191238a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-09-12T23:54:21.811Z",
     "lastChangeId": "31512640d2c2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
-    "salesChangeId": "90660d0e546e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 19.94,
+    "price": 20.37,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-09-10T23:56:48.152Z",
-    "lastChangeId": "a65bfed6ef13",
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
     "salesChangeId": "d2b4eeccac6c"
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 607.51,
+    "price": 565.83,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-08-31T00:21:38.052Z",
-    "lastChangeId": "90687191238a",
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
     "salesChangeId": "9884c2c3a9bd"
@@ -1151,9 +1151,9 @@
     "objectID": "2631316",
     "updatedAt": "2026-09-03T23:54:48.793Z",
     "lastChangeId": "d2b4eeccac6c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
-    "salesChangeId": "90660d0e546e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "Elite Platinum - 8-1/2-Quart Slow Cooker - Stainless-Steel",
@@ -1178,9 +1178,9 @@
     "objectID": "1857649",
     "updatedAt": "2026-09-05T23:44:22.878Z",
     "lastChangeId": "062560b6eb2b",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-24T23:08:56.494Z",
-    "salesChangeId": "a1645944944d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 71.31,
+    "price": 71.17,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-09-02T23:59:28.095Z",
-    "lastChangeId": "3ae293420286",
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
     "salesChangeId": "2458d9c9e48c"
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-09-12T00:03:47.113Z",
     "lastChangeId": "2458d9c9e48c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
-    "salesChangeId": "90660d0e546e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1617,9 +1617,9 @@
     "objectID": "5344025",
     "updatedAt": "2026-09-10T23:56:48.152Z",
     "lastChangeId": "a65bfed6ef13",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
-    "salesChangeId": "90660d0e546e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi16GB - Silver",
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 109.25,
+    "price": 105.97,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,11 +1671,11 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-09-06T23:43:12.041Z",
-    "lastChangeId": "ea280dfed92a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
-    "salesChangeId": "bf9a0752ada3"
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 26.98,
+    "price": 28.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-09-14T00:02:19.286Z",
-    "lastChangeId": "90660d0e546e",
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 11.63,
+    "price": 12.66,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-09-14T00:02:19.286Z",
-    "lastChangeId": "90660d0e546e",
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 844.09,
+    "price": 844.63,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-09-10T00:01:45.489Z",
-    "lastChangeId": "bf9a0752ada3",
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
     "salesChangeId": "ff83d8e25399"
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-09-02T23:59:28.095Z",
     "lastChangeId": "3ae293420286",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-28T06:03:18.289Z",
-    "salesChangeId": "a77a8feee440"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
+    "salesChangeId": "8daaba24fe57"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 24.1,
+    "price": 26.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-09-14T00:02:19.286Z",
-    "lastChangeId": "90660d0e546e",
+    "updatedAt": "2026-09-15T00:26:19.336Z",
+    "lastChangeId": "8daaba24fe57",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
     "salesChangeId": "6b8686e73b8f"

@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 9.73,
+    "price": 9.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-09-14T00:02:19.286Z",
-    "lastChangeId": "90660d0e546e",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -196,9 +196,9 @@
     "objectID": "9435907",
     "updatedAt": "2026-08-17T22:30:56.990Z",
     "lastChangeId": "36dfa88e3739",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
-    "salesChangeId": "8daaba24fe57"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-09-10T00:01:45.489Z",
     "lastChangeId": "bf9a0752ada3",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
-    "salesChangeId": "ea280dfed92a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-08-31T00:21:38.052Z",
     "lastChangeId": "90687191238a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
-    "salesChangeId": "8daaba24fe57"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 375.47,
+    "price": 387.91,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-08-25T22:34:16.944Z",
-    "lastChangeId": "60667100624e",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
     "salesChangeId": "a65bfed6ef13"
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-08-30T00:03:49.295Z",
     "lastChangeId": "03c857dcf5ae",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
-    "salesChangeId": "bf9a0752ada3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 569.58,
+    "price": 603.81,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-09-04T23:53:56.729Z",
-    "lastChangeId": "173640cfffde",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-06-29T23:06:15.659Z",
     "salesChangeId": "ac86d0602110"
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-09-12T23:54:21.811Z",
     "lastChangeId": "31512640d2c2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
-    "salesChangeId": "ff83d8e25399"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-09-15T00:26:19.336Z",
     "lastChangeId": "8daaba24fe57",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-09T22:38:43.159Z",
-    "salesChangeId": "9884c2c3a9bd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 52.29,
+    "price": 55.15,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,8 +940,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-08-11T22:51:49.760Z",
-    "lastChangeId": "f7edd93793b7",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
     "salesChangeId": "a65bfed6ef13"
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-09-12T00:03:47.113Z",
     "lastChangeId": "2458d9c9e48c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
-    "salesChangeId": "bf9a0752ada3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1178,9 +1178,9 @@
     "objectID": "1857649",
     "updatedAt": "2026-09-05T23:44:22.878Z",
     "lastChangeId": "062560b6eb2b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
-    "salesChangeId": "8daaba24fe57"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-09-15T00:26:19.336Z",
     "lastChangeId": "8daaba24fe57",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
-    "salesChangeId": "8daaba24fe57"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1748,7 +1748,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 41.03,
+    "price": 38.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1756,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-09-01T01:10:43.715Z",
-    "lastChangeId": "0342e039aa9a",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
     "salesChangeId": "cdfd3704f82e"
@@ -1951,7 +1951,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Tripods & Monopods > Monopods"
     },
     "type": "Action cam accy",
-    "price": 53.72,
+    "price": 54.41,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3285793_sb.jpg",
     "url": "http://www.bestbuy.com/site/gopole-evo-14-24-floating-extension-pole/3285793.p?id=1219090180132&skuId=3285793&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1959,8 +1959,8 @@
     "popularity": 6514,
     "rating": 2,
     "objectID": "3285793",
-    "updatedAt": "2026-09-01T01:10:43.715Z",
-    "lastChangeId": "0342e039aa9a",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
     "salesChangeId": "2458d9c9e48c"
@@ -2061,7 +2061,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 30.76,
+    "price": 32.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494503_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-7-tablets-magenta/4494503.p?id=1219754442677&skuId=4494503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2069,8 +2069,8 @@
     "popularity": 9862,
     "rating": 2,
     "objectID": "4494503",
-    "updatedAt": "2026-09-10T00:01:45.489Z",
-    "lastChangeId": "bf9a0752ada3",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
     "salesChangeId": "062560b6eb2b"
@@ -2212,9 +2212,9 @@
     "objectID": "7960986",
     "updatedAt": "2026-09-02T23:59:28.095Z",
     "lastChangeId": "3ae293420286",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
-    "salesChangeId": "8daaba24fe57"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
+    "salesChangeId": "4fb747030d73"
   },
   {
     "name": "Insignia™ - Hard Shell Case for Most Portable Hard Drives - Black",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 83,
+    "price": 90.04,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,8 +2268,8 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-09-10T23:56:48.152Z",
-    "lastChangeId": "a65bfed6ef13",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
     "salesChangeId": "d7039b8cefed"
@@ -2291,7 +2291,7 @@
       "lvl3": "Office Electronics > Printers, Ink & Toner > All Printers > Laser Printers"
     },
     "type": "Laser",
-    "price": 363.62,
+    "price": 370.79,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3566034_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-laserjet-pro-m252dw-wireless-color-printer-gray/3566034.p?id=1219588127953&skuId=3566034&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2299,8 +2299,8 @@
     "popularity": 5975,
     "rating": 1,
     "objectID": "3566034",
-    "updatedAt": "2026-09-06T23:43:12.041Z",
-    "lastChangeId": "ea280dfed92a",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
     "salesChangeId": "2c97e1de6be2"
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 103.25,
+    "price": 107.94,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-09-12T23:54:21.811Z",
-    "lastChangeId": "31512640d2c2",
+    "updatedAt": "2026-09-16T00:05:59.569Z",
+    "lastChangeId": "4fb747030d73",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
     "salesChangeId": "60667100624e"

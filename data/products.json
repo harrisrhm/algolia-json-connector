@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-09-14T00:02:19.286Z",
     "lastChangeId": "90660d0e546e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-01T22:59:53.232Z",
-    "salesChangeId": "6f4bc9c37e60"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-09-10T00:01:45.489Z",
     "lastChangeId": "bf9a0752ada3",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
-    "salesChangeId": "4fb747030d73"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -410,7 +410,7 @@
       "lvl2": "Computers & Tablets > E-Readers & Accessories > E-Readers"
     },
     "type": "E reader hardware",
-    "price": 120.24,
+    "price": 127.96,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9439005_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-kindle-paperwhite-black/9439005.p?id=1219703845563&skuId=9439005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -418,8 +418,8 @@
     "popularity": 9838,
     "rating": 6,
     "objectID": "9439005",
-    "updatedAt": "2026-09-05T23:44:22.878Z",
-    "lastChangeId": "062560b6eb2b",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
     "salesChangeId": "cdfd3704f82e"
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-08-30T00:03:49.295Z",
     "lastChangeId": "03c857dcf5ae",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
-    "salesChangeId": "4fb747030d73"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -538,9 +538,9 @@
     "objectID": "6819135",
     "updatedAt": "2026-09-10T23:56:48.152Z",
     "lastChangeId": "a65bfed6ef13",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
-    "salesChangeId": "60667100624e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "Samsung - 65\" Class (64.5\" Diag.) - LED - 2160p - Smart - 3D - 4K Ultra HD TV - Silver",
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 15,
+    "price": 13.81,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-09-09T00:00:07.533Z",
-    "lastChangeId": "0da8bc65df93",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-14T22:30:23.639Z",
     "salesChangeId": "40dc0c1083db"
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-09-01T23:56:54.212Z",
     "lastChangeId": "2c97e1de6be2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-09T00:00:07.533Z",
-    "salesChangeId": "0da8bc65df93"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-09-12T23:54:21.811Z",
     "lastChangeId": "31512640d2c2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
-    "salesChangeId": "4fb747030d73"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-09-15T00:26:19.336Z",
     "lastChangeId": "8daaba24fe57",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
-    "salesChangeId": "4fb747030d73"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-09-12T00:03:47.113Z",
     "lastChangeId": "2458d9c9e48c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
-    "salesChangeId": "4fb747030d73"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-09-12T00:03:47.113Z",
     "lastChangeId": "2458d9c9e48c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-04T23:09:46.217Z",
-    "salesChangeId": "b9752b095bcd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 3583.15,
+    "price": 3649.35,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-09-12T00:03:47.113Z",
-    "lastChangeId": "2458d9c9e48c",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
     "salesChangeId": "bf9a0752ada3"
@@ -1460,7 +1460,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 343.46,
+    "price": 327.03,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1468,8 +1468,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-08-25T22:34:16.944Z",
-    "lastChangeId": "60667100624e",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
     "salesChangeId": "90660d0e546e"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 52.33,
+    "price": 48.62,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-09-08T00:08:23.937Z",
-    "lastChangeId": "cdfd3704f82e",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
     "salesChangeId": "d2b4eeccac6c"
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 67.07,
+    "price": 64.51,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-09-05T23:44:22.878Z",
-    "lastChangeId": "062560b6eb2b",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-06T23:43:12.041Z",
     "salesChangeId": "ea280dfed92a"
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 105.97,
+    "price": 99.11,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-09-15T00:26:19.336Z",
-    "lastChangeId": "8daaba24fe57",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
     "salesChangeId": "4fb747030d73"
@@ -1893,7 +1893,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 43.18,
+    "price": 46.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1901,8 +1901,8 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-09-06T23:43:12.041Z",
-    "lastChangeId": "ea280dfed92a",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
     "salesChangeId": "d4b128983a12"
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 56.28,
+    "price": 60.17,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-09-14T00:02:19.286Z",
-    "lastChangeId": "90660d0e546e",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
     "salesChangeId": "cba96b4524ec"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-08-20T22:34:18.907Z",
     "lastChangeId": "cba96b4524ec",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-04T23:53:56.729Z",
-    "salesChangeId": "173640cfffde"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
+    "salesChangeId": "d9fa2d116bd8"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 12.15,
+    "price": 10.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-09-01T01:10:43.715Z",
-    "lastChangeId": "0342e039aa9a",
+    "updatedAt": "2026-09-17T00:16:47.090Z",
+    "lastChangeId": "d9fa2d116bd8",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-16T22:28:55.306Z",
     "salesChangeId": "b5af78804148"

@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-09-15T00:26:19.336Z",
     "lastChangeId": "8daaba24fe57",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
-    "salesChangeId": "85cf731d4069"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -101,7 +101,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Bookshelf Speakers"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 952.65,
+    "price": 1033.93,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8672031_sb.jpg",
     "url": "http://www.bestbuy.com/site/pioneer-elite-5-1-4-3-way-bookshelf-speakers-pair-black-ash-vinyl/8672031.p?id=1219357510788&skuId=8672031&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -109,8 +109,8 @@
     "popularity": 2065,
     "rating": 1,
     "objectID": "8672031",
-    "updatedAt": "2026-07-26T23:03:56.383Z",
-    "lastChangeId": "831000947d9e",
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
     "salesChangeId": "94ab14bc968f"
@@ -140,9 +140,9 @@
     "objectID": "4818584",
     "updatedAt": "2026-09-16T00:05:59.569Z",
     "lastChangeId": "4fb747030d73",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
-    "salesChangeId": "6bc083a3e101"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 168.48,
+    "price": 173.77,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-08-22T22:29:07.615Z",
-    "lastChangeId": "f70afc45641b",
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-19T00:06:32.088Z",
     "salesChangeId": "38135679430e"
@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-09-12T00:03:47.113Z",
     "lastChangeId": "2458d9c9e48c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-10T00:01:45.489Z",
-    "salesChangeId": "bf9a0752ada3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-08-31T00:21:38.052Z",
     "lastChangeId": "90687191238a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
-    "salesChangeId": "85cf731d4069"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-09-12T23:54:21.811Z",
     "lastChangeId": "31512640d2c2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
-    "salesChangeId": "d9fa2d116bd8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-09-16T00:05:59.569Z",
     "lastChangeId": "4fb747030d73",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
-    "salesChangeId": "85cf731d4069"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 39.97,
+    "price": 42.17,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,8 +1176,8 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-09-05T23:44:22.878Z",
-    "lastChangeId": "062560b6eb2b",
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
     "salesChangeId": "4fb747030d73"
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 77.52,
+    "price": 83.75,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-09-08T00:08:23.937Z",
-    "lastChangeId": "cdfd3704f82e",
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
     "salesChangeId": "2c97e1de6be2"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 51.05,
+    "price": 51.06,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-09-19T00:06:32.088Z",
-    "lastChangeId": "38135679430e",
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
     "salesChangeId": "d2b4eeccac6c"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-09-17T00:16:47.090Z",
     "lastChangeId": "d9fa2d116bd8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
-    "salesChangeId": "85cf731d4069"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 105.27,
+    "price": 109.81,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,11 +1671,11 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-09-18T00:02:09.663Z",
-    "lastChangeId": "c860fa1535ec",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-19T00:06:32.088Z",
-    "salesChangeId": "38135679430e"
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1748,7 +1748,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 34.47,
+    "price": 31.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1756,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-09-19T00:06:32.088Z",
-    "lastChangeId": "38135679430e",
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
     "salesChangeId": "cdfd3704f82e"
@@ -1903,9 +1903,9 @@
     "objectID": "4494104",
     "updatedAt": "2026-09-17T00:16:47.090Z",
     "lastChangeId": "d9fa2d116bd8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-05-31T23:09:35.739Z",
-    "salesChangeId": "d4b128983a12"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Dynex™ - CAT5/5e RJ-45 In-Line Coupler",
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-09-16T00:05:59.569Z",
     "lastChangeId": "4fb747030d73",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
-    "salesChangeId": "2458d9c9e48c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
+    "salesChangeId": "ee433f1e2765"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 12.49,
+    "price": 11.98,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-09-20T00:02:05.749Z",
-    "lastChangeId": "85cf731d4069",
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
     "salesChangeId": "90660d0e546e"
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 12.66,
+    "price": 12.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-09-15T00:26:19.336Z",
-    "lastChangeId": "8daaba24fe57",
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 6.87,
+    "price": 6.66,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-09-02T23:59:28.095Z",
-    "lastChangeId": "3ae293420286",
+    "updatedAt": "2026-09-21T00:05:06.622Z",
+    "lastChangeId": "ee433f1e2765",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
     "salesChangeId": "4fb747030d73"

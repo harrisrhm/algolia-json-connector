@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 9.59,
+    "price": 9.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-09-16T00:05:59.569Z",
-    "lastChangeId": "4fb747030d73",
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-22T00:41:28.481Z",
     "salesChangeId": "815742d062dc"
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-09-15T00:26:19.336Z",
     "lastChangeId": "8daaba24fe57",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
-    "salesChangeId": "90660d0e546e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 20.37,
+    "price": 20.3,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,11 +799,11 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-09-15T00:26:19.336Z",
-    "lastChangeId": "8daaba24fe57",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
-    "salesChangeId": "d2b4eeccac6c"
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 33.94,
+    "price": 34.37,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,11 +884,11 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-09-12T23:54:21.811Z",
-    "lastChangeId": "31512640d2c2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-22T00:41:28.481Z",
-    "salesChangeId": "815742d062dc"
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -1002,9 +1002,9 @@
     "objectID": "3522002",
     "updatedAt": "2026-09-18T00:02:09.663Z",
     "lastChangeId": "c860fa1535ec",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-22T00:41:28.481Z",
-    "salesChangeId": "815742d062dc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "Mr. Coffee - 12-Cup Coffeemaker - Black/Red",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 5.66,
+    "price": 6.02,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-09-20T00:02:05.749Z",
-    "lastChangeId": "85cf731d4069",
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
     "salesChangeId": "8daaba24fe57"
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 76.61,
+    "price": 75.71,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-09-22T00:41:28.481Z",
-    "lastChangeId": "815742d062dc",
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
     "salesChangeId": "2c97e1de6be2"
@@ -1236,9 +1236,9 @@
     "objectID": "4475000",
     "updatedAt": "2026-08-30T00:03:49.295Z",
     "lastChangeId": "03c857dcf5ae",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-19T00:06:32.088Z",
-    "salesChangeId": "38135679430e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-09-12T00:03:47.113Z",
     "lastChangeId": "2458d9c9e48c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-22T00:41:28.481Z",
-    "salesChangeId": "815742d062dc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1441,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-09-10T23:56:48.152Z",
     "lastChangeId": "a65bfed6ef13",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-22T00:41:28.481Z",
-    "salesChangeId": "815742d062dc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1460,7 +1460,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 327.19,
+    "price": 301.1,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1468,8 +1468,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-09-19T00:06:32.088Z",
-    "lastChangeId": "38135679430e",
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
     "salesChangeId": "85cf731d4069"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 51.06,
+    "price": 54.79,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-09-21T00:05:06.622Z",
-    "lastChangeId": "ee433f1e2765",
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
     "salesChangeId": "d2b4eeccac6c"
@@ -1557,9 +1557,9 @@
     "objectID": "7441404",
     "updatedAt": "2026-09-22T00:41:28.481Z",
     "lastChangeId": "815742d062dc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-22T00:41:28.481Z",
-    "salesChangeId": "815742d062dc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "NVIDIA - SHIELD Wireless Controller - Black",
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-09-09T00:00:07.533Z",
     "lastChangeId": "0da8bc65df93",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
-    "salesChangeId": "0342e039aa9a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 145.14,
+    "price": 144.49,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-09-09T00:00:07.533Z",
-    "lastChangeId": "0da8bc65df93",
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
     "salesChangeId": "222753db43b1"
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 65.75,
+    "price": 68.42,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-09-09T00:00:07.533Z",
-    "lastChangeId": "0da8bc65df93",
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-18T22:30:56.931Z",
     "salesChangeId": "4f25f4727574"
@@ -2568,9 +2568,9 @@
     "objectID": "3839052",
     "updatedAt": "2026-09-05T23:44:22.878Z",
     "lastChangeId": "062560b6eb2b",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-22T00:41:28.481Z",
-    "salesChangeId": "815742d062dc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
+    "salesChangeId": "4e49a3b936e8"
   },
   {
     "name": "LG - 7.4 Cu. Ft. 8-Cycle Electric Dryer - White",
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 26.03,
+    "price": 27.31,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-09-15T00:26:19.336Z",
-    "lastChangeId": "8daaba24fe57",
+    "updatedAt": "2026-09-23T00:14:20.127Z",
+    "lastChangeId": "4e49a3b936e8",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
     "salesChangeId": "6b8686e73b8f"

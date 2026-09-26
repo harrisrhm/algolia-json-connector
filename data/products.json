@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-09-24T00:21:52.522Z",
     "lastChangeId": "db4db9e74963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-02T23:59:28.095Z",
-    "salesChangeId": "3ae293420286"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
+    "salesChangeId": "4f5f7291b81c"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-09-10T00:01:45.489Z",
     "lastChangeId": "bf9a0752ada3",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
-    "salesChangeId": "d9fa2d116bd8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
+    "salesChangeId": "4f5f7291b81c"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 53.81,
+    "price": 48.53,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-09-19T00:06:32.088Z",
-    "lastChangeId": "38135679430e",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
     "salesChangeId": "8daaba24fe57"
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 17.22,
+    "price": 18.34,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-09-01T23:56:54.212Z",
-    "lastChangeId": "2c97e1de6be2",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-18T00:02:09.663Z",
     "salesChangeId": "c860fa1535ec"
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 34.37,
+    "price": 35.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-09-23T00:14:20.127Z",
-    "lastChangeId": "4e49a3b936e8",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-24T00:21:52.522Z",
     "salesChangeId": "db4db9e74963"
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 9.23,
+    "price": 8.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-09-19T00:06:32.088Z",
-    "lastChangeId": "38135679430e",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 21.93,
+    "price": 22.54,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-09-10T23:56:48.152Z",
-    "lastChangeId": "a65bfed6ef13",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
     "salesChangeId": "4e49a3b936e8"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-09-17T00:16:47.090Z",
     "lastChangeId": "d9fa2d116bd8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
-    "salesChangeId": "36eb05c41bab"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
+    "salesChangeId": "4f5f7291b81c"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 109.81,
+    "price": 111.36,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-09-21T00:05:06.622Z",
-    "lastChangeId": "ee433f1e2765",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
     "salesChangeId": "ee433f1e2765"
@@ -1700,9 +1700,9 @@
     "objectID": "7841289",
     "updatedAt": "2026-09-22T00:41:28.481Z",
     "lastChangeId": "815742d062dc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
-    "salesChangeId": "6bc083a3e101"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
+    "salesChangeId": "4f5f7291b81c"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-09-01T01:10:43.715Z",
     "lastChangeId": "0342e039aa9a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
-    "salesChangeId": "36eb05c41bab"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
+    "salesChangeId": "4f5f7291b81c"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-09-09T00:00:07.533Z",
     "lastChangeId": "0da8bc65df93",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-24T00:21:52.522Z",
-    "salesChangeId": "db4db9e74963"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
+    "salesChangeId": "4f5f7291b81c"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1903,9 +1903,9 @@
     "objectID": "4494104",
     "updatedAt": "2026-09-24T00:21:52.522Z",
     "lastChangeId": "db4db9e74963",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-24T00:21:52.522Z",
-    "salesChangeId": "db4db9e74963"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
+    "salesChangeId": "4f5f7291b81c"
   },
   {
     "name": "Dynex™ - CAT5/5e RJ-45 In-Line Coupler",
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 18.75,
+    "price": 17.09,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-09-01T23:56:54.212Z",
-    "lastChangeId": "2c97e1de6be2",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
     "salesChangeId": "7fd6b9ed311b"
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 74.53,
+    "price": 76.3,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-09-19T00:06:32.088Z",
-    "lastChangeId": "38135679430e",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
     "salesChangeId": "36eb05c41bab"
@@ -2436,7 +2436,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 381.9,
+    "price": 414.17,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2444,8 +2444,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-09-05T23:44:22.878Z",
-    "lastChangeId": "062560b6eb2b",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": true,
     "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
     "salesChangeId": "36eb05c41bab"
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 209.44,
+    "price": 204.41,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-09-20T00:02:05.749Z",
-    "lastChangeId": "85cf731d4069",
+    "updatedAt": "2026-09-26T00:29:02.982Z",
+    "lastChangeId": "4f5f7291b81c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-02T23:59:28.095Z",
     "salesChangeId": "3ae293420286"
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-09-20T00:02:05.749Z",
     "lastChangeId": "85cf731d4069",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
-    "salesChangeId": "36eb05c41bab"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
+    "salesChangeId": "4f5f7291b81c"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",

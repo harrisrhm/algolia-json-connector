@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-09-15T00:26:19.336Z",
     "lastChangeId": "8daaba24fe57",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-21T00:05:06.622Z",
-    "salesChangeId": "ee433f1e2765"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
+    "salesChangeId": "586263d58546"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -140,9 +140,9 @@
     "objectID": "4818584",
     "updatedAt": "2026-09-23T00:14:20.127Z",
     "lastChangeId": "4e49a3b936e8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-22T00:41:28.481Z",
-    "salesChangeId": "815742d062dc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
+    "salesChangeId": "586263d58546"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 173.77,
+    "price": 161.16,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-09-21T00:05:06.622Z",
-    "lastChangeId": "ee433f1e2765",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-19T00:06:32.088Z",
     "salesChangeId": "38135679430e"
@@ -273,7 +273,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Cables"
     },
     "type": "Misc camera acces",
-    "price": 31.81,
+    "price": 33.16,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6405117_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-6-mini-micro-hdmi-cable-black/6405117.p?id=1219215993751&skuId=6405117&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -281,8 +281,8 @@
     "popularity": 5560,
     "rating": 5,
     "objectID": "6405117",
-    "updatedAt": "2026-09-12T23:54:21.811Z",
-    "lastChangeId": "31512640d2c2",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-28T06:03:18.289Z",
     "salesChangeId": "a77a8feee440"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-09-10T00:01:45.489Z",
     "lastChangeId": "bf9a0752ada3",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
-    "salesChangeId": "4f5f7291b81c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
+    "salesChangeId": "586263d58546"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-09-23T00:14:20.127Z",
     "lastChangeId": "4e49a3b936e8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-24T00:21:52.522Z",
-    "salesChangeId": "db4db9e74963"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
+    "salesChangeId": "586263d58546"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-09-19T00:06:32.088Z",
     "lastChangeId": "38135679430e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
-    "salesChangeId": "d9fa2d116bd8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
+    "salesChangeId": "586263d58546"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 46.2,
+    "price": 42.95,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-09-12T23:54:21.811Z",
-    "lastChangeId": "31512640d2c2",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
     "salesChangeId": "dc0a1dd3f317"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 12.88,
+    "price": 12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-08-31T00:21:38.052Z",
-    "lastChangeId": "90687191238a",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
     "salesChangeId": "85cf731d4069"
@@ -1700,9 +1700,9 @@
     "objectID": "7841289",
     "updatedAt": "2026-09-22T00:41:28.481Z",
     "lastChangeId": "815742d062dc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
-    "salesChangeId": "4f5f7291b81c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
+    "salesChangeId": "586263d58546"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 160.59,
+    "price": 166.87,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-09-04T23:53:56.729Z",
-    "lastChangeId": "173640cfffde",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-09-09T00:00:07.533Z",
     "lastChangeId": "0da8bc65df93",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
-    "salesChangeId": "4f5f7291b81c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
+    "salesChangeId": "586263d58546"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 12.56,
+    "price": 11.32,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-09-21T00:05:06.622Z",
-    "lastChangeId": "ee433f1e2765",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
     "salesChangeId": "6bc083a3e101"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-09-26T00:29:02.982Z",
     "lastChangeId": "4f5f7291b81c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
-    "salesChangeId": "36eb05c41bab"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
+    "salesChangeId": "586263d58546"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 48.45,
+    "price": 45.17,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-09-22T00:41:28.481Z",
-    "lastChangeId": "815742d062dc",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 204.41,
+    "price": 217.65,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-09-26T00:29:02.982Z",
-    "lastChangeId": "4f5f7291b81c",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-02T23:59:28.095Z",
     "salesChangeId": "3ae293420286"
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 10.94,
+    "price": 10.52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-09-17T00:16:47.090Z",
-    "lastChangeId": "d9fa2d116bd8",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-19T00:06:32.088Z",
     "salesChangeId": "38135679430e"
@@ -2875,7 +2875,7 @@
       "lvl1": "Office Electronics > Electronic Dictionaries"
     },
     "type": "Translators",
-    "price": 74.03,
+    "price": 78.14,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8264051_rb.jpg",
     "url": "http://www.bestbuy.com/site/franklin-electronic-pub-merriam-websters-speaking-spanish-english-dictionary/8264051.p?id=1218866964512&skuId=8264051&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2883,8 +2883,8 @@
     "popularity": 6879,
     "rating": 6,
     "objectID": "8264051",
-    "updatedAt": "2026-09-19T00:06:32.088Z",
-    "lastChangeId": "38135679430e",
+    "updatedAt": "2026-09-27T00:24:18.110Z",
+    "lastChangeId": "586263d58546",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
     "salesChangeId": "31512640d2c2"

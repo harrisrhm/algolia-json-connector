@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 161.16,
+    "price": 162.29,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-09-27T00:24:18.110Z",
-    "lastChangeId": "586263d58546",
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-19T00:06:32.088Z",
     "salesChangeId": "38135679430e"
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 18.37,
+    "price": 18.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-09-24T00:21:52.522Z",
-    "lastChangeId": "db4db9e74963",
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-28T00:29:01.106Z",
     "salesChangeId": "ebf960de11da"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-09-17T00:16:47.090Z",
     "lastChangeId": "d9fa2d116bd8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
-    "salesChangeId": "f253cc95f803"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
+    "salesChangeId": "7ac8ce87c252"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 57.53,
+    "price": 54.32,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-09-24T00:21:52.522Z",
-    "lastChangeId": "db4db9e74963",
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
     "salesChangeId": "85cf731d4069"
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 40.57,
+    "price": 38.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-08-28T06:03:18.289Z",
-    "lastChangeId": "a77a8feee440",
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
     "salesChangeId": "31512640d2c2"
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-09-17T00:16:47.090Z",
     "lastChangeId": "d9fa2d116bd8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
-    "salesChangeId": "f253cc95f803"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
+    "salesChangeId": "7ac8ce87c252"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 23.23,
+    "price": 24.37,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-08-27T03:02:35.070Z",
-    "lastChangeId": "6bc083a3e101",
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
     "salesChangeId": "03c857dcf5ae"
@@ -1124,9 +1124,9 @@
     "objectID": "1606254",
     "updatedAt": "2026-09-14T00:02:19.286Z",
     "lastChangeId": "90660d0e546e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-04T23:53:56.729Z",
-    "salesChangeId": "173640cfffde"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
+    "salesChangeId": "7ac8ce87c252"
   },
   {
     "name": "Smart Choice - Touch-Up Paint - White",
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.93,
+    "price": 10.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-09-18T00:02:09.663Z",
-    "lastChangeId": "c860fa1535ec",
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-23T22:28:58.127Z",
     "salesChangeId": "94ab14bc968f"
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 20.16,
+    "price": 22.05,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-09-30T01:11:29.130Z",
-    "lastChangeId": "ade6f89ac939",
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
     "salesChangeId": "062560b6eb2b"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-09-17T00:16:47.090Z",
     "lastChangeId": "d9fa2d116bd8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
-    "salesChangeId": "f253cc95f803"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
+    "salesChangeId": "7ac8ce87c252"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1835,7 +1835,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 34.42,
+    "price": 35.82,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1843,8 +1843,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-09-30T01:11:29.130Z",
-    "lastChangeId": "ade6f89ac939",
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
     "salesChangeId": "4f5f7291b81c"
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-09-16T00:05:59.569Z",
     "lastChangeId": "4fb747030d73",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-22T00:41:28.481Z",
-    "salesChangeId": "815742d062dc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
+    "salesChangeId": "7ac8ce87c252"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2042,9 +2042,9 @@
     "objectID": "6263962",
     "updatedAt": "2026-09-28T00:29:01.106Z",
     "lastChangeId": "ebf960de11da",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
-    "salesChangeId": "f253cc95f803"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
+    "salesChangeId": "7ac8ce87c252"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2156,9 +2156,9 @@
     "objectID": "7640131",
     "updatedAt": "2026-09-30T01:11:29.130Z",
     "lastChangeId": "ade6f89ac939",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-31T23:09:41.235Z",
-    "salesChangeId": "ff83d8e25399"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
+    "salesChangeId": "7ac8ce87c252"
   },
   {
     "name": "Canon - 251 Ink Cartridge - Magenta",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 44.66,
+    "price": 44.2,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-10-01T01:11:09.762Z",
-    "lastChangeId": "f253cc95f803",
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 217.65,
+    "price": 217.51,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,11 +2649,11 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-09-27T00:24:18.110Z",
-    "lastChangeId": "586263d58546",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-02T23:59:28.095Z",
-    "salesChangeId": "3ae293420286"
+    "updatedAt": "2026-10-02T01:30:40.758Z",
+    "lastChangeId": "7ac8ce87c252",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
+    "salesChangeId": "7ac8ce87c252"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",

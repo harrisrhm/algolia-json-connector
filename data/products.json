@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-10-02T01:30:40.758Z",
     "lastChangeId": "7ac8ce87c252",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-19T00:06:32.088Z",
-    "salesChangeId": "38135679430e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.73,
+    "price": 9.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-09-12T00:03:47.113Z",
-    "lastChangeId": "2458d9c9e48c",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
     "salesChangeId": "36eb05c41bab"
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-09-30T01:11:29.130Z",
     "lastChangeId": "ade6f89ac939",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
-    "salesChangeId": "f253cc95f803"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-08-31T00:21:38.052Z",
     "lastChangeId": "90687191238a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-29T01:43:51.961Z",
-    "salesChangeId": "8faca2840f8f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-09-14T00:02:19.286Z",
     "lastChangeId": "90660d0e546e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
-    "salesChangeId": "2458d9c9e48c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -528,7 +528,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Computer Keyboards > Wired & USB Keyboards"
     },
     "type": "Gaming controllers",
-    "price": 123.12,
+    "price": 125.61,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/6819135_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-g710-mechanical-gaming-keyboard-black-white/6819135.p?id=1218808243010&skuId=6819135&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -536,8 +536,8 @@
     "popularity": 3958,
     "rating": 2,
     "objectID": "6819135",
-    "updatedAt": "2026-09-28T00:29:01.106Z",
-    "lastChangeId": "ebf960de11da",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-18T00:02:09.663Z",
     "salesChangeId": "c860fa1535ec"
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-09-17T00:16:47.090Z",
     "lastChangeId": "d9fa2d116bd8",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
-    "salesChangeId": "7ac8ce87c252"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 46.41,
+    "price": 46.79,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,8 +1033,8 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-10-01T01:11:09.762Z",
-    "lastChangeId": "f253cc95f803",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-29T23:04:07.233Z",
     "salesChangeId": "dc0a1dd3f317"
@@ -1124,9 +1124,9 @@
     "objectID": "1606254",
     "updatedAt": "2026-09-14T00:02:19.286Z",
     "lastChangeId": "90660d0e546e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
-    "salesChangeId": "7ac8ce87c252"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Smart Choice - Touch-Up Paint - White",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 46.06,
+    "price": 45.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,8 +1176,8 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-09-25T00:24:45.042Z",
-    "lastChangeId": "36eb05c41bab",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
     "salesChangeId": "f253cc95f803"
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 3649.35,
+    "price": 3828.8,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-09-17T00:16:47.090Z",
-    "lastChangeId": "d9fa2d116bd8",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
     "salesChangeId": "85cf731d4069"
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 22.54,
+    "price": 24.25,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-09-26T00:29:02.982Z",
-    "lastChangeId": "4f5f7291b81c",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
     "salesChangeId": "4e49a3b936e8"
@@ -1460,7 +1460,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 283.76,
+    "price": 300.23,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1468,8 +1468,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-09-24T00:21:52.522Z",
-    "lastChangeId": "db4db9e74963",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
     "salesChangeId": "85cf731d4069"
@@ -1487,7 +1487,7 @@
       "lvl1": "Computers & Tablets > iPad & Tablet Accessories"
     },
     "type": "Ipad cases",
-    "price": 54.79,
+    "price": 54,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8529018_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-snap-on-case-for-apple-ipad-mini-ipad-mini-2-and-ipad-mini-3-multi/8529018.p?id=1219343154291&skuId=8529018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1495,8 +1495,8 @@
     "popularity": 4744,
     "rating": 6,
     "objectID": "8529018",
-    "updatedAt": "2026-09-23T00:14:20.127Z",
-    "lastChangeId": "4e49a3b936e8",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-03T23:54:48.793Z",
     "salesChangeId": "d2b4eeccac6c"
@@ -1777,7 +1777,7 @@
       "lvl2": "TV & Home Theater > A/V Cables & Connectors > Composite Video Cables"
     },
     "type": "Video",
-    "price": 25.47,
+    "price": 22.98,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6608007_sb.jpg",
     "url": "http://www.bestbuy.com/site/rocketfish-12-rg6-in-wall-indoor-outdoor-coaxial-a-v-cable-black/6608007.p?id=1218761660907&skuId=6608007&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1785,8 +1785,8 @@
     "popularity": 1542,
     "rating": 3,
     "objectID": "6608007",
-    "updatedAt": "2026-09-12T00:03:47.113Z",
-    "lastChangeId": "2458d9c9e48c",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-09-16T00:05:59.569Z",
     "lastChangeId": "4fb747030d73",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
-    "salesChangeId": "7ac8ce87c252"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2156,9 +2156,9 @@
     "objectID": "7640131",
     "updatedAt": "2026-09-30T01:11:29.130Z",
     "lastChangeId": "ade6f89ac939",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
-    "salesChangeId": "7ac8ce87c252"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Canon - 251 Ink Cartridge - Magenta",
@@ -2229,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 12.52,
+    "price": 11.34,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,8 +2237,8 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-10-01T01:11:09.762Z",
-    "lastChangeId": "f253cc95f803",
+    "updatedAt": "2026-10-03T01:01:48.356Z",
+    "lastChangeId": "087110c22813",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-02T23:00:41.318Z",
     "salesChangeId": "cfc8af5a848c"
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-10-02T01:30:40.758Z",
     "lastChangeId": "7ac8ce87c252",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
-    "salesChangeId": "7ac8ce87c252"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-09-29T01:43:51.961Z",
     "lastChangeId": "8faca2840f8f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
-    "salesChangeId": "31512640d2c2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
+    "salesChangeId": "087110c22813"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

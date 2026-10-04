@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 162.29,
+    "price": 151.04,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,11 +165,11 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-10-02T01:30:40.758Z",
-    "lastChangeId": "7ac8ce87c252",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
-    "salesChangeId": "087110c22813"
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
+    "salesChangeId": "ee34d895686f"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-08-31T00:21:38.052Z",
     "lastChangeId": "90687191238a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
-    "salesChangeId": "087110c22813"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
+    "salesChangeId": "ee34d895686f"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -588,7 +588,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 46.18,
+    "price": 49.4,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/1775023_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-arc-touch-bluetooth-wireless-mouse-gray/1775023.p?id=1219509536232&skuId=1775023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -596,8 +596,8 @@
     "popularity": 3398,
     "rating": 5,
     "objectID": "1775023",
-    "updatedAt": "2026-09-18T00:02:09.663Z",
-    "lastChangeId": "c860fa1535ec",
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
     "salesChangeId": "d7039b8cefed"
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 27.21,
+    "price": 28.99,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-09-19T00:06:32.088Z",
-    "lastChangeId": "38135679430e",
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-19T00:06:32.088Z",
     "salesChangeId": "38135679430e"
@@ -743,9 +743,9 @@
     "objectID": "5559535",
     "updatedAt": "2026-09-17T00:16:47.090Z",
     "lastChangeId": "d9fa2d116bd8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
-    "salesChangeId": "087110c22813"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
+    "salesChangeId": "ee34d895686f"
   },
   {
     "name": "Canon - PowerShot SX710 HS 20.3-Megapixel Digital Camera - Red",
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 35.59,
+    "price": 36.02,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-09-30T01:11:29.130Z",
-    "lastChangeId": "ade6f89ac939",
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-24T00:21:52.522Z",
     "salesChangeId": "db4db9e74963"
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-09-22T00:41:28.481Z",
     "lastChangeId": "815742d062dc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
-    "salesChangeId": "d9fa2d116bd8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
+    "salesChangeId": "ee34d895686f"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 5.96,
+    "price": 5.38,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-09-29T01:43:51.961Z",
-    "lastChangeId": "8faca2840f8f",
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
     "salesChangeId": "8daaba24fe57"
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 45.56,
+    "price": 47.66,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,8 +1176,8 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-10-03T01:01:48.356Z",
-    "lastChangeId": "087110c22813",
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
     "salesChangeId": "f253cc95f803"
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 3828.8,
+    "price": 3770.65,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-10-03T01:01:48.356Z",
-    "lastChangeId": "087110c22813",
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
     "salesChangeId": "85cf731d4069"
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 64.51,
+    "price": 66.4,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-09-17T00:16:47.090Z",
-    "lastChangeId": "d9fa2d116bd8",
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
     "salesChangeId": "7ac8ce87c252"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 55.89,
+    "price": 58.33,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-10-01T01:11:09.762Z",
-    "lastChangeId": "f253cc95f803",
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
     "salesChangeId": "586263d58546"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-09-25T00:24:45.042Z",
     "lastChangeId": "36eb05c41bab",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
-    "salesChangeId": "062560b6eb2b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
+    "salesChangeId": "ee34d895686f"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2129,9 +2129,9 @@
     "objectID": "1197018",
     "updatedAt": "2026-09-20T00:02:05.749Z",
     "lastChangeId": "85cf731d4069",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-15T22:29:05.696Z",
-    "salesChangeId": "e320d5f3c6f8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
+    "salesChangeId": "ee34d895686f"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 90.04,
+    "price": 92.39,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,8 +2268,8 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-09-16T00:05:59.569Z",
-    "lastChangeId": "4fb747030d73",
+    "updatedAt": "2026-10-04T00:27:28.477Z",
+    "lastChangeId": "ee34d895686f",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
     "salesChangeId": "d7039b8cefed"
@@ -2330,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-09-30T01:11:29.130Z",
     "lastChangeId": "ade6f89ac939",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-19T22:31:33.564Z",
-    "salesChangeId": "78791a0140f0"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
+    "salesChangeId": "ee34d895686f"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-09-29T01:43:51.961Z",
     "lastChangeId": "8faca2840f8f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
-    "salesChangeId": "087110c22813"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
+    "salesChangeId": "ee34d895686f"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 82.82,
+    "price": 78.33,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-09-30T01:11:29.130Z",
-    "lastChangeId": "ade6f89ac939",
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
     "salesChangeId": "087110c22813"
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-09-14T00:02:19.286Z",
     "lastChangeId": "90660d0e546e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
-    "salesChangeId": "087110c22813"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
+    "salesChangeId": "379e2cdae1b6"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-10-01T01:11:09.762Z",
     "lastChangeId": "f253cc95f803",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-28T00:29:01.106Z",
-    "salesChangeId": "ebf960de11da"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
+    "salesChangeId": "379e2cdae1b6"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 24.37,
+    "price": 22.42,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-10-02T01:30:40.758Z",
-    "lastChangeId": "7ac8ce87c252",
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
     "salesChangeId": "03c857dcf5ae"
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 19.24,
+    "price": 19.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-09-28T00:29:01.106Z",
-    "lastChangeId": "ebf960de11da",
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-18T00:02:09.663Z",
     "salesChangeId": "c860fa1535ec"
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-09-22T00:41:28.481Z",
     "lastChangeId": "815742d062dc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
-    "salesChangeId": "ee34d895686f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
+    "salesChangeId": "379e2cdae1b6"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 241.61,
+    "price": 222.36,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-09-30T01:11:29.130Z",
-    "lastChangeId": "ade6f89ac939",
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 12,
+    "price": 13.08,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,11 +1093,11 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-09-27T00:24:18.110Z",
-    "lastChangeId": "586263d58546",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
-    "salesChangeId": "85cf731d4069"
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
+    "salesChangeId": "379e2cdae1b6"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 66.4,
+    "price": 61.85,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,11 +1586,11 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-10-04T00:27:28.477Z",
-    "lastChangeId": "ee34d895686f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
-    "salesChangeId": "7ac8ce87c252"
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
+    "salesChangeId": "379e2cdae1b6"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 166.87,
+    "price": 178.69,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-09-27T00:24:18.110Z",
-    "lastChangeId": "586263d58546",
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 144.49,
+    "price": 131.18,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-09-09T00:00:07.533Z",
-    "lastChangeId": "0da8bc65df93",
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 28.05,
+    "price": 29.5,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-09-15T00:26:19.336Z",
-    "lastChangeId": "8daaba24fe57",
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-13T22:51:39.164Z",
     "salesChangeId": "bdb9ea65ebf3"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-09-25T00:24:45.042Z",
     "lastChangeId": "36eb05c41bab",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
-    "salesChangeId": "ee34d895686f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
+    "salesChangeId": "379e2cdae1b6"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2330,9 +2330,9 @@
     "objectID": "6292548",
     "updatedAt": "2026-09-30T01:11:29.130Z",
     "lastChangeId": "ade6f89ac939",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
-    "salesChangeId": "ee34d895686f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
+    "salesChangeId": "379e2cdae1b6"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi 128GB - Silver",
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 99.48,
+    "price": 99.69,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-09-30T01:11:29.130Z",
-    "lastChangeId": "ade6f89ac939",
+    "updatedAt": "2026-10-05T00:40:49.885Z",
+    "lastChangeId": "379e2cdae1b6",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
     "salesChangeId": "60667100624e"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-09-27T00:24:18.110Z",
     "lastChangeId": "586263d58546",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
-    "salesChangeId": "f253cc95f803"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
+    "salesChangeId": "379e2cdae1b6"
   }
 ]

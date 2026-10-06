@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 405.69,
+    "price": 409.79,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-09-25T00:24:45.042Z",
-    "lastChangeId": "36eb05c41bab",
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
     "salesChangeId": "2458d9c9e48c"
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 151.04,
+    "price": 137.13,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-10-04T00:27:28.477Z",
-    "lastChangeId": "ee34d895686f",
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
     "salesChangeId": "ee34d895686f"
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 320.36,
+    "price": 296,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-09-18T00:02:09.663Z",
-    "lastChangeId": "c860fa1535ec",
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-10-01T01:11:09.762Z",
     "lastChangeId": "f253cc95f803",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
-    "salesChangeId": "379e2cdae1b6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-10-05T00:40:49.885Z",
     "lastChangeId": "379e2cdae1b6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
-    "salesChangeId": "379e2cdae1b6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 47.66,
+    "price": 52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,11 +1176,11 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-10-04T00:27:28.477Z",
-    "lastChangeId": "ee34d895686f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
-    "salesChangeId": "f253cc95f803"
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 71.17,
+    "price": 75.59,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-09-15T00:26:19.336Z",
-    "lastChangeId": "8daaba24fe57",
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
     "salesChangeId": "f253cc95f803"
@@ -1412,9 +1412,9 @@
     "objectID": "1257958",
     "updatedAt": "2026-10-02T01:30:40.758Z",
     "lastChangeId": "7ac8ce87c252",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-05T23:44:22.878Z",
-    "salesChangeId": "062560b6eb2b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-10-05T00:40:49.885Z",
     "lastChangeId": "379e2cdae1b6",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
-    "salesChangeId": "379e2cdae1b6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-10-01T01:11:09.762Z",
     "lastChangeId": "f253cc95f803",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-29T01:43:51.961Z",
-    "salesChangeId": "8faca2840f8f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1864,7 +1864,7 @@
       "lvl2": "Computers & Tablets > Tablets > All Tablets"
     },
     "type": "Samsung wifi",
-    "price": 131.18,
+    "price": 135.59,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/5420045_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-tab-4-7-8gb-black/5420045.p?id=1219127073673&skuId=5420045&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1872,8 +1872,8 @@
     "popularity": 1031,
     "rating": 1,
     "objectID": "5420045",
-    "updatedAt": "2026-10-05T00:40:49.885Z",
-    "lastChangeId": "379e2cdae1b6",
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 67.13,
+    "price": 67.59,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,11 +2098,11 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-09-28T00:29:01.106Z",
-    "lastChangeId": "ebf960de11da",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-20T22:34:18.907Z",
-    "salesChangeId": "cba96b4524ec"
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2129,9 +2129,9 @@
     "objectID": "1197018",
     "updatedAt": "2026-09-20T00:02:05.749Z",
     "lastChangeId": "85cf731d4069",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
-    "salesChangeId": "ee34d895686f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (AT&T)",
@@ -2175,7 +2175,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 24.74,
+    "price": 25.86,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2183,8 +2183,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-08-20T22:34:18.907Z",
-    "lastChangeId": "cba96b4524ec",
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-18T00:02:09.663Z",
     "salesChangeId": "c860fa1535ec"
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 880.06,
+    "price": 904.82,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-09-22T00:41:28.481Z",
-    "lastChangeId": "815742d062dc",
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-02T23:59:28.095Z",
     "salesChangeId": "3ae293420286"
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 29.29,
+    "price": 28.69,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-10-01T01:11:09.762Z",
-    "lastChangeId": "f253cc95f803",
+    "updatedAt": "2026-10-06T02:09:33.214Z",
+    "lastChangeId": "eb892f748526",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
     "salesChangeId": "6b8686e73b8f"
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-09-29T01:43:51.961Z",
     "lastChangeId": "8faca2840f8f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
-    "salesChangeId": "ee34d895686f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-09-27T00:24:18.110Z",
     "lastChangeId": "586263d58546",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
-    "salesChangeId": "379e2cdae1b6"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
+    "salesChangeId": "eb892f748526"
   }
 ]

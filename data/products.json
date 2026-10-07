@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 165.7,
+    "price": 158.83,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-09-28T00:29:01.106Z",
-    "lastChangeId": "ebf960de11da",
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-28T00:29:01.106Z",
     "salesChangeId": "ebf960de11da"
@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 9.18,
+    "price": 8.67,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-10-03T01:01:48.356Z",
-    "lastChangeId": "087110c22813",
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
     "salesChangeId": "36eb05c41bab"
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 18.05,
+    "price": 19.3,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-10-02T01:30:40.758Z",
-    "lastChangeId": "7ac8ce87c252",
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-28T00:29:01.106Z",
     "salesChangeId": "ebf960de11da"
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-09-26T00:29:02.982Z",
     "lastChangeId": "4f5f7291b81c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
-    "salesChangeId": "8daaba24fe57"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -774,9 +774,9 @@
     "objectID": "3651143",
     "updatedAt": "2026-10-06T02:09:33.214Z",
     "lastChangeId": "eb892f748526",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
-    "salesChangeId": "ade6f89ac939"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 52,
+    "price": 49.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,11 +1176,11 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-10-06T02:09:33.214Z",
-    "lastChangeId": "eb892f748526",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
-    "salesChangeId": "eb892f748526"
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 75.71,
+    "price": 80.24,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-09-23T00:14:20.127Z",
-    "lastChangeId": "4e49a3b936e8",
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
     "salesChangeId": "2c97e1de6be2"
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 75.59,
+    "price": 74.96,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-10-06T02:09:33.214Z",
-    "lastChangeId": "eb892f748526",
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
     "salesChangeId": "f253cc95f803"
@@ -1412,9 +1412,9 @@
     "objectID": "1257958",
     "updatedAt": "2026-10-02T01:30:40.758Z",
     "lastChangeId": "7ac8ce87c252",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
-    "salesChangeId": "eb892f748526"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1431,7 +1431,7 @@
       "lvl2": "Computers & Tablets > Laptop Accessories > Laptop Bags & Cases"
     },
     "type": "So computer battery",
-    "price": 24.25,
+    "price": 24.6,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1464143_sb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-neoprene-laptop-sleeve-black/1464143.p?id=1218261401323&skuId=1464143",
@@ -1439,8 +1439,8 @@
     "popularity": 8177,
     "rating": 3,
     "objectID": "1464143",
-    "updatedAt": "2026-10-03T01:01:48.356Z",
-    "lastChangeId": "087110c22813",
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
     "salesChangeId": "4e49a3b936e8"
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-10-01T01:11:09.762Z",
     "lastChangeId": "f253cc95f803",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
-    "salesChangeId": "eb892f748526"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -2032,7 +2032,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 11.32,
+    "price": 12.25,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6263962_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-15-gift-card/6263962.p?id=1218725176123&skuId=6263962&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2040,8 +2040,8 @@
     "popularity": 8898,
     "rating": 4,
     "objectID": "6263962",
-    "updatedAt": "2026-09-28T00:29:01.106Z",
-    "lastChangeId": "ebf960de11da",
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
     "salesChangeId": "7ac8ce87c252"
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 67.59,
+    "price": 65.03,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,11 +2098,11 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-10-06T02:09:33.214Z",
-    "lastChangeId": "eb892f748526",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
-    "salesChangeId": "eb892f748526"
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2388,9 +2388,9 @@
     "objectID": "9437807",
     "updatedAt": "2026-09-26T00:29:02.982Z",
     "lastChangeId": "4f5f7291b81c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-07-17T22:55:23.064Z",
-    "salesChangeId": "7fd6b9ed311b"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 144.49,
+    "price": 144.59,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-09-23T00:14:20.127Z",
-    "lastChangeId": "4e49a3b936e8",
+    "updatedAt": "2026-10-07T01:22:28.789Z",
+    "lastChangeId": "667e23267a1e",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-27T23:11:48.743Z",
     "salesChangeId": "222753db43b1"
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-09-30T01:11:29.130Z",
     "lastChangeId": "ade6f89ac939",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-01T01:11:09.762Z",
-    "salesChangeId": "f253cc95f803"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-09-24T00:21:52.522Z",
     "lastChangeId": "db4db9e74963",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-01T01:10:43.715Z",
-    "salesChangeId": "0342e039aa9a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",
@@ -2831,9 +2831,9 @@
     "objectID": "4375610",
     "updatedAt": "2026-09-29T01:43:51.961Z",
     "lastChangeId": "8faca2840f8f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
-    "salesChangeId": "eb892f748526"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
+    "salesChangeId": "667e23267a1e"
   },
   {
     "name": "Bowers & Wilkins - 600 Series 686 S2 5\" 2-Way Bookshelf Loudspeakers (Pair) - Black",

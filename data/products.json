@@ -196,9 +196,9 @@
     "objectID": "9435907",
     "updatedAt": "2026-09-28T00:29:01.106Z",
     "lastChangeId": "ebf960de11da",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-16T00:05:59.569Z",
-    "salesChangeId": "4fb747030d73"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "Isaac Mizrahi New York - Glitter Case for Apple® iPhone® 5 and 5s - Pink/Black",
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-09-26T00:29:02.982Z",
     "lastChangeId": "4f5f7291b81c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
-    "salesChangeId": "667e23267a1e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -733,7 +733,7 @@
       "lvl2": "Computers & Tablets > Cables & Connectors > USB Cables & Hubs"
     },
     "type": "So computer access",
-    "price": 13.81,
+    "price": 13.93,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5559535_sb.jpg",
     "url": "http://www.bestbuy.com/site/iogear-bluetooth-4-0-usb-micro-adapter-green/5559535.p?id=1218661382298&skuId=5559535",
@@ -741,8 +741,8 @@
     "popularity": 5159,
     "rating": 1,
     "objectID": "5559535",
-    "updatedAt": "2026-09-17T00:16:47.090Z",
-    "lastChangeId": "d9fa2d116bd8",
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
     "salesChangeId": "ee34d895686f"
@@ -774,9 +774,9 @@
     "objectID": "3651143",
     "updatedAt": "2026-10-06T02:09:33.214Z",
     "lastChangeId": "eb892f748526",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
-    "salesChangeId": "667e23267a1e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-10-05T00:40:49.885Z",
     "lastChangeId": "379e2cdae1b6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-18T00:02:09.663Z",
-    "salesChangeId": "c860fa1535ec"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -932,7 +932,7 @@
       "lvl2": "Audio > Docks, Radios & Boomboxes > Boomboxes"
     },
     "type": "Traditional speakers",
-    "price": 55.15,
+    "price": 58.04,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7880068_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-cd-boombox-with-am-fm-radio-red-black/7880068.p?id=1218861655396&skuId=7880068&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -940,8 +940,8 @@
     "popularity": 5442,
     "rating": 2,
     "objectID": "7880068",
-    "updatedAt": "2026-09-16T00:05:59.569Z",
-    "lastChangeId": "4fb747030d73",
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-29T01:43:51.961Z",
     "salesChangeId": "8faca2840f8f"
@@ -1064,9 +1064,9 @@
     "objectID": "2515083",
     "updatedAt": "2026-09-26T00:29:02.982Z",
     "lastChangeId": "4f5f7291b81c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-27T03:02:35.070Z",
-    "salesChangeId": "6bc083a3e101"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "Microsoft - 1850 Wireless Mobile Mouse - Purple",
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 13.08,
+    "price": 13.43,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-10-05T00:40:49.885Z",
-    "lastChangeId": "379e2cdae1b6",
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
     "salesChangeId": "eb892f748526"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 665.89,
+    "price": 686.07,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-09-30T01:11:29.130Z",
-    "lastChangeId": "ade6f89ac939",
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-14T00:02:19.286Z",
     "salesChangeId": "90660d0e546e"
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 61.85,
+    "price": 63.54,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-10-05T00:40:49.885Z",
-    "lastChangeId": "379e2cdae1b6",
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-06T02:09:33.214Z",
     "salesChangeId": "eb892f748526"
@@ -1617,9 +1617,9 @@
     "objectID": "5344025",
     "updatedAt": "2026-09-10T23:56:48.152Z",
     "lastChangeId": "a65bfed6ef13",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-15T00:26:19.336Z",
-    "salesChangeId": "8daaba24fe57"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi16GB - Silver",
@@ -1787,9 +1787,9 @@
     "objectID": "6608007",
     "updatedAt": "2026-10-03T01:01:48.356Z",
     "lastChangeId": "087110c22813",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
-    "salesChangeId": "ade6f89ac939"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "mophie - Juice Pack External Battery Case for Samsung Galaxy S6 edge Cell Phones - Black",
@@ -1893,7 +1893,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 43.8,
+    "price": 47.71,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1901,8 +1901,8 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-09-29T01:43:51.961Z",
-    "lastChangeId": "8faca2840f8f",
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
     "salesChangeId": "4f5f7291b81c"
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 846.79,
+    "price": 877.36,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-09-30T01:11:29.130Z",
-    "lastChangeId": "ade6f89ac939",
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
     "salesChangeId": "087110c22813"
@@ -2175,7 +2175,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 25.86,
+    "price": 24.73,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2183,8 +2183,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-10-06T02:09:33.214Z",
-    "lastChangeId": "eb892f748526",
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-18T00:02:09.663Z",
     "salesChangeId": "c860fa1535ec"
@@ -2388,9 +2388,9 @@
     "objectID": "9437807",
     "updatedAt": "2026-09-26T00:29:02.982Z",
     "lastChangeId": "4f5f7291b81c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
-    "salesChangeId": "667e23267a1e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "OtterBox - Resurgence External Battery Case for Apple® iPhone® 5 and 5s - Glacier",
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-09-30T01:11:29.130Z",
     "lastChangeId": "ade6f89ac939",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
-    "salesChangeId": "667e23267a1e"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2763,7 +2763,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 1.83,
+    "price": 1.7,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2771,11 +2771,11 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-09-24T00:21:52.522Z",
-    "lastChangeId": "db4db9e74963",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
-    "salesChangeId": "667e23267a1e"
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
+    "salesChangeId": "433940c3567a"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 28.69,
+    "price": 28.28,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-10-06T02:09:33.214Z",
-    "lastChangeId": "eb892f748526",
+    "updatedAt": "2026-10-08T01:44:41.633Z",
+    "lastChangeId": "433940c3567a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-29T03:37:04.759Z",
     "salesChangeId": "6b8686e73b8f"

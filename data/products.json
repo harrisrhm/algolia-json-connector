@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 409.79,
+    "price": 404.48,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,11 +53,11 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-10-06T02:09:33.214Z",
-    "lastChangeId": "eb892f748526",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-12T00:03:47.113Z",
-    "salesChangeId": "2458d9c9e48c"
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3387.58,
+    "price": 3060.2,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-10-14T01:03:28.696Z",
-    "lastChangeId": "35cff98e932c",
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-04T23:53:56.729Z",
     "salesChangeId": "173640cfffde"
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 36.94,
+    "price": 39.04,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-10-13T02:56:58.062Z",
-    "lastChangeId": "0962a6a28c12",
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
     "salesChangeId": "31512640d2c2"
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 603.81,
+    "price": 575.58,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-09-16T00:05:59.569Z",
-    "lastChangeId": "4fb747030d73",
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
     "salesChangeId": "36eb05c41bab"
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-10-09T01:55:51.950Z",
     "lastChangeId": "cb34d0ba6c30",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-12T01:09:25.954Z",
-    "salesChangeId": "b22c040d9d7f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 19.8,
+    "price": 21.77,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-10-05T00:40:49.885Z",
-    "lastChangeId": "379e2cdae1b6",
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-09T01:55:51.950Z",
     "salesChangeId": "cb34d0ba6c30"
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-10-14T01:03:28.696Z",
     "lastChangeId": "35cff98e932c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
-    "salesChangeId": "70bc2e4d1b87"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-09-22T00:41:28.481Z",
     "lastChangeId": "815742d062dc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
-    "salesChangeId": "379e2cdae1b6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-09-19T00:06:32.088Z",
     "lastChangeId": "38135679430e",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-13T02:56:58.062Z",
-    "salesChangeId": "0962a6a28c12"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-10-08T01:44:41.633Z",
     "lastChangeId": "433940c3567a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
-    "salesChangeId": "70bc2e4d1b87"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-10-12T01:09:25.954Z",
     "lastChangeId": "b22c040d9d7f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
-    "salesChangeId": "70bc2e4d1b87"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1284,7 +1284,7 @@
       "lvl2": "Cell Phones > No-Contract Phones > All No-Contract Phones"
     },
     "type": "Net10",
-    "price": 104.28,
+    "price": 108.24,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8614908_sb.jpg",
     "url": "http://www.bestbuy.com/site/net10-lg-ultimate-2-no-contract-cell-phone-black/8614908.p?id=1219354100701&skuId=8614908&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1292,8 +1292,8 @@
     "popularity": 2816,
     "rating": 3,
     "objectID": "8614908",
-    "updatedAt": "2026-10-15T00:23:49.288Z",
-    "lastChangeId": "70bc2e4d1b87",
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
     "salesChangeId": "a65bfed6ef13"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-10-13T02:56:58.062Z",
     "lastChangeId": "0962a6a28c12",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-13T02:56:58.062Z",
-    "salesChangeId": "0962a6a28c12"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 53.52,
+    "price": 56.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-10-11T00:47:06.047Z",
-    "lastChangeId": "b7eb1320a202",
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
     "salesChangeId": "586263d58546"
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 11.98,
+    "price": 12.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,11 +2015,11 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-09-21T00:05:06.622Z",
-    "lastChangeId": "ee433f1e2765",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
-    "salesChangeId": "70bc2e4d1b87"
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "Best Buy GC - $15 Gift Card",
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-10-03T01:01:48.356Z",
     "lastChangeId": "087110c22813",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
-    "salesChangeId": "70bc2e4d1b87"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
+    "salesChangeId": "4fdb3a9588ed"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2436,7 +2436,7 @@
       "lvl1": "Appliances > Upright Vacuums"
     },
     "type": "So upright vacuum",
-    "price": 414.17,
+    "price": 388.35,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/8773393_rb.jpg",
     "url": "http://www.bestbuy.com/site/hoover-windtunnel-anniversary-edition-hepa-upright-vacuum-blue/8773393.p?id=1204331806923&skuId=8773393",
@@ -2444,8 +2444,8 @@
     "popularity": 6183,
     "rating": 2,
     "objectID": "8773393",
-    "updatedAt": "2026-09-26T00:29:02.982Z",
-    "lastChangeId": "4f5f7291b81c",
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
     "salesChangeId": "586263d58546"
@@ -2703,7 +2703,7 @@
       "lvl3": "Appliances > Ranges, Cooktops & Ovens > Ranges > Gas Ranges"
     },
     "type": "Gas range",
-    "price": 1335.72,
+    "price": 1399.83,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5012138_sb.jpg",
     "url": "http://www.bestbuy.com/site/frigidaire-gallery-5-0-cu-ft-self-cleaning-freestanding-gas-convection-range-stainless-steel/5012138.p?id=1219652224879&skuId=5012138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2711,8 +2711,8 @@
     "popularity": 6755,
     "rating": 5,
     "objectID": "5012138",
-    "updatedAt": "2026-10-14T01:03:28.696Z",
-    "lastChangeId": "35cff98e932c",
+    "updatedAt": "2026-10-16T00:12:54.180Z",
+    "lastChangeId": "4fdb3a9588ed",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
     "salesChangeId": "433940c3567a"

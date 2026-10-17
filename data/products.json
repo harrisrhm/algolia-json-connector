@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-10-16T00:12:54.180Z",
     "lastChangeId": "4fdb3a9588ed",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
-    "salesChangeId": "4fdb3a9588ed"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
+    "salesChangeId": "d780c33624d3"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 137.13,
+    "price": 137.15,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-10-06T02:09:33.214Z",
-    "lastChangeId": "eb892f748526",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
     "salesChangeId": "ee34d895686f"
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 26.53,
+    "price": 26.44,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-09-28T00:29:01.106Z",
-    "lastChangeId": "ebf960de11da",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-09T01:55:51.950Z",
     "salesChangeId": "cb34d0ba6c30"
@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 78.33,
+    "price": 70.98,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-10-05T00:40:49.885Z",
-    "lastChangeId": "379e2cdae1b6",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
     "salesChangeId": "087110c22813"
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 63.3,
+    "price": 67.79,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-10-12T01:09:25.954Z",
-    "lastChangeId": "b22c040d9d7f",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
     "salesChangeId": "85cf731d4069"
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-10-09T01:55:51.950Z",
     "lastChangeId": "cb34d0ba6c30",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
-    "salesChangeId": "4fdb3a9588ed"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
+    "salesChangeId": "d780c33624d3"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 582.93,
+    "price": 602.07,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-09-22T00:41:28.481Z",
-    "lastChangeId": "815742d062dc",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": true,
     "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
     "salesChangeId": "4fdb3a9588ed"
@@ -971,9 +971,9 @@
     "objectID": "2760593",
     "updatedAt": "2026-09-19T00:06:32.088Z",
     "lastChangeId": "38135679430e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
-    "salesChangeId": "4fdb3a9588ed"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
+    "salesChangeId": "d780c33624d3"
   },
   {
     "name": "Sony - Alpha a5000 Mirrorless Camera with 16-50mm Retractable Lens - Black",
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.65,
+    "price": 9.17,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-09-26T00:29:02.982Z",
-    "lastChangeId": "4f5f7291b81c",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-12T01:09:25.954Z",
     "salesChangeId": "b22c040d9d7f"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-10-08T01:44:41.633Z",
     "lastChangeId": "433940c3567a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
-    "salesChangeId": "4fdb3a9588ed"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
+    "salesChangeId": "d780c33624d3"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 22.05,
+    "price": 23.26,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,8 +1410,8 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-10-02T01:30:40.758Z",
-    "lastChangeId": "7ac8ce87c252",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
     "salesChangeId": "667e23267a1e"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 722.7,
+    "price": 670.25,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-10-15T00:23:49.288Z",
-    "lastChangeId": "70bc2e4d1b87",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-10T01:38:24.565Z",
     "salesChangeId": "5c24193d72b5"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-10-13T02:56:58.062Z",
     "lastChangeId": "0962a6a28c12",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
-    "salesChangeId": "4fdb3a9588ed"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
+    "salesChangeId": "d780c33624d3"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1617,9 +1617,9 @@
     "objectID": "5344025",
     "updatedAt": "2026-10-11T00:47:06.047Z",
     "lastChangeId": "b7eb1320a202",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-10T01:38:24.565Z",
-    "salesChangeId": "5c24193d72b5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
+    "salesChangeId": "d780c33624d3"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi16GB - Silver",
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-10-10T01:38:24.565Z",
     "lastChangeId": "5c24193d72b5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-11T00:47:06.047Z",
-    "salesChangeId": "b7eb1320a202"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
+    "salesChangeId": "d780c33624d3"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 877.36,
+    "price": 856.21,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-10-08T01:44:41.633Z",
-    "lastChangeId": "433940c3567a",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
     "salesChangeId": "087110c22813"
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 88.01,
+    "price": 87.47,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,8 +2268,8 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-10-11T00:47:06.047Z",
-    "lastChangeId": "b7eb1320a202",
+    "updatedAt": "2026-10-17T00:15:52.485Z",
+    "lastChangeId": "d780c33624d3",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
     "salesChangeId": "d7039b8cefed"
@@ -2624,9 +2624,9 @@
     "objectID": "3362109",
     "updatedAt": "2026-10-05T00:40:49.885Z",
     "lastChangeId": "379e2cdae1b6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-25T22:34:16.944Z",
-    "salesChangeId": "60667100624e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
+    "salesChangeId": "d780c33624d3"
   },
   {
     "name": "Intel® - Core™ i7-4790 3.6GHz Processor - Multi",

@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 26.44,
+    "price": 27.14,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-10-17T00:15:52.485Z",
-    "lastChangeId": "d780c33624d3",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-09T01:55:51.950Z",
     "salesChangeId": "cb34d0ba6c30"
@@ -217,7 +217,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.22,
+    "price": 8.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7219006_sb.jpg",
     "url": "http://www.bestbuy.com/site/isaac-mizrahi-new-york-glitter-case-for-apple-iphone-5-and-5s-pink-black/7219006.p?id=1219258060878&skuId=7219006&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -225,8 +225,8 @@
     "popularity": 5090,
     "rating": 1,
     "objectID": "7219006",
-    "updatedAt": "2026-10-14T01:03:28.696Z",
-    "lastChangeId": "35cff98e932c",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
     "salesChangeId": "36eb05c41bab"
@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 16.75,
+    "price": 17.19,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-10-17T23:55:05.306Z",
-    "lastChangeId": "c4d3e5ea47ca",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-28T00:29:01.106Z",
     "salesChangeId": "ebf960de11da"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-10-12T01:09:25.954Z",
     "lastChangeId": "b22c040d9d7f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-17T23:55:05.306Z",
-    "salesChangeId": "c4d3e5ea47ca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-10-17T00:15:52.485Z",
     "lastChangeId": "d780c33624d3",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-17T23:55:05.306Z",
-    "salesChangeId": "c4d3e5ea47ca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-09-25T00:24:45.042Z",
     "lastChangeId": "36eb05c41bab",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-17T00:16:47.090Z",
-    "salesChangeId": "d9fa2d116bd8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-09-26T00:29:02.982Z",
     "lastChangeId": "4f5f7291b81c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-17T23:55:05.306Z",
-    "salesChangeId": "c4d3e5ea47ca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -714,9 +714,9 @@
     "objectID": "1312503",
     "updatedAt": "2026-10-16T00:12:54.180Z",
     "lastChangeId": "4fdb3a9588ed",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
-    "salesChangeId": "36eb05c41bab"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 302.53,
+    "price": 294.98,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-10-13T02:56:58.062Z",
-    "lastChangeId": "0962a6a28c12",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
     "salesChangeId": "70bc2e4d1b87"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 22.42,
+    "price": 23.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-10-05T00:40:49.885Z",
-    "lastChangeId": "379e2cdae1b6",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
     "salesChangeId": "03c857dcf5ae"
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-10-15T00:23:49.288Z",
     "lastChangeId": "70bc2e4d1b87",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-29T01:43:51.961Z",
-    "salesChangeId": "8faca2840f8f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 53.94,
+    "price": 57.67,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,8 +1176,8 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-10-09T01:55:51.950Z",
-    "lastChangeId": "cb34d0ba6c30",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
     "salesChangeId": "667e23267a1e"
@@ -1323,9 +1323,9 @@
     "objectID": "4292211",
     "updatedAt": "2026-10-04T00:27:28.477Z",
     "lastChangeId": "ee34d895686f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-17T23:55:05.306Z",
-    "salesChangeId": "c4d3e5ea47ca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1373,7 +1373,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 8.68,
+    "price": 8.33,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7220029_sb.jpg",
     "url": "http://www.bestbuy.com/site/nanette-lepore-case-for-samsung-galaxy-s-5-cell-phones-red/7220029.p?id=1219258060173&skuId=7220029&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1381,8 +1381,8 @@
     "popularity": 2895,
     "rating": 2,
     "objectID": "7220029",
-    "updatedAt": "2026-09-29T01:43:51.961Z",
-    "lastChangeId": "8faca2840f8f",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
     "salesChangeId": "4e49a3b936e8"
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 378.37,
+    "price": 397.53,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-10-12T01:09:25.954Z",
-    "lastChangeId": "b22c040d9d7f",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
     "salesChangeId": "03c857dcf5ae"
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-10-01T01:11:09.762Z",
     "lastChangeId": "f253cc95f803",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
-    "salesChangeId": "667e23267a1e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-10-15T00:23:49.288Z",
     "lastChangeId": "70bc2e4d1b87",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
-    "salesChangeId": "ade6f89ac939"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1893,7 +1893,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 47.71,
+    "price": 47.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1901,8 +1901,8 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-10-08T01:44:41.633Z",
-    "lastChangeId": "433940c3567a",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-13T02:56:58.062Z",
     "salesChangeId": "0962a6a28c12"
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-09-19T00:06:32.088Z",
     "lastChangeId": "38135679430e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-17T23:55:05.306Z",
-    "salesChangeId": "c4d3e5ea47ca"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
+    "salesChangeId": "d886f62cfe5d"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 99.69,
+    "price": 92.01,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-10-05T00:40:49.885Z",
-    "lastChangeId": "379e2cdae1b6",
+    "updatedAt": "2026-10-19T00:04:45.687Z",
+    "lastChangeId": "d886f62cfe5d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-17T23:55:05.306Z",
     "salesChangeId": "c4d3e5ea47ca"

@@ -14,7 +14,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Keyboard Folios"
     },
     "type": "Bluetooth keyboards",
-    "price": 147.35,
+    "price": 134.25,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4752005_sb.jpg",
     "url": "http://www.bestbuy.com/site/logitech-pro-keyboard-case-for-samsung-galaxy-note-pro-12-2-and-galaxy-tab-pro-12-2-black/4752005.p?id=1219102791425&skuId=4752005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -22,8 +22,8 @@
     "popularity": 3878,
     "rating": 1,
     "objectID": "4752005",
-    "updatedAt": "2026-10-17T23:55:05.306Z",
-    "lastChangeId": "c4d3e5ea47ca",
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
     "salesChangeId": "70bc2e4d1b87"
@@ -55,9 +55,9 @@
     "objectID": "9679052",
     "updatedAt": "2026-10-16T00:12:54.180Z",
     "lastChangeId": "4fdb3a9588ed",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
-    "salesChangeId": "6e5dc16e984f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "Insignia™ - Portable Bluetooth Stereo Speaker - Light Blue",
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.44,
+    "price": 10.88,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-10-17T23:55:05.306Z",
-    "lastChangeId": "c4d3e5ea47ca",
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-28T00:29:01.106Z",
     "salesChangeId": "ebf960de11da"
@@ -391,9 +391,9 @@
     "objectID": "4274600",
     "updatedAt": "2026-09-20T00:02:05.749Z",
     "lastChangeId": "85cf731d4069",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
-    "salesChangeId": "a65bfed6ef13"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "Amazon - Kindle Paperwhite - Black",
@@ -507,9 +507,9 @@
     "objectID": "4946038",
     "updatedAt": "2026-10-22T00:33:24.255Z",
     "lastChangeId": "6e5dc16e984f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
-    "salesChangeId": "6e5dc16e984f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "Logitech - G710+ Mechanical Gaming Keyboard - Black/White",
@@ -598,9 +598,9 @@
     "objectID": "1775023",
     "updatedAt": "2026-10-10T01:38:24.565Z",
     "lastChangeId": "5c24193d72b5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
-    "salesChangeId": "d7039b8cefed"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 222.36,
+    "price": 239.17,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-10-05T00:40:49.885Z",
-    "lastChangeId": "379e2cdae1b6",
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -1168,7 +1168,7 @@
       "lvl1": "Appliances > Small Kitchen Appliances"
     },
     "type": "So slow cooker",
-    "price": 57.67,
+    "price": 53.33,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1857649_rb.jpg",
     "url": "http://www.bestbuy.com/site/elite-platinum-8-1-2-quart-slow-cooker-stainless-steel/1857649.p?id=1219066200149&skuId=1857649",
@@ -1176,11 +1176,11 @@
     "popularity": 7210,
     "rating": 4,
     "objectID": "1857649",
-    "updatedAt": "2026-10-19T00:04:45.687Z",
-    "lastChangeId": "d886f62cfe5d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
-    "salesChangeId": "6e5dc16e984f"
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "NETGEAR - Ethernet DOCSIS 3.0 High-Speed Cable Modem - BLack",
@@ -1265,9 +1265,9 @@
     "objectID": "8780866",
     "updatedAt": "2026-10-20T01:00:19.358Z",
     "lastChangeId": "d0258c89870a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
-    "salesChangeId": "4fdb3a9588ed"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "NET10 - LG ULTIMATE 2 No-Contract Cell Phone - Black",
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 73.17,
+    "price": 70.86,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-10-14T01:03:28.696Z",
-    "lastChangeId": "35cff98e932c",
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-10T01:38:24.565Z",
     "salesChangeId": "5c24193d72b5"
@@ -1460,7 +1460,7 @@
       "lvl2": "Appliances > Washers & Dryers > Washing Machines"
     },
     "type": "Top load washer",
-    "price": 300.23,
+    "price": 287.23,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4612038_sb.jpg",
     "url": "http://www.bestbuy.com/site/amana-3-5-cu-ft-9-cycle-high-efficiency-top-loading-washer-white/4612038.p?id=1219635944642&skuId=4612038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1468,8 +1468,8 @@
     "popularity": 9871,
     "rating": 4,
     "objectID": "4612038",
-    "updatedAt": "2026-10-03T01:01:48.356Z",
-    "lastChangeId": "087110c22813",
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
     "salesChangeId": "85cf731d4069"
@@ -1588,9 +1588,9 @@
     "objectID": "8077023",
     "updatedAt": "2026-10-13T02:56:58.062Z",
     "lastChangeId": "0962a6a28c12",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
-    "salesChangeId": "d780c33624d3"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "Insignia™ - Frosted Case for Samsung Galaxy S 5 Cell Phones - Clear/Pink",
@@ -1617,9 +1617,9 @@
     "objectID": "5344025",
     "updatedAt": "2026-10-21T00:29:50.197Z",
     "lastChangeId": "1c5b2793be3c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
-    "salesChangeId": "6e5dc16e984f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "Apple - iPad Air 2 Wi-Fi16GB - Silver",
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 397.53,
+    "price": 431.83,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-10-19T00:04:45.687Z",
-    "lastChangeId": "d886f62cfe5d",
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
     "salesChangeId": "03c857dcf5ae"
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 13.19,
+    "price": 12.69,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-10-17T23:55:05.306Z",
-    "lastChangeId": "c4d3e5ea47ca",
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
     "salesChangeId": "4fdb3a9588ed"
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 211.62,
+    "price": 210.62,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-10-10T01:38:24.565Z",
-    "lastChangeId": "5c24193d72b5",
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-14T01:03:28.696Z",
     "salesChangeId": "35cff98e932c"
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-09-23T00:14:20.127Z",
     "lastChangeId": "4e49a3b936e8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
-    "salesChangeId": "6e5dc16e984f"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 291.05,
+    "price": 269.56,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-10-22T00:33:24.255Z",
-    "lastChangeId": "6e5dc16e984f",
+    "updatedAt": "2026-10-23T00:30:29.851Z",
+    "lastChangeId": "1a4bb110d76a",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-25T00:24:45.042Z",
     "salesChangeId": "36eb05c41bab"
@@ -2651,9 +2651,9 @@
     "objectID": "9907207",
     "updatedAt": "2026-10-13T02:56:58.062Z",
     "lastChangeId": "0962a6a28c12",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
-    "salesChangeId": "087110c22813"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
+    "salesChangeId": "1a4bb110d76a"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",

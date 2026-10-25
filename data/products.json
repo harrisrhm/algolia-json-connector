@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-10-23T00:30:29.851Z",
     "lastChangeId": "1a4bb110d76a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
-    "salesChangeId": "70bc2e4d1b87"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -101,7 +101,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Bookshelf Speakers"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 1067.35,
+    "price": 1049.16,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8672031_sb.jpg",
     "url": "http://www.bestbuy.com/site/pioneer-elite-5-1-4-3-way-bookshelf-speakers-pair-black-ash-vinyl/8672031.p?id=1219357510788&skuId=8672031&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -109,8 +109,8 @@
     "popularity": 2065,
     "rating": 1,
     "objectID": "8672031",
-    "updatedAt": "2026-10-24T00:26:09.755Z",
-    "lastChangeId": "a10d0846e308",
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
     "salesChangeId": "70bc2e4d1b87"
@@ -352,7 +352,7 @@
       "lvl0": "Best Buy Gift Cards"
     },
     "type": "Gc sales",
-    "price": 66.33,
+    "price": 66.56,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5887149_sb.jpg",
     "url": "http://www.bestbuy.com/site/best-buy-gc-50-holiday-keep-it-cool-gift-card/5887149.p?id=1219169459134&skuId=5887149&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -360,8 +360,8 @@
     "popularity": 8857,
     "rating": 5,
     "objectID": "5887149",
-    "updatedAt": "2026-10-17T23:55:05.306Z",
-    "lastChangeId": "c4d3e5ea47ca",
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
     "salesChangeId": "ee34d895686f"
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 425.05,
+    "price": 435.45,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-09-20T00:02:05.749Z",
-    "lastChangeId": "85cf731d4069",
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
     "salesChangeId": "a10d0846e308"
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-09-25T00:24:45.042Z",
     "lastChangeId": "36eb05c41bab",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-21T00:29:50.197Z",
-    "salesChangeId": "1c5b2793be3c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 23.74,
+    "price": 23.13,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-10-19T00:04:45.687Z",
-    "lastChangeId": "d886f62cfe5d",
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
     "salesChangeId": "03c857dcf5ae"
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-10-14T01:03:28.696Z",
     "lastChangeId": "35cff98e932c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
-    "salesChangeId": "4fdb3a9588ed"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 239.17,
+    "price": 233.88,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-10-23T00:30:29.851Z",
-    "lastChangeId": "1a4bb110d76a",
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -1236,9 +1236,9 @@
     "objectID": "4475000",
     "updatedAt": "2026-10-24T00:26:09.755Z",
     "lastChangeId": "a10d0846e308",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
-    "salesChangeId": "a10d0846e308"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 431.83,
+    "price": 473.08,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-10-23T00:30:29.851Z",
-    "lastChangeId": "1a4bb110d76a",
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
     "salesChangeId": "03c857dcf5ae"
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-09-29T01:43:51.961Z",
     "lastChangeId": "8faca2840f8f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
-    "salesChangeId": "a10d0846e308"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 74.7,
+    "price": 72.76,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,11 +2098,11 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-10-15T00:23:49.288Z",
-    "lastChangeId": "70bc2e4d1b87",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-07T01:22:28.789Z",
-    "salesChangeId": "667e23267a1e"
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-10-24T00:26:09.755Z",
     "lastChangeId": "a10d0846e308",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
-    "salesChangeId": "a10d0846e308"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 490.21,
+    "price": 505.64,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-10-17T23:55:05.306Z",
-    "lastChangeId": "c4d3e5ea47ca",
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-10T01:38:24.565Z",
     "salesChangeId": "5c24193d72b5"
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 44.2,
+    "price": 43.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-10-02T01:30:40.758Z",
-    "lastChangeId": "7ac8ce87c252",
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 222.05,
+    "price": 217.66,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-10-13T02:56:58.062Z",
-    "lastChangeId": "0962a6a28c12",
+    "updatedAt": "2026-10-25T00:10:21.780Z",
+    "lastChangeId": "cdbd3993cccc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
     "salesChangeId": "a10d0846e308"
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-10-16T00:12:54.180Z",
     "lastChangeId": "4fdb3a9588ed",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
-    "salesChangeId": "a10d0846e308"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-10-08T01:44:41.633Z",
     "lastChangeId": "433940c3567a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
-    "salesChangeId": "a10d0846e308"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",
@@ -2858,9 +2858,9 @@
     "objectID": "4826001",
     "updatedAt": "2026-10-11T00:47:06.047Z",
     "lastChangeId": "b7eb1320a202",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-07T01:31:09.544Z",
-    "salesChangeId": "410f91355ac5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
+    "salesChangeId": "cdbd3993cccc"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 28.21,
+    "price": 30.11,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-10-21T00:29:50.197Z",
-    "lastChangeId": "1c5b2793be3c",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
     "salesChangeId": "6e5dc16e984f"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-10-20T01:00:19.358Z",
     "lastChangeId": "d0258c89870a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
-    "salesChangeId": "d886f62cfe5d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
+    "salesChangeId": "53dffe43032d"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-09-25T00:24:45.042Z",
     "lastChangeId": "36eb05c41bab",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
-    "salesChangeId": "cdbd3993cccc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
+    "salesChangeId": "53dffe43032d"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -497,7 +497,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 64.1,
+    "price": 61.61,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/4946038_sb.jpg",
     "url": "http://www.bestbuy.com/site/klipsch-reference-r6-earbud-headphones-black/4946038.p?id=1219120332523&skuId=4946038&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -505,8 +505,8 @@
     "popularity": 4478,
     "rating": 4,
     "objectID": "4946038",
-    "updatedAt": "2026-10-22T00:33:24.255Z",
-    "lastChangeId": "6e5dc16e984f",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
     "salesChangeId": "1a4bb110d76a"
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 48.53,
+    "price": 52.19,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-09-26T00:29:02.982Z",
-    "lastChangeId": "4f5f7291b81c",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
     "salesChangeId": "d886f62cfe5d"
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 39.04,
+    "price": 41.23,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-10-16T00:12:54.180Z",
-    "lastChangeId": "4fdb3a9588ed",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
     "salesChangeId": "31512640d2c2"
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 575.58,
+    "price": 546.44,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-10-16T00:12:54.180Z",
-    "lastChangeId": "4fdb3a9588ed",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-20T01:00:19.358Z",
     "salesChangeId": "d0258c89870a"
@@ -830,9 +830,9 @@
     "objectID": "3290125",
     "updatedAt": "2026-10-25T00:10:21.780Z",
     "lastChangeId": "cdbd3993cccc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-08-30T00:03:49.295Z",
-    "salesChangeId": "03c857dcf5ae"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
+    "salesChangeId": "53dffe43032d"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 23.41,
+    "price": 25.65,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-10-17T23:55:05.306Z",
-    "lastChangeId": "c4d3e5ea47ca",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-09T01:55:51.950Z",
     "salesChangeId": "cb34d0ba6c30"
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-10-14T01:03:28.696Z",
     "lastChangeId": "35cff98e932c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
-    "salesChangeId": "cdbd3993cccc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
+    "salesChangeId": "53dffe43032d"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -903,7 +903,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t smartphone",
-    "price": 602.07,
+    "price": 637.72,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4413011_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-galaxy-s6-edge-4g-with-128gb-memory-cell-phone-black-sapphire-at-t/4413011.p?id=1219627834752&skuId=4413011&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -911,8 +911,8 @@
     "popularity": 1065,
     "rating": 2,
     "objectID": "4413011",
-    "updatedAt": "2026-10-17T00:15:52.485Z",
-    "lastChangeId": "d780c33624d3",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-21T00:29:50.197Z",
     "salesChangeId": "1c5b2793be3c"
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-10-23T00:30:29.851Z",
     "lastChangeId": "1a4bb110d76a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-20T00:02:05.749Z",
-    "salesChangeId": "85cf731d4069"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
+    "salesChangeId": "53dffe43032d"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1835,7 +1835,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "So iphone accy",
-    "price": 35.82,
+    "price": 36.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2390284_sb.jpg",
     "url": "http://www.bestbuy.com/site/speck-candyshell-flip-case-for-apple-iphone-5-and-5s-raspberry-pink-port-red-peacock-blue/2390284.p?id=1219072223246&skuId=2390284",
@@ -1843,8 +1843,8 @@
     "popularity": 150,
     "rating": 5,
     "objectID": "2390284",
-    "updatedAt": "2026-10-02T01:30:40.758Z",
-    "lastChangeId": "7ac8ce87c252",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
     "salesChangeId": "4f5f7291b81c"
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 32.96,
+    "price": 32.88,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-10-21T00:29:50.197Z",
-    "lastChangeId": "1c5b2793be3c",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
     "salesChangeId": "70bc2e4d1b87"
@@ -2100,9 +2100,9 @@
     "objectID": "8353179",
     "updatedAt": "2026-10-25T00:10:21.780Z",
     "lastChangeId": "cdbd3993cccc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
-    "salesChangeId": "cdbd3993cccc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
+    "salesChangeId": "53dffe43032d"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 217.66,
+    "price": 219.58,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-10-25T00:10:21.780Z",
-    "lastChangeId": "cdbd3993cccc",
+    "updatedAt": "2026-10-26T00:02:56.299Z",
+    "lastChangeId": "53dffe43032d",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
     "salesChangeId": "a10d0846e308"
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-10-08T01:44:41.633Z",
     "lastChangeId": "433940c3567a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
-    "salesChangeId": "cdbd3993cccc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
+    "salesChangeId": "53dffe43032d"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",
@@ -2858,9 +2858,9 @@
     "objectID": "4826001",
     "updatedAt": "2026-10-11T00:47:06.047Z",
     "lastChangeId": "b7eb1320a202",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
-    "salesChangeId": "cdbd3993cccc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
+    "salesChangeId": "53dffe43032d"
   },
   {
     "name": "FRANKLIN ELECTRONIC PUB - Merriam-Webster's Speaking Spanish-English Dictionary",

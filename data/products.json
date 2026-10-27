@@ -24,9 +24,9 @@
     "objectID": "4752005",
     "updatedAt": "2026-10-23T00:30:29.851Z",
     "lastChangeId": "1a4bb110d76a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
-    "salesChangeId": "cdbd3993cccc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "Polk Audio - TSx Series Tri 6-1/2\" Floorstanding Loudspeaker (Each) - Cherry",
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.88,
+    "price": 11.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,11 +138,11 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-10-23T00:30:29.851Z",
-    "lastChangeId": "1a4bb110d76a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-28T00:29:01.106Z",
-    "salesChangeId": "ebf960de11da"
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 123.97,
+    "price": 113.84,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-10-20T01:00:19.358Z",
-    "lastChangeId": "d0258c89870a",
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
     "salesChangeId": "ee34d895686f"
@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 30.11,
+    "price": 32.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-10-26T00:02:56.299Z",
-    "lastChangeId": "53dffe43032d",
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
     "salesChangeId": "6e5dc16e984f"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-10-20T01:00:19.358Z",
     "lastChangeId": "d0258c89870a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
-    "salesChangeId": "53dffe43032d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 435.45,
+    "price": 436.36,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-10-25T00:10:21.780Z",
-    "lastChangeId": "cdbd3993cccc",
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
     "salesChangeId": "a10d0846e308"
@@ -683,9 +683,9 @@
     "objectID": "8851586",
     "updatedAt": "2026-10-26T00:02:56.299Z",
     "lastChangeId": "53dffe43032d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-12T23:54:21.811Z",
-    "salesChangeId": "31512640d2c2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "Definitive Technology - SuperCube 2000 7-1/2\" 650W Powered Subwoofer - Black",
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 546.44,
+    "price": 570.57,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,8 +712,8 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-10-26T00:02:56.299Z",
-    "lastChangeId": "53dffe43032d",
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-20T01:00:19.358Z",
     "salesChangeId": "d0258c89870a"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 23.13,
+    "price": 20.97,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,11 +828,11 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-10-25T00:10:21.780Z",
-    "lastChangeId": "cdbd3993cccc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
-    "salesChangeId": "53dffe43032d"
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 12.62,
+    "price": 12.19,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-10-22T00:33:24.255Z",
-    "lastChangeId": "6e5dc16e984f",
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-17T23:55:05.306Z",
     "salesChangeId": "c4d3e5ea47ca"
@@ -1323,9 +1323,9 @@
     "objectID": "4292211",
     "updatedAt": "2026-10-22T00:33:24.255Z",
     "lastChangeId": "6e5dc16e984f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
-    "salesChangeId": "d886f62cfe5d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-10-23T00:30:29.851Z",
     "lastChangeId": "1a4bb110d76a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
-    "salesChangeId": "53dffe43032d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 56.07,
+    "price": 57.81,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-10-16T00:12:54.180Z",
-    "lastChangeId": "4fdb3a9588ed",
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
     "salesChangeId": "586263d58546"
@@ -2071,9 +2071,9 @@
     "objectID": "4494503",
     "updatedAt": "2026-10-20T01:00:19.358Z",
     "lastChangeId": "d0258c89870a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-05T00:40:49.885Z",
-    "salesChangeId": "379e2cdae1b6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "Assassin's Creed IV: Black Flag - Windows",
@@ -2090,7 +2090,7 @@
       "lvl2": "Video Games > PC Gaming > PC Games"
     },
     "type": "Pc gaming software",
-    "price": 72.76,
+    "price": 68.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8353179_sc.jpg",
     "url": "http://www.bestbuy.com/site/assassins-creed-iv-black-flag-windows/8353179.p?id=1218873335580&skuId=8353179&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2098,8 +2098,8 @@
     "popularity": 9348,
     "rating": 4,
     "objectID": "8353179",
-    "updatedAt": "2026-10-25T00:10:21.780Z",
-    "lastChangeId": "cdbd3993cccc",
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
     "salesChangeId": "53dffe43032d"
@@ -2185,9 +2185,9 @@
     "objectID": "7064405",
     "updatedAt": "2026-10-08T01:44:41.633Z",
     "lastChangeId": "433940c3567a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-18T00:02:09.663Z",
-    "salesChangeId": "c860fa1535ec"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "Dynex™ - DVI-to-VGA Adapter",
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 73.21,
+    "price": 70.66,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-10-15T00:23:49.288Z",
-    "lastChangeId": "70bc2e4d1b87",
+    "updatedAt": "2026-10-27T01:21:48.803Z",
+    "lastChangeId": "0a257d003014",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
     "salesChangeId": "6e5dc16e984f"
@@ -2773,9 +2773,9 @@
     "objectID": "8615033",
     "updatedAt": "2026-10-08T01:44:41.633Z",
     "lastChangeId": "433940c3567a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
-    "salesChangeId": "53dffe43032d"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
+    "salesChangeId": "0a257d003014"
   },
   {
     "name": "DigiPower - High-Capacity Rechargeable Lithium-Ion Battery (2-Pack) - Black",

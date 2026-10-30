@@ -227,9 +227,9 @@
     "objectID": "7219006",
     "updatedAt": "2026-10-21T00:29:50.197Z",
     "lastChangeId": "1c5b2793be3c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-21T00:29:50.197Z",
-    "salesChangeId": "1c5b2793be3c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   },
   {
     "name": "Insignia - LED Handheld Flashlight - Black",
@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-10-19T00:04:45.687Z",
     "lastChangeId": "d886f62cfe5d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-29T01:41:24.963Z",
-    "salesChangeId": "c6450f197761"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -381,7 +381,7 @@
       "lvl2": "Wearable Technology > Apple Watch > Apple Watch Sport"
     },
     "type": "Apple watch",
-    "price": 436.36,
+    "price": 445.67,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/4274600_rb.jpg",
     "url": "http://www.bestbuy.com/site/apple-apple-watch-sport-38mm-space-gray-aluminum-case-space-gray-sports-band/4274600.p?id=1219733910649&skuId=4274600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -389,8 +389,8 @@
     "popularity": 9716,
     "rating": 1,
     "objectID": "4274600",
-    "updatedAt": "2026-10-27T01:21:48.803Z",
-    "lastChangeId": "0a257d003014",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
     "salesChangeId": "a10d0846e308"
@@ -658,9 +658,9 @@
     "objectID": "8347086",
     "updatedAt": "2026-10-29T01:41:24.963Z",
     "lastChangeId": "c6450f197761",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
-    "salesChangeId": "d886f62cfe5d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   },
   {
     "name": "Misfit - Flash Activity Tracker - Fuchsia",
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 280.1,
+    "price": 264.21,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-10-20T01:00:19.358Z",
-    "lastChangeId": "d0258c89870a",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
     "salesChangeId": "70bc2e4d1b87"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 22.16,
+    "price": 23.35,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-10-29T01:41:24.963Z",
-    "lastChangeId": "c6450f197761",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
     "salesChangeId": "0a257d003014"
@@ -913,9 +913,9 @@
     "objectID": "4413011",
     "updatedAt": "2026-10-26T00:02:56.299Z",
     "lastChangeId": "53dffe43032d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-21T00:29:50.197Z",
-    "salesChangeId": "1c5b2793be3c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   },
   {
     "name": "Insignia™ - CD Boombox with AM/FM Radio - Red/Black",
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-10-10T01:38:24.565Z",
     "lastChangeId": "5c24193d72b5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-29T01:41:24.963Z",
-    "salesChangeId": "c6450f197761"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1085,7 +1085,7 @@
       "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
     },
     "type": "Mice",
-    "price": 12.91,
+    "price": 13.1,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7801108_sb.jpg",
     "url": "http://www.bestbuy.com/site/microsoft-1850-wireless-mobile-mouse-purple/7801108.p?id=1219290681235&skuId=7801108&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1093,8 +1093,8 @@
     "popularity": 3401,
     "rating": 5,
     "objectID": "7801108",
-    "updatedAt": "2026-10-28T01:06:30.107Z",
-    "lastChangeId": "0b8a205ef82d",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-17T23:55:05.306Z",
     "salesChangeId": "c4d3e5ea47ca"
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-10-22T00:33:24.255Z",
     "lastChangeId": "6e5dc16e984f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-10T23:56:48.152Z",
-    "salesChangeId": "a65bfed6ef13"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 61.55,
+    "price": 66.55,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-10-24T00:26:09.755Z",
-    "lastChangeId": "a10d0846e308",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
     "salesChangeId": "a10d0846e308"
@@ -1719,7 +1719,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Mixers"
     },
     "type": "So mixers",
-    "price": 183.62,
+    "price": 177.95,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/7965437_rb.jpg",
     "url": "http://www.bestbuy.com/site/kitchenaid-artisan-series-tilt-head-stand-mixer-green-apple/7965437.p?id=1153337432563&skuId=7965437",
@@ -1727,8 +1727,8 @@
     "popularity": 4532,
     "rating": 1,
     "objectID": "7965437",
-    "updatedAt": "2026-10-15T00:23:49.288Z",
-    "lastChangeId": "70bc2e4d1b87",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-10-26T00:02:56.299Z",
     "lastChangeId": "53dffe43032d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-26T00:29:02.982Z",
-    "salesChangeId": "4f5f7291b81c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1893,7 +1893,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 45.72,
+    "price": 44.73,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1901,8 +1901,8 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-10-24T00:26:09.755Z",
-    "lastChangeId": "a10d0846e308",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-13T02:56:58.062Z",
     "salesChangeId": "0962a6a28c12"
@@ -1961,9 +1961,9 @@
     "objectID": "3285793",
     "updatedAt": "2026-10-10T01:38:24.565Z",
     "lastChangeId": "5c24193d72b5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-29T01:41:24.963Z",
-    "salesChangeId": "c6450f197761"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   },
   {
     "name": "Oster - 10-Speed Blender - White",
@@ -2119,7 +2119,7 @@
       "lvl2": "TV & Home Theater > Speaker Stands & Mounts > Speaker Stands"
     },
     "type": "Mht floor speakers",
-    "price": 210.62,
+    "price": 191.6,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1197018_sb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-stav-24-s2-speaker-stands-pair-black/1197018.p?id=1219478144520&skuId=1197018&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2127,8 +2127,8 @@
     "popularity": 8537,
     "rating": 1,
     "objectID": "1197018",
-    "updatedAt": "2026-10-23T00:30:29.851Z",
-    "lastChangeId": "1a4bb110d76a",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-14T01:03:28.696Z",
     "salesChangeId": "35cff98e932c"
@@ -2349,7 +2349,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 505.64,
+    "price": 550.3,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/3316013_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-128gb-silver/3316013.p?id=1219090216130&skuId=3316013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2357,8 +2357,8 @@
     "popularity": 9689,
     "rating": 1,
     "objectID": "3316013",
-    "updatedAt": "2026-10-25T00:10:21.780Z",
-    "lastChangeId": "cdbd3993cccc",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-10T01:38:24.565Z",
     "salesChangeId": "5c24193d72b5"
@@ -2506,9 +2506,9 @@
     "objectID": "7861118",
     "updatedAt": "2026-09-23T00:14:20.127Z",
     "lastChangeId": "4e49a3b936e8",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-29T01:41:24.963Z",
-    "salesChangeId": "c6450f197761"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   },
   {
     "name": "Apple - iPhone® 6s Plus Leather Case - Black",
@@ -2614,7 +2614,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 92.01,
+    "price": 86.94,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/3362109_sb.jpg",
     "url": "http://www.bestbuy.com/site/garmin-vvofit-2-activity-tracker-white/3362109.p?id=1219579640343&skuId=3362109&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2622,8 +2622,8 @@
     "popularity": 6644,
     "rating": 3,
     "objectID": "3362109",
-    "updatedAt": "2026-10-19T00:04:45.687Z",
-    "lastChangeId": "d886f62cfe5d",
+    "updatedAt": "2026-10-30T01:48:17.286Z",
+    "lastChangeId": "3f09f17fc305",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
     "salesChangeId": "6e5dc16e984f"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-10-28T01:06:30.107Z",
     "lastChangeId": "0b8a205ef82d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-29T01:41:24.963Z",
-    "salesChangeId": "c6450f197761"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
+    "salesChangeId": "3f09f17fc305"
   }
 ]

@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 32.91,
+    "price": 32.52,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-10-27T01:21:48.803Z",
-    "lastChangeId": "0a257d003014",
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
     "salesChangeId": "6e5dc16e984f"
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-10-12T01:09:25.954Z",
     "lastChangeId": "b22c040d9d7f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-24T00:21:52.522Z",
-    "salesChangeId": "db4db9e74963"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
+    "salesChangeId": "ae8e637ae8a4"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-10-24T00:26:09.755Z",
     "lastChangeId": "a10d0846e308",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-31T01:28:46.040Z",
-    "salesChangeId": "f0ced2058c90"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
+    "salesChangeId": "ae8e637ae8a4"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3060.2,
+    "price": 3157.77,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-10-16T00:12:54.180Z",
-    "lastChangeId": "4fdb3a9588ed",
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-04T23:53:56.729Z",
     "salesChangeId": "173640cfffde"
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 34.5,
+    "price": 37.08,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-10-14T01:03:28.696Z",
-    "lastChangeId": "35cff98e932c",
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
     "salesChangeId": "53dffe43032d"
@@ -1095,9 +1095,9 @@
     "objectID": "7801108",
     "updatedAt": "2026-10-30T01:48:17.286Z",
     "lastChangeId": "3f09f17fc305",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-31T01:28:46.040Z",
-    "salesChangeId": "f0ced2058c90"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
+    "salesChangeId": "ae8e637ae8a4"
   },
   {
     "name": "Brother - TN225Y High-Yield Toner Cartridge - Yellow",
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 82.49,
+    "price": 88.79,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-10-22T00:33:24.255Z",
-    "lastChangeId": "6e5dc16e984f",
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-01T23:56:54.212Z",
     "salesChangeId": "2c97e1de6be2"
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 229.81,
+    "price": 226.93,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,11 +1234,11 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-10-24T00:26:09.755Z",
-    "lastChangeId": "a10d0846e308",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
-    "salesChangeId": "cdbd3993cccc"
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
+    "salesChangeId": "ae8e637ae8a4"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-10-22T00:33:24.255Z",
     "lastChangeId": "6e5dc16e984f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
-    "salesChangeId": "3f09f17fc305"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
+    "salesChangeId": "ae8e637ae8a4"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1402,7 +1402,7 @@
       "lvl2": "Health, Fitness & Beauty > Personal Care & Beauty > Shavers & Trimmers"
     },
     "type": "Accessories",
-    "price": 23.26,
+    "price": 24.68,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1257958_rb.jpg",
     "url": "http://www.bestbuy.com/site/philips-norelco-replacement-shaving-head-for-1100-series-sensotouch-razors-silver-black/1257958.p?id=1218243760642&skuId=1257958&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1410,11 +1410,11 @@
     "popularity": 2154,
     "rating": 6,
     "objectID": "1257958",
-    "updatedAt": "2026-10-17T00:15:52.485Z",
-    "lastChangeId": "d780c33624d3",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-29T01:41:24.963Z",
-    "salesChangeId": "c6450f197761"
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
+    "salesChangeId": "ae8e637ae8a4"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1578,7 +1578,7 @@
       "lvl3": "Video Games > Video Game Accessories > PC Gaming Controllers > Game Pads"
     },
     "type": "Gaming controllers",
-    "price": 66.55,
+    "price": 60.12,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8077023_sb.jpg",
     "url": "http://www.bestbuy.com/site/nvidia-shield-wireless-controller-black/8077023.p?id=1219309057521&skuId=8077023&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1586,8 +1586,8 @@
     "popularity": 2592,
     "rating": 2,
     "objectID": "8077023",
-    "updatedAt": "2026-10-30T01:48:17.286Z",
-    "lastChangeId": "3f09f17fc305",
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
     "salesChangeId": "a10d0846e308"
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 57.81,
+    "price": 55.47,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-10-27T01:21:48.803Z",
-    "lastChangeId": "0a257d003014",
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
     "salesChangeId": "586263d58546"
@@ -1990,9 +1990,9 @@
     "objectID": "7652364",
     "updatedAt": "2026-10-31T01:28:46.040Z",
     "lastChangeId": "f0ced2058c90",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-31T01:28:46.040Z",
-    "salesChangeId": "f0ced2058c90"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
+    "salesChangeId": "ae8e637ae8a4"
   },
   {
     "name": "Disney - Star Wars Force Men's T-Shirt (Extra-Large) - Black",
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 7.72,
+    "price": 7.86,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-10-09T01:55:51.950Z",
-    "lastChangeId": "cb34d0ba6c30",
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
     "salesChangeId": "6e5dc16e984f"
@@ -2558,7 +2558,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 269.56,
+    "price": 248.22,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3839052_sb.jpg",
     "url": "http://www.bestbuy.com/site/nikon-coolpix-l840-16-0-megapixel-digital-camera-plum/3839052.p?id=1219603205365&skuId=3839052&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2566,8 +2566,8 @@
     "popularity": 2699,
     "rating": 6,
     "objectID": "3839052",
-    "updatedAt": "2026-10-23T00:30:29.851Z",
-    "lastChangeId": "1a4bb110d76a",
+    "updatedAt": "2026-11-01T00:54:18.887Z",
+    "lastChangeId": "ae8e637ae8a4",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-29T01:41:24.963Z",
     "salesChangeId": "c6450f197761"
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-10-28T01:06:30.107Z",
     "lastChangeId": "0b8a205ef82d",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-30T01:48:17.286Z",
-    "salesChangeId": "3f09f17fc305"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
+    "salesChangeId": "ae8e637ae8a4"
   }
 ]

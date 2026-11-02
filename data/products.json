@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-10-12T01:09:25.954Z",
     "lastChangeId": "b22c040d9d7f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
-    "salesChangeId": "ae8e637ae8a4"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -439,7 +439,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "French door refrig",
-    "price": 2702.73,
+    "price": 2458.32,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8391062_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-6-cu-ft-counter-depth-4-door-french-door-refrigerator-with-thru-the-door-ice-and-water-stainless-steel/8391062.p?id=1218874431179&skuId=8391062&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -447,8 +447,8 @@
     "popularity": 1378,
     "rating": 4,
     "objectID": "8391062",
-    "updatedAt": "2026-09-25T00:24:45.042Z",
-    "lastChangeId": "36eb05c41bab",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
     "salesChangeId": "53dffe43032d"
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-10-20T01:00:19.358Z",
     "lastChangeId": "d0258c89870a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-19T00:06:32.088Z",
-    "salesChangeId": "38135679430e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 233.88,
+    "price": 223.94,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-10-25T00:10:21.780Z",
-    "lastChangeId": "cdbd3993cccc",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-30T01:11:29.130Z",
     "salesChangeId": "ade6f89ac939"
@@ -1236,9 +1236,9 @@
     "objectID": "4475000",
     "updatedAt": "2026-11-01T00:54:18.887Z",
     "lastChangeId": "ae8e637ae8a4",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
-    "salesChangeId": "ae8e637ae8a4"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 8.79,
+    "price": 9.55,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-10-28T01:06:30.107Z",
-    "lastChangeId": "0b8a205ef82d",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
     "salesChangeId": "a10d0846e308"
@@ -1323,9 +1323,9 @@
     "objectID": "4292211",
     "updatedAt": "2026-10-22T00:33:24.255Z",
     "lastChangeId": "6e5dc16e984f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-28T01:06:30.107Z",
-    "salesChangeId": "0b8a205ef82d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 68.05,
+    "price": 72.82,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-10-31T01:28:46.040Z",
-    "lastChangeId": "f0ced2058c90",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-10T01:38:24.565Z",
     "salesChangeId": "5c24193d72b5"
@@ -1412,9 +1412,9 @@
     "objectID": "1257958",
     "updatedAt": "2026-11-01T00:54:18.887Z",
     "lastChangeId": "ae8e637ae8a4",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
-    "salesChangeId": "ae8e637ae8a4"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 12.29,
+    "price": 12.9,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-10-28T01:06:30.107Z",
-    "lastChangeId": "0b8a205ef82d",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
     "salesChangeId": "1a4bb110d76a"
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-10-31T01:28:46.040Z",
     "lastChangeId": "f0ced2058c90",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-10-31T01:28:46.040Z",
-    "salesChangeId": "f0ced2058c90"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 55.47,
+    "price": 54.53,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-11-01T00:54:18.887Z",
-    "lastChangeId": "ae8e637ae8a4",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
     "salesChangeId": "586263d58546"
@@ -2175,7 +2175,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 26.63,
+    "price": 25.02,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7064405_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-251-ink-cartridge-magenta/7064405.p?id=1218828128953&skuId=7064405&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2183,8 +2183,8 @@
     "popularity": 8357,
     "rating": 2,
     "objectID": "7064405",
-    "updatedAt": "2026-10-31T01:28:46.040Z",
-    "lastChangeId": "f0ced2058c90",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-28T01:06:30.107Z",
     "salesChangeId": "0b8a205ef82d"
@@ -2260,7 +2260,7 @@
       "lvl3": "Cameras & Camcorders > Digital Camera Accessories > Camera Batteries & Power > Camera Batteries"
     },
     "type": "Camera batteries",
-    "price": 87.46,
+    "price": 95.41,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/2219025_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-lp-e6n-lithium-ion-battery-black/2219025.p?id=1219533487080&skuId=2219025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2268,8 +2268,8 @@
     "popularity": 8268,
     "rating": 5,
     "objectID": "2219025",
-    "updatedAt": "2026-10-22T00:33:24.255Z",
-    "lastChangeId": "6e5dc16e984f",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-08-24T22:33:54.788Z",
     "salesChangeId": "d7039b8cefed"
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-10-22T00:33:24.255Z",
     "lastChangeId": "6e5dc16e984f",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
-    "salesChangeId": "d886f62cfe5d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 17.09,
+    "price": 17.44,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-09-26T00:29:02.982Z",
-    "lastChangeId": "4f5f7291b81c",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-08T01:44:41.633Z",
     "salesChangeId": "433940c3567a"
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-10-27T01:21:48.803Z",
     "lastChangeId": "0a257d003014",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
-    "salesChangeId": "6e5dc16e984f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 881.28,
+    "price": 942.43,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-10-31T01:28:46.040Z",
-    "lastChangeId": "f0ced2058c90",
+    "updatedAt": "2026-11-02T01:25:15.691Z",
+    "lastChangeId": "d0e64d813158",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-02T23:59:28.095Z",
     "salesChangeId": "3ae293420286"
@@ -2802,9 +2802,9 @@
     "objectID": "1206681",
     "updatedAt": "2026-10-24T00:26:09.755Z",
     "lastChangeId": "a10d0846e308",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-21T00:29:50.197Z",
-    "salesChangeId": "1c5b2793be3c"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   },
   {
     "name": "Skullcandy - Uproar On-Ear Wireless Headphones - Black",
@@ -2885,8 +2885,8 @@
     "objectID": "8264051",
     "updatedAt": "2026-10-28T01:06:30.107Z",
     "lastChangeId": "0b8a205ef82d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
-    "salesChangeId": "ae8e637ae8a4"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
+    "salesChangeId": "d0e64d813158"
   }
 ]

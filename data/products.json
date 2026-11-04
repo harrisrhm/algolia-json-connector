@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 32.52,
+    "price": 35.01,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-11-01T00:54:18.887Z",
-    "lastChangeId": "ae8e637ae8a4",
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
     "salesChangeId": "6e5dc16e984f"
@@ -252,9 +252,9 @@
     "objectID": "4235012",
     "updatedAt": "2026-10-19T00:04:45.687Z",
     "lastChangeId": "d886f62cfe5d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
-    "salesChangeId": "0614d7a41ff2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "Insignia™ - 6' Mini/Micro HDMI Cable - Black",
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 3157.77,
+    "price": 2983.54,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-11-01T00:54:18.887Z",
-    "lastChangeId": "ae8e637ae8a4",
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-04T23:53:56.729Z",
     "salesChangeId": "173640cfffde"
@@ -598,9 +598,9 @@
     "objectID": "1775023",
     "updatedAt": "2026-10-10T01:38:24.565Z",
     "lastChangeId": "5c24193d72b5",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
-    "salesChangeId": "a10d0846e308"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 32.15,
+    "price": 31.28,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-10-20T01:00:19.358Z",
-    "lastChangeId": "d0258c89870a",
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
     "salesChangeId": "0614d7a41ff2"
@@ -704,7 +704,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Subwoofer Speakers"
     },
     "type": "Mht subwoofer",
-    "price": 570.57,
+    "price": 532.29,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1312503_rb.jpg",
     "url": "http://www.bestbuy.com/site/definitive-technology-supercube-2000-7-1-2-650w-powered-subwoofer-black/1312503.p?id=1219047791312&skuId=1312503&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -712,11 +712,11 @@
     "popularity": 7725,
     "rating": 1,
     "objectID": "1312503",
-    "updatedAt": "2026-10-27T01:21:48.803Z",
-    "lastChangeId": "0a257d003014",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
-    "salesChangeId": "0614d7a41ff2"
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "IOGEAR - Bluetooth 4.0 USB Micro Adapter - Green",
@@ -876,7 +876,7 @@
       "lvl1": "Audio > Auxiliary Input Cables"
     },
     "type": "Bluetooh &#38; mp3 accy",
-    "price": 37.08,
+    "price": 36.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1672647_sb.jpg",
     "url": "http://www.bestbuy.com/site/isimple-calljax-3-5mm-audio-cable-black/1672647.p?id=1219059088239&skuId=1672647&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -884,8 +884,8 @@
     "popularity": 5056,
     "rating": 6,
     "objectID": "1672647",
-    "updatedAt": "2026-11-01T00:54:18.887Z",
-    "lastChangeId": "ae8e637ae8a4",
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
     "salesChangeId": "53dffe43032d"
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-10-10T01:38:24.565Z",
     "lastChangeId": "5c24193d72b5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
-    "salesChangeId": "0614d7a41ff2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1313,7 +1313,7 @@
       "lvl2": "Appliances > Refrigerators > All Refrigerators"
     },
     "type": "So refrig regional",
-    "price": 3126.72,
+    "price": 2998.6,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4292211_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-22-5-cu-ft-counter-depth-french-door-refrigerator-with-thru-the-door-ice-and-water-white/4292211.p?id=1219097502453&skuId=4292211",
@@ -1321,8 +1321,8 @@
     "popularity": 1380,
     "rating": 4,
     "objectID": "4292211",
-    "updatedAt": "2026-10-22T00:33:24.255Z",
-    "lastChangeId": "6e5dc16e984f",
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
     "salesChangeId": "0614d7a41ff2"
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-10-31T01:28:46.040Z",
     "lastChangeId": "f0ced2058c90",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
-    "salesChangeId": "d0e64d813158"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1663,7 +1663,7 @@
       "lvl1": "TV & Home Theater > TV Antennas"
     },
     "type": "Ht antennas",
-    "price": 108.69,
+    "price": 118.33,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6847298_sb.jpg",
     "url": "http://www.bestbuy.com/site/antennas-direct-clearstream-2v-long-range-hdtv-antenna-black-silver/6847298.p?id=1218809260470&skuId=6847298&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1671,8 +1671,8 @@
     "popularity": 9788,
     "rating": 4,
     "objectID": "6847298",
-    "updatedAt": "2026-10-01T01:11:09.762Z",
-    "lastChangeId": "f253cc95f803",
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-20T01:00:19.358Z",
     "salesChangeId": "d0258c89870a"
@@ -2042,9 +2042,9 @@
     "objectID": "6263962",
     "updatedAt": "2026-10-20T01:00:19.358Z",
     "lastChangeId": "d0258c89870a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-02T01:30:40.758Z",
-    "salesChangeId": "7ac8ce87c252"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "Amazon - Case for Amazon Fire 7\" Tablets - Magenta",
@@ -2100,9 +2100,9 @@
     "objectID": "8353179",
     "updatedAt": "2026-11-03T03:24:34.756Z",
     "lastChangeId": "0614d7a41ff2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
-    "salesChangeId": "53dffe43032d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2229,7 +2229,7 @@
       "lvl1": "Computers & Tablets > Hard Drives & Storage"
     },
     "type": "Hard drive accy",
-    "price": 11.23,
+    "price": 12.13,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7148005_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-hard-shell-case-for-most-portable-hard-drives-black/7148005.p?id=1219255551977&skuId=7148005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2237,8 +2237,8 @@
     "popularity": 5377,
     "rating": 6,
     "objectID": "7148005",
-    "updatedAt": "2026-10-24T00:26:09.755Z",
-    "lastChangeId": "a10d0846e308",
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
     "salesChangeId": "cdbd3993cccc"
@@ -2301,9 +2301,9 @@
     "objectID": "3566034",
     "updatedAt": "2026-10-22T00:33:24.255Z",
     "lastChangeId": "6e5dc16e984f",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
-    "salesChangeId": "d0e64d813158"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "JVC - Gumy Plus Earbud Headphones - Black",
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-10-30T01:48:17.286Z",
     "lastChangeId": "3f09f17fc305",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-10T01:38:24.565Z",
-    "salesChangeId": "5c24193d72b5"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2477,9 +2477,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-10-07T01:22:28.789Z",
     "lastChangeId": "667e23267a1e",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
-    "salesChangeId": "0614d7a41ff2"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
+    "salesChangeId": "9f5ea3000d3c"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 48.11,
+    "price": 50.53,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-10-29T01:41:24.963Z",
-    "lastChangeId": "c6450f197761",
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 211.68,
+    "price": 206.32,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,8 +2649,8 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-10-28T01:06:30.107Z",
-    "lastChangeId": "0b8a205ef82d",
+    "updatedAt": "2026-11-04T02:05:18.670Z",
+    "lastChangeId": "9f5ea3000d3c",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-24T00:26:09.755Z",
     "salesChangeId": "a10d0846e308"

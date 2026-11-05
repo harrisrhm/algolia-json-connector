@@ -242,7 +242,7 @@
       "lvl0": "Household Essentials"
     },
     "type": "Photo speciality",
-    "price": 17.19,
+    "price": 18.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4235012_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-led-handheld-flashlight-black/4235012.p?id=1219621585161&skuId=4235012&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -250,8 +250,8 @@
     "popularity": 5726,
     "rating": 5,
     "objectID": "4235012",
-    "updatedAt": "2026-10-19T00:04:45.687Z",
-    "lastChangeId": "d886f62cfe5d",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
     "salesChangeId": "9f5ea3000d3c"
@@ -410,7 +410,7 @@
       "lvl2": "Computers & Tablets > E-Readers & Accessories > E-Readers"
     },
     "type": "E reader hardware",
-    "price": 123.47,
+    "price": 122.04,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9439005_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-kindle-paperwhite-black/9439005.p?id=1219703845563&skuId=9439005&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -418,8 +418,8 @@
     "popularity": 9838,
     "rating": 6,
     "objectID": "9439005",
-    "updatedAt": "2026-10-31T01:28:46.040Z",
-    "lastChangeId": "f0ced2058c90",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-11T00:47:06.047Z",
     "salesChangeId": "b7eb1320a202"
@@ -598,9 +598,9 @@
     "objectID": "1775023",
     "updatedAt": "2026-10-10T01:38:24.565Z",
     "lastChangeId": "5c24193d72b5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
-    "salesChangeId": "9f5ea3000d3c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
+    "salesChangeId": "088d9b412b17"
   },
   {
     "name": "Dynex™ - Apple MFi Certified Vehicle Charger - Black",
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 31.28,
+    "price": 32.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-11-04T02:05:18.670Z",
-    "lastChangeId": "9f5ea3000d3c",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
     "salesChangeId": "0614d7a41ff2"
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 41.23,
+    "price": 44.89,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-10-26T00:02:56.299Z",
-    "lastChangeId": "53dffe43032d",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-28T01:06:30.107Z",
     "salesChangeId": "0b8a205ef82d"
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 264.21,
+    "price": 284.26,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,8 +772,8 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-10-30T01:48:17.286Z",
-    "lastChangeId": "3f09f17fc305",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
     "salesChangeId": "70bc2e4d1b87"
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-10-31T01:28:46.040Z",
     "lastChangeId": "f0ced2058c90",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
-    "salesChangeId": "9f5ea3000d3c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
+    "salesChangeId": "088d9b412b17"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1690,7 +1690,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 54.53,
+    "price": 54.41,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7841289_sb.jpg",
     "url": "http://www.bestbuy.com/site/griffin-technology-powerblock-wall-charger-white/7841289.p?id=1219295374461&skuId=7841289&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1698,8 +1698,8 @@
     "popularity": 6430,
     "rating": 5,
     "objectID": "7841289",
-    "updatedAt": "2026-11-02T01:25:15.691Z",
-    "lastChangeId": "d0e64d813158",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
     "salesChangeId": "586263d58546"
@@ -1874,9 +1874,9 @@
     "objectID": "5420045",
     "updatedAt": "2026-10-15T00:23:49.288Z",
     "lastChangeId": "70bc2e4d1b87",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-20T01:00:19.358Z",
-    "salesChangeId": "d0258c89870a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
+    "salesChangeId": "088d9b412b17"
   },
   {
     "name": "Amazon - Case for Amazon Fire HD 10 Tablets - Black",
@@ -1903,9 +1903,9 @@
     "objectID": "4494104",
     "updatedAt": "2026-10-30T01:48:17.286Z",
     "lastChangeId": "3f09f17fc305",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-13T02:56:58.062Z",
-    "salesChangeId": "0962a6a28c12"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
+    "salesChangeId": "088d9b412b17"
   },
   {
     "name": "Dynex™ - CAT5/5e RJ-45 In-Line Coupler",
@@ -2100,9 +2100,9 @@
     "objectID": "8353179",
     "updatedAt": "2026-11-03T03:24:34.756Z",
     "lastChangeId": "0614d7a41ff2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
-    "salesChangeId": "9f5ea3000d3c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
+    "salesChangeId": "088d9b412b17"
   },
   {
     "name": "Bowers & Wilkins - STAV 24 S2 Speaker Stands (Pair) - Black",
@@ -2359,9 +2359,9 @@
     "objectID": "3316013",
     "updatedAt": "2026-10-30T01:48:17.286Z",
     "lastChangeId": "3f09f17fc305",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
-    "salesChangeId": "9f5ea3000d3c"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
+    "salesChangeId": "088d9b412b17"
   },
   {
     "name": "Metra - Radio Wire Harness Adapter for Select Hyundai and Kia Vehicles - Multi",
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-10-24T00:26:09.755Z",
     "lastChangeId": "a10d0846e308",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
-    "salesChangeId": "586263d58546"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
+    "salesChangeId": "088d9b412b17"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2467,7 +2467,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > Cell Phone Headsets > Bluetooth Headsets"
     },
     "type": "Bluetooth",
-    "price": 144.59,
+    "price": 148.33,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9294166_rb.jpg",
     "url": "http://www.bestbuy.com/site/motorola-moto-hint-bluetooth-earbud-black/9294166.p?id=1219405798578&skuId=9294166&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2475,8 +2475,8 @@
     "popularity": 2990,
     "rating": 3,
     "objectID": "9294166",
-    "updatedAt": "2026-10-07T01:22:28.789Z",
-    "lastChangeId": "667e23267a1e",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-04T02:05:18.670Z",
     "salesChangeId": "9f5ea3000d3c"
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 50.53,
+    "price": 53.15,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-11-04T02:05:18.670Z",
-    "lastChangeId": "9f5ea3000d3c",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-07-21T23:03:56.836Z",
     "salesChangeId": "07cc6408ccca"
@@ -2589,7 +2589,7 @@
       "lvl3": "Appliances > Washers & Dryers > Dryers > Electric Dryers"
     },
     "type": "Frnt load elec dryer",
-    "price": 904.1,
+    "price": 949.38,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/1803138_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-7-4-cu-ft-8-cycle-electric-dryer-white/1803138.p?id=1219510813760&skuId=1803138&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2597,8 +2597,8 @@
     "popularity": 4178,
     "rating": 3,
     "objectID": "1803138",
-    "updatedAt": "2026-11-03T03:24:34.756Z",
-    "lastChangeId": "0614d7a41ff2",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-02T23:59:28.095Z",
     "salesChangeId": "3ae293420286"
@@ -2713,9 +2713,9 @@
     "objectID": "5012138",
     "updatedAt": "2026-10-29T01:41:24.963Z",
     "lastChangeId": "c6450f197761",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
-    "salesChangeId": "cdbd3993cccc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
+    "salesChangeId": "088d9b412b17"
   },
   {
     "name": "Sony - EX Series Earbud Headphones - Black",
@@ -2821,7 +2821,7 @@
       "lvl2": "Audio > Headphones > On-Ear Headphones"
     },
     "type": "Wireless on/over ear",
-    "price": 52.18,
+    "price": 55.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4375610_sb.jpg",
     "url": "http://www.bestbuy.com/site/skullcandy-uproar-on-ear-wireless-headphones-black/4375610.p?id=1219740707347&skuId=4375610&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2829,8 +2829,8 @@
     "popularity": 546,
     "rating": 2,
     "objectID": "4375610",
-    "updatedAt": "2026-10-14T01:03:28.696Z",
-    "lastChangeId": "35cff98e932c",
+    "updatedAt": "2026-11-05T02:09:57.347Z",
+    "lastChangeId": "088d9b412b17",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-14T01:03:28.696Z",
     "salesChangeId": "35cff98e932c"

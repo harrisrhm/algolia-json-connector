@@ -327,7 +327,7 @@
       "lvl1": "Appliances > Heaters"
     },
     "type": "Portable heaters",
-    "price": 65.25,
+    "price": 71.45,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6322113_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-ceramic-tower-heater-black/6322113.p?id=1219661895927&skuId=6322113&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -335,8 +335,8 @@
     "popularity": 5437,
     "rating": 4,
     "objectID": "6322113",
-    "updatedAt": "2026-10-31T01:28:46.040Z",
-    "lastChangeId": "f0ced2058c90",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-19T00:04:45.687Z",
     "salesChangeId": "d886f62cfe5d"
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-11-05T02:09:57.347Z",
     "lastChangeId": "088d9b412b17",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-09T01:35:11.432Z",
-    "salesChangeId": "a5261fe4d7d6"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -449,9 +449,9 @@
     "objectID": "8391062",
     "updatedAt": "2026-11-02T01:25:15.691Z",
     "lastChangeId": "d0e64d813158",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
-    "salesChangeId": "53dffe43032d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "LG - 24\" Class (23-5/8\" Diag.) - LED - 720p - HDTV - Black",
@@ -557,7 +557,7 @@
       "lvl2": "TV & Home Theater > TVs > 4K Ultra HD TVs"
     },
     "type": "55\" + lcd",
-    "price": 2757.18,
+    "price": 2915.67,
     "price_range": "> 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/5184121_sb.jpg",
     "url": "http://www.bestbuy.com/site/samsung-65-class-64-5-diag--led-2160p-smart-3d-4k-ultra-hd-tv-silver/5184121.p?id=1219646565339&skuId=5184121&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -565,8 +565,8 @@
     "popularity": 1237,
     "rating": 3,
     "objectID": "5184121",
-    "updatedAt": "2026-11-07T01:45:00.607Z",
-    "lastChangeId": "4803a4216ddf",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-09T01:35:11.432Z",
     "salesChangeId": "a5261fe4d7d6"
@@ -673,7 +673,7 @@
       "lvl0": "Health, Fitness & Beauty"
     },
     "type": "Monitoring devices",
-    "price": 44.89,
+    "price": 41.96,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8851586_sb.jpg",
     "url": "http://www.bestbuy.com/site/misfit-flash-activity-tracker-fuchsia/8851586.p?id=1219371610797&skuId=8851586&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -681,8 +681,8 @@
     "popularity": 3293,
     "rating": 5,
     "objectID": "8851586",
-    "updatedAt": "2026-11-05T02:09:57.347Z",
-    "lastChangeId": "088d9b412b17",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-28T01:06:30.107Z",
     "salesChangeId": "0b8a205ef82d"
@@ -830,9 +830,9 @@
     "objectID": "3290125",
     "updatedAt": "2026-10-30T01:48:17.286Z",
     "lastChangeId": "3f09f17fc305",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-11T01:48:22.939Z",
-    "salesChangeId": "e3179d78e146"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "HP - 21 Ink Cartridge - Black",
@@ -961,7 +961,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 3.82,
+    "price": 4.16,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-11-10T04:01:10.640Z",
-    "lastChangeId": "3bea2dca9ed1",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
     "salesChangeId": "d780c33624d3"
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 9.55,
+    "price": 8.92,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-11-02T01:25:15.691Z",
-    "lastChangeId": "d0e64d813158",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-07T01:45:00.607Z",
     "salesChangeId": "4803a4216ddf"
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-11-09T01:35:11.432Z",
     "lastChangeId": "a5261fe4d7d6",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
-    "salesChangeId": "ae8e637ae8a4"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1412,9 +1412,9 @@
     "objectID": "1257958",
     "updatedAt": "2026-11-03T03:24:34.756Z",
     "lastChangeId": "0614d7a41ff2",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
-    "salesChangeId": "d0e64d813158"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1441,9 +1441,9 @@
     "objectID": "1464143",
     "updatedAt": "2026-10-29T01:41:24.963Z",
     "lastChangeId": "c6450f197761",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-08T01:14:53.563Z",
-    "salesChangeId": "64bde1c42b72"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "Amana - 3.5 Cu. Ft. 9-Cycle High-Efficiency Top-Loading Washer - White",
@@ -1470,9 +1470,9 @@
     "objectID": "4612038",
     "updatedAt": "2026-10-23T00:30:29.851Z",
     "lastChangeId": "1a4bb110d76a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-11T01:48:22.939Z",
-    "salesChangeId": "e3179d78e146"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "kate spade new york - Snap-On Case for Apple® iPad® mini, iPad mini 2 and iPad mini 3 - Multi",
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 485.32,
+    "price": 457.45,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-11-09T01:35:11.432Z",
-    "lastChangeId": "a5261fe4d7d6",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
     "salesChangeId": "088d9b412b17"
@@ -1845,9 +1845,9 @@
     "objectID": "2390284",
     "updatedAt": "2026-10-26T00:02:56.299Z",
     "lastChangeId": "53dffe43032d",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-10T04:01:10.640Z",
-    "salesChangeId": "3bea2dca9ed1"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "Samsung - Galaxy Tab 4 - 7\" - 8GB - Black",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.72,
+    "price": 2.63,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-09-29T01:43:51.961Z",
-    "lastChangeId": "8faca2840f8f",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
     "salesChangeId": "cdbd3993cccc"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 7.86,
+    "price": 8.57,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-11-01T00:54:18.887Z",
-    "lastChangeId": "ae8e637ae8a4",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
     "salesChangeId": "6e5dc16e984f"
@@ -2537,9 +2537,9 @@
     "objectID": "4559900",
     "updatedAt": "2026-11-05T02:09:57.347Z",
     "lastChangeId": "088d9b412b17",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-11T01:48:22.939Z",
-    "salesChangeId": "e3179d78e146"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "Nikon - Coolpix L840 16.0-Megapixel Digital Camera - Plum",
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-10-10T01:38:24.565Z",
     "lastChangeId": "5c24193d72b5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-11T01:48:22.939Z",
-    "salesChangeId": "e3179d78e146"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
+    "salesChangeId": "f6717a2d23fc"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2792,7 +2792,7 @@
       "lvl2": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras"
     },
     "type": "Action cam accy",
-    "price": 25.39,
+    "price": 27.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1206681_sb.jpg",
     "url": "http://www.bestbuy.com/site/digipower-high-capacity-rechargeable-lithium-ion-battery-2-pack-black/1206681.p?id=1219479641274&skuId=1206681&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2800,8 +2800,8 @@
     "popularity": 7627,
     "rating": 5,
     "objectID": "1206681",
-    "updatedAt": "2026-11-06T02:10:19.604Z",
-    "lastChangeId": "c746073c7137",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
     "salesChangeId": "0614d7a41ff2"
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 375.82,
+    "price": 393.77,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-11-06T02:10:19.604Z",
-    "lastChangeId": "c746073c7137",
+    "updatedAt": "2026-11-12T02:47:45.859Z",
+    "lastChangeId": "f6717a2d23fc",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
     "salesChangeId": "53dffe43032d"

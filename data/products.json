@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 416.41,
+    "price": 412.99,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-11-11T01:48:22.939Z",
-    "lastChangeId": "e3179d78e146",
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-10T04:01:10.640Z",
     "salesChangeId": "3bea2dca9ed1"
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-11-11T01:48:22.939Z",
     "lastChangeId": "e3179d78e146",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-13T02:30:13.224Z",
-    "salesChangeId": "dc4c64a9af72"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -627,9 +627,9 @@
     "objectID": "7046436",
     "updatedAt": "2026-11-10T04:01:10.640Z",
     "lastChangeId": "3bea2dca9ed1",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
-    "salesChangeId": "0614d7a41ff2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "kate spade new york - Laventura Hybrid Hard Shell Case for Apple® iPhone® 5 and 5s - Red/Navy/Blush",
@@ -764,7 +764,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Point & Shoot Cameras > All Point & Shoot Cameras"
     },
     "type": "Digital cameras",
-    "price": 284.26,
+    "price": 256.97,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3651143_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-powershot-sx710-hs-20-3-megapixel-digital-camera-red/3651143.p?id=1219593475161&skuId=3651143&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -772,11 +772,11 @@
     "popularity": 8219,
     "rating": 1,
     "objectID": "3651143",
-    "updatedAt": "2026-11-05T02:09:57.347Z",
-    "lastChangeId": "088d9b412b17",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-15T00:23:49.288Z",
-    "salesChangeId": "70bc2e4d1b87"
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "Insignia™ - 30-Pin Wall Charger for Select Apple® Devices",
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 23.35,
+    "price": 22.61,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-10-30T01:48:17.286Z",
-    "lastChangeId": "3f09f17fc305",
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
     "salesChangeId": "f6717a2d23fc"
@@ -1054,7 +1054,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 8.81,
+    "price": 8.18,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2515083_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-earbud-headphones-black/2515083.p?id=1218331587365&skuId=2515083&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1062,8 +1062,8 @@
     "popularity": 290,
     "rating": 1,
     "objectID": "2515083",
-    "updatedAt": "2026-10-22T00:33:24.255Z",
-    "lastChangeId": "6e5dc16e984f",
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-12T01:09:25.954Z",
     "salesChangeId": "b22c040d9d7f"
@@ -1236,9 +1236,9 @@
     "objectID": "4475000",
     "updatedAt": "2026-11-06T02:10:19.604Z",
     "lastChangeId": "c746073c7137",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-13T02:30:13.224Z",
-    "salesChangeId": "dc4c64a9af72"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "Canon - 35 Ink Cartridge - Black",
@@ -1323,9 +1323,9 @@
     "objectID": "4292211",
     "updatedAt": "2026-11-13T02:30:13.224Z",
     "lastChangeId": "dc4c64a9af72",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-03T03:24:34.756Z",
-    "salesChangeId": "0614d7a41ff2"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "RODE - PSA1 Studio Boom Arm - Black",
@@ -1412,9 +1412,9 @@
     "objectID": "1257958",
     "updatedAt": "2026-11-03T03:24:34.756Z",
     "lastChangeId": "0614d7a41ff2",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
-    "salesChangeId": "f6717a2d23fc"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "Case Logic - Neoprene Laptop Sleeve - Black",
@@ -1547,7 +1547,7 @@
       "lvl2": "Computers & Tablets > Fans, Heatsinks & Cooling > Case Fans"
     },
     "type": "Pc components",
-    "price": 8.61,
+    "price": 7.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7441404_rb.jpg",
     "url": "http://www.bestbuy.com/site/antec-tricool-80mm-led-cpu-cooling-fan-clear/7441404.p?id=1124432780820&skuId=7441404&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1555,8 +1555,8 @@
     "popularity": 9789,
     "rating": 3,
     "objectID": "7441404",
-    "updatedAt": "2026-11-13T02:30:13.224Z",
-    "lastChangeId": "dc4c64a9af72",
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-10T04:01:10.640Z",
     "salesChangeId": "3bea2dca9ed1"
@@ -1646,9 +1646,9 @@
     "objectID": "2881022",
     "updatedAt": "2026-11-12T02:47:45.859Z",
     "lastChangeId": "f6717a2d23fc",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-05T02:09:57.347Z",
-    "salesChangeId": "088d9b412b17"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "Antennas Direct - ClearStream 2V Long-Range HDTV Antenna - Black/Silver",
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-11-04T02:05:18.670Z",
     "lastChangeId": "9f5ea3000d3c",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-20T01:00:19.358Z",
-    "salesChangeId": "d0258c89870a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1920,7 +1920,7 @@
       "lvl1": "Computers & Tablets > Cables & Connectors"
     },
     "type": "Networking cables",
-    "price": 2.63,
+    "price": 2.4,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5917635_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-cat5-5e-rj-45-in-line-coupler/5917635.p?id=1063670358403&skuId=5917635&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1928,8 +1928,8 @@
     "popularity": 7343,
     "rating": 2,
     "objectID": "5917635",
-    "updatedAt": "2026-11-12T02:47:45.859Z",
-    "lastChangeId": "f6717a2d23fc",
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
     "salesChangeId": "cdbd3993cccc"
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 772.75,
+    "price": 774.2,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-11-13T02:30:13.224Z",
-    "lastChangeId": "dc4c64a9af72",
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
     "salesChangeId": "087110c22813"
@@ -2320,7 +2320,7 @@
       "lvl2": "Audio > Headphones > All Headphones"
     },
     "type": "Earbud headphones",
-    "price": 14.37,
+    "price": 14.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/6292548_sb.jpg",
     "url": "http://www.bestbuy.com/site/jvc-gumy-plus-earbud-headphones-black/6292548.p?id=1218725901752&skuId=6292548&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2328,8 +2328,8 @@
     "popularity": 4857,
     "rating": 6,
     "objectID": "6292548",
-    "updatedAt": "2026-11-11T01:48:22.939Z",
-    "lastChangeId": "e3179d78e146",
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-11T01:48:22.939Z",
     "salesChangeId": "e3179d78e146"
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-10-27T01:21:48.803Z",
     "lastChangeId": "0a257d003014",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-13T02:30:13.224Z",
-    "salesChangeId": "dc4c64a9af72"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2641,7 +2641,7 @@
       "lvl1": "Computers & Tablets > CPUs / Processors"
     },
     "type": "So cards-components",
-    "price": 206.32,
+    "price": 189.64,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9907207_sb.jpg",
     "url": "http://www.bestbuy.com/site/intel-core-i7-4790-3-6ghz-processor-multi/9907207.p?id=1219446411203&skuId=9907207",
@@ -2649,11 +2649,11 @@
     "popularity": 5165,
     "rating": 6,
     "objectID": "9907207",
-    "updatedAt": "2026-11-04T02:05:18.670Z",
-    "lastChangeId": "9f5ea3000d3c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-13T02:30:13.224Z",
-    "salesChangeId": "dc4c64a9af72"
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
+    "salesChangeId": "819489744f4a"
   },
   {
     "name": "Microsoft - Xbox One Limited Edition Halo 5: Guardians - The Master Chief Wireless Controller - Multi",
@@ -2732,7 +2732,7 @@
       "lvl2": "Audio > Headphones > Earbud & In-Ear Headphones"
     },
     "type": "Earbud headphones",
-    "price": 10.03,
+    "price": 10.99,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4788009_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-ex-series-earbud-headphones-black/4788009.p?id=1219105379733&skuId=4788009&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2740,8 +2740,8 @@
     "popularity": 279,
     "rating": 2,
     "objectID": "4788009",
-    "updatedAt": "2026-10-11T00:47:06.047Z",
-    "lastChangeId": "b7eb1320a202",
+    "updatedAt": "2026-11-14T02:10:24.903Z",
+    "lastChangeId": "819489744f4a",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-11T01:48:22.939Z",
     "salesChangeId": "e3179d78e146"

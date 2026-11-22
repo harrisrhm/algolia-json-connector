@@ -70,7 +70,7 @@
       "lvl0": "Audio"
     },
     "type": "Wireless speakers",
-    "price": 46.73,
+    "price": 49.12,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4388600_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-portable-bluetooth-stereo-speaker-light-blue/4388600.p?id=1219741992833&skuId=4388600&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -78,8 +78,8 @@
     "popularity": 5309,
     "rating": 3,
     "objectID": "4388600",
-    "updatedAt": "2026-11-20T02:56:46.801Z",
-    "lastChangeId": "3d0e9a689d6a",
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
     "on_sale": false,
     "salesUpdatedAt": "2026-09-18T00:02:09.663Z",
     "salesChangeId": "c860fa1535ec"
@@ -157,7 +157,7 @@
       "lvl1": "TV & Home Theater > TV Mounts"
     },
     "type": "Mht mount",
-    "price": 114.19,
+    "price": 104.82,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/1565918_rb.jpg",
     "url": "http://www.bestbuy.com/site/chief-fit-fixed-tv-wall-mount-for-most-40-63-flat-panel-tvs-black/1565918.p?id=1218269423690&skuId=1565918&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -165,8 +165,8 @@
     "popularity": 8065,
     "rating": 5,
     "objectID": "1565918",
-    "updatedAt": "2026-10-29T01:41:24.963Z",
-    "lastChangeId": "c6450f197761",
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
     "salesChangeId": "ee34d895686f"
@@ -310,9 +310,9 @@
     "objectID": "7642139",
     "updatedAt": "2026-11-06T02:10:19.604Z",
     "lastChangeId": "c746073c7137",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-02T01:25:15.691Z",
-    "salesChangeId": "d0e64d813158"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "Insignia™ - Ceramic Tower Heater - Black",
@@ -362,9 +362,9 @@
     "objectID": "5887149",
     "updatedAt": "2026-11-20T02:56:46.801Z",
     "lastChangeId": "3d0e9a689d6a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-21T03:03:33.759Z",
-    "salesChangeId": "9aa3e1dd9431"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "Apple - Apple Watch™ Sport 38mm Space Gray Aluminum Case - Space Gray Sports Band",
@@ -420,9 +420,9 @@
     "objectID": "9439005",
     "updatedAt": "2026-11-05T02:09:57.347Z",
     "lastChangeId": "088d9b412b17",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-21T03:03:33.759Z",
-    "salesChangeId": "9aa3e1dd9431"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "Samsung - 22.6 Cu. Ft. Counter-Depth 4-Door French Door Refrigerator with Thru-the-Door Ice and Water - Stainless Steel",
@@ -468,7 +468,7 @@
       "lvl2": "TV & Home Theater > TVs > All Flat-Panel TVs"
     },
     "type": "Small lcd",
-    "price": 139.48,
+    "price": 128.74,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/9105014_sb.jpg",
     "url": "http://www.bestbuy.com/site/lg-24-class-23-5-8-diag--led-720p-hdtv-black/9105014.p?id=1219398147335&skuId=9105014&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -476,8 +476,8 @@
     "popularity": 4270,
     "rating": 3,
     "objectID": "9105014",
-    "updatedAt": "2026-11-20T02:56:46.801Z",
-    "lastChangeId": "3d0e9a689d6a",
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
     "salesChangeId": "819489744f4a"
@@ -961,7 +961,7 @@
       "lvl2": "Housewares > Household Batteries > Specialty Batteries"
     },
     "type": "Photo speciality",
-    "price": 4.13,
+    "price": 4.44,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2760593_sb.jpg",
     "url": "http://www.bestbuy.com/site/energizer-a23-silver-oxide-batteries-2-pack-silver/2760593.p?id=1218371788691&skuId=2760593&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -969,8 +969,8 @@
     "popularity": 7168,
     "rating": 4,
     "objectID": "2760593",
-    "updatedAt": "2026-11-21T03:03:33.759Z",
-    "lastChangeId": "9aa3e1dd9431",
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-17T00:15:52.485Z",
     "salesChangeId": "d780c33624d3"
@@ -1025,7 +1025,7 @@
       "lvl4": "Appliances > Small Kitchen Appliances > Coffee, Tea & Espresso > Coffee Makers > Multi-Cup Coffee Makers"
     },
     "type": "Coffee/cappuccino",
-    "price": 48.36,
+    "price": 49.44,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/1893015_rb.jpg",
     "url": "http://www.bestbuy.com/site/mr-coffee-12-cup-coffeemaker-black-red/1893015.p?id=1219066876373&skuId=1893015&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1033,11 +1033,11 @@
     "popularity": 2962,
     "rating": 4,
     "objectID": "1893015",
-    "updatedAt": "2026-10-10T01:38:24.565Z",
-    "lastChangeId": "5c24193d72b5",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-21T03:03:33.759Z",
-    "salesChangeId": "9aa3e1dd9431"
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1700,9 +1700,9 @@
     "objectID": "7841289",
     "updatedAt": "2026-11-05T02:09:57.347Z",
     "lastChangeId": "088d9b412b17",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-27T00:24:18.110Z",
-    "salesChangeId": "586263d58546"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1758,9 +1758,9 @@
     "objectID": "3898152",
     "updatedAt": "2026-11-19T03:06:44.886Z",
     "lastChangeId": "60448c06f4c9",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-08T00:08:23.937Z",
-    "salesChangeId": "cdfd3704f82e"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "Rocketfish™ - 12' RG6 In-Wall Indoor/Outdoor Coaxial A/V Cable - Black",
@@ -1893,7 +1893,7 @@
       "lvl2": "Computers & Tablets > iPad & Tablet Accessories > Cases"
     },
     "type": "Non ipad cases",
-    "price": 44.29,
+    "price": 42.15,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4494104_sb.jpg",
     "url": "http://www.bestbuy.com/site/amazon-case-for-amazon-fire-hd-10-tablets-black/4494104.p?id=1219754442671&skuId=4494104&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1901,8 +1901,8 @@
     "popularity": 9861,
     "rating": 5,
     "objectID": "4494104",
-    "updatedAt": "2026-11-13T02:30:13.224Z",
-    "lastChangeId": "dc4c64a9af72",
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-06T02:10:19.604Z",
     "salesChangeId": "c746073c7137"
@@ -2007,7 +2007,7 @@
       "lvl1": "Toys, Games & Drones > TV, Movie & Character Toys"
     },
     "type": "Novelty lic prod",
-    "price": 13.03,
+    "price": 12.47,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4338620_sb.jpg",
     "url": "http://www.bestbuy.com/site/disney-star-wars-force-mens-t-shirt-extra-large-black/4338620.p?id=1219733824484&skuId=4338620&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2015,8 +2015,8 @@
     "popularity": 7558,
     "rating": 1,
     "objectID": "4338620",
-    "updatedAt": "2026-11-17T04:24:07.832Z",
-    "lastChangeId": "21308b94d739",
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-16T00:12:54.180Z",
     "salesChangeId": "4fdb3a9588ed"
@@ -2239,9 +2239,9 @@
     "objectID": "7148005",
     "updatedAt": "2026-11-04T02:05:18.670Z",
     "lastChangeId": "9f5ea3000d3c",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-21T03:03:33.759Z",
-    "salesChangeId": "9aa3e1dd9431"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "Canon - LP-E6N Lithium-Ion Battery - Black",
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 19.39,
+    "price": 18.64,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-11-18T03:33:52.621Z",
-    "lastChangeId": "daafd373538c",
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-21T03:03:33.759Z",
     "salesChangeId": "9aa3e1dd9431"
@@ -2409,7 +2409,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Battery cases",
-    "price": 73.41,
+    "price": 70.03,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7498284_sb.jpg",
     "url": "http://www.bestbuy.com/site/otterbox-resurgence-external-battery-case-for-apple-iphone-5-and-5s-glacier/7498284.p?id=1219275166028&skuId=7498284&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2417,8 +2417,8 @@
     "popularity": 2377,
     "rating": 4,
     "objectID": "7498284",
-    "updatedAt": "2026-11-17T04:24:07.832Z",
-    "lastChangeId": "21308b94d739",
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
     "salesChangeId": "819489744f4a"
@@ -2446,9 +2446,9 @@
     "objectID": "8773393",
     "updatedAt": "2026-11-06T02:10:19.604Z",
     "lastChangeId": "c746073c7137",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-06T02:10:19.604Z",
-    "salesChangeId": "c746073c7137"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "Motorola - Moto Hint Bluetooth Earbud - Black",
@@ -2477,9 +2477,9 @@
     "objectID": "9294166",
     "updatedAt": "2026-11-17T04:24:07.832Z",
     "lastChangeId": "21308b94d739",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-21T03:03:33.759Z",
-    "salesChangeId": "9aa3e1dd9431"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "Philips - hue Lux LED Starter Kit - Soft White",
@@ -2682,9 +2682,9 @@
     "objectID": "4357801",
     "updatedAt": "2026-11-17T04:24:07.832Z",
     "lastChangeId": "21308b94d739",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
-    "salesChangeId": "f6717a2d23fc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
+    "salesChangeId": "54d0a8ffafdb"
   },
   {
     "name": "Frigidaire - Gallery 5.0 Cu. Ft. Self-Cleaning Freestanding Gas Convection Range - Stainless Steel",
@@ -2763,7 +2763,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 1.42,
+    "price": 1.29,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8615033_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-case-for-apple-iphone-5s-gray/8615033.p?id=1219357509352&skuId=8615033&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2771,8 +2771,8 @@
     "popularity": 7417,
     "rating": 1,
     "objectID": "8615033",
-    "updatedAt": "2026-11-06T02:10:19.604Z",
-    "lastChangeId": "c746073c7137",
+    "updatedAt": "2026-11-22T02:01:14.549Z",
+    "lastChangeId": "54d0a8ffafdb",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-27T01:21:48.803Z",
     "salesChangeId": "0a257d003014"

@@ -186,7 +186,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Dash Installation Kits"
     },
     "type": "Special order parts",
-    "price": 38.91,
+    "price": 39.8,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9435907_rb.jpg",
     "url": "http://www.bestbuy.com/site/metra-dash-kit-for-select-2001-2005-lexus-is-300-black/9435907.p?id=1218104805585&skuId=9435907",
@@ -194,8 +194,8 @@
     "popularity": 3576,
     "rating": 2,
     "objectID": "9435907",
-    "updatedAt": "2026-11-16T01:47:29.197Z",
-    "lastChangeId": "bee261332b74",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-18T03:33:52.621Z",
     "salesChangeId": "daafd373538c"
@@ -283,9 +283,9 @@
     "objectID": "6405117",
     "updatedAt": "2026-11-13T02:30:13.224Z",
     "lastChangeId": "dc4c64a9af72",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
-    "salesChangeId": "aec34001adda"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "Apple - iPhone 6 Plus 64GB - Space Gray (Verizon Wireless)",
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-11-15T01:42:39.241Z",
     "lastChangeId": "f2dd9cdaaea7",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
-    "salesChangeId": "aec34001adda"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -617,7 +617,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Car Chargers"
     },
     "type": "Chargers",
-    "price": 32.34,
+    "price": 30.64,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7046436_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-apple-mfi-certified-vehicle-charger-black/7046436.p?id=1218826436642&skuId=7046436&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -625,8 +625,8 @@
     "popularity": 7440,
     "rating": 4,
     "objectID": "7046436",
-    "updatedAt": "2026-11-10T04:01:10.640Z",
-    "lastChangeId": "3bea2dca9ed1",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-19T03:06:44.886Z",
     "salesChangeId": "60448c06f4c9"
@@ -648,7 +648,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 50.56,
+    "price": 49.64,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8347086_sb.jpg",
     "url": "http://www.bestbuy.com/site/kate-spade-new-york-laventura-hybrid-hard-shell-case-for-apple-iphone-5-and-5s-red-navy-blush/8347086.p?id=1219325221802&skuId=8347086&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -656,8 +656,8 @@
     "popularity": 4766,
     "rating": 1,
     "objectID": "8347086",
-    "updatedAt": "2026-11-24T05:51:38.895Z",
-    "lastChangeId": "aec34001adda",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-10T04:01:10.640Z",
     "salesChangeId": "3bea2dca9ed1"
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 22.59,
+    "price": 22.07,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-11-10T04:01:10.640Z",
-    "lastChangeId": "3bea2dca9ed1",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
     "salesChangeId": "aec34001adda"
@@ -859,9 +859,9 @@
     "objectID": "7476233",
     "updatedAt": "2026-11-08T01:14:53.563Z",
     "lastChangeId": "64bde1c42b72",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
-    "salesChangeId": "aec34001adda"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "iSimple - CallJax 3.5mm Audio Cable - Black",
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-11-24T05:51:38.895Z",
     "lastChangeId": "aec34001adda",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-22T02:01:14.549Z",
-    "salesChangeId": "54d0a8ffafdb"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 6.02,
+    "price": 5.75,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-11-16T01:47:29.197Z",
-    "lastChangeId": "bee261332b74",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
     "salesChangeId": "aec34001adda"
@@ -1294,9 +1294,9 @@
     "objectID": "8614908",
     "updatedAt": "2026-11-17T04:24:07.832Z",
     "lastChangeId": "21308b94d739",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
-    "salesChangeId": "aec34001adda"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "Samsung - 22.5 Cu. Ft. Counter-Depth French Door Refrigerator with Thru-the-Door Ice and Water - White",
@@ -1344,7 +1344,7 @@
       "lvl3": "Musical Instruments > Microphones & Live Sound > Microphones & Accessories > Microphone Accessories"
     },
     "type": "So camera accy",
-    "price": 72.01,
+    "price": 73.26,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/6748322_sb.jpg",
     "url": "http://www.bestbuy.com/site/rode-psa1-studio-boom-arm-black/6748322.p?id=1218803449896&skuId=6748322",
@@ -1352,8 +1352,8 @@
     "popularity": 1455,
     "rating": 6,
     "objectID": "6748322",
-    "updatedAt": "2026-11-23T02:26:21.187Z",
-    "lastChangeId": "dcde904680ab",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-20T02:56:46.801Z",
     "salesChangeId": "3d0e9a689d6a"
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-11-20T02:56:46.801Z",
     "lastChangeId": "3d0e9a689d6a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-23T00:14:20.127Z",
-    "salesChangeId": "4e49a3b936e8"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-11-15T01:42:39.241Z",
     "lastChangeId": "f2dd9cdaaea7",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-17T04:24:07.832Z",
-    "salesChangeId": "21308b94d739"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1700,9 +1700,9 @@
     "objectID": "7841289",
     "updatedAt": "2026-11-05T02:09:57.347Z",
     "lastChangeId": "088d9b412b17",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-23T02:26:21.187Z",
-    "salesChangeId": "dcde904680ab"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1748,7 +1748,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 33.71,
+    "price": 32.78,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1756,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-11-19T03:06:44.886Z",
-    "lastChangeId": "60448c06f4c9",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-23T02:26:21.187Z",
     "salesChangeId": "dcde904680ab"
@@ -2146,7 +2146,7 @@
       "lvl1": "Cell Phones > All Cell Phones with Plans"
     },
     "type": "At&#38;t iphone handset",
-    "price": 753.77,
+    "price": 752.93,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/7640131_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6-plus-64gb-space-gray-at-t/7640131.p?id=1219289508271&skuId=7640131&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2154,8 +2154,8 @@
     "popularity": 9601,
     "rating": 5,
     "objectID": "7640131",
-    "updatedAt": "2026-11-21T03:03:33.759Z",
-    "lastChangeId": "9aa3e1dd9431",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-03T01:01:48.356Z",
     "salesChangeId": "087110c22813"
@@ -2378,7 +2378,7 @@
       "lvl2": "Car Electronics & GPS > Deck Installation Parts > Deck Harnesses"
     },
     "type": "Deck harness",
-    "price": 18.64,
+    "price": 17.91,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/9437807_sb.jpg",
     "url": "http://www.bestbuy.com/site/metra-radio-wire-harness-adapter-for-select-hyundai-and-kia-vehicles-multi/9437807.p?id=1218105185222&skuId=9437807&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2386,8 +2386,8 @@
     "popularity": 3477,
     "rating": 1,
     "objectID": "9437807",
-    "updatedAt": "2026-11-22T02:01:14.549Z",
-    "lastChangeId": "54d0a8ffafdb",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-21T03:03:33.759Z",
     "salesChangeId": "9aa3e1dd9431"
@@ -2419,9 +2419,9 @@
     "objectID": "7498284",
     "updatedAt": "2026-11-22T02:01:14.549Z",
     "lastChangeId": "54d0a8ffafdb",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
-    "salesChangeId": "aec34001adda"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "Hoover - WindTunnel Anniversary Edition HEPA Upright Vacuum - Blue",
@@ -2527,7 +2527,7 @@
       "lvl3": "Cell Phones > Cell Phone Accessories > iPhone Accessories > iPhone Cases & Clips"
     },
     "type": "Trend cases",
-    "price": 55.99,
+    "price": 55.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4559900_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-iphone-6s-plus-leather-case-black/4559900.p?id=1219767633858&skuId=4559900&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2535,8 +2535,8 @@
     "popularity": 9521,
     "rating": 4,
     "objectID": "4559900",
-    "updatedAt": "2026-11-16T01:47:29.197Z",
-    "lastChangeId": "bee261332b74",
+    "updatedAt": "2026-11-25T04:50:15.526Z",
+    "lastChangeId": "dd0692948cbd",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
     "salesChangeId": "aec34001adda"
@@ -2742,9 +2742,9 @@
     "objectID": "4788009",
     "updatedAt": "2026-11-14T02:10:24.903Z",
     "lastChangeId": "819489744f4a",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-11T01:48:22.939Z",
-    "salesChangeId": "e3179d78e146"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
+    "salesChangeId": "dd0692948cbd"
   },
   {
     "name": "Dynex™ - Case for Apple® iPhone® 5s - Gray",

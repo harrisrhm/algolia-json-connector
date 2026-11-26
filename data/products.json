@@ -80,9 +80,9 @@
     "objectID": "4388600",
     "updatedAt": "2026-11-22T02:01:14.549Z",
     "lastChangeId": "54d0a8ffafdb",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-09-18T00:02:09.663Z",
-    "salesChangeId": "c860fa1535ec"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-26T04:03:10.618Z",
+    "salesChangeId": "6c073a706545"
   },
   {
     "name": "Pioneer Elite - 5-1/4\" 3-Way Bookshelf Speakers (Pair) - Black Ash Vinyl",
@@ -140,9 +140,9 @@
     "objectID": "4818584",
     "updatedAt": "2026-11-23T02:26:21.187Z",
     "lastChangeId": "dcde904680ab",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-16T01:47:29.197Z",
-    "salesChangeId": "bee261332b74"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-26T04:03:10.618Z",
+    "salesChangeId": "6c073a706545"
   },
   {
     "name": "Chief - FIT Fixed TV Wall Mount for Most 40\" - 63\" Flat-Panel TVs - Black",
@@ -337,9 +337,9 @@
     "objectID": "6322113",
     "updatedAt": "2026-11-15T01:42:39.241Z",
     "lastChangeId": "f2dd9cdaaea7",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
-    "salesChangeId": "dd0692948cbd"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-26T04:03:10.618Z",
+    "salesChangeId": "6c073a706545"
   },
   {
     "name": "Best Buy GC - $50 Holiday Keep It Cool Gift Card",
@@ -791,7 +791,7 @@
       "lvl1": "Cell Phones > Cell Phone Accessories"
     },
     "type": "Chargers",
-    "price": 22.07,
+    "price": 23.67,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5689209_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-30-pin-wall-charger-for-select-apple-devices/5689209.p?id=1219148349635&skuId=5689209&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -799,8 +799,8 @@
     "popularity": 5633,
     "rating": 6,
     "objectID": "5689209",
-    "updatedAt": "2026-11-25T04:50:15.526Z",
-    "lastChangeId": "dd0692948cbd",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
     "salesChangeId": "aec34001adda"
@@ -820,7 +820,7 @@
       "lvl2": "Cameras & Camcorders > Digital Camera Accessories > Filters & Accessories"
     },
     "type": "Misc camera acces",
-    "price": 22.61,
+    "price": 24.64,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3290125_rb.jpg",
     "url": "http://www.bestbuy.com/site/bower-52mm-lens-filter-kit-clear-gray-black/3290125.p?id=1218391166671&skuId=3290125&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -828,8 +828,8 @@
     "popularity": 8583,
     "rating": 1,
     "objectID": "3290125",
-    "updatedAt": "2026-11-14T02:10:24.903Z",
-    "lastChangeId": "819489744f4a",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-12T02:47:45.859Z",
     "salesChangeId": "f6717a2d23fc"
@@ -992,7 +992,7 @@
       "lvl3": "Cameras & Camcorders > Digital Cameras > Mirrorless Cameras > All Mirrorless Cameras"
     },
     "type": "Mirrorless cameras",
-    "price": 223.94,
+    "price": 237.33,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/3522002_sb.jpg",
     "url": "http://www.bestbuy.com/site/sony-alpha-a5000-mirrorless-camera-with-16-50mm-retractable-lens-black/3522002.p?id=1219091822792&skuId=3522002&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1000,8 +1000,8 @@
     "popularity": 381,
     "rating": 4,
     "objectID": "3522002",
-    "updatedAt": "2026-11-02T01:25:15.691Z",
-    "lastChangeId": "d0e64d813158",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-21T03:03:33.759Z",
     "salesChangeId": "9aa3e1dd9431"
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-11-24T05:51:38.895Z",
     "lastChangeId": "aec34001adda",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
-    "salesChangeId": "dd0692948cbd"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-26T04:03:10.618Z",
+    "salesChangeId": "6c073a706545"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1141,7 +1141,7 @@
       "lvl1": "Appliances > Dryer Accessories"
     },
     "type": "Dc miscellaneous",
-    "price": 5.75,
+    "price": 5.82,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/2631316_sb.jpg",
     "url": "http://www.bestbuy.com/site/smart-choice-touch-up-paint-white/2631316.p?id=1051826150683&skuId=2631316&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1149,8 +1149,8 @@
     "popularity": 514,
     "rating": 1,
     "objectID": "2631316",
-    "updatedAt": "2026-11-25T04:50:15.526Z",
-    "lastChangeId": "dd0692948cbd",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-24T05:51:38.895Z",
     "salesChangeId": "aec34001adda"
@@ -1383,9 +1383,9 @@
     "objectID": "7220029",
     "updatedAt": "2026-11-20T02:56:46.801Z",
     "lastChangeId": "3d0e9a689d6a",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
-    "salesChangeId": "dd0692948cbd"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-26T04:03:10.618Z",
+    "salesChangeId": "6c073a706545"
   },
   {
     "name": "Philips Norelco - Replacement Shaving Head for 1100 Series SensoTouch Razors - Silver/Black",
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 638.18,
+    "price": 609.04,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-11-17T04:24:07.832Z",
-    "lastChangeId": "21308b94d739",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-08T01:14:53.563Z",
     "salesChangeId": "64bde1c42b72"
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 12.82,
+    "price": 13.31,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-11-23T02:26:21.187Z",
-    "lastChangeId": "dcde904680ab",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
     "salesChangeId": "1a4bb110d76a"
@@ -1636,7 +1636,7 @@
       "lvl2": "Computers & Tablets > Tablets > iPad"
     },
     "type": "Apple wifi",
-    "price": 457.45,
+    "price": 492.67,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/2881022_sb.jpg",
     "url": "http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi16gb-silver/2881022.p?id=1219084308979&skuId=2881022&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1644,8 +1644,8 @@
     "popularity": 9682,
     "rating": 4,
     "objectID": "2881022",
-    "updatedAt": "2026-11-12T02:47:45.859Z",
-    "lastChangeId": "f6717a2d23fc",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-15T01:42:39.241Z",
     "salesChangeId": "f2dd9cdaaea7"
@@ -1673,9 +1673,9 @@
     "objectID": "6847298",
     "updatedAt": "2026-11-15T01:42:39.241Z",
     "lastChangeId": "f2dd9cdaaea7",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
-    "salesChangeId": "dd0692948cbd"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-26T04:03:10.618Z",
+    "salesChangeId": "6c073a706545"
   },
   {
     "name": "Griffin Technology - PowerBlock Wall Charger - White",
@@ -1700,9 +1700,9 @@
     "objectID": "7841289",
     "updatedAt": "2026-11-05T02:09:57.347Z",
     "lastChangeId": "088d9b412b17",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
-    "salesChangeId": "dd0692948cbd"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-26T04:03:10.618Z",
+    "salesChangeId": "6c073a706545"
   },
   {
     "name": "KitchenAid - Artisan Series Tilt-Head Stand Mixer - Green Apple",
@@ -1930,9 +1930,9 @@
     "objectID": "5917635",
     "updatedAt": "2026-11-21T03:03:33.759Z",
     "lastChangeId": "9aa3e1dd9431",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-25T00:10:21.780Z",
-    "salesChangeId": "cdbd3993cccc"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-26T04:03:10.618Z",
+    "salesChangeId": "6c073a706545"
   },
   {
     "name": "GoPole - Evo - 14-24\" Floating Extension Pole",
@@ -1980,7 +1980,7 @@
       "lvl2": "Appliances > Small Kitchen Appliances > Blenders & Juicers"
     },
     "type": "Blenders",
-    "price": 29.6,
+    "price": 26.89,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7652364_rb.jpg",
     "url": "http://www.bestbuy.com/site/oster-10-speed-blender-white/7652364.p?id=1134701146650&skuId=7652364&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1988,8 +1988,8 @@
     "popularity": 2512,
     "rating": 4,
     "objectID": "7652364",
-    "updatedAt": "2026-11-21T03:03:33.759Z",
-    "lastChangeId": "9aa3e1dd9431",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-01T00:54:18.887Z",
     "salesChangeId": "ae8e637ae8a4"
@@ -2496,7 +2496,7 @@
       "lvl2": "Connected Home > Smart Lighting > Smart Lighting Kits"
     },
     "type": "Home automation",
-    "price": 76.32,
+    "price": 77.41,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/7861118_sb.jpg",
     "url": "http://www.bestbuy.com/site/philips-hue-lux-led-starter-kit-soft-white/7861118.p?id=1219298189042&skuId=7861118&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2504,8 +2504,8 @@
     "popularity": 2182,
     "rating": 5,
     "objectID": "7861118",
-    "updatedAt": "2026-11-20T02:56:46.801Z",
-    "lastChangeId": "3d0e9a689d6a",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-10T04:01:10.640Z",
     "salesChangeId": "3bea2dca9ed1"
@@ -2848,7 +2848,7 @@
       "lvl1": "Audio > Home Audio"
     },
     "type": "Mht bookshelf spkrs",
-    "price": 393.77,
+    "price": 428.39,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/4826001_rb.jpg",
     "url": "http://www.bestbuy.com/site/bowers-wilkins-600-series-686-s2-5-2-way-bookshelf-loudspeakers-pair-black/4826001.p?id=1219103679555&skuId=4826001&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2856,8 +2856,8 @@
     "popularity": 8555,
     "rating": 4,
     "objectID": "4826001",
-    "updatedAt": "2026-11-12T02:47:45.859Z",
-    "lastChangeId": "f6717a2d23fc",
+    "updatedAt": "2026-11-26T04:03:10.618Z",
+    "lastChangeId": "6c073a706545",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
     "salesChangeId": "53dffe43032d"

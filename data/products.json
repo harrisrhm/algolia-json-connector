@@ -45,7 +45,7 @@
       "lvl3": "Audio > Home Audio > Speakers > Floor Speakers"
     },
     "type": "So speakers",
-    "price": 356.2,
+    "price": 378.47,
     "price_range": "200 - 500",
     "image": "https://cdn-demo.algolia.com/bestbuy/9679052_sb.jpg",
     "url": "http://www.bestbuy.com/site/polk-audio-tsx-series-tri-6-1-2-floorstanding-loudspeaker-each-cherry/9679052.p?id=1219034548099&skuId=9679052",
@@ -53,8 +53,8 @@
     "popularity": 1746,
     "rating": 6,
     "objectID": "9679052",
-    "updatedAt": "2026-11-18T03:33:52.621Z",
-    "lastChangeId": "daafd373538c",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-10T04:01:10.640Z",
     "salesChangeId": "3bea2dca9ed1"
@@ -111,9 +111,9 @@
     "objectID": "8672031",
     "updatedAt": "2026-10-25T00:10:21.780Z",
     "lastChangeId": "cdbd3993cccc",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-27T04:01:16.458Z",
-    "salesChangeId": "1c71e7d362d8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-28T03:48:37.828Z",
+    "salesChangeId": "3be0b5783747"
   },
   {
     "name": "HP - 933 Ink Cartridge - Yellow",
@@ -130,7 +130,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 10.63,
+    "price": 10.09,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/4818584_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-933-ink-cartridge-yellow/4818584.p?id=1218535467984&skuId=4818584&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -138,8 +138,8 @@
     "popularity": 6056,
     "rating": 3,
     "objectID": "4818584",
-    "updatedAt": "2026-11-23T02:26:21.187Z",
-    "lastChangeId": "dcde904680ab",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-27T04:01:16.458Z",
     "salesChangeId": "1c71e7d362d8"
@@ -167,9 +167,9 @@
     "objectID": "1565918",
     "updatedAt": "2026-11-22T02:01:14.549Z",
     "lastChangeId": "54d0a8ffafdb",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-04T00:27:28.477Z",
-    "salesChangeId": "ee34d895686f"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-28T03:48:37.828Z",
+    "salesChangeId": "3be0b5783747"
   },
   {
     "name": "Metra - Dash Kit for Select 2001-2005 Lexus IS 300 - Black",
@@ -478,9 +478,9 @@
     "objectID": "9105014",
     "updatedAt": "2026-11-22T02:01:14.549Z",
     "lastChangeId": "54d0a8ffafdb",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
-    "salesChangeId": "819489744f4a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-28T03:48:37.828Z",
+    "salesChangeId": "3be0b5783747"
   },
   {
     "name": "Klipsch - Reference R6 Earbud Headphones - Black",
@@ -801,9 +801,9 @@
     "objectID": "5689209",
     "updatedAt": "2026-11-26T04:03:10.618Z",
     "lastChangeId": "6c073a706545",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-27T04:01:16.458Z",
-    "salesChangeId": "1c71e7d362d8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-28T03:48:37.828Z",
+    "salesChangeId": "3be0b5783747"
   },
   {
     "name": "Bower - 52mm Lens Filter Kit - Clear/Gray/Black",
@@ -849,7 +849,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 24.65,
+    "price": 23.61,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7476233_sb.jpg",
     "url": "http://www.bestbuy.com/site/hp-21-ink-cartridge-black/7476233.p?id=1125465403976&skuId=7476233&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -857,8 +857,8 @@
     "popularity": 6127,
     "rating": 4,
     "objectID": "7476233",
-    "updatedAt": "2026-11-08T01:14:53.563Z",
-    "lastChangeId": "64bde1c42b72",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-25T04:50:15.526Z",
     "salesChangeId": "dd0692948cbd"
@@ -886,9 +886,9 @@
     "objectID": "1672647",
     "updatedAt": "2026-11-24T05:51:38.895Z",
     "lastChangeId": "aec34001adda",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-10-26T00:02:56.299Z",
-    "salesChangeId": "53dffe43032d"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-28T03:48:37.828Z",
+    "salesChangeId": "3be0b5783747"
   },
   {
     "name": "Samsung - Galaxy S6 edge 4G with 128GB Memory Cell Phone - Black Sapphire (AT&T)",
@@ -942,9 +942,9 @@
     "objectID": "7880068",
     "updatedAt": "2026-11-19T03:06:44.886Z",
     "lastChangeId": "60448c06f4c9",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-27T04:01:16.458Z",
-    "salesChangeId": "1c71e7d362d8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-28T03:48:37.828Z",
+    "salesChangeId": "3be0b5783747"
   },
   {
     "name": "Energizer - A23 Silver Oxide Batteries (2-Pack) - Silver",
@@ -1035,9 +1035,9 @@
     "objectID": "1893015",
     "updatedAt": "2026-11-24T05:51:38.895Z",
     "lastChangeId": "aec34001adda",
-    "on_sale": true,
-    "salesUpdatedAt": "2026-11-27T04:01:16.458Z",
-    "salesChangeId": "1c71e7d362d8"
+    "on_sale": false,
+    "salesUpdatedAt": "2026-11-28T03:48:37.828Z",
+    "salesChangeId": "3be0b5783747"
   },
   {
     "name": "Sony - Earbud Headphones - Black",
@@ -1195,7 +1195,7 @@
       "lvl1": "Computers & Tablets > Networking & Wireless"
     },
     "type": "Cable hardware",
-    "price": 76.39,
+    "price": 71.78,
     "price_range": "50 - 100",
     "image": "https://cdn-demo.algolia.com/bestbuy/8860013_sb.jpg",
     "url": "http://www.bestbuy.com/site/netgear-ethernet-docsis-3-0-high-speed-cable-modem-black/8860013.p?id=1219375114664&skuId=8860013&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1203,8 +1203,8 @@
     "popularity": 2786,
     "rating": 2,
     "objectID": "8860013",
-    "updatedAt": "2026-11-19T03:06:44.886Z",
-    "lastChangeId": "60448c06f4c9",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-09T01:35:11.432Z",
     "salesChangeId": "a5261fe4d7d6"
@@ -1226,7 +1226,7 @@
       "lvl3": "Computers & Tablets > Laptops > All Laptops > PC Laptops"
     },
     "type": "Burst skus",
-    "price": 212.04,
+    "price": 195.88,
     "price_range": "100 - 200",
     "image": "https://cdn-demo.algolia.com/bestbuy/4475000_sb.jpg",
     "url": "http://www.bestbuy.com/site/lenovo-ideapad-100s-11-6-laptop-intel-atom-2gb-memory-32gb-emmc-flash-storage-red/4475000.p?id=1219751168924&skuId=4475000&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1234,8 +1234,8 @@
     "popularity": 4346,
     "rating": 6,
     "objectID": "4475000",
-    "updatedAt": "2026-11-06T02:10:19.604Z",
-    "lastChangeId": "c746073c7137",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-14T02:10:24.903Z",
     "salesChangeId": "819489744f4a"
@@ -1255,7 +1255,7 @@
       "lvl2": "Office & School Supplies > Printer Ink & Toner > Printer Ink"
     },
     "type": "Ink cartridges",
-    "price": 8.92,
+    "price": 9.74,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/8780866_sb.jpg",
     "url": "http://www.bestbuy.com/site/canon-35-ink-cartridge-black/8780866.p?id=1204332501685&skuId=8780866&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1263,8 +1263,8 @@
     "popularity": 8353,
     "rating": 3,
     "objectID": "8780866",
-    "updatedAt": "2026-11-12T02:47:45.859Z",
-    "lastChangeId": "f6717a2d23fc",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-07T01:45:00.607Z",
     "salesChangeId": "4803a4216ddf"
@@ -1518,7 +1518,7 @@
       "lvl3": "Audio > Home Audio > Home Theater Systems > Sound Bars"
     },
     "type": "Soundbars",
-    "price": 609.04,
+    "price": 595.56,
     "price_range": "500 - 2000",
     "image": "https://cdn-demo.algolia.com/bestbuy/8082019_sb.jpg",
     "url": "http://www.bestbuy.com/site/bose-cinemate-15-home-theater-speaker-system-black/8082019.p?id=1219311892549&skuId=8082019&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1526,8 +1526,8 @@
     "popularity": 8676,
     "rating": 2,
     "objectID": "8082019",
-    "updatedAt": "2026-11-26T04:03:10.618Z",
-    "lastChangeId": "6c073a706545",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-08T01:14:53.563Z",
     "salesChangeId": "64bde1c42b72"
@@ -1607,7 +1607,7 @@
       "lvl2": "Cell Phones > Cell Phone Accessories > Cell Phone Cases & Clips"
     },
     "type": "Slim cases",
-    "price": 13.31,
+    "price": 13.47,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/5344025_sb.jpg",
     "url": "http://www.bestbuy.com/site/insignia-frosted-case-for-samsung-galaxy-s-5-cell-phones-clear-pink/5344025.p?id=1219122440390&skuId=5344025&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1615,8 +1615,8 @@
     "popularity": 5386,
     "rating": 6,
     "objectID": "5344025",
-    "updatedAt": "2026-11-26T04:03:10.618Z",
-    "lastChangeId": "6c073a706545",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-23T00:30:29.851Z",
     "salesChangeId": "1a4bb110d76a"
@@ -1748,7 +1748,7 @@
       "lvl2": "TV & Home Theater > CD & DVD Media Storage > Portable CD & DVD Storage"
     },
     "type": "Media storage",
-    "price": 32.78,
+    "price": 34.13,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/3898152_rb.jpg",
     "url": "http://www.bestbuy.com/site/case-logic-80-disc-koskin-dvd-album/3898152.p?id=1051826146254&skuId=3898152&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -1756,8 +1756,8 @@
     "popularity": 8193,
     "rating": 2,
     "objectID": "3898152",
-    "updatedAt": "2026-11-25T04:50:15.526Z",
-    "lastChangeId": "dd0692948cbd",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-11-23T02:26:21.187Z",
     "salesChangeId": "dcde904680ab"
@@ -2202,7 +2202,7 @@
       "lvl1": "Computers & Tablets > Monitor & Video Cables"
     },
     "type": "Cables/connectors",
-    "price": 8.08,
+    "price": 7.94,
     "price_range": "1 - 50",
     "image": "https://cdn-demo.algolia.com/bestbuy/7960986_sb.jpg",
     "url": "http://www.bestbuy.com/site/dynex-dvi-to-vga-adapter/7960986.p?id=1153336299169&skuId=7960986&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
@@ -2210,8 +2210,8 @@
     "popularity": 7339,
     "rating": 3,
     "objectID": "7960986",
-    "updatedAt": "2026-11-20T02:56:46.801Z",
-    "lastChangeId": "3d0e9a689d6a",
+    "updatedAt": "2026-11-28T03:48:37.828Z",
+    "lastChangeId": "3be0b5783747",
     "on_sale": false,
     "salesUpdatedAt": "2026-10-22T00:33:24.255Z",
     "salesChangeId": "6e5dc16e984f"
@@ -2270,9 +2270,9 @@
     "objectID": "2219025",
     "updatedAt": "2026-11-08T01:14:53.563Z",
     "lastChangeId": "64bde1c42b72",
-    "on_sale": false,
-    "salesUpdatedAt": "2026-11-20T02:56:46.801Z",
-    "salesChangeId": "3d0e9a689d6a"
+    "on_sale": true,
+    "salesUpdatedAt": "2026-11-28T03:48:37.828Z",
+    "salesChangeId": "3be0b5783747"
   },
   {
     "name": "HP - Laserjet Pro m252dw Wireless Color Printer - Gray",
